@@ -7,12 +7,8 @@
         "id": "f6a45d43ba10392b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Empreendedorismo Tecnológico.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -49,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empreendedorismo Tecnológico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +93,7 @@
   },
   "active": "f6a45d43ba10392b",
   "lastOpenFiles": [
+    "Untitled.md",
     "Empreendedorismo Tecnológico.md"
   ]
 }
