@@ -3,14 +3,15 @@ ___
 # Empreendedorismo Tecnológico
 
 ## Notes and Ideas
-- [[{{title}} Outline]]
+- [[Apontamentos ET]]
 ## Assignments
 > Nenhum 
 ## Lectures
 ## Extras
 ### Grade Breakdown
-### Grading Scale
+> Ambas as frequências valem 10 valores
 ### Tips
+> A matéria dentro das frequências nem sempre aparece nos PDF's do professor para encorajar a presença nas aulas
 ### Emails and Resources
 [[EmpreedTecnológico_22.pdf]]
 ### Important Dates
