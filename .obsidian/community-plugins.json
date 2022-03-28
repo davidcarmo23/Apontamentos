@@ -2,5 +2,7 @@
   "calendar",
   "obsidian-kanban",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-mind-map",
+  "obsidian-admonition"
 ]
