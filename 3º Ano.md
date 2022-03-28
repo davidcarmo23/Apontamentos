@@ -1,6 +1,6 @@
 Status:
-Tags : [[Learning]]
-Links : [[School]]
+Tags : [Learning]
+Links : [School]
 ___
 # Sumarização de 3º Ano
 > FML
@@ -8,3 +8,5 @@ ___
 - [[Cadeiras]]
 - [[Recursos]]
 - [[Trabalhos]]
+
+___

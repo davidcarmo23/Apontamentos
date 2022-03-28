@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3º Ano.md",
+            "file": "Empreendedorismo Tecnológico.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3º Ano.md",
+                "file": "Empreendedorismo Tecnológico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,12 +97,15 @@
   },
   "active": "f6a45d43ba10392b",
   "lastOpenFiles": [
-    "3º Ano.md",
-    "Cadeiras.md",
-    "Recursos.md",
-    "Trabalhos.md",
+    "Empreendedorismo Tecnológico.md",
     "Untitled.md",
-    "Uni Courses.md",
-    "Empreendedorismo Tecnológico.md"
+    "Cadeiras.md",
+    "Administração de Sistemas de Rede.md",
+    "3º Ano.md",
+    "Sistemas Distribuídos.md",
+    "Segurança Informática.md",
+    "Recursos.md",
+    "Learning.md",
+    "Trabalhos.md"
   ]
 }
