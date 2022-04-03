@@ -7,9 +7,11 @@
         "id": "f6a45d43ba10392b",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf"
+            "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf",
+                "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,8 +97,8 @@
   },
   "active": "f6a45d43ba10392b",
   "lastOpenFiles": [
-    "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf",
     "Empreendedorismo Tecnológico/Apontamentos ET.md",
+    "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf",
     "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md",
     "Estruturação/Cadeiras.md",
     "Estruturação/3º Ano.md",
