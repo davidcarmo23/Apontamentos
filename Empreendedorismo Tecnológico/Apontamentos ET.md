@@ -22,9 +22,11 @@
 
 ## Ciclo de Vida de uma Empresa
 
-```
-```mermaid
-graph TD
-	start
+``````
+ A[Arranque] --> B[Crescimento] --> C[Estagnação] --> D[Declinio]
+	Faz mais sentido voltar a ser um empreendedor na fase da Estagnação
+``````
 
-```
+***
+**BornGlobal**  => Empresas que ainda não foram criadas mas que têm o objetivo de internacionalização
+**AutoEmprego** => Quando o prór
