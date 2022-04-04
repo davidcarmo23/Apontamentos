@@ -153,4 +153,14 @@
 	- Liderança de Custos
 	- Enfoque ou Concentração
 - **Tipologia de Ansoff**
-	- Penetração de Mercado <mark style="color: #00FFFF; background-color: transparent">(Teste)</mark>
+	- Penetração de Mercado <mark style="color: #00FFFF; background-color: transparent">(PA + CA)</mark>
+	- Desenvolvimento de Mercado <mark style="color: #00FFFF; background-color: transparent">(PA + CN)</mark>
+	- Desenvolvimento de Produto <mark style="color: #00FFFF; background-color: transparent">(PN + CA)</mark>
+	- Diversificação <mark style="color: #00FFFF; background-color: transparent">(PN + CN)</mark>
+
+| ------------------  | Abreviação |
+| ------------------- | ---------- |
+| Consumidores Atuais | CA         |
+| Consumidores Novos  | CN         |
+| Produtos Atuais     | PA         |
+| Produtos Novos      | PN         |
