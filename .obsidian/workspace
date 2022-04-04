@@ -119,25 +119,33 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "bbe4c64b10f928b6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f6a45d43ba10392b",
   "lastOpenFiles": [
     "Empreendedorismo Tecnológico/Apontamentos ET.md",
+    "Administração de Sistemas de Redes/Administração de Sistemas de Rede.md",
+    "Sistemas Distribuídos/Sistemas Distribuídos.md",
     "Estruturação/Cadeiras.md",
     "Estruturação/3º Ano.md",
     "Estruturação/Trabalhos.md",
     "Estruturação/Recursos.md",
-    "Administração de Sistemas de Redes/Administração de Sistemas de Rede.md",
     "Templates/Course Template.md",
     "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf",
-    "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md",
-    "2022-W13.md"
+    "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md"
   ]
 }

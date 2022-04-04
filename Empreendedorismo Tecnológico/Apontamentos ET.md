@@ -54,7 +54,7 @@
 
 **Intra-Empreendedor** (Teste) => É quando alguém é um empreendedor dentro de uma organização já estabelecida
 
-
+**Plano de Negócio** => Destina-se aos investidores, entidades financeiras, empreendedor e colaboradores. (Teste) Este plano não interessa à administração fiscal pois o plano ainda não está em implementação
 ***
 
 ## PME vs Grande Empresa
@@ -97,4 +97,11 @@
 ***
 
 ## Possiveis Questões na Frequência
-	P => Aponte 2 caracteristicas que ache importante para o empreendedorismo e 
+	P => Aponte 2 caracteristicas que ache importante para o empreendedorismo e explique.
+	R => 
+
+
+***
+
+**Ideias** => Para uma ideia ter sucesso é necessário que esta seja **inovadora** tendo em conta o mercado e que **satisfaça** necessidades do mesmo. Estas ideias podem ocurrer devido a **Fatores Internos ou Fatores Externos**
+
