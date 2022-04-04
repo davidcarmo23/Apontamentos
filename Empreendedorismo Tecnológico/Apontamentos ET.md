@@ -66,9 +66,27 @@
 
 **Estratégia de Marketing** => <mark style="color: red; background-color: transparent">(Teste)</mark> 4P'S ou 4 Pontos => Produto, Preço, Promoção e Ponto de Distribuição 
 
-###### Análise Financeira
+**Análise Financeira** =>
 
-**Perfil de Gestão** => Perfil da equipa que está 
+**Perfil de Gestão** => Perfil da equipa que está a apresentar o projeto, muitas vezes anexam curriculos
+
+**Frima** => Nome pelo qual é conhecido a Empresa
+
+**Análise Setorial** => Análise de dados estatisticos
+
+**Análise de Procura** => Potenciais clientes/consumidores
+
+**Estudo do lado da oferta** =>  Potenciais concorrentes
+
+**Questionário** => Método mais rápido de estudar o lado da procura (O que o consumidor quer)
+
+**Estratégia** => Forma que se deve adotar para atingir os objetivos
+
+**Objetivos** => Dever ser qualificados, calendarizados e realistas
+
+**Missão** =><mark style="color: red; background-color: transparent">(Teste)</mark> Deve ser simples, explicita e concreta
+
+**Análise SWOT** => <mark style="color: red; background-color: transparent">(Teste)</mark> 
 ***
 
 ## PME vs Grande Empresa
