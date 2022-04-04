@@ -32,7 +32,12 @@
 **BornGlobal**  => Empresas que ainda não foram criadas mas que têm o objetivo de internacionalização
 **AutoEmprego** => Quando o próprio trabalhador cria o seu posto de trabalho
 **PME** => Pequenas Médias Empresas
-**Empreendedores**
+**Empreendedores** => Agentes de Mudança
+**Spinoff's** => Empresas criadas a partir de encobadoras
+**Spinoff Académico** => Empresa criada a partir de projetos ou ideias universitárias
+**IAPMEI** => Instituto de Apoio às Pequenas e Médias Empresas e à Inovação
+**Stakeholders** => organizações que fazem parte da criação de uma empresa
+Fa
 ***
 
 ## PME vs Grande Empresa
@@ -50,4 +55,8 @@
 | Micro  | Pequena     | Médio        | Grande   |
 | ------ | ----------- | ------------ | -------- |
 | X < 10 | 10 < X < 50 | 50 < X < 250 | 250 <= X |
+
+***
+
+ **Percentagem de PME's em Portugal** => 99,8%
 
