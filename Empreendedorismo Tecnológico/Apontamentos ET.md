@@ -32,6 +32,7 @@
 **BornGlobal**  => Empresas que ainda não foram criadas mas que têm o objetivo de internacionalização
 **AutoEmprego** => Quando o próprio trabalhador cria o seu posto de trabalho
 **PME** => Pequenas Médias Empresas
+**Empreendedores**
 ***
 
 ## PME vs Grande Empresa
@@ -40,4 +41,13 @@
 > 	-  Volume de Vendas
 > 	- Valor do Ativo (Património)
 > #### Critério Qualitativos
-> 	- Mercado (Quotas) => As PME podem ter maior quotas em 
+> 	- Mercado (Quotas) => As PME podem ter maior quotas em nichos de mercado
+> 	- Tipo de Gestão => Grandes Empresas é gestão Profissional
+> 	- Independência Finanaceira => PME não precisam de ser filial a uma Grande Empresa
+
+## Número de Trabalhadores
+
+| Micro  | Pequena     | Médio        | Grande   |
+| ------ | ----------- | ------------ | -------- |
+| X < 10 | 10 < X < 50 | 50 < X < 250 | 250 <= X |
+
