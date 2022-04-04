@@ -1,3 +1,4 @@
+`{{date:YYYY-MM-DD}}`
 ## O que associamos a Empreendedorismo?
 - Empreendedor
 - Empresa
@@ -11,6 +12,8 @@
 - Financiamento
 
 ## Tipos de Empreendedorismo
-- Empreendedorismo a nível Individual => Individuo
-- Empreendedorismo a nível Organizacional => Organização/Empresa
-- Empreendedorismo a nível Grupal => 
+- **Empreendedorismo a nível Individua** => Individuo
+- **Empreendedorismo a nível Organizacional** => Organização/Empresa
+- **Empreendedorismo a nível Grupal** => Firmas
+
+> Pode-se
