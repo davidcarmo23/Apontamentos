@@ -28,7 +28,16 @@
 ``````
 
 ***
-## Algumas Definições
+##  Definições
 **BornGlobal**  => Empresas que ainda não foram criadas mas que têm o objetivo de internacionalização
 **AutoEmprego** => Quando o próprio trabalhador cria o seu posto de trabalho
+**PME** => Pequenas Médias Empresas
 ***
+
+## PME vs Grande Empresa
+> #### Critérios Quantitativos
+> 	- Número de Trabalhadores
+> 	-  Volume de Vendas
+> 	- Valor do Ativo (Património)
+> #### Critério Qualitativos
+> 	- Mercado (Quotas) => As PME podem ter maior quotas em 
