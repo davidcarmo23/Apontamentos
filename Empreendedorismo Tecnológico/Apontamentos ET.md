@@ -60,7 +60,15 @@
 
 **Apresentação da Empresa** => Incorpora o nome, setor de atividade e logótipo da mesma
 
-**Análise do Produto/Serviço** =>
+**Análise do Produto/Serviço** => Explicação do Produto/Serviço da empresa
+
+**Análise do Mercado** => Processo de validar a ideia em relação à necessidade do cliente. <mark style="color: red; background-color: transparent">(Teste)</mark> Não é possivel prever alterações do consumidor
+
+**Estratégia de Marketing** => <mark style="color: red; background-color: transparent">(Teste)</mark> 4P'S ou 4 Pontos => Produto, Preço, Promoção e Ponto de Distribuição 
+
+###### Análise Financeira
+
+**Perfil de Gestão** => Perfil da equipa que está 
 ***
 
 ## PME vs Grande Empresa
