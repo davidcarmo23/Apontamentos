@@ -1,4 +1,4 @@
-`{{date:YYYY-MM-DD}}`
+[[2022-04-04]]
 ## O que associamos a Empreendedorismo?
 - Empreendedor
 - Empresa
@@ -21,6 +21,9 @@
 
 
 ## Ciclo de Vida de uma Empresa
-flowchart LR
-		dasd
-	
+```
+​```mermaid
+graph TD
+
+​```
+```id 

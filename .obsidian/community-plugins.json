@@ -4,5 +4,7 @@
   "templater-obsidian",
   "obsidian-git",
   "obsidian-mind-map",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "nldates-obsidian",
+  "obsidian-checklist-plugin"
 ]

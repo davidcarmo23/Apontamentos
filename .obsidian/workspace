@@ -101,6 +101,22 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "2db07addc4f32f70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "211f9714dd53303e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ]
       }
