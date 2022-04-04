@@ -87,6 +87,11 @@
 **Missão** =><mark style="color: red; background-color: transparent">(Teste)</mark> Deve ser simples, explicita e concreta
 
 **Análise SWOT** => <mark style="color: red; background-color: transparent">(Teste)</mark> 
+
+**Análise Interna** => Pontos fortes e Pontos Fracos
+
+**Análise Externa** => Ameaças e Oportunidades
+
 ***
 
 ## PME vs Grande Empresa
@@ -130,10 +135,22 @@
 
 ## Possiveis Questões na Frequência
 	P => Aponte 2 caracteristicas que ache importante para o empreendedorismo e explique.
-	R => 
+	R =>
+	 
+	P => Diga quais os 3 pontos da Tipologia de Porter
+	R =>
 
 
 ***
 
 **Ideias** => Para uma ideia ter sucesso é necessário que esta seja **inovadora** tendo em conta o mercado e que **satisfaça** necessidades do mesmo. Estas ideias podem ocurrer devido a **Fatores Internos ou Fatores Externos**
 
+***
+
+## Tipos de Estratégias
+- **Tipologia de Porter**
+	- Diferenciação
+	- Liderança de Custos
+	- Enfoque ou Concentração
+- **Tipologia de Ansoff**
+	- Penetração de Mercado <mark style="color: #00FFFF; background-color: transparent">(Teste)</mark>
