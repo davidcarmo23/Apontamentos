@@ -16,4 +16,11 @@
 - **Empreendedorismo a nível Organizacional** => Organização/Empresa
 - **Empreendedorismo a nível Grupal** => Firmas
 
-> Pode-se
+> Pode-se Inovar a nível :
+> De Produto, processo ou de modo organizacional 
+
+
+## Ciclo de Vida de uma Empresa
+flowchart LR
+		dasd
+	
