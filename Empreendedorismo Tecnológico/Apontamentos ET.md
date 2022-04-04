@@ -52,9 +52,15 @@
 
 **Função Diretiva** => Fase posterior de uma empresa após criação
 
-**Intra-Empreendedor** (Teste) => É quando alguém é um empreendedor dentro de uma organização já estabelecida
+**Intra-Empreendedor** <mark style="color: red; background-color: transparent">(Teste)</mark> => É quando alguém é um empreendedor dentro de uma organização já estabelecida
 
-**Plano de Negócio** => Destina-se aos investidores, entidades financeiras, empreendedor e colaboradores. (Teste) Este plano não interessa à administração fiscal pois o plano ainda não está em implementação
+**Plano de Negócio** => Destina-se aos investidores, entidades financeiras, empreendedor e colaboradores. <mark style="color: red; background-color: transparent">(Teste)</mark> Este plano não interessa à administração fiscal pois o plano ainda não está em implementação
+
+**Sumário Executivo** => Resumo do plano de negócios
+
+**Apresentação da Empresa** => Incorpora o nome, setor de atividade e logótipo da mesma
+
+**Análise do Produto/Serviço** =>
 ***
 
 ## PME vs Grande Empresa
