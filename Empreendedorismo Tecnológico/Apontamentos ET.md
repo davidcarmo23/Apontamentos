@@ -51,6 +51,10 @@
 **Função Empresarial** => Fase de criação de uma empresa
 
 **Função Diretiva** => Fase posterior de uma empresa após criação
+
+**Intra-Empreendedor** (Teste) => É quando alguém é um empreendedor dentro de uma organização já estabelecida
+
+
 ***
 
 ## PME vs Grande Empresa
@@ -82,4 +86,15 @@
 ***
 
 ## Principais funções de um gestor
+- **Planeamento**
+- **Organização**
+- **Direção **
+	- **Liderança**
+	- **Comunicação**
+	- **Cooperação**
+- **Controlo**
 
+***
+
+## Possiveis Questões na Frequência
+	P => Aponte 2 caracteristicas que ache importante para o empreendedorismo e 
