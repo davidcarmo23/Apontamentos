@@ -21,9 +21,10 @@
 
 
 ## Ciclo de Vida de uma Empresa
-```
-​```mermaid
-graph TD
 
-​```
-```id 
+```
+```mermaid
+graph TD
+	start
+
+```
