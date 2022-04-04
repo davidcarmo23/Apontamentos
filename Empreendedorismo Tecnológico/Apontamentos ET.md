@@ -86,11 +86,19 @@
 
 **Missão** =><mark style="color: red; background-color: transparent">(Teste)</mark> Deve ser simples, explicita e concreta
 
-**Análise SWOT** => <mark style="color: red; background-color: transparent">(Teste)</mark> 
+**Análise SWOT** => <mark style="color: red; background-color: transparent">(Teste)</mark> Método para desenvolver uma melhor **Estratégia** 
 
 **Análise Interna** => Pontos fortes e Pontos Fracos
 
 **Análise Externa** => Ameaças e Oportunidades
+
+**Matriz de Ansoff** =>
+
+**MBO** => <mark style="color: red; background-color: transparent">(Teste)</mark>
+
+**EBO** => <mark style="color: red; background-color: transparent">(Teste)</mark>
+
+**MBI** => <mark style="color: red; background-color: transparent">(Teste)</mark>
 
 ***
 
@@ -164,3 +172,11 @@
 | Consumidores Novos  | CN         |
 | Produtos Atuais     | PA         |
 | Produtos Novos      | PN         |
+
+
+***
+
+## Para desenvolver um Plano Operativo
+É necessário saber :
+
+- **Unidades Vendidas**
