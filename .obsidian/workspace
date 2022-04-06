@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
+            "file": "To Do List.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
+            "file": "To Do List.md",
             "mode": "preview",
             "source": true
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
+                "file": "To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empreendedorismo Tecnológico/Apontamentos ET.md"
+                "file": "To Do List.md"
               }
             }
           },
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -137,6 +137,8 @@
   },
   "active": "f6a45d43ba10392b",
   "lastOpenFiles": [
+    "To Do List.md",
+    "Templates/Course Template.md",
     "Empreendedorismo Tecnológico/Apontamentos ET.md",
     "Administração de Sistemas de Redes/Administração de Sistemas de Rede.md",
     "Sistemas Distribuídos/Sistemas Distribuídos.md",
@@ -144,8 +146,6 @@
     "Estruturação/3º Ano.md",
     "Estruturação/Trabalhos.md",
     "Estruturação/Recursos.md",
-    "Templates/Course Template.md",
-    "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf",
-    "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md"
+    "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf"
   ]
 }
