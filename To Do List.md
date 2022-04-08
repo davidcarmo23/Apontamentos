@@ -1,7 +1,12 @@
 	#todo
 - [ ] Hero Section Page(Homepage)
+	- [ ] Definir Paper Elevation dentro da Navbar
+	- [ ] Definir o listener da window 
 - [ ] Scrollbar Customizada
 - [ ] About Us Page
 - [ ] Diary Page
 - [ ] Calculadoras Page
 - [ ] Animações 
+	- [ ] Animar Butões de Menu
+	- [ ] Imagens 
+	- [ ] Conteúdo fora de vista
