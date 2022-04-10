@@ -13,10 +13,10 @@ Exemplo -> para tema https://mixpanel.com
 	- [ ] Description of benefits to customers
 	- [ ] Interesting statistics etc...
 - [ ] Diary Page _> 
-	- [ ] Introduzir novo registo
-	- [ ] Visualizar antigos registos
-- [ ] Calculadoras Page _> 
-- [ ] Animações  _> 
+	- [ ] Introduzir novo registo _> Div em que criamos um form para este registo_
+	- [ ] Visualizar antigos registos (Permitir edição destes registos antigos) _> Grid view com registos diferentes (class de container) para mostrar um resumo básico do registo + com clique abrir um popup com mais info
+- [ ] Calculadoras Page _> Grid com várias calculadoras necessárias dentro da àrea (necessário uma classe para permitir adição de mais cálculos por parte do admin a partir do dashboard)
+- [ ] Animações  _> Introduçã
 	- [ ] Animar Botões de Menu _> 
 	- [ ] Imagens  _> 
 	- [ ] Conteúdo fora de vista _>  
