@@ -1,8 +1,8 @@
 	#Todo
 Exemplo -> para tema https://mixpanel.com
 - [ ] Hero Section Page(Homepage) _>  https://mbcreative.ca/blog/15-hero-section-design-inspiration/
-	- [ ] (Hero) What is this?
-	- [ ] (Hero) What do you do?
+	- [x] (Hero) What is this?
+	- [x] (Hero) What do you do?
 	- [ ] (Hero) What's in it for me?
 	- [x] Definir Paper Elevation dentro da Navbar _>  https://mui.com/pt/customization/how-to-customize/_ //
 	- [x] Definir o listener da window _> https://javascript.plainenglish.io/hiding-dom-elements-in-react-based-on-scrolling-d9a9ef1f1f5
