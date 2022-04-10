@@ -8,6 +8,10 @@ Exemplo -> para tema https://mixpanel.com
 	- [x] Definir o listener da window _> https://javascript.plainenglish.io/hiding-dom-elements-in-react-based-on-scrolling-d9a9ef1f1f5
 - [ ] Scrollbar Customizada _>
 - [ ] About Us Page _> 
+	- [ ] Catchy Headline
+	- [ ] Body that explains Mission
+	- [ ] Description of benefits to customers
+	- [ ] Interesting statistics etc...
 - [ ] Diary Page _> 
 - [ ] Calculadoras Page _> 
 - [ ] Animações  _> 
