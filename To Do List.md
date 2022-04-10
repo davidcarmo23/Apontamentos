@@ -13,6 +13,8 @@ Exemplo -> para tema https://mixpanel.com
 	- [ ] Description of benefits to customers
 	- [ ] Interesting statistics etc...
 - [ ] Diary Page _> 
+	- [ ] Introduzir novo registo
+	- [ ] Visualizar antigos registos
 - [ ] Calculadoras Page _> 
 - [ ] Animações  _> 
 	- [ ] Animar Botões de Menu _> 
