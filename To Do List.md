@@ -16,3 +16,4 @@ Exemplo -> para tema https://mixpanel.com
 	- [ ] Conteúdo fora de vista _>  
 - [ ] Botão para dar Scroll para topo da página (quando se chega ao fim da mesma)  _>  https://reactjsexample.com/a-react-component-that-scrolls-to-the-top-of-a-page/ // https://www.thisdot.co/blog/creating-custom-scrollbars-with-react
 - [ ] Tornar tamanho de textfields responsivos _> https://codesandbox.io/s/textfield-with-media-query-gcoy0?fontsize=14&hidenavigation=1&theme=dark&file=/demo.js
+- [ ] Escolher Fonts -> Merryweather
