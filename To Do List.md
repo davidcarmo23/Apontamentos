@@ -16,10 +16,10 @@ Exemplo -> para tema https://mixpanel.com
 	- [ ] Introduzir novo registo _> Div em que criamos um form para este registo_
 	- [ ] Visualizar antigos registos (Permitir edição destes registos antigos) _> Grid view com registos diferentes (class de container) para mostrar um resumo básico do registo + com clique abrir um popup com mais info
 - [ ] Calculadoras Page _> Grid com várias calculadoras necessárias dentro da àrea (necessário uma classe para permitir adição de mais cálculos por parte do admin a partir do dashboard)
-- [ ] Animações  _> Introduçã
+- [ ] Animações  _> Introdução de texto , imagens , menu Icons etc
 	- [ ] Animar Botões de Menu _> 
 	- [ ] Imagens  _> 
 	- [ ] Conteúdo fora de vista _>  
 - [ ] Botão para dar Scroll para topo da página (quando se chega ao fim da mesma)  _>  https://reactjsexample.com/a-react-component-that-scrolls-to-the-top-of-a-page/ // https://www.thisdot.co/blog/creating-custom-scrollbars-with-react
 - [ ] Tornar tamanho de textfields responsivos _> https://codesandbox.io/s/textfield-with-media-query-gcoy0?fontsize=14&hidenavigation=1&theme=dark&file=/demo.js
-- [ ] Escolher Fonts -> Merryweather
+- [ ] Escolher Fonts _> Merryweather (headings) falta ___ (body) e ___ (links) 
