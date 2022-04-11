@@ -64,8 +64,17 @@
 	- Formação orientada para a criação de empresas
 	- Fontes tradicionais de financiamento
 	- Fraca Perceção de politicas governamentais de apoio
-- **Jardim **
-
+- **Jardim do Eden**
+	- Inúmeras Alternativas de financiamento
+	- Incentivos governamentais
+	- Ausência de barreiras de entrada à criação de negócios
+- **Vale de Lágrimas**
+	- Não há ativade económica organizada
+	- Não há incentivos especificos para a região
+	- Não há serviço de informação, consultadoria
+	- Não existe informação sobre o mercado (estatisticas)
+	- Mercado de capitais fraco
+	- Nivel de vida médio baixo
 
 ## Meio Envolvente Repulsivo (Shapero)
 - Falta de cultura e valores empresariais
