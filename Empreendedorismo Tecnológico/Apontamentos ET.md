@@ -99,8 +99,12 @@
 
 ![[Pasted image 20220411163548.png]]
 
+## Vantagens do Empreendedorismo Digital
+![[Pasted image 20220411164847.png]]
 ***
 ##  Definições
+**Empresário** => Proprie
+
 **BornGlobal**  => Empresas que ainda não foram criadas mas que têm o objetivo de internacionalização
 
 **AutoEmprego** => Quando o próprio trabalhador cria o seu posto de trabalho
