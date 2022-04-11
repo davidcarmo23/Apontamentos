@@ -350,8 +350,20 @@
 - **Próprios Empregados** => O plano pode ser também adotado para convencer os empregados a aderir à ideia.
 
 ### Conteudo de um plano de negócios
-- Sumário executivo
-- Apresentação da empresa
-- Análise do produto ou serviço
-- Análise de mercado
-- Estratégia de 
+- **Sumário executivo**
+	- Objetivos do plano
+	- Conceito de negócio
+	- Dados Financeiros
+	- Necessidades Financeiras
+	- Situação atual da empresa no mercado
+	- Expectativas de crescimento
+	- Realizações Importantes
+- **Apresentação da empresa**
+	- Nome do negócio, sócios/promotores
+	- Historial da empresa
+	- Objetivos 
+- **Análise do produto ou serviço**
+- **Análise de mercado**
+- **Estratégia de marketing**
+- **Análise Financeira**
+- **Perfil da gestão**
