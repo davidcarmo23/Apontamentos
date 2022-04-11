@@ -100,7 +100,13 @@
 
 **MBI** => <mark style="color: red; background-color: transparent">(Teste)</mark>
 
-**Matérias Subsidiárias** => 
+**Matérias Subsidiárias** => matérias que iremos utilizar para a produção do nosso produto
+
+**Organigrama** => mostra como a empresa está organizada
+
+**Capital Fixo corpóreo** =>
+
+**Capital Fixo Incorpóreo** =>
 
 ***
 
@@ -182,3 +188,21 @@
 É necessário saber :
 
 - **Unidades Vendidas**
+
+
+## Tipos de Produção
+
+- Produção por lotes
+- Produção Conjunta
+- Produção disjunta
+
+### A diferença entre o capital próprio e o investimento é o capital alheio
+
+
+## Formas Juridicas
+- Sociedade por cotas
+- Sociedade Anónima
+- Sociedade unipessoal por quotas
+- LDA => Responsabilidade limitada (Em caso de dividas, só respondem os bens da empresa)
+
+## Processo de estabelecimento de uma Firma
