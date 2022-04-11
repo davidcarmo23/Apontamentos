@@ -103,7 +103,9 @@
 ![[Pasted image 20220411164847.png]]
 ***
 ##  Definições
-**Empresário** => Proprie
+**Empresário** => proprietário ou o acionista de controlo de empresas (diferente de Empreendedor)
+
+**Empreendedor** => Alguém capaz de conceber , pôr em prática e de instilar nos que o acompanham uma atitude de desafio permanente
 
 **BornGlobal**  => Empresas que ainda não foram criadas mas que têm o objetivo de internacionalização
 
