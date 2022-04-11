@@ -288,9 +288,9 @@
 ***
 
 ## Para desenvolver um Plano Operativo
-É necessário saber :
+![[Pasted image 20220411182233.png]]
 
-- **Unidades Vendidas**
+##
 
 
 ## Tipos de Produção
