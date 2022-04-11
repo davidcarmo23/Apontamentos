@@ -444,7 +444,8 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 	- Objetivos das EF (Empresas Familiares)
 		- São consistentes
 		- Motivações e caracteristicas do fundador influenciam a definição dos objetivos
-		- Fundador de
+		- Fundador detém o controlo da empresa mas o crescimento e desenvolvimento dos membros da familia é o objetivo principal
+		- Os objetivos do negac
 - **Retoma de uma Empresa**
 - **Management Buy-out**
 - **Spin-Off**
