@@ -11,6 +11,9 @@
 - Negócios
 - Financiamento
 
+## Resultados Positivos como consequência do Empreendedorismo
+- Criação de Emprego
+- Difusão
 ## Tipos de Empreendedorismo
 - **Empreendedorismo a nível Individua** => Individuo
 - **Empreendedorismo a nível Organizacional** => Organização/Empresa
