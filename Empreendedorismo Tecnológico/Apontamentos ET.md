@@ -341,4 +341,7 @@
 - **Avaliação dos resultados** => Procura-se uma certa rendibilidade e antes de avançar para a implementação é necessário avaliar essa rendibilidade
 
 
+## Para quê elaborar o Plano ?
+- **O próprio Empresário** => sintetiza o negócio que pretende vir a desenvolver e reflete toda a diversidade informações e de reflexões durante a conceção do mesmo.  um guia que vai indicando o que fazer em cada fase e como fazê-lo;
+
 
