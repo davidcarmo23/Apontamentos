@@ -341,7 +341,17 @@
 - **Avaliação dos resultados** => Procura-se uma certa rendibilidade e antes de avançar para a implementação é necessário avaliar essa rendibilidade
 
 
-## Para quê elaborar o Plano ?
-- **O próprio Empresário** => sintetiza o negócio que pretende vir a desenvolver e reflete toda a diversidade informações e de reflexões durante a conceção do mesmo.  um guia que vai indicando o que fazer em cada fase e como fazê-lo;
+### Para quê elaborar o Plano ?
+- **O próprio Empresário** => 
+	- Sintetiza o negócio que pretende vir a desenvolver e reflete toda a diversidade informações e de reflexões durante a conceção do mesmo. 
+	- É um guia que vai indicando o que fazer em cada fase e como fazê-lo;
+	- Obriga o empresário a dar atenção a todos os elementos do negócio que pretende implementar
+- **Entidades Financeiras** => Se o plano tiver todas as informações de forma clara de como atingir o mercado, de obter qualidade, etc., então será mais fácil convencer terceiros a arriscar e a embarcar na aventura!
+- **Próprios Empregados** => O plano pode ser também adotado para convencer os empregados a aderir à ideia.
 
-
+### Conteudo de um plano de negócios
+- Sumário executivo
+- Apresentação da empresa
+- Análise do produto ou serviço
+- Análise de mercado
+- Estratégia de 
