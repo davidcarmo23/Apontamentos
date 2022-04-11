@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "43c3b1c6d02b2693",
+        "id": "959db5647d9fb82d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "16d4b5839be8ec3d",
-        "type": "leaf",
-        "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf"
+            "file": "Pasted image 20220411192149.png"
           }
         }
       }
@@ -63,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -79,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
+                "file": "Pasted image 20220411192149.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empreendedorismo Tecnológico/Apontamentos ET.md"
+                "file": "Pasted image 20220411192149.png"
               }
             }
           },
@@ -132,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "43c3b1c6d02b2693",
+  "active": "959db5647d9fb82d",
   "lastOpenFiles": [
+    "Pasted image 20220411192149.png",
+    "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf",
     "Empreendedorismo Tecnológico/Apontamentos ET.md",
     "Empreendedorismo Tecnológico/Pasted image 20220411170233.png",
-    "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf",
     "Empreendedorismo Tecnológico/Pasted image 20220411164847.png",
     "Empreendedorismo Tecnológico/Pasted image 20220411163548.png",
     "Empreendedorismo Tecnológico/Pasted image 20220411162232.png",
     "Empreendedorismo Tecnológico/Apontamentos ET.pdf",
     "Learning.md",
-    "Estruturação/Cadeiras.md",
-    "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md"
+    "Estruturação/Cadeiras.md"
   ]
 }

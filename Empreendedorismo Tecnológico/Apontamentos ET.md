@@ -499,3 +499,7 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 ![[Pasted image 20220411192003.png]]
 
 **Empresa na hora** => permite constituir uma sociedade unipessoal, por quotas ou anónima no momento e num só balcão.
+
+**Vantagens**
+![[Pasted image 20220411192149.png]]
+
