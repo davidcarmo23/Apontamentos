@@ -103,9 +103,9 @@
 ![[Pasted image 20220411164847.png]]
 ***
 ##  Definições
-**Empresário** => proprietário ou o acionista de controlo de empresas (diferente de Empreendedor)
+**Empresário** => proprietário ou o acionista de controlo de empresas (diferente de Empreendedor) , dá origem e vida à empresa
 
-**Empreendedor** => Alguém capaz de conceber , pôr em prática e de instilar nos que o acompanham uma atitude de desafio permanente
+**Empreendedor** => Alguém capaz de conceber , pôr em prática e de instilar nos que o acompanham uma atitude de desafio permanente, é aquele que detém espirito empresarial
 
 **BornGlobal**  => Empresas que ainda não foram criadas mas que têm o objetivo de internacionalização
 
@@ -290,3 +290,7 @@
 ## Processo de estabelecimento de uma Firma
 
 	Pedem 3 nomes em ordem de importância => verifica-se se existem ou não nomes iguais ou parecidos
+
+## Diferenças entre Empreendedorismo e Gestão
+
+![[Pasted image 20220411165326.png]]
