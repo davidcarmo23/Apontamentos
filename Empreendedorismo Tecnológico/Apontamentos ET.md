@@ -493,3 +493,9 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 ## Trâmites Legais À Criação de Empresas
 **Principais Passos**
 ![[Pasted image 20220411191911.png]]
+
+**Escolha do tipo de forma Juridica**
+![[Pasted image 20220411191957.png]]
+![[Pasted image 20220411192003.png]]
+
+**Empresa na hora** => permite constituir uma sociedade unipessoal, por quotas ou anónima no momento e num só balcão.
