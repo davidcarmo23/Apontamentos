@@ -52,6 +52,26 @@
 - **Elevados riscos não recompensados**
 - **Carência de pessoal qualificado para empresas de conhecimentos**
 
+## Meio Envolvente Propiciador (Dubini)
+- Forte Presença de modelos empresariais
+- Economia Diversificada
+- Riqueza de infraestruturas e RH qualificados
+- Comunidade financeira sólida
+- Presença de incentivos governamentais
+- **Tradição Empresarial**
+	- Rede de empresas já estabelecidas
+	- Atividades de consultadoria
+	- Formação orientada para a criação de empresas
+	- Fontes tradicionais de financiamento
+	- Fraca Perceção de politicas governamentais de apoio
+- **Jardim **
+
+
+## Meio Envolvente Repulsivo (Shapero)
+- Falta de cultura e valores empresariais
+- Falta de tradição em função empresarial
+- Falta de indústrias inovadoras
+- Falta de infraestruturas
 
 ***
 ##  Definições
@@ -73,9 +93,9 @@
 
 **Fatores Contingenciais** => Fatores que não dependem de nós
 
-**Função Empresarial** => Fase de criação de uma empresa / Função exercida pelo empresário e que consiste na criação da empresa e na condução dos seus destinos durante os seus primeiros tempos de atividade
+**Função Empresarial** => Fase de criação de uma empresa / Primeiros tempos de atividade / Revitalização do tecido económico
 
-**Função Diretiva** => Fase posterior de uma empresa após criação
+**Função Diretiva** => Fase posterior de uma empresa após criação / Dirigir e controlar uma empresa em atividade
 
 **Intra-Empreendedor** <mark style="color: red; background-color: transparent">(Teste)</mark> => É quando alguém é um empreendedor dentro de uma organização já estabelecida
 
