@@ -307,3 +307,14 @@
 ![[Pasted image 20220411170342.png]]
 
 **Veciana** => Atual
+![[Pasted image 20220411170408.png]]
+
+## Razões para o Surgimento dos Empresários (**Veciana**)
+- Caracteristicas psicológicas
+![[Pasted image 20220411170534.png]]
+- Antecedentes
+![[Pasted image 20220411170541.png]]
+- Meio Envolvente
+![[Pasted image 20220411170549.png]]
+
+
