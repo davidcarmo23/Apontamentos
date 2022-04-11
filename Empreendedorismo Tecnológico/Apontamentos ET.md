@@ -462,7 +462,10 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 	- Vantagens
 
 		![[Pasted image 20220411191051.png]]
+	- Riscos
+![[Pasted image 20220411191139.png]]
 - **Management Buy-out**
+![[Pasted image 20220411191212.png]]
 - **Spin-Off**
 - **Franchising** 
 
