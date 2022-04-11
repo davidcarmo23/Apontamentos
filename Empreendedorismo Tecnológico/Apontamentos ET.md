@@ -445,7 +445,12 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 		- São consistentes
 		- Motivações e caracteristicas do fundador influenciam a definição dos objetivos
 		- Fundador detém o controlo da empresa mas o crescimento e desenvolvimento dos membros da familia é o objetivo principal
-		- Os objetivos do negac
+		- Os objetivos do negócio e da familia podem tornar-se conflituosos
+		- Os objetivos de negócio necessitam de ser mudados como resultado das necessidades da familia
+	- A **Sucessão** é um importante objetivo das EF
+		- Aspetos a considerar no processo de Sucessão :
+			Educação de formal, formação, experiência de trabalho...
+		- Relacionamentos entre a familia e mebros do ne
 - **Retoma de uma Empresa**
 - **Management Buy-out**
 - **Spin-Off**
