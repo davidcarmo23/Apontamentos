@@ -242,8 +242,17 @@
 
 
 ***
-
+## Fontes de Ideias
+- **Fontes Internas**
+	- Conceitos
+	- Principios
+	- Imagens
+	- Fatos
+- **Fontes Externas**
+	- 
 **Ideias** => Para uma ideia ter sucesso é necessário que esta seja **inovadora** tendo em conta o mercado e que **satisfaça** necessidades do mesmo. Estas ideias podem ocurrer devido a **Fatores Internos ou Fatores Externos**
+
+
 
 ***
 
@@ -310,11 +319,11 @@
 ![[Pasted image 20220411170408.png]]
 
 ## Razões para o Surgimento dos Empresários (**Veciana**)
-- Caracteristicas psicológicas
+- **Caracteristicas psicológicas**
 ![[Pasted image 20220411170534.png]]
-- Antecedentes
+- **Antecedentes**
 ![[Pasted image 20220411170541.png]]
-- Meio Envolvente
+- **Meio Envolvente**
 ![[Pasted image 20220411170549.png]]
 
 
