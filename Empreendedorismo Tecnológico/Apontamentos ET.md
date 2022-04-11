@@ -441,6 +441,9 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 ## Estratégias de Entrada na Função Empresarial
 - **Criação de Raiz de uma Nova Empresa**
 - **Assumir o Negócio de Familia**
+	- Objetivos das EF (Empresas Familiares)
+		- São consistentes
+		- Motivações 
 - **Retoma de uma Empresa**
 - **Management Buy-out**
 - **Spin-Off**
