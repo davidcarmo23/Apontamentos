@@ -482,3 +482,14 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 ## Formas de Fomento à Criação de Empresas
 **Objetivos**
 ![[Pasted image 20220411191658.png]]
+
+**Organismos de Apoio**
+![[Pasted image 20220411191745.png]]
+![[Pasted image 20220411191756.png]]
+![[Pasted image 20220411191804.png]]
+![[Pasted image 20220411191818.png]]
+![[Pasted image 20220411191823.png]]
+
+## Trâmites Legais À Criação de Empresas
+**Principais Passos**
+![[Pasted image 20220411191911.png]]
