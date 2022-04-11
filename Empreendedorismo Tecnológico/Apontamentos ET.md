@@ -82,6 +82,23 @@
 - Falta de indústrias inovadoras
 - Falta de infraestruturas
 
+## Fatores que impulsionam/retraem o Empreendedorismo (Bloodgood)
+- **Sistema de apoio social e familiar**
+- **Fontes de financiamento**
+- Confiaça dos futuros **trabalhadores**
+- Acessibilidade dos **Clientes** e manifestação clara das suas necessidades
+- Capacidade de angariar **fornecedores**
+- **Cultura Local**
+- **Agências públicas** proporcionarem apoios
+- A **envolvente social e politica**
+
+## Fatores Facilitadores do Empreendedorismo e criação de empresas (Poutsma)
+- **Rede de cooperação informal** entre micro e pequenas empresas locais
+- Estrutura económica com base em **empresas familiares**
+- **Empreendedores comunitários** que dinamizam a identidade local em torno do empreendedorismo
+
+![[Pasted image 20220411163548.png]]
+
 ***
 ##  Definições
 **BornGlobal**  => Empresas que ainda não foram criadas mas que têm o objetivo de internacionalização
