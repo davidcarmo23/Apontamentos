@@ -385,4 +385,13 @@
 - **Perfil da gestão**
 	- Apresentação dos perfil dos gestores e principais colaboradores acompanhado com o seu curriculo
 	- Estrutura organizacional da empresa , incluindo titulos e niveis de responsabilidade
-	- Descrição das realizações e experiencia dos princi
+	- Descrição das realizações e experiencia dos principais responsaveis da empresa
+	- Estrutura de RH atual e a evolução desejada
+	- Apresentação dos profissionais externos
+
+### Estudo de mercado
+
+Deve responder às seguintes questões
+![[Pasted image 20220411180420.png]]
+
+1,2,3 e 4 
