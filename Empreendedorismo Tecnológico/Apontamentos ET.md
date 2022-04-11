@@ -372,7 +372,17 @@
 	- Identificação do mercado alvo e o tipo de segmentação de clientes.
 	- Identificar e caracterizar os competidores, consumidores e análise do setor de atividade em geral
 	- Explicar o porquê do produto ter condições de sucesso
-	- 
 - **Estratégia de marketing**
+	- Estratégia global de marketing
+		- Preço
+		- Vendas
+		- Distribuição
+		- Comunicação
+		- Produto
 - **Análise Financeira**
+	- Inclui todas as demonstrações financeiras
+	- Orçamento de tesouraria
 - **Perfil da gestão**
+	- Apresentação dos perfil dos gestores e principais colaboradores acompanhado com o seu curriculo
+	- Estrutura organizacional da empresa , incluindo titulos e niveis de responsabilidade
+	- Descrição das realizações e experiencia dos princi
