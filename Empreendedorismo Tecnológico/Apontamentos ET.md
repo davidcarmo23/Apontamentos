@@ -29,7 +29,15 @@
 > Pode-se Inovar a nível :
 > De Produto, processo ou de modo organizacional (marketing)
 
+## Processo de Criação de uma Empresa
+![[Pasted image 20220411162107.png]]
 
+**4 Grandes Fases**
+> Ideia (Identificação da oportunidade de negócio)  -> Decisão de Avançar -> Implementação -> Crescimento
+
+**Segundo Veciana**
+> Gestação -> Criação -> Lançamento -> Consolidação
+![[Pasted image 20220411162232.png]]
 ## Ciclo de Vida de uma Empresa
 
 ``````
@@ -65,7 +73,7 @@
 
 **Fatores Contingenciais** => Fatores que não dependem de nós
 
-**Função Empresarial** => Fase de criação de uma empresa
+**Função Empresarial** => Fase de criação de uma empresa / Função exercida pelo empresário e que consiste na criação da empresa e na condução dos seus destinos durante os seus primeiros tempos de atividade
 
 **Função Diretiva** => Fase posterior de uma empresa após criação
 
