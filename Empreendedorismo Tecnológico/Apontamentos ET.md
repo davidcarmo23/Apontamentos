@@ -12,8 +12,14 @@
 - Financiamento
 
 ## Resultados Positivos como consequência do Empreendedorismo
-- Criação de Emprego
-- Difusão
+- **Criação de Emprego**
+- **Difusão da Inovação**
+- **Criação de riqueza e desenvolvimento das regiões**
+- **Aparecimento de estilos de direção mais inovadores e dinâmicos**
+- **Porta aberta a novas tecnologias**
+- Etc...
+
+![[Pasted image 20220411145022.png]]
 ## Tipos de Empreendedorismo
 - **Empreendedorismo a nível Individua** => Individuo
 - **Empreendedorismo a nível Organizacional** => Organização/Empresa
@@ -102,6 +108,8 @@
 **EBO** => <mark style="color: red; background-color: transparent">(Teste)</mark>
 
 **MBI** => <mark style="color: red; background-color: transparent">(Teste)</mark>
+
+**GEM** => <mark style="color: red; background-color: transparent">(Teste)</mark> Global Entrepreneurship Monitor
 
 **Matérias Subsidiárias** => matérias que iremos utilizar para a produção do nosso produto
 
