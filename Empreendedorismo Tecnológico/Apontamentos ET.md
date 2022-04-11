@@ -188,8 +188,10 @@
 **Organigrama** => mostra como a empresa está organizada
 
 **Capital Fixo corpóreo** =>
+![[Pasted image 20220411182328.png]]
 
 **Capital Fixo Incorpóreo** =>
+![[Pasted image 20220411182336.png]]
 
 **Empreendedorismo Tecnológico** => Identificação e exploração de oportunidades baseadas em conhecimento científico ou tecnológico através da criação de artefactos digitais.
 
@@ -290,8 +292,14 @@
 ## Para desenvolver um Plano Operativo
 ![[Pasted image 20220411182233.png]]
 
-##
+## Plano de RH/Organização
+![[Pasted image 20220411182302.png]]
 
+
+## Plano de Investimento 
+![[Pasted image 20220411182411.png]]
+
+## Plano Financeiro
 
 ## Tipos de Produção
 
