@@ -443,7 +443,8 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 - **Assumir o Negócio de Familia**
 	- Objetivos das EF (Empresas Familiares)
 		- São consistentes
-		- Motivações 
+		- Motivações e caracteristicas do fundador influenciam a definição dos objetivos
+		- Fundador de
 - **Retoma de uma Empresa**
 - **Management Buy-out**
 - **Spin-Off**
