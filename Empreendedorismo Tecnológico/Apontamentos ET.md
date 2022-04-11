@@ -334,4 +334,9 @@
 - **Meio Envolvente**
 ![[Pasted image 20220411170549.png]]
 
+## Tarefas para a execução de um plano de Negócio
+
+- Análise à priori => 
+- Plano em si =>
+- Avaliação dos resultados 
 
