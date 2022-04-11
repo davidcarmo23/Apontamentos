@@ -129,8 +129,9 @@
 
 **Função Diretiva** => Fase posterior de uma empresa após criação / Dirigir e controlar uma empresa em atividade
 
-**Intra-Empreendedor** <mark style="color: red; background-color: transparent">(Teste)</mark> =>
-- **Individuo Inovador**
+**IntraEmpreendedor** <mark style="color: red; background-color: transparent">(Teste)</mark> => Abrange 2 vertentes :
+- **Individuo Inovador** , criativo constantemente em busca de novas oportunidades
+- **Empreendedor Interno** Possui as caracteristicas acima mas trabalha a conta de outrém
 
 **Plano de Negócio** => Destina-se aos investidores, entidades financeiras, empreendedor e colaboradores. <mark style="color: red; background-color: transparent">(Teste)</mark> Este plano não interessa à administração fiscal pois o plano ainda não está em implementação
 
@@ -295,3 +296,5 @@
 ## Diferenças entre Empreendedorismo e Gestão
 
 ![[Pasted image 20220411165326.png]]
+
+## Caracteristicas do 
