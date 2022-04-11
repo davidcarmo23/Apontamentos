@@ -437,3 +437,12 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 - **Politica de promoção/comunicação** => Como divulgar o produto/serviço ao mercado
 - **Politica de Distribuição** => Qual a via a utilizar para que o produto/serviço chegue ao cliente
 
+
+## Estratégias de Entrada na Função Empresarial
+- **Criação de Raiz de uma Nova Empresa**
+- **Assumir o Negócio de Familia**
+- **Retoma de uma Empresa**
+- **Management Buy-out**
+- **Spin-Off**
+- **Franchising** 
+
