@@ -37,6 +37,12 @@
 	Faz mais sentido voltar a ser um empreendedor na fase da Estagnação
 ``````
 
+
+## Dificuldades/Obstáculos à criação de Empresas
+- **Ausência de financiamento disponível**
+- **Procedimento Complexo Administrativo**
+- **Elevados riscos não recompensados**
+- **Carência de pessoal qualificado para empresas de conhecimentos**
 ***
 ##  Definições
 **BornGlobal**  => Empresas que ainda não foram criadas mas que têm o objetivo de internacionalização
