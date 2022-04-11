@@ -300,6 +300,13 @@
 ![[Pasted image 20220411182411.png]]
 
 ## Plano Financeiro
+![[Pasted image 20220411182502.png]]
+![[Pasted image 20220411182510.png]]
+### Indicadores de Gestão
+![[Pasted image 20220411182537.png]]
+
+## Estudo de Viabilidade
+![[Pasted image 20220411182602.png]]
 
 ## Tipos de Produção
 
