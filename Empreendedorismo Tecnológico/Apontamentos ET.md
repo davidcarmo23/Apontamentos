@@ -181,6 +181,9 @@
 
 **Capital Fixo Incorpóreo** =>
 
+**Empreendedorismo Tecnológico** => Identificação e exploração de oportunidades baseadas em conhecimento científico ou tecnológico através da criação de artefactos digitais.
+
+**Empreededorismo Digital** => - Os empreendedores digitais geralmente não se importam com a tecnologia específica por trás da sua ideia de negócio, eles simplesmente se concentram no serviço que é criado a partir deste aproveitamento da tecnologia.
 ***
 
 ## PME vs Grande Empresa
