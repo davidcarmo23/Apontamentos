@@ -361,9 +361,18 @@
 - **Apresentação da empresa**
 	- Nome do negócio, sócios/promotores
 	- Historial da empresa
-	- Objetivos 
+	- Objetivos fundamentais
 - **Análise do produto ou serviço**
+	- Oferta de valor para o consumidor ...
+	- Investimento em RH e materiais
+	- Necessidades de investimento em equipamentos e instalações e as razões do porquê
+	- Processos e tecnologia utilizada
+	- Evolução do produto no futuro
 - **Análise de mercado**
+	- Identificação do mercado alvo e o tipo de segmentação de clientes.
+	- Identificar e caracterizar os competidores, consumidores e análise do setor de atividade em geral
+	- Explicar o porquê do produto ter condições de sucesso
+	- 
 - **Estratégia de marketing**
 - **Análise Financeira**
 - **Perfil da gestão**
