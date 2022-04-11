@@ -415,5 +415,7 @@ Deve responder às seguintes questões
 ## Plano de Marketing
 Define como se vende o produto/serviço que a empresa produz ou comercializa
 
-- Politica de Produto => Definir claramento o produto ou serviço que produz e/ou vende
-- Politica de Preço => Definir o preço e condiçõe
+- **Politica de Produto** => Definir claramento o produto ou serviço que produz e/ou vende
+- **Politica de Preço** => Definir o preço e condições de venda
+- **Politica de promoção/comunicação** => Como divulgar o produto/serviço ao mercado
+- **Politica de Distribuição** => Qual a via a utilizar para que o produto/serviço chegue ao cliente
