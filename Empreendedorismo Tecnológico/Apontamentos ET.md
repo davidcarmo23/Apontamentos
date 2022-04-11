@@ -337,6 +337,8 @@
 ## Tarefas para a execução de um plano de Negócio
 
 - **Análise à priori** => Procura de todas as informações que posteriormente serão trabalhadas
-- **Plano em si** => Conjugação de todos os dados
-- **Avaliação dos resultados** =>
+- **Plano em si** => Conjugação de todos os dados.
+- **Avaliação dos resultados** => Procura-se uma certa rendibilidade e antes de avançar para a implementação é necessário avaliar essa rendibilidade
+
+
 
