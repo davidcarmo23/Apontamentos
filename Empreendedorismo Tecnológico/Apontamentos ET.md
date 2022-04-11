@@ -201,8 +201,10 @@
 
 ## Formas Juridicas
 - Sociedade por cotas
-- Sociedade Anónima
+- Sociedade Anónima => Mais complexa em termos de finanças e júridicos
 - Sociedade unipessoal por quotas
 - LDA => Responsabilidade limitada (Em caso de dividas, só respondem os bens da empresa)
 
 ## Processo de estabelecimento de uma Firma
+
+	Pedem 3 nomes em ordem de importância => verifica-se se existem ou não nomes iguais ou parecidos

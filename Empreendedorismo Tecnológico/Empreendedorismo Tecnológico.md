@@ -7,6 +7,7 @@ ___
 ## Assignments
 > Nenhum 
 ## Lectures
+> **Quartas das 14h às 18h**
 ## Extras
 ### Grade Breakdown
 > Ambas as frequências valem 10 valores
