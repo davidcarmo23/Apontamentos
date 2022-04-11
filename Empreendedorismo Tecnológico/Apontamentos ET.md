@@ -249,7 +249,15 @@
 	- Imagens
 	- Fatos
 - **Fontes Externas**
-	- 
+	- Jornais/Revistas
+	- Feiras/Exposições
+	- Registo de patentes
+	- Etc...
+- **Inovação**
+- **Interação com outros**
+- Etc...
+
+
 **Ideias** => Para uma ideia ter sucesso é necessário que esta seja **inovadora** tendo em conta o mercado e que **satisfaça** necessidades do mesmo. Estas ideias podem ocurrer devido a **Fatores Internos ou Fatores Externos**
 
 
