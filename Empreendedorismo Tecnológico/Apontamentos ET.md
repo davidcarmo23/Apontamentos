@@ -409,3 +409,7 @@ Deve responder às seguintes questões
 	- Situação económica do país, investimento, poder de compra...
 
 ## Passos para fazer estudos de Mercado
+![[Pasted image 20220411180838.png]]
+
+
+##
