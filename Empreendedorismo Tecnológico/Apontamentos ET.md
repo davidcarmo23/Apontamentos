@@ -474,3 +474,11 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 - **Spin-Off**
 - **Franchising** 
 
+
+## Franchising
+![[Pasted image 20220411191536.png]]
+![[Pasted image 20220411191545.png]]
+
+## Formas de Fomento à Criação de Empresas
+**Objetivos**
+![[Pasted image 20220411191658.png]]
