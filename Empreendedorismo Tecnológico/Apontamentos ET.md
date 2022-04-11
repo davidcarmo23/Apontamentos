@@ -336,7 +336,7 @@
 
 ## Tarefas para a execução de um plano de Negócio
 
-- Análise à priori => 
-- Plano em si =>
-- Avaliação dos resultados =>
+- **Análise à priori** => Procura de todas as informações que posteriormente serão trabalhadas
+- **Plano em si** => Conjugação de todos os dados
+- **Avaliação dos resultados** =>
 
