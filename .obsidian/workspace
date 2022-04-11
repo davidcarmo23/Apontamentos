@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To Do List.md",
+            "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do List.md",
+                "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do List.md"
+                "file": "Empreendedorismo Tecnológico/Apontamentos ET.md"
               }
             }
           },
@@ -124,8 +124,8 @@
   },
   "active": "179a9fd7a741f7ad",
   "lastOpenFiles": [
-    "To Do List.md",
     "Empreendedorismo Tecnológico/Apontamentos ET.md",
+    "To Do List.md",
     "Templates/Course Template.md",
     "Administração de Sistemas de Redes/Administração de Sistemas de Rede.md",
     "Sistemas Distribuídos/Sistemas Distribuídos.md",
