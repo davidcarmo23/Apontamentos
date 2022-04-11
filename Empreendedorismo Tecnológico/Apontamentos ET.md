@@ -165,7 +165,9 @@
 
 **Missão** =><mark style="color: red; background-color: transparent">(Teste)</mark> Deve ser simples, explicita e concreta
 
-**Análise SWOT** => <mark style="color: red; background-color: transparent">(Teste)</mark> Método para desenvolver uma melhor **Estratégia** 
+**Análise SWOT** => <mark style="color: red; background-color: transparent">(Teste)</mark> Método para desenvolver uma melhor **Estratégia** => Análise do seu meio Envolvente
+![[Pasted image 20220411182019.png]]
+
 
 **Análise Interna** => Pontos fortes e Pontos Fracos
 
@@ -419,3 +421,4 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 - **Politica de Preço** => Definir o preço e condições de venda
 - **Politica de promoção/comunicação** => Como divulgar o produto/serviço ao mercado
 - **Politica de Distribuição** => Qual a via a utilizar para que o produto/serviço chegue ao cliente
+
