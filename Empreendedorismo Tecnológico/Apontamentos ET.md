@@ -181,6 +181,8 @@
 
 **MBI** => <mark style="color: red; background-color: transparent">(Teste)</mark>
 
+![[Pasted image 20220411191343.png]]
+
 **GEM** => <mark style="color: red; background-color: transparent">(Teste)</mark> Global Entrepreneurship Monitor
 
 **Matérias Subsidiárias** => matérias que iremos utilizar para a produção do nosso produto
@@ -196,6 +198,9 @@
 **Empreendedorismo Tecnológico** => Identificação e exploração de oportunidades baseadas em conhecimento científico ou tecnológico através da criação de artefactos digitais.
 
 **Empreededorismo Digital** => - Os empreendedores digitais geralmente não se importam com a tecnologia específica por trás da sua ideia de negócio, eles simplesmente se concentram no serviço que é criado a partir deste aproveitamento da tecnologia.
+
+**Franchising** => Conjunto de direitos de propriedade industrial, intelectual e/ou capacidades especificas experimentadas e superiores às da concorrência suscetíveis de serem cedidas a um terceiro, mediante um acordo que se recolhe num contrato. Normalmente utiliza-se o termo franchising para designar de forma indiscriminada o acordo ou contrato de franchising.
+![[Pasted image 20220411191503.png]]
 ***
 
 ## PME vs Grande Empresa
