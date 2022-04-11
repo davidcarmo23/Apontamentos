@@ -403,4 +403,9 @@ Deve responder às seguintes questões
 	- Dimensão da população
 	- Crescimento da população
 - **Estatisticas de Associações**
+	- Consumos por sector
+	- Consumos por tipo de clientela
 - **Estatisticas do Banco de Portugal**
+	- Situação económica do país, investimento, poder de compra...
+
+## Passos para fazer estudos de Mercado
