@@ -450,7 +450,8 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 	- A **Sucessão** é um importante objetivo das EF
 		- Aspetos a considerar no processo de Sucessão :
 			Educação de formal, formação, experiência de trabalho...
-		- Relacionamentos entre a familia e mebros do ne
+		- Relacionamentos entre a familia e membros do negócio
+		- Plano de controlo das atividades (planeamento da sucessão)
 - **Retoma de uma Empresa**
 - **Management Buy-out**
 - **Spin-Off**
