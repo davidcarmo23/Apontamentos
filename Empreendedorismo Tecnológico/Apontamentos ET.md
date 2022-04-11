@@ -389,9 +389,18 @@
 	- Estrutura de RH atual e a evolução desejada
 	- Apresentação dos profissionais externos
 
-### Estudo de mercado
+## Estudo de mercado
 
 Deve responder às seguintes questões
 ![[Pasted image 20220411180420.png]]
 
-1,2,3 e 4 
+1,2,3 e 4 => **Perspetiva Externa**
+4,5,6 e 7 => **Pespetiva Interna**
+
+**Recolha de Informação**
+- **Estatisticas do INE**
+	- Montante do Consumo Global
+	- Dimensão da população
+	- Crescimento da população
+- **Estatisticas de Associações**
+- **Estatisticas do Banco de Portugal**
