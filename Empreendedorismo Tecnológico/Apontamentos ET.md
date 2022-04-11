@@ -338,5 +338,5 @@
 
 - Análise à priori => 
 - Plano em si =>
-- Avaliação dos resultados 
+- Avaliação dos resultados =>
 
