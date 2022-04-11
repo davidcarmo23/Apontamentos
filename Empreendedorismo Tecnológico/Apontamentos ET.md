@@ -18,7 +18,7 @@
 - **Empreendedorismo Coletivo** => Todos os participantes são empreendedores
 
 > Pode-se Inovar a nível :
-> De Produto, processo ou de modo organizacional 
+> De Produto, processo ou de modo organizacional (marketing)
 
 
 ## Ciclo de Vida de uma Empresa
@@ -99,6 +99,8 @@
 **EBO** => <mark style="color: red; background-color: transparent">(Teste)</mark>
 
 **MBI** => <mark style="color: red; background-color: transparent">(Teste)</mark>
+
+**Matérias Subsidiárias** => 
 
 ***
 
