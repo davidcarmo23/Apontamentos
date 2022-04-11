@@ -297,4 +297,13 @@
 
 ![[Pasted image 20220411165326.png]]
 
-## Caracteristicas do 
+## Caracteristicas do Empreendedor
+
+![[Pasted image 20220411170223.png]]
+![[Pasted image 20220411170233.png]]
+
+## Perfil do Empreendedor
+**Veciana** => Tradicional
+![[Pasted image 20220411170342.png]]
+
+**Veciana** => Atual
