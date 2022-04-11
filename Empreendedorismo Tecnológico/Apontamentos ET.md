@@ -412,4 +412,8 @@ Deve responder às seguintes questões
 ![[Pasted image 20220411180838.png]]
 
 
-##
+## Plano de Marketing
+Define como se vende o produto/serviço que a empresa produz ou comercializa
+
+- Politica de Produto => Definir claramento o produto ou serviço que produz e/ou vende
+- Politica de Preço => Definir o preço e condiçõe
