@@ -453,10 +453,15 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 		- Relacionamentos entre a familia e membros do negócio
 		- Plano de controlo das atividades (planeamento da sucessão)
 	- **Problemas Potenciais** associados ao assumir o negócio da Familia
-		- Dificuldade em responder à mudança
-		- Quem decidir assumir o negócio da família tem de se preparar para vir a gerir um negócio de euros, mas também um "negócio" de relações familiares
-		- 
+		![[Pasted image 20220411190933.png]]
+		![[Pasted image 20220411190943.png]]
+		
 - **Retoma de uma Empresa**
+	- Motivações para Vender
+	![[Pasted image 20220411191011.png]]
+	- Vantagens
+
+		![[Pasted image 20220411191051.png]]
 - **Management Buy-out**
 - **Spin-Off**
 - **Franchising** 
