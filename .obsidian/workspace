@@ -7,9 +7,11 @@
         "id": "959db5647d9fb82d",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20220411192149.png"
+            "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220411192149.png",
+                "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20220411192149.png"
+                "file": "Empreendedorismo Tecnológico/Apontamentos ET.md"
               }
             }
           },
@@ -112,25 +114,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "959db5647d9fb82d",
   "lastOpenFiles": [
-    "Pasted image 20220411192149.png",
-    "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf",
     "Empreendedorismo Tecnológico/Apontamentos ET.md",
+    "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md",
+    "Empreendedorismo Tecnológico/Pasted image 20220411192149.png",
+    "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf",
     "Empreendedorismo Tecnológico/Pasted image 20220411170233.png",
     "Empreendedorismo Tecnológico/Pasted image 20220411164847.png",
     "Empreendedorismo Tecnológico/Pasted image 20220411163548.png",
     "Empreendedorismo Tecnológico/Pasted image 20220411162232.png",
     "Empreendedorismo Tecnológico/Apontamentos ET.pdf",
-    "Learning.md",
-    "Estruturação/Cadeiras.md"
+    "Learning.md"
   ]
 }
