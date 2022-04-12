@@ -7,6 +7,8 @@ Exemplo -> para tema https://mixpanel.com
 		- [ ] Talvez adicionar mais conteudo dentro de cada subtopico da lista (exemplos de utilização?)
 	- [x] Definir Paper Elevation dentro da Navbar _>  https://mui.com/pt/customization/how-to-customize/_ //
 	- [x] Definir o listener da window _> https://javascript.plainenglish.io/hiding-dom-elements-in-react-based-on-scrolling-d9a9ef1f1f5
+	- [ ] Animação de Background _> Estrelas https://1stwebdesigner.com/15-css-background-effects/
+	- [ ] Mudar a Paper border pra branco quando começar o scroll
 - [ ] Scrollbar Customizada _>
 - [ ] About Us Page _> 
 	- [ ] Catchy Headline
