@@ -12,9 +12,9 @@ Exemplo -> para tema https://mixpanel.com
 - [ ] Scrollbar Customizada _> https://www.thisdot.co/blog/creating-custom-scrollbars-with-react
 - [ ] About Us Page _> 
 	- [x] Catchy Headline
-	- [ ] Body that explains Mission
+	- [x] Body that explains Mission
 	- [ ] Description of benefits to customers
-	- [ ] Interesting statistics etc...
+	- [ ] Interesting statistics etc... _> grid view?_
 - [ ] Diary Page _> 
 	- [ ] Introduzir novo registo _> Div em que criamos um form para este registo_
 	- [ ] Visualizar antigos registos (Permitir edição destes registos antigos) _> Grid view com registos diferentes (class de container) para mostrar um resumo básico do registo + com clique abrir um popup com mais info
