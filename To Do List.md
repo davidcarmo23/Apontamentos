@@ -17,7 +17,7 @@ Exemplo -> para tema https://mixpanel.com
 	- [x] Interesting statistics etc... _> grid view_
 - [ ] Diary Page _> 
 	- [ ] Introduzir novo registo _> Div em que criamos um form para este registo_
-	- [ ] Visualizar antigos registos (Permitir edição destes registos antigos) _> Grid view com registos diferentes (class de container) para mostrar um resumo básico do registo + com clique abrir um popup com mais info
+	- [ ] Visualizar antigos registos (Permitir edição destes registos antigos) _> Grid view com registos diferentes (Ver Cards) para mostrar um resumo básico do registo + com clique abrir um popup (Ver Dialog) com mais info
 - [ ] Calculadoras Page _> Grid com várias calculadoras necessárias dentro da àrea (necessário uma classe para permitir adição de mais cálculos por parte do admin a partir do dashboard)
 - [ ] Animações  _> Introdução de texto , imagens , menu Icons etc
 	- [ ] Animar Botões de Menu _> 
