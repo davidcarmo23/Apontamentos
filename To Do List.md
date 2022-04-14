@@ -14,7 +14,7 @@ Exemplo -> para tema https://mixpanel.com
 	- [x] Catchy Headline
 	- [x] Body that explains Mission
 	- [ ] Description of benefits to customers
-	- [ ] Interesting statistics etc... _> grid view?_
+	- [x] Interesting statistics etc... _> grid view_
 - [ ] Diary Page _> 
 	- [ ] Introduzir novo registo _> Div em que criamos um form para este registo_
 	- [ ] Visualizar antigos registos (Permitir edição destes registos antigos) _> Grid view com registos diferentes (class de container) para mostrar um resumo básico do registo + com clique abrir um popup com mais info
@@ -25,4 +25,4 @@ Exemplo -> para tema https://mixpanel.com
 	- [ ] Conteúdo fora de vista _>  
 - [ ] Botão para dar Scroll para topo da página (quando se chega ao fim da mesma)  _>  https://reactjsexample.com/a-react-component-that-scrolls-to-the-top-of-a-page/ // 
 - [ ] Tornar tamanho de textfields responsivos _> https://codesandbox.io/s/textfield-with-media-query-gcoy0?fontsize=14&hidenavigation=1&theme=dark&file=/demo.js
-- [ ] Escolher Fonts _> Merryweather (headings) falta ___ (body) e ___ (links) 
+- [x] Escolher Fonts _> Merryweather (headings) falta  Roboto (body) e ___ (links) 
