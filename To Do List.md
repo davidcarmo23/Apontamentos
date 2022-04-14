@@ -11,7 +11,7 @@ Exemplo -> para tema https://mixpanel.com
 	- [ ] Mudar a Paper border pra branco quando começar o scroll
 - [ ] Scrollbar Customizada _> https://www.thisdot.co/blog/creating-custom-scrollbars-with-react
 - [ ] About Us Page _> 
-	- [ ] Catchy Headline
+	- [x] Catchy Headline
 	- [ ] Body that explains Mission
 	- [ ] Description of benefits to customers
 	- [ ] Interesting statistics etc...
