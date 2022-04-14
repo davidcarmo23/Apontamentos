@@ -9,7 +9,7 @@ Exemplo -> para tema https://mixpanel.com
 	- [x] Definir o listener da window _> https://javascript.plainenglish.io/hiding-dom-elements-in-react-based-on-scrolling-d9a9ef1f1f5
 	- [ ] Animação de Background _> Estrelas https://1stwebdesigner.com/15-css-background-effects/
 	- [ ] Mudar a Paper border pra branco quando começar o scroll
-- [ ] Scrollbar Customizada _>
+- [ ] Scrollbar Customizada _> https://www.thisdot.co/blog/creating-custom-scrollbars-with-react
 - [ ] About Us Page _> 
 	- [ ] Catchy Headline
 	- [ ] Body that explains Mission
@@ -23,6 +23,6 @@ Exemplo -> para tema https://mixpanel.com
 	- [ ] Animar Botões de Menu _> 
 	- [ ] Imagens  _> 
 	- [ ] Conteúdo fora de vista _>  
-- [ ] Botão para dar Scroll para topo da página (quando se chega ao fim da mesma)  _>  https://reactjsexample.com/a-react-component-that-scrolls-to-the-top-of-a-page/ // https://www.thisdot.co/blog/creating-custom-scrollbars-with-react
+- [ ] Botão para dar Scroll para topo da página (quando se chega ao fim da mesma)  _>  https://reactjsexample.com/a-react-component-that-scrolls-to-the-top-of-a-page/ // 
 - [ ] Tornar tamanho de textfields responsivos _> https://codesandbox.io/s/textfield-with-media-query-gcoy0?fontsize=14&hidenavigation=1&theme=dark&file=/demo.js
 - [ ] Escolher Fonts _> Merryweather (headings) falta ___ (body) e ___ (links) 
