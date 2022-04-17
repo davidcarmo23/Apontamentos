@@ -21,7 +21,7 @@
 
 ![[Pasted image 20220411145022.png]]
 ## Tipos de Empreendedorismo
-- **Empreendedorismo a nível Individua** => Individuo
+- **Empreendedorismo a nível Individual** => Individuo
 - **Empreendedorismo a nível Organizacional** => Organização/Empresa
 - **Empreendedorismo a nível Grupal** => Firmas
 - **Empreendedorismo Coletivo** => Todos os participantes são empreendedores

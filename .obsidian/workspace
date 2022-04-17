@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -114,12 +115,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "959db5647d9fb82d",
   "lastOpenFiles": [
