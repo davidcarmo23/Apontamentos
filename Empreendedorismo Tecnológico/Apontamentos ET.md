@@ -211,7 +211,7 @@
 > #### Critério Qualitativos
 > 	- Mercado (Quotas) => As PME podem ter maior quotas em nichos de mercado
 > 	- Tipo de Gestão => Grandes Empresas é gestão Profissional
-> 	- Independência Finanaceira => PME não precisam de ser filial a uma Grande Empresa
+> 	- Independência Financeira => PME não precisam de ser filial a uma Grande Empresa
 
 ## Número de Trabalhadores
 
@@ -247,7 +247,7 @@
 	R =>
 	 
 	P => Diga quais os 3 pontos da Tipologia de Porter
-	R =>
+	R => Diferên
 
 
 ***
