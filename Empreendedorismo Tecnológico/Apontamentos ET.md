@@ -407,7 +407,7 @@
 - **Perfil da gestão**
 	- Apresentação dos perfil dos gestores e principais colaboradores acompanhado com o seu curriculo
 	- Estrutura organizacional da empresa , incluindo titulos e niveis de responsabilidade
-	- Descrição das realizações e experiencia dos principais responsaveis da empresa
+	- Descrição das realizações e experiência dos principais responsáveis da empresa
 	- Estrutura de RH atual e a evolução desejada
 	- Apresentação dos profissionais externos
 
@@ -420,7 +420,7 @@ Deve responder às seguintes questões
 4,5,6 e 7 => **Pespetiva Interna**
 
 **Recolha de Informação**
-- **Estatisticas do INE**
+- **Estatisticas do INE (Instituto Nacional de Estatística)**
 	- Montante do Consumo Global
 	- Dimensão da população
 	- Crescimento da população
