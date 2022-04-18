@@ -276,7 +276,7 @@
 	- Diferenciação
 	- Liderança de Custos
 	- Enfoque ou Concentração
-- **Tipologia de Ansoff** **Matriz de Ansoff** =>
+	- **Tipologia de Ansoff** **Matriz de Ansoff** =>
 	- Penetração de Mercado <mark style="color: #00FFFF; background-color: transparent">(PA + CA)</mark>
 	- Desenvolvimento de Mercado <mark style="color: #00FFFF; background-color: transparent">(PA + CN)</mark>
 	- Desenvolvimento de Produto <mark style="color: #00FFFF; background-color: transparent">(PN + CA)</mark>
