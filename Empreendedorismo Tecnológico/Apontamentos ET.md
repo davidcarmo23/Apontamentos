@@ -175,9 +175,9 @@
 
 **Matriz de Ansoff** =>
 
-**MBO** => <mark style="color: red; background-color: transparent">(Teste)</mark>
+**MBO** => <mark style="color: red; background-color: transparent">(Teste)</mark> Management Buyout
 
-**EBO** => <mark style="color: red; background-color: transparent">(Teste)</mark>
+**EBO** => <mark style="color: red; background-color: transparent">(Teste)</mark>Leveraged Buyout
 
 **MBI** => <mark style="color: red; background-color: transparent">(Teste)</mark>
 
@@ -234,7 +234,7 @@
 ## Principais funções de um gestor
 - **Planeamento**
 - **Organização**
-- **Direção **
+- **Direção**
 	- **Liderança**
 	- **Comunicação**
 	- **Cooperação**
