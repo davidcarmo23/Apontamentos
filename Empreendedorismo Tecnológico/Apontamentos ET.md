@@ -445,10 +445,10 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 
 ## Estratégias de Entrada na Função Empresarial
 - **Criação de Raiz de uma Nova Empresa**
-- **Assumir o Negócio de Familia**
+- **Assumir o Negócio de Família**
 	- Objetivos das EF (Empresas Familiares)
 		- São consistentes
-		- Motivações e caracteristicas do fundador influenciam a definição dos objetivos
+		- Motivações e características do fundador influenciam a definição dos objetivos
 		- Fundador detém o controlo da empresa mas o crescimento e desenvolvimento dos membros da familia é o objetivo principal
 		- Os objetivos do negócio e da familia podem tornar-se conflituosos
 		- Os objetivos de negócio necessitam de ser mudados como resultado das necessidades da familia
