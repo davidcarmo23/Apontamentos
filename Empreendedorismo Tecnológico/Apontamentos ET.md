@@ -177,9 +177,9 @@
 
 **MBO** => <mark style="color: red; background-color: transparent">(Teste)</mark> Management Buyout
 
-**EBO** => <mark style="color: red; background-color: transparent">(Teste)</mark>Leveraged Buyout
+**LBO** => <mark style="color: red; background-color: transparent">(Teste)</mark>Leveraged Buyout
 
-**MBI** => <mark style="color: red; background-color: transparent">(Teste)</mark>
+**MBI** => <mark style="color: red; background-color: transparent">(Teste)</mark>Management Buyin
 
 ![[Pasted image 20220411191343.png]]
 
