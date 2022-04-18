@@ -34,3 +34,9 @@ Exemplo -> para tema https://mixpanel.com
 - [ ] Função Callback
 - [ ] Limitação do Nº de noticias de tópico com config File
 - [ ] Noticias gravadas em Files
+- [ ] Ao bater no limite de Nº de noticias passar 50% para File backup e eliminar do ficheiro original
+- [ ] Noticia
+	- [ ] Tópico
+	- [ ] Produtor
+	- [ ] Limite de Caracteres
+	- [ ] Timestamp
