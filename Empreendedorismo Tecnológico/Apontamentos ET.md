@@ -424,10 +424,10 @@ Deve responder às seguintes questões
 	- Montante do Consumo Global
 	- Dimensão da população
 	- Crescimento da população
-- **Estatisticas de Associações**
+- **Estatísticas de Associações**
 	- Consumos por sector
 	- Consumos por tipo de clientela
-- **Estatisticas do Banco de Portugal**
+- **Estatísticas do Banco de Portugal**
 	- Situação económica do país, investimento, poder de compra...
 
 ## Passos para fazer estudos de Mercado
@@ -437,10 +437,10 @@ Deve responder às seguintes questões
 ## Plano de Marketing
 Define como se vende o produto/serviço que a empresa produz ou comercializa
 
-- **Politica de Produto** => Definir claramento o produto ou serviço que produz e/ou vende
-- **Politica de Preço** => Definir o preço e condições de venda
-- **Politica de promoção/comunicação** => Como divulgar o produto/serviço ao mercado
-- **Politica de Distribuição** => Qual a via a utilizar para que o produto/serviço chegue ao cliente
+- **Política de Produto** => Definir claramente o produto ou serviço que produz e/ou vende
+- **Política de Preço** => Definir o preço e condições de venda
+- **Política de promoção/comunicação** => Como divulgar o produto/serviço ao mercado
+- **Política de Distribuição** => Qual a via a utilizar para que o produto/serviço chegue ao cliente
 
 
 ## Estratégias de Entrada na Função Empresarial
