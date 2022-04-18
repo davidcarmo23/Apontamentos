@@ -1,4 +1,4 @@
-#todo
+#projeto
 Exemplo -> para tema https://mixpanel.com
 - [ ] Hero Section Page(Homepage) _>  https://mbcreative.ca/blog/15-hero-section-design-inspiration/
 	- [x] (Hero) What is this?
@@ -28,3 +28,7 @@ Exemplo -> para tema https://mixpanel.com
 - [ ] Botão para dar Scroll para topo da página (quando se chega ao fim da mesma)  _>  https://reactjsexample.com/a-react-component-that-scrolls-to-the-top-of-a-page/ // 
 - [x] Tornar tamanho de textfields responsivos _> https://codesandbox.io/s/textfield-with-media-query-gcoy0?fontsize=14&hidenavigation=1&theme=dark&file=/demo.js
 - [x] Escolher Fonts _> Merryweather (headings) falta  Roboto (body) e ___ (links) 
+
+
+#todo
+- [ ] Ver 

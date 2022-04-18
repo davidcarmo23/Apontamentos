@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
+            "file": "To Do List.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:#todop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 323,
-    "collapsed": true
+    "width": 323
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empreendedorismo Tecnológico/Apontamentos ET.md",
+                "file": "To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empreendedorismo Tecnológico/Apontamentos ET.md"
+                "file": "To Do List.md"
               }
             }
           },
@@ -120,15 +120,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "959db5647d9fb82d",
   "lastOpenFiles": [
+    "To Do List.md",
     "Empreendedorismo Tecnológico/Apontamentos ET.md",
     "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf",
     "Estruturação/Cadeiras.md",
-    "To Do List.md",
     "Empreendedorismo Tecnológico/Apontamentos ET.pdf",
     "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md",
     "Empreendedorismo Tecnológico/Pasted image 20220411192149.png",
