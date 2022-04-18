@@ -85,7 +85,7 @@
 ## Fatores que impulsionam/retraem o Empreendedorismo (Bloodgood)
 - **Sistema de apoio social e familiar**
 - **Fontes de financiamento**
-- Confiaça dos futuros **trabalhadores**
+- Confiança dos futuros **trabalhadores**
 - Acessibilidade dos **Clientes** e manifestação clara das suas necessidades
 - Capacidade de angariar **fornecedores**
 - **Cultura Local**
