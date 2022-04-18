@@ -31,4 +31,6 @@ Exemplo -> para tema https://mixpanel.com
 
 
 #todo
-- [ ] Ver 
+- [ ] Função Callback
+- [ ] Limitação do Nº de noticias de tópico com config File
+- [ ] Noticias gravadas em Files
