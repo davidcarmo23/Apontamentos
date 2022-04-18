@@ -247,7 +247,7 @@
 	R =>
 	 
 	P => Diga quais os 3 pontos da Tipologia de Porter
-	R => Diferên
+	R => Diferênciação, Concentração e Liderança de Custos
 
 
 ***
