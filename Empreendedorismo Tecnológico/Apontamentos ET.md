@@ -173,8 +173,6 @@
 
 **Análise Externa** => Ameaças e Oportunidades
 
-**Matriz de Ansoff** =>
-
 **MBO** => <mark style="color: red; background-color: transparent">(Teste)</mark> Management Buyout
 
 **LBO** => <mark style="color: red; background-color: transparent">(Teste)</mark>Leveraged Buyout
@@ -284,6 +282,8 @@
 	- Desenvolvimento de Produto <mark style="color: #00FFFF; background-color: transparent">(PN + CA)</mark>
 	- Diversificação <mark style="color: #00FFFF; background-color: transparent">(PN + CN)</mark>
 
+
+**Matriz de Ansoff** =>
 | ------------------  | Abreviação |
 | ------------------- | ---------- |
 | Consumidores Atuais | CA         |
