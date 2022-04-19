@@ -522,4 +522,9 @@ O **Conflito entre sócios** é um dos problemas mais frequentes nas empresas re
 
 ## Doenças Infantis
 - Alguns empresários sentem uma necessidade forte de mostrar sucesso, através de aspetos visíveis da sua vida.
-- 
+	- Usar fundos da empresa para mostrar um melhor nivel de vida
+	- Etc...
+- Toda esta “euforia” relacionada com os primeiros sucessos podem fazer com que a empresa seja direcionada para uma **descapitalização precoce**.
+- Diversificação prematura de atividades. Muitos empresários sentem uma necessidade incontrolável de criar negócios.
+	- A diversificação descontrolada dos negócios geralmente apenas mostram despesas à empresa por falta de planeamento por parte do empresário
+- Querer imitar as grandes empresas. Algumas empresas, criadas com uma dimensão pequena, têm a ambição honrosa de querer ser grandes empresas. Não há qualquer problema nessa vontade de crescer e desenvolver-se!
