@@ -519,3 +519,7 @@ O **Conflito entre sócios** é um dos problemas mais frequentes nas empresas re
 - O **Plano de Negócios** é um guia precioso, mas não passa disso mesmo, de um documento que se vai ajustando à medida que a realidade mostra que certos pressupostos não têm fundamento.
 - O **Plano de Negócios** é o primeiro exercício estratégico que o empresário faz, mas logo a seguir terá que concentrar-se no trabalho operativo para levar a sua ideia empresarial avante. 
 - O **empresário** terá que proceder constantemente aos ajustes que a intuição lhe ditar para a sobrevivência da empresa.
+
+## Doenças Infantis
+- Alguns empresários sentem uma necessidade forte de mostrar sucesso, através de aspetos visíveis da sua vida.
+- 
