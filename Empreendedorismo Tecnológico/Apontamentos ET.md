@@ -505,4 +505,11 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 ## Criação da Equipa de Trabalho
 **Membros**
 
-- **Diretivo** => Analitico , prefere atuar em situações estruturadas e de acodd
+- **Diretivo** => Analitico , prefere atuar em situações estruturadas e de acordo com planos
+- **Empresário** => Tende a atuar com base na sua intuição, sente-se bem a tomar decisões em ambientes complexos
+
+**Estes dois membros complementam-se** . O empresário necessita que o diretivo planifique, organize e controle os meios e as pessoas. O diretivo necessita que o empresário identifique as oportunidades de mercado, tenha ideias sobre novos produtos, conceba estratégias inovadoras e que com a sua intuição antecipe as ameaças do meio envolvente
+
+
+## Conflitos entre Sócios
+O **Conflito entre sócios** é um dos problemas mais frequentes nas empresas recentemente criadas
