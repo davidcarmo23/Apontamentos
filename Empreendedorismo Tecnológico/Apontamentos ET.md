@@ -512,4 +512,10 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 
 
 ## Conflitos entre Sócios
-O **Conflito entre sócios** é um dos problemas mais frequentes nas empresas recentemente criadas
+O **Conflito entre sócios** é um dos problemas mais frequentes nas empresas recentemente criadas. A redução do número de sócios raramente acontece de forma pacifica
+
+## Plano de Negócios
+
+- O Plano de Negócios é um guia precioso, mas não passa disso mesmo, de um documento que se vai ajustando à medida que a realidade mostra que certos pressupostos não têm fundamento.
+- O Plano de Negócios é o primeiro exercício estratégico que o empresário faz, mas logo a seguir terá que concentrar-se no trabalho operativo para levar a sua ideia empresarial avante. 
+- O empresário terá que proceder constantemente aos ajustes que a intuição lhe ditar para a sobrevivência da empresa.
