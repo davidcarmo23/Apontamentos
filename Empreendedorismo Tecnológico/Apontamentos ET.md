@@ -502,3 +502,7 @@ Define como se vende o produto/serviço que a empresa produz ou comercializa
 **Vantagens**
 ![[Pasted image 20220411192149.png]]
 
+## Criação da Equipa de Trabalho
+**Membros**
+
+- **Diretivo** => Analitico , prefere atuar em situações estruturadas e de acodd
