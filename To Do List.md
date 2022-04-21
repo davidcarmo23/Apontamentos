@@ -32,11 +32,14 @@ Exemplo -> para tema https://mixpanel.com
 
 #todo
 - [ ] Função Callback
-- [ ] Limitação do Nº de noticias de tópico com config File
+- [x] Limitação do Nº de noticias de tópico com config File
 - [x] Noticias gravadas em Files
-- [ ] Ao bater no limite de Nº de noticias passar 50% para File backup e eliminar do ficheiro original
+- [x] Ao bater no limite de Nº de noticias passar 50% para File backup e eliminar do ficheiro original
 - [x] Noticia
 	- [x] Tópico
 	- [x] Produtor
 	- [x] Limite de Caracteres
 	- [x] Timestamp
+- [ ] **Resumo de ASR**
+- [ ] **Resumo de SI**
+- [ ] **Resumo de SD**
