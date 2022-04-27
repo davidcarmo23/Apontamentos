@@ -24,7 +24,9 @@ Em máquinas **X** os volumes são montados numa diretoria dentro de outra com o
 No entanto isto não assegura **Redundância de Dados** e sem isto estamos sempre em risco.
 
 **RAID**
+Tecnologia de virtualização de armazenamento, combine vários discos fisícos em uma ou mais unidade lógica para assegurar **Redundância de Dados**.
 
+Existem várias variações de **Raid**
 ## Filesystems
 
 
