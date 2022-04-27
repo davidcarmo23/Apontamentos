@@ -40,6 +40,8 @@ A **Fibra** é de arquitetura SAN apesar de poder utilizar outros tipos de rede.
 **Benefícios**
 - Consolidação de armazenamento
 - Partilha de dados
+- Escalabilidade não é perturbadora para o crescimento
+- Backup e recuperação melhorados
 - 
 
 ### **NAS**
