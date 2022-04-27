@@ -42,6 +42,10 @@ A **Fibra** é de arquitetura SAN apesar de poder utilizar outros tipos de rede.
 - Partilha de dados
 - Escalabilidade não é perturbadora para o crescimento
 - Backup e recuperação melhorados
+- Tape Polling - 
+- Movimento de dados independente do servidor e LAN
+- Desempenho elevado
+- 
 - 
 
 ### **NAS**
