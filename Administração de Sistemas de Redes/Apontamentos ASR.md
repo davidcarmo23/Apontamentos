@@ -71,7 +71,8 @@ A **Fibra** é de arquitetura SAN apesar de poder utilizar outros tipos de rede.
 No entanto as linhas de divisão entre as duas está a desaparecer e o facto é que ambas as tecnologias se complementam uma à outra
 
 ### **Canal de Fibra**
-Estabelecido no ambiente de sistemas aberto como o underlining 
+- Estabelecido no ambiente de sistemas aberto como o **underlining** da arquitetura de SAN
+- É estruturado com camadas independentes. Existem 5 camadas, 0 é a mais baixa. As **camadas físicas** é da 0 à 2 , estas transportam os atributos físicos da rede e transporte de dados criados pelos protocolos de nível mais elevado como o
 
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
