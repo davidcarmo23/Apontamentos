@@ -47,7 +47,10 @@ Existem várias variações de **Raid**:
 
 ### **Coisas que o RAID não faz**
 - Não equaciona 100% do uptime
-- Não substitui cópias de segurança (Backups)
+- Não substitui cópias de segurança (**Backups**)
+- Não protege contra **corrupção, erros humanos ou problemas de segurança**
+- Não permite necessariamente aumentar dinamicamente o **tamanho do array**
+- Nem sempre é a melhor opção para **virtualização** e **high-availability failover**
 ## Filesystems
 
 
