@@ -99,7 +99,13 @@ No entanto as linhas de divisão entre as duas está a desaparecer e o facto é 
 - **FC-2**
 	- ![[Pasted image 20220427194411.png]]
 
-**Endereços d**
+### **Endereços de FC**
+
+São constituidos por:
+- **FC Node** - um node tem vários ports
+- **FC Port** - Ponto final de um link
+- **Port ID** - Endereço único de 24-bits para um port
+- 
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
 Um disco tem partições , cada partição é um volume esta divisão pode ser mais complexa e um volume pode extender-se por vários discos. 
