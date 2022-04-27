@@ -42,8 +42,12 @@ Existem várias variações de **Raid**:
  *Não é comum ser utilizado* *
 
 **RAID implementado por Software ou Hardware**
-- **OS** consegue lidar com a redundância de dados e o "Strip" 
+- **OS** consegue lidar com a redundância de dados e o "Stripping"
+- **HW/ Controladores HD** dedicados para fazer o trabalho pelo OS
 
+### **Coisas que o RAID não faz**
+- Não equaciona 100% do uptime
+- Não substitui cópias de segurança (Backups)
 ## Filesystems
 
 
