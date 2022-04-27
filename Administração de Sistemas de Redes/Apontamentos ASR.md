@@ -13,7 +13,9 @@
 	- Sobreescrever ficheiros
 	- Virús , trojans, ransomware....
 
-**NAS** (Network Attached Storage ) - Um aparelho dedicado
+
+Aparelhos dedicados para o armazenamento de um rede de servidor.
+**NAS** (Network Attached Storage ) 
  
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
