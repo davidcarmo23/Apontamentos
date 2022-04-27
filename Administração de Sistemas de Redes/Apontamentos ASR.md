@@ -129,6 +129,13 @@ São constituidos por:
 		- IP
 		- AAL5
 		- IEEE 802.2
+
+Redes baseadas em **Canais de Fibra** suportam 3 tipos de **topologias** :
+- **Ponto a Ponto** -> é a topologia mais fácil de implementar e de administrar, a distância entre nodos pode chegar até 10km
+- **Loop** (arbitrário) - shared media
+- **Switched**
+
+
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
 Um disco tem partições , cada partição é um volume esta divisão pode ser mais complexa e um volume pode extender-se por vários discos. 
