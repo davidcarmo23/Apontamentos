@@ -70,6 +70,9 @@ A **Fibra** é de arquitetura SAN apesar de poder utilizar outros tipos de rede.
 
 No entanto as linhas de divisão entre as duas está a desaparecer e o facto é que ambas as tecnologias se complementam uma à outra
 
+### **Canal de Fibra**
+Estabelecido no ambiente de sistemas aberto como o underlining 
+
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
 Um disco tem partições , cada partição é um volume esta divisão pode ser mais complexa e um volume pode extender-se por vários discos. 
