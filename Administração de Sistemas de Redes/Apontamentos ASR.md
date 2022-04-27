@@ -94,8 +94,12 @@ No entanto as linhas de divisão entre as duas está a desaparecer e o facto é 
 		- 8 bits de dados são codificados em 10 bits de caracteres de transmissão
 		- 4 caracteres de transmissão fazem uma palavra de transmissão
 		- Running Disparity soma os 1's e 0's e pode ser positiva e negativa, dependendo deste valor um dos dois valores de caracteres de transmissão é escolhido para cada byte de dados para conseguir um código livre de DC
-		- 
+		- Um caracter especial marca o inicio de Ordered Sets (control sequences)
+			- Start of Frame (SOF), End of Frame (EOF), Link Reset (LR)...
+- **FC-2**
+	- ![[Pasted image 20220427194411.png]]
 
+**Endereços d**
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
 Um disco tem partições , cada partição é um volume esta divisão pode ser mais complexa e um volume pode extender-se por vários discos. 
