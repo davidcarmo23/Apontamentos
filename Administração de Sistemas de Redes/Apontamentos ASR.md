@@ -132,8 +132,13 @@ São constituidos por:
 
 Redes baseadas em **Canais de Fibra** suportam 3 tipos de **topologias** :
 - **Ponto a Ponto** -> é a topologia mais fácil de implementar e de administrar, a distância entre nodos pode chegar até 10km
-- **Loop** (arbitrário) - shared media
-- **Switched**
+	- ![[Pasted image 20220427223832.png]]
+- **Loop** (arbitrário) - shared media -> Similar ao conceito de Ethernet partilhar, de uso raro mas principalmente para JBOD (Just a Bunch of Disks). Um protocolo de Arbitration determina quem pode aceder a media
+	- ![[Pasted image 20220427223856.png]]
+- **Switched** -> Funcionam de maneira semelhante aos switches tradicionais para fornecerem mais bandwith, performance escalável , maior número de dispositivos e em alguns casos um aumento de redundância. Variam em números de ports e tipos de media que suportam.
+	- Vários switches podem ser ligados para formar um switch fabric capaz de suportar um maior número de servidores host e subsistemas de armazenamento.
+	- ![[Pasted image 20220427224602.png]]
+
 
 
 ## Protocolos para partilhar volumes
