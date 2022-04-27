@@ -33,7 +33,14 @@ Aparelhos dedicados para o armazenamento de um servidor.
 Ao longo dos anos verificamos um **aumento da necessidade de uma maior velocidade para armazenamento e rede** .
 
 ## **SAN**
-É uma **rede de alta velocidade especializada e dedicada em juntar servidores e armazenamento** inclui discos, arrays de discos, ... . O **armazenamento** é separado dos **processadores**, tem **alta capacidade, disponibilidade e esca**
+É uma **rede de alta velocidade especializada e dedicada em juntar servidores e armazenamento** inclui discos, arrays de discos, ... . O **armazenamento** é separado dos **processadores**, tem **alta capacidade, disponibilidade e escalabilidade** e também **fácil configuração e reconfiguração**.
+
+A **Fibra** é de arquitetura SAN apesar de poder utilizar outros tipos de rede.
+
+**Benefícios**
+- Consolidação de armazenamento
+- Partilha de dados
+- 
 
 ### **NAS**
 - É um dispositivo dedicado para armazenamento, opera em **modo cliente/servidor** 
