@@ -28,8 +28,13 @@ Aparelhos dedicados para o armazenamento de um servidor.
 
 **Exemplificação**
 
+![[Pasted image 20220427190637.png]]
+
+
 ## **SAN**
  Ao longo dos anos verificamos um **aumento da necessidade de uma maior velocidade para armazenamento e rede** .
+
+### **NAS**
  
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
