@@ -33,10 +33,14 @@ Existem várias variações de **Raid**:
 	- Aumenta a velocidade de acesso
 - RAID 1
 	- Copia os dados entre os discos
-	- Assegura redundân
+	- Assegura redundância
 - RAID 2*. 3*, 4, 5, 6
+	- Dados "Stripped" (bit, Byte, blocos, distribuído por blocos, distribuído duplamente por blocos ) + correção de erros
 - RAID 10
+	- RAID 0 + RAID 1
 
+ ** *Não é comum ser utilizado* *
+ 
 ## Filesystems
 
 
