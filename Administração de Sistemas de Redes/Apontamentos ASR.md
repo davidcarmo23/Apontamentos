@@ -80,6 +80,14 @@ No entanto as linhas de divisão entre as duas está a desaparecer e o facto é 
 - **Full duplex médio**
 - Os **canais** são estabelecidos entre o **originador** e o **respondedor**
 - **Rácio de transferência** entre 100MB's até Gigabits's
+- **Distância** maior que 10km (single mode fiber)
+- Multi-layer stack functions (não mapeadas para o modelo OSI)
+
+**Camadas**
+- FC-0
+	- Especifica o link fisico
+		- Media, transmissorre
+- FC-1
 
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
