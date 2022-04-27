@@ -28,10 +28,12 @@ Exemplo -> para tema https://mixpanel.com
 - [ ] Botão para dar Scroll para topo da página (quando se chega ao fim da mesma)  _>  https://reactjsexample.com/a-react-component-that-scrolls-to-the-top-of-a-page/ // 
 - [x] Tornar tamanho de textfields responsivos _> https://codesandbox.io/s/textfield-with-media-query-gcoy0?fontsize=14&hidenavigation=1&theme=dark&file=/demo.js
 - [x] Escolher Fonts _> Merryweather (headings) falta  Roboto (body) e ___ (links) 
+- [ ] Sistema de autenticação (NODEjs testar os pedidos __> Ver Links de apoio do stor no slack)
+- [ ] Alterar os items do Grid de diário para a função de inserção 
 
 
 #todo
-- [ ] Função Callback
+- [x] Função Callback
 - [x] Limitação do Nº de noticias de tópico com config File
 - [x] Noticias gravadas em Files
 - [x] Ao bater no limite de Nº de noticias passar 50% para File backup e eliminar do ficheiro original
@@ -41,5 +43,11 @@ Exemplo -> para tema https://mixpanel.com
 	- [x] Limite de Caracteres
 	- [x] Timestamp
 - [ ] **Resumo de ASR**
+	- [ ] Aula 1 
+	- [ ] Aula 2
+	- [ ] Aula 3
+	- [ ] Aula 4
+	- [ ] Aula 5
+	- [x] Aula 6
 - [ ] **Resumo de SI**
 - [ ] **Resumo de SD**
