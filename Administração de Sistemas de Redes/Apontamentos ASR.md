@@ -67,6 +67,7 @@ A **Fibra** é de arquitetura SAN apesar de poder utilizar outros tipos de rede.
 *SAN VS NAS* - Tradicionalmente
 - **NAS** é utilizado para o acesso de baixo volume a uma grande quantidade de armazenamento por muitos utilizadores
 - **SAN** é a solução para armazenamento de terabytes e para acesso múltiplo e simultaneo a ficheiros como streaming de áudio e vídeo.
+
 No entanto as linhas de divisão entre as duas está a desaparecer e o facto é que ambas as tecnologias se complementam uma à outra
 
 ## Protocolos para partilhar volumes
