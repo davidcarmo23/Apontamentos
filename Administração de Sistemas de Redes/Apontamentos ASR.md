@@ -83,7 +83,7 @@ No entanto as linhas de divisão entre as duas está a desaparecer e o facto é 
 - **Distância** maior que 10km (single mode fiber)
 - Multi-layer stack functions (não mapeadas para o modelo OSI)
 
-### **Camadas**
+### **Camadas do Canal de Fibra**
 - **FC-0**
 	- Especifica o link fisico
 		- Media, transmissores, recetores e conectores
@@ -92,6 +92,8 @@ No entanto as linhas de divisão entre as duas está a desaparecer e o facto é 
 - **FC-1**
 	- 8B/10B encoding
 		- 8 bits de dados são codificados em 10 bits de caracteres de transmissão
+		- 4 caracteres de transmissão fazem uma palavra de transmissão
+		- Running Disparity soma os 1's e 0's e pode ser positiva e negativa, dependendo deste valor um dos dois valores de caracteres de transmissão é escolhido para cada byte de dados para conseguir um código livre de DC
 		- 
 
 ## Protocolos para partilhar volumes
