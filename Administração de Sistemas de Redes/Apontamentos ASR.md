@@ -106,6 +106,20 @@ São constituidos por:
 - **FC Port** - Ponto final de um link
 - **Port ID** - Endereço único de 24-bits para um port
 - **In Frame Header** - tem dois fields, o endereço de transmissão e o endereço de receção
+
+### **Nomeação e endereçamento de FC**
+- Cada nodo tem por norma um interface fisíco, **N_Port**
+- Cada nodo tem um **nome** de 8 bytes
+- **N_Port ID** - Endereço de port de 24 bits
+- Um N_Port tem uma **ligação ponto a ponto** com outro N_Port
+- Um N_Port pode estar anexado a um port de fabric, **F_Port**
+- A ligação entre fabric switches é via ports de expansão, **E_Ports**
+- Um port de switch, se configurado para qualquer um é um port genérico, **G_Port**
+
+![[Pasted image 20220427195555.png]]
+
+- **FC-3**
+- **FC-4**
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
 Um disco tem partições , cada partição é um volume esta divisão pode ser mais complexa e um volume pode extender-se por vários discos. 
