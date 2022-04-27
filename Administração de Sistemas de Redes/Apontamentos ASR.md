@@ -32,10 +32,12 @@ Aparelhos dedicados para o armazenamento de um servidor.
 
 
 ## **SAN**
- Ao longo dos anos verificamos um **aumento da necessidade de uma maior velocidade para armazenamento e rede** .
+- Ao longo dos anos verificamos um **aumento da necessidade de uma maior velocidade para armazenamento e rede** .
 
 ### **NAS**
- 
+- É um dispositivo dedicado para armazenamento, opera em **modo cliente/servidor** 
+- Está conectadoao servidor de ficheiros via **LAN**
+- 
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
 Um disco tem partições , cada partição é um volume esta divisão pode ser mais complexa e um volume pode extender-se por vários discos. 
