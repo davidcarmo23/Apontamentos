@@ -26,7 +26,17 @@ No entanto isto não assegura **Redundância de Dados** e sem isto estamos sempr
 **RAID**
 Tecnologia de virtualização de armazenamento, combine vários discos fisícos em uma ou mais unidade lógica para assegurar **Redundância de Dados**.
 
-Existem várias variações de **Raid**
+Existem várias variações de **Raid**:
+- RAID 0
+	- Volumes "Stripped"
+	- Distribui os dados pelos discos
+	- Aumenta a velocidade de acesso
+- RAID 1
+	- Copia os dados entre os discos
+	- Assegura redundân
+- RAID 2*. 3*, 4, 5, 6
+- RAID 10
+
 ## Filesystems
 
 
