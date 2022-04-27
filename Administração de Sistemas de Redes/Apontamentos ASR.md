@@ -13,6 +13,7 @@
 	- Sobreescrever ficheiros
 	- Virús , trojans, ransomware....
 
+**NAS** (Network Attached Storage ) - Um aparelho dedicado
  
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
@@ -27,16 +28,16 @@ No entanto isto não assegura **Redundância de Dados** e sem isto estamos sempr
 Tecnologia de virtualização de armazenamento, combine vários discos fisícos em uma ou mais unidade lógica para assegurar **Redundância de Dados**.
 
 Existem várias variações de **Raid**:
-- RAID 0
+- *RAID 0*
 	- Volumes "Stripped"
 	- Distribui os dados pelos discos
 	- Aumenta a velocidade de acesso
-- RAID 1
+- *RAID 1*
 	- Copia os dados entre os discos
 	- Assegura redundância
-- RAID 2*. 3*, 4, 5, 6
+- *RAID 2*. 3*, 4, 5, 6*
 	- Dados "Stripped" (bit, Byte, blocos, distribuído por blocos, distribuído duplamente por blocos ) + correção de erros
-- RAID 10
+- *RAID 10*
 	- RAID 0 + RAID 1
 
  *Não é comum ser utilizado* *
@@ -51,6 +52,9 @@ Existem várias variações de **Raid**:
 - Não protege contra **corrupção, erros humanos ou problemas de segurança**
 - Não permite necessariamente aumentar dinamicamente o **tamanho do array**
 - Nem sempre é a melhor opção para **virtualização** e **high-availability failover**
+
+**Hot Swap** - Substituir o disco sem desligar o sistema.
+
 ## Filesystems
 
 
