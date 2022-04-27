@@ -16,7 +16,9 @@
  
 ## Protocolos para partilhar volumes
 **O que é um volume ?**
-Um disco tem partições , cada partição é um volume
+Um disco tem partições , cada partição é um volume esta divisão pode ser mais complexa e um volume pode extender-se por vários discos. Em **Windows** estes discos podem ser chamados por uma Letra e dois pontos (EX: C:)
+
+Os volume
 ## Filesystems
 
 
