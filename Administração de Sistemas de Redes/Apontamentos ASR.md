@@ -76,7 +76,10 @@ No entanto as linhas de divisão entre as duas está a desaparecer e o facto é 
 
 **Standards**
 
-- Desenhado para o transporte de 
+- Desenhado para o **transporte de vários protocolos** como o HIPPI, IPI, SCSI, IP, Ethernet ...
+- **Full duplex médio**
+- Os **canais** são estabelecidos entre o **originador** e o **respondedor**
+- **Rácio de transferência** entre 100MB's até Gigabits's
 
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
