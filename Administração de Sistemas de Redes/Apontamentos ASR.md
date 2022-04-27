@@ -45,8 +45,11 @@ A **Fibra** é de arquitetura SAN apesar de poder utilizar outros tipos de rede.
 - Tape Polling - 
 - Movimento de dados independente do servidor e LAN
 - Desempenho elevado
-- 
-- 
+- Disponibilidade de clustering de servidores alta
+- Integridade de dados
+- Tolerância de desastres
+- Facilidade de migração de dados
+- Eficiente em termos de custo 
 
 ### **NAS**
 - É um dispositivo dedicado para armazenamento, opera em **modo cliente/servidor** 
@@ -60,6 +63,9 @@ A **Fibra** é de arquitetura SAN apesar de poder utilizar outros tipos de rede.
 **Desvantagem** - Velocidade e latência
 **Fraqueza** - Segurança
 
+
+*SAN VS NAS* - Tradicionalmente
+- NAS é utilizado para o acesso de baixo volume 
 
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
