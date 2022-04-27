@@ -105,7 +105,7 @@ São constituidos por:
 - **FC Node** - um node tem vários ports
 - **FC Port** - Ponto final de um link
 - **Port ID** - Endereço único de 24-bits para um port
-- 
+- **In Frame Header** - tem dois fields, o endereço de transmissão e o endereço de receção
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
 Um disco tem partições , cada partição é um volume esta divisão pode ser mais complexa e um volume pode extender-se por vários discos. 
