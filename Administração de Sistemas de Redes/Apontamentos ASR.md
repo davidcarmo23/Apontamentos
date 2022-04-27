@@ -190,5 +190,36 @@ O **RFC 2625** trata 2 problemas
 - Procedimento para resolver o mapeamento dos endereços
 
 ## IP-SAN
-**Vantagens de IP para SAN**
-- Tecnologia
+### **Vantagens de IP para SAN**
+- Tecnologia omnipresente
+	- Baixo custo de aquisição
+	- Soluções com base no standard
+	- Comodidade económica
+	- Instalada em todas as corporações
+- Baixos custos de manutenção
+	- Tecnologia de rede familiar e ferramentas de manutenção
+	- Provada que é uma infraestrutura de transporte reliable/interoperable
+- Conectividade em larga área
+	- Permite replicação de dados remota e recuperação de desastres
+- Viabilidade a longo prazo
+	- Grande perfil de investimento R&D, roadmap sólido
+
+### **Capacidades de Redes IP**
+
+ ![[Pasted image 20220427230020.png]]
+
+### **Protocolos IP-SAN**
+
+![[Pasted image 20220427230104.png]]
+
+
+
+### **IP - Storage Area Network (SAN)**
+- Armazenamento de rede IP - transportar tráfico de armazenamento por IP
+- Usa TCP, transporte confiável para entrega
+- Pode ser utilizado para data centers locais ou aplicações de busca longa
+- 2 IETF protocolos principais:
+	- iSCSI - Internet SCSI -> permite aceder a armazenamento bloqueado através de um rede TCP/IP como se estivesse anexado localmente
+	- FCIP - Fibre-Channel-over-IP -> utilizado para tunelar frames de canais de fibra por conexões TCP/IP
+
+### **Internet **
