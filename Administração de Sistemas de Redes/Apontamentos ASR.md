@@ -74,7 +74,7 @@ No entanto as linhas de divisão entre as duas está a desaparecer e o facto é 
 - Estabelecido no ambiente de sistemas aberto como o **underlining** da arquitetura de SAN
 - É estruturado com camadas independentes. Existem 5 camadas, 0 é a mais baixa. As **camadas físicas** é da 0 à 2 , estas transportam os atributos físicos da rede e transporte de dados criados pelos protocolos de nível mais elevado como o SCSI , TCP/IP ou FICON.
 
-**Standards**
+### **Standards**
 
 - Desenhado para o **transporte de vários protocolos** como o HIPPI, IPI, SCSI, IP, Ethernet ...
 - **Full duplex médio**
@@ -83,11 +83,16 @@ No entanto as linhas de divisão entre as duas está a desaparecer e o facto é 
 - **Distância** maior que 10km (single mode fiber)
 - Multi-layer stack functions (não mapeadas para o modelo OSI)
 
-**Camadas**
-- FC-0
+### **Camadas**
+- **FC-0**
 	- Especifica o link fisico
-		- Media, transmissorre
-- FC-1
+		- Media, transmissores, recetores e conectores
+	- Abrange um grande variedade de tecnologias suportadas
+	- Open Fiber Control System (OFC)
+- **FC-1**
+	- 8B/10B encoding
+		- 8 bits de dados são codificados em 10 bits de caracteres de transmissão
+		- 
 
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
