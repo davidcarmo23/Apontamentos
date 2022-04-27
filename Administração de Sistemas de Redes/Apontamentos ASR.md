@@ -19,14 +19,17 @@
 	- Sobreescrever ficheiros
 	- Virús , trojans, ransomware....
 
+**3 Formas básicas de armazenamento em rede**
 
 Aparelhos dedicados para o armazenamento de um servidor.
 - **NAS** (Network Attached Storage )
 - **DAS** (Direct Attached Storage) 
 - **SAN** (Storage Area Network)
 
+**Exemplificação**
+
 ## **SAN**
- Ao longo dos anos verificamos um **aumento da necessidade de uma maior velocidade**
+ Ao longo dos anos verificamos um **aumento da necessidade de uma maior velocidade para armazenamento e rede** .
  
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
