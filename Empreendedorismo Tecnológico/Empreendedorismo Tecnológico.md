@@ -4,6 +4,7 @@ ___
 
 ## Notes and Ideas
 - [[Apontamentos ET]]
+- [[Apontamentos ET 2ª Parte]]
 ## Assignments
 > Nenhum 
 ## Lectures

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Administração de Sistemas de Redes/Apontamentos ASR.md",
+            "file": "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administração de Sistemas de Redes/Apontamentos ASR.md",
+                "file": "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administração de Sistemas de Redes/Apontamentos ASR.md"
+                "file": "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md"
               }
             }
           },
@@ -119,11 +119,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "959db5647d9fb82d",
   "lastOpenFiles": [
+    "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md",
+    "Empreendedorismo Tecnológico/Apontamentos ET 2ª Parte.md",
     "Administração de Sistemas de Redes/Apontamentos ASR.md",
     "Administração de Sistemas de Redes/Administração de Sistemas de Rede.md",
     "To Do List.md",
@@ -131,8 +132,6 @@
     "Estruturação/Recursos.md",
     "Estruturação/3º Ano.md",
     "Estruturação/Trabalhos.md",
-    "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md",
-    "Empreendedorismo Tecnológico/Apontamentos ET.md",
-    "Empreendedorismo Tecnológico/EmpreedTecnológico_22.pdf"
+    "Empreendedorismo Tecnológico/Apontamentos ET.md"
   ]
 }
