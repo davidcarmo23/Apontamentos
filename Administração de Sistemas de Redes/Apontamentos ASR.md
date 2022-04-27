@@ -4,15 +4,19 @@
  Dados são o combústivel das organizações modernas. É inevitável em algum ponto perder dados.
 
 **Razões para Perda de Dados**
-- Erros Humanos
+- *Erros Humanos*
 	- Apagar ficheiros
 	- Sobreescrever ficheiros
-- Erros de Software
+- *Erros de Software*
 	- Apagar ficheiros
 	- Ficheiros Corrompidos
 	- Sobreescrever ficheiros
-	- Vir 
+	- Virús , trojans, ransomware....
+
+ 
 ## Protocolos para partilhar volumes
+**O que é um volume ?**
+Um disco tem partições , cada partição é um volume
 ## Filesystems
 
 
