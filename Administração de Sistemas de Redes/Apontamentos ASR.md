@@ -30,16 +30,24 @@ Aparelhos dedicados para o armazenamento de um servidor.
 
 ![[Pasted image 20220427190637.png]]
 
+Ao longo dos anos verificamos um **aumento da necessidade de uma maior velocidade para armazenamento e rede** .
 
 ## **SAN**
-- Ao longo dos anos verificamos um **aumento da necessidade de uma maior velocidade para armazenamento e rede** .
+
 
 ### **NAS**
 - É um dispositivo dedicado para armazenamento, opera em **modo cliente/servidor** 
 - Está conectadoao servidor de ficheiros via **LAN**
 - Protocolo -> NFS (ou CIFS) através de uma rede de IP's
-	- **Network File System** (NFS) - UNIX/LINUX
-	- **Common Internet File System** (CIFS) - Sistema de ficheiros remotos em Windows montado em drives
+	- **Network File System** (NFS) - Unix/Linux
+	- **Common Internet File System** (CIFS) - Sistema de ficheiros remotos em Windows montado no sistema local
+	- **Samba** (SMB) - Linux
+
+**Vantagens** - Sem limitações de distância
+**Desvantagem** - Velocidade e latência
+**Fraqueza** - Segurança
+
+
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
 Um disco tem partições , cada partição é um volume esta divisão pode ser mais complexa e um volume pode extender-se por vários discos. 
