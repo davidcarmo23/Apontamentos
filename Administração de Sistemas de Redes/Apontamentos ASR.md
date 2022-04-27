@@ -15,7 +15,7 @@
 
  
 ## Protocolos para partilhar volumes
-**O que é um volume ?**
+### **O que é um volume ?**
 Um disco tem partições , cada partição é um volume esta divisão pode ser mais complexa e um volume pode extender-se por vários discos. 
 
 Em **Windows** estes discos podem ser chamados por uma Letra e dois pontos (EX: C:).
@@ -23,7 +23,7 @@ Em máquinas **X** os volumes são montados numa diretoria dentro de outra com o
 
 No entanto isto não assegura **Redundância de Dados** e sem isto estamos sempre em risco.
 
-**RAID**
+### **RAID**
 Tecnologia de virtualização de armazenamento, combine vários discos fisícos em uma ou mais unidade lógica para assegurar **Redundância de Dados**.
 
 Existem várias variações de **Raid**:
@@ -39,8 +39,11 @@ Existem várias variações de **Raid**:
 - RAID 10
 	- RAID 0 + RAID 1
 
- ** *Não é comum ser utilizado* *
- 
+ *Não é comum ser utilizado* *
+
+**RAID implementado por Software ou Hardware**
+- **OS** consegue lidar com a redundância de dados e o "Strip" 
+
 ## Filesystems
 
 
