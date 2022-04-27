@@ -14,8 +14,12 @@
 	- Virús , trojans, ransomware....
 
 
-Aparelhos dedicados para o armazenamento de um rede de servidor.
-**NAS** (Network Attached Storage ) 
+Aparelhos dedicados para o armazenamento de um servidor.
+- **NAS** (Network Attached Storage )
+- **DAS** (Direct Attached Storage) 
+- **SAN** (Storage Area Network)
+
+Bottlenecks de ambos
  
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
