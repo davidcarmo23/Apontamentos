@@ -119,6 +119,9 @@ São constituidos por:
 ![[Pasted image 20220427195555.png]]
 
 - **FC-3**
+	- Serviços para múltiplos ports num único nodo
+		- Stripping de discos rigidos
+		- Grupos de caça, mais do que um port responde ao mesmo alias de endereço
 - **FC-4**
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
