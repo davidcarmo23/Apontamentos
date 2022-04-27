@@ -1,4 +1,10 @@
 # Aula 1
+# Aula 2
+# Aula 3
+# Aula 4
+# Aula 5
+# Aula 6
+
 ## Armazenamento
 **Não existe solução para dados perdidos**
  Dados são o combústivel das organizações modernas. É inevitável em algum ponto perder dados.
@@ -19,7 +25,8 @@ Aparelhos dedicados para o armazenamento de um servidor.
 - **DAS** (Direct Attached Storage) 
 - **SAN** (Storage Area Network)
 
-Bottlenecks de ambos
+## **SAN**
+ Ao longo dos anos verificamos um **aumento da necessidade de uma maior velocidade**
  
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
@@ -63,10 +70,4 @@ Existem várias variações de **Raid**:
 
 ## Filesystems
 
-
-# Aula 2
-# Aula 3
-# Aula 4
-# Aula 5
-# Aula 6
 
