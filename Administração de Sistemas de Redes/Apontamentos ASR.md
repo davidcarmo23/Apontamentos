@@ -123,6 +123,12 @@ São constituidos por:
 		- Stripping de discos rigidos
 		- Grupos de caça, mais do que um port responde ao mesmo alias de endereço
 - **FC-4**
+	- Define a aplicação de interfaces para **Upper Layer Protocols** (ULPs)
+		- SCSI
+		- HIPPI
+		- IP
+		- AAL5
+		- IEEE 802.2
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
 Um disco tem partições , cada partição é um volume esta divisão pode ser mais complexa e um volume pode extender-se por vários discos. 
