@@ -34,7 +34,11 @@ Feito por **Regional Internet Registries (RIRs)**
 
 **ISP's** -> Diretamente conectadas ao backbone da internet
 **Tier 2 ISP's** -> Focam-se geralmente em clientes da área de negócios
-**Tier 3 ISP's** -> Fazem 
+**Tier 3 ISP's** -> Fazem agrupamento de ligação à internet em conjunto com os seus contratos para os seus consumidores
+
+## The Need for IPV6
+IPV6 é previsto para ser o sucessor do IPV4, a falta de espaço dentro dos endereços IPV4 tem sido um fator motivador para a mudança
+Previsões mostram que as cinco RIRs vão ficar sem endereços IPV4 entre 2015 e 2020
 
 
 # Aula 6
