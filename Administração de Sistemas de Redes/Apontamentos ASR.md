@@ -18,10 +18,25 @@
 
 ## Special Use IPv4 Addresses 
 **Network and Broadcast addresses** -> Dentro de uma rede o primeiro e último endereços não podem ser atribuidos
-**Loopback addresses**
-**Link-Local addresses**
-**TEST-NET addresses**
-**Experimental addresses**
+**Loopback addresses** -> 127.0.0.1 é um endereço especial que os host's usam para direcionar tráfego para si mesmos
+**Link-Local addresses** -> 69.254.0.0 to 169.254.255.255 (169.254.0.0/16) são endereços que podem ser automaticamente atribuidos ao host local
+**TEST-NET addresses** -> 92.0.2.0 to 192.0.2.255 (192.0.2.0/24) sãoo endereços para motivos de teste e ensino 
+**Experimental addresses** -> 240.0.0.0 to 255.255.255.254 listados como reservados
+
+## Legacy Classful Addressing
+
+![[Pasted image 20220505221253.png]]
+
+**Classless Addressing** -> Criou um novo standard que permitiu provedores de serviços alocar endereços IPv4 em cada address bit boundary em vez de apenas A,B,C tipo de endereço
+
+## Assignment of IP Addresses
+Feito por **Regional Internet Registries (RIRs)**
+
+**ISP's** -> Diretamente conectadas ao backbone da internet
+**Tier 2 ISP's** -> Focam-se geralmente em clientes da área de negócios
+**Tier 3 ISP's** -> Fazem 
+
+
 # Aula 6
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
