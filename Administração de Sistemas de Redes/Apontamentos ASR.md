@@ -48,8 +48,9 @@ Técnicas de migração podem ser divididas em 3 categorias:
 - **Tunneling** -> Método de transportar um pacote IPV6 numa rede IPV4. O pacote IPV6 é encapsulado dentro de um pacote IPV4
 - **Translation** -> Permite que dispositivos IPV6 comuniquem com dispositivos IPV4 , um pacote IPV4 é traduzido para IPV6 e vice-versa
 
-
-
+## IPV6 Endereço Representação
+	128 bits hexadecimais de comprimento 
+4 bits representam 1 hexadecimail, 32 hexadecimais = 1 IPV6
 
 # Aula 6
 ## Protocolos para partilhar volumes
