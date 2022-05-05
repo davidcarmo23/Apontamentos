@@ -3,6 +3,12 @@
 # Aula 3
 # Aula 4
 # Aula 5
+**Unicast** -> Processo de envio de um pacote de um host para um host individual
+**Broadcast** -> Processo de envio de um pacote de um host para todos os host's da rede
+**Multicast** -> Processo de envio de um pacote de um host para um grupo de host's especifico
+
+## Public and Private IPv4 Adresses
+
 # Aula 6
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
