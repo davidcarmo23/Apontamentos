@@ -39,6 +39,14 @@ Feito por **Regional Internet Registries (RIRs)**
 ## The Need for IPV6
 IPV6 é previsto para ser o sucessor do IPV4, a falta de espaço dentro dos endereços IPV4 tem sido um fator motivador para a mudança
 Previsões mostram que as cinco RIRs vão ficar sem endereços IPV4 entre 2015 e 2020
+IPV4 tem um máximo de 4.3 biliões de endereços enquanto IPV6 são cerca de 340 undecillion
+**IPV6** compõe as limitações de IPV4 e traz melhorias
+
+## IPV4 and IPV6 coexistence
+Técnicas de migração podem ser divididas em 3 categorias:
+- **Dual-Stack** -> Permite que IPV4 e IPV6 coexistam dentro da mesma rede, os dispositivos correm IPV6 e IPV4 protocol stacks simultaneamente
+- **Tunneling** -> Método de transportar um pacote IPV6 numa rede IPV4. O pacote IPV6 é encapsulado dentro de um pacote IPV4
+- **Translation** -> Permite q
 
 
 # Aula 6
