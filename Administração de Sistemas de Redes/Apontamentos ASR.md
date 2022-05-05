@@ -8,7 +8,20 @@
 **Multicast** -> Processo de envio de um pacote de um host para um grupo de host's especifico
 
 ## Public and Private IPv4 Adresses
+**Private address blocks** -> Host's que não requerem acesso à internet podem utilizar endereços privados
+![[Pasted image 20220505220458.png]]
 
+**Shared address space addresses** 
+- Not globaly routable
+- Intended for use in service provider networks
+- Address block is 100.64.0.0/10
+
+## Special Use IPv4 Addresses 
+**Network and Broadcast addresses** -> Dentro de uma rede o primeiro e último endereços não podem ser atribuidos
+**Loopback addresses**
+**Link-Local addresses**
+**TEST-NET addresses**
+**Experimental addresses**
 # Aula 6
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
