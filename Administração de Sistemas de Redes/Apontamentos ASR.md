@@ -46,7 +46,9 @@ IPV4 tem um máximo de 4.3 biliões de endereços enquanto IPV6 são cerca de 34
 Técnicas de migração podem ser divididas em 3 categorias:
 - **Dual-Stack** -> Permite que IPV4 e IPV6 coexistam dentro da mesma rede, os dispositivos correm IPV6 e IPV4 protocol stacks simultaneamente
 - **Tunneling** -> Método de transportar um pacote IPV6 numa rede IPV4. O pacote IPV6 é encapsulado dentro de um pacote IPV4
-- **Translation** -> Permite q
+- **Translation** -> Permite que dispositivos IPV6 comuniquem com dispositivos IPV4 , um pacote IPV4 é traduzido para IPV6 e vice-versa
+
+
 
 
 # Aula 6
