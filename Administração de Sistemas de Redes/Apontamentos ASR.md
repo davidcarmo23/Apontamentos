@@ -1,5 +1,6 @@
 # Aula 1
 # Aula 2
+
 # Aula 3
 **Sistema** -> É a tanto o OS do computador ou o  conjunto de todos os computadores que cooperam dentro de uma rede
 
@@ -37,7 +38,45 @@ Em relação ao **Hardware**
 - **Configuração/ Desempenho / Atualização**
 
 Em relação ao **Software**
-- Inventário
+- Inventário 
+	- Que software, que licença, que pastas do FS são afetadas, que pastas contêm dados dos utilizadores
+- Interdependências (Bibliotecas do SO e outras apps necessárias)
+- Monitorizar fóruns sobre cada uma das versões instaladas
+- Pode fazer-se uma MV?
+
+Em relação a **Redes**
+- Qual a largura de banda necessária
+- VLANs?
+- VPNs?
+- Network Appliances?
+- Conexões Upstream e Downstream
+
+Em relação a **Utilizadores**
+- Quem (ID, Login, posição na empresa)
+- Grupos a que pertence
+- Que privilégios e em que máquinas/serviços
+- Desde quando e até quando podem usar o sistema
+- Privilégios Adicionais
+	- VPN, disco, ...
+
+**Fases de vida de um sistema**
+- Concepção
+- Implementação
+- Manutenção
+	- BURN -> Backup, Update, Recovery, New System
+	- Compatibilidade
+
+
+Para além de termos de controlar, monitorizar e gerir o Hardware, software e utilizadores, temos também : 
+**Ambiente dos sistemas**
+- AC
+- Alimentação elétrica
+- Acessos às instalações
+- Limpeza
+
+Sobre a escolha do **Sistema Operativo**
+
+Os **critérios de escolha** normalmente são: tipo de licença, garantia e suporte, compatibilidade com o hardware, localização e comunidade
 
 # Aula 4
 ## FileSystems
