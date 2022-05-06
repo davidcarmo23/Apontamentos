@@ -2,6 +2,22 @@
 # Aula 2
 # Aula 3
 # Aula 4
+## FileSystems
+Um **filesystem** é uma forma de organização de dados em algum meio de armazenamento de dados em massa
+Para realmente conhecermos o nosso **filesystem** precisamos de saber o seguinte:
+- Estrutura (O que vai para onde)
+- Limitações (Tamanho de cluster, tamanho máximo de ficheiros)
+- Problemas de Portabilidade (incluindo nomes e codificação char)
+	- Problemas de Legacy (Compatibilidade retrograda)
+- Politicas de privilégios
+
+## Servers e Clientes
+**Meta-Principios para escolher um servidor**
+
+![[Pasted image 20220506174931.png]]
+
+**Servidores** são caros, criticos e a sua falha é muito perigosa. Para nos protegermos de maus servidores temos de ter em conta
+- **Escolha de vendedor** -> Reputação, 
 
 # Aula 5
 **Unicast** -> Processo de envio de um pacote de um host para um host individual
