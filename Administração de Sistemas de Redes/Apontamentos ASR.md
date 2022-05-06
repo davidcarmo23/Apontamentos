@@ -13,7 +13,32 @@
  - Servidores = Hardware + SO + App ?
  - Clientes = Hardware + SO + App ?
  - Serviços = Aplicações especializadas ?
- - 
+ - Virtualização ?
+ - BYOD ? 
+
+Para definirmos o que a nossa organização necessita em termos de **infraestrutura** **necessitamos** de saber os seguintes:
+- Objetivos da organização
+- Quais as aplicações necessárias
+- Quais os recursos computacionais que precisamos de usar
+- Quais as ligações ao exterior precisamos de usar
+
+Abordagem algoritmica Divide and Conquer
+
+- Definir o que é o nosso sistema
+	- Definir o quê, para quê, como, onde, com quem, quando, ...
+- Conhecer os objetivos da organização
+	- Perceber a importancia do nosso sistema para a missão, perceber que parte faz o que, identificar potenciais riscos
+- Manter conhecimento atualizado
+
+
+Em relação ao **Hardware**
+- **Inventário** -> Peças que podem levar uma etiqueta com um número de inventário
+- **Inventário 2** -> Aplicações que correm numa máquina e que fornecem serviços
+- **Configuração/ Desempenho / Atualização**
+
+Em relação ao **Software**
+- Inventário
+
 # Aula 4
 ## FileSystems
 Um **filesystem** é uma forma de organização de dados em algum meio de armazenamento de dados em massa
