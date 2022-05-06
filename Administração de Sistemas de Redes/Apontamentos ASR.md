@@ -56,6 +56,13 @@ Técnicas de migração podem ser divididas em 3 categorias:
 ![[Pasted image 20220506012226.png]]
 
 **Regra Nº2** -> Omitir todos os segmentos de 0's
+Os :: podem ser utilizados uma única vez num endereço para substituir uma cadeia de 0's
+
+## IPV6 Address Types
+IPV6 não tem endereços de broadcast
+- **Unicast** -> Identifica unicamente um interface de um dispositivo IPV6 . Um pacote enviado para um endereço unicast é recebido pelo interface a que foi atribuído
+- **Multicast** ->
+- **Anycast**  ->
 # Aula 6
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
