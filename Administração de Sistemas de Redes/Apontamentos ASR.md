@@ -109,7 +109,18 @@ Dois tipos de mensagens adicionais:
 - Neighbor Solicitation (NS)
 - Neighbor Advertisement (NA) messages
 
-**Utilizado para resoluç**
+**Utilizado para resolução de endereço**
+**Utilizado para Duplicate Address Detection (DAD)**
+
+## Traceroute - Testing the Path
+
+**Traceroute** -> 
+![[Pasted image 20220506021153.png]]
+
+## Summary
+![[Pasted image 20220506021229.png]]
+![[Pasted image 20220506021240.png]]
+![[Pasted image 20220506021253.png]]
 
 # Aula 6
 ## Protocolos para partilhar volumes
