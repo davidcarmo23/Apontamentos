@@ -2,6 +2,7 @@
 # Aula 2
 # Aula 3
 # Aula 4
+
 # Aula 5
 **Unicast** -> Processo de envio de um pacote de um host para um host individual
 **Broadcast** -> Processo de envio de um pacote de um host para todos os host's da rede
