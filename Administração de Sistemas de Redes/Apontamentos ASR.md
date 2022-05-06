@@ -61,8 +61,23 @@ Os :: podem ser utilizados uma única vez num endereço para substituir uma cade
 ## IPV6 Address Types
 IPV6 não tem endereços de broadcast
 - **Unicast** -> Identifica unicamente um interface de um dispositivo IPV6 . Um pacote enviado para um endereço unicast é recebido pelo interface a que foi atribuído
+	- ![[Pasted image 20220506014141.png]]
 - **Multicast** ->
 - **Anycast**  ->
+
+## Dynamic Configuration of a Global Unicast Address using SLAAC
+
+**Stateless Address Autoconfiguration** -> Um metodo que permite um dispositivo obter o prefixo, o comprimento deste e o gateway de um router IPV6, não é preciso um servidor DHCPv6. Precisa de  ICMPv6 Router Advertisement (RA) messages
+
+**IPv6 Routers** -> Envia pacotes IPv6 através de redes, pode ser configurado com rotas estaticas ou um protocolo de routing dinamico IPv6
+
+Para permitir routing IPv6 utilizamos o comando **IPv6 unicast-routing** 
+
+A mensagem RA apenas pode conter uma das seguintes opções:
+- **SLAAC Only** ->Usa a informação contida na mensagem RA
+- **SLAAC e DHCPv6** -> Usa informação contida na mensagem RA e outra informação do servidor DHCPv6
+- **DHCPv6 Only** -> O dispositivo não deve utilizar a informação na RA
+Os router enviam ICMPv6 mensagens utilizando link-local endereços como fonte de endereços IPV 
 # Aula 6
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
