@@ -62,7 +62,9 @@ Os :: podem ser utilizados uma única vez num endereço para substituir uma cade
 IPV6 não tem endereços de broadcast
 - **Unicast** -> Identifica unicamente um interface de um dispositivo IPV6 . Um pacote enviado para um endereço unicast é recebido pelo interface a que foi atribuído
 	- ![[Pasted image 20220506014141.png]]
-- **Multicast** ->
+- **Multicast** ->Têm o prefixo FF00::/8
+	- Assigned Multicast
+	- Solicited Node Multicast
 - **Anycast**  ->
 
 ## Dynamic Configuration of a Global Unicast Address using SLAAC
@@ -77,7 +79,18 @@ A mensagem RA apenas pode conter uma das seguintes opções:
 - **SLAAC Only** ->Usa a informação contida na mensagem RA
 - **SLAAC e DHCPv6** -> Usa informação contida na mensagem RA e outra informação do servidor DHCPv6
 - **DHCPv6 Only** -> O dispositivo não deve utilizar a informação na RA
-Os router enviam ICMPv6 mensagens utilizando link-local endereços como fonte de endereços IPV 
+Os router enviam ICMPv6 mensagens utilizando link-local endereços como fonte de endereços IPv6
+
+**DHCPv6** -> Semelhante ao IPv4 , automaticamente recebe a informação de endereçamento, incluindo  global unicast address, prefix length, default gateway address and the addresses of DNS servers using the services of a DHCPv6 server.
+
+**Processo EUI-64** -> Utiliza um endereço Ethernet MAC 48 bit's de um cliente e insere outros 16 bits no meio dos 46 bit's do endereço MAC para criar um Interface ID de 64 bit's. É fácil de localizar graças ao endereço Ethernet MAC
+
+**Interface ID EUI-64** -> representado em binário e por três partes.
+- Um OUI de 24 bit's do endereço MAC do cliente com o sétimo bit reverso
+- Inserido com um valor de 16 bit's FFFE
+- Indentificador de dispositivo de 24 bits do endereço MAC do cliente
+**Randomly Generated Interface IDs** -> Dependendo do OS um dispositivo pode utilizar um ID de interface gerado aleatoriamente em vez de utilizar o endereço MAC  e o processo EUI-64
+
 # Aula 6
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
