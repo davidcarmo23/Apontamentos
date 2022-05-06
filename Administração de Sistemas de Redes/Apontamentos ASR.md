@@ -20,6 +20,8 @@ Este tipo de administração falha em termos de um corpo sistemático de dados e
 
 As suas **práticas** variam de casuais para estado da arte.
 
+Para começar neste caminho é necessário ter conhecimento de vários factos e construir confiança através de experiência. Temos também de saber os nossos limites para evitar erros
+
 
 
 **Administração de rede** -> Gestão de dispositivos de infraestrutura de rede (routers e switches)
