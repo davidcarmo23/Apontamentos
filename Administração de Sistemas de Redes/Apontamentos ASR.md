@@ -1,5 +1,18 @@
 # Aula 1
+**PEBCAK** -> Problem Exists Between Chair and Keyboard
+**ID10T** -> Código que erro que se lê como IDIOT e que é utilizado para mencionar um problema em que o caso de erro é normalmente o utilizador
 
+**Network e Administração de sistemas** é uma divisão de engenharia
+- Gestão operacional de Huma-Computer systems
+- Tecnologia de sistemas de computadores = Utilizadores de tecnologia
+
+O **objetivo** de um SysAdmin é manter os utilizadores felizes
+
+É um **trabalho incrivelmente dificil**, é sobre hardware, software , suporte de utilizador, diagnóstico, reparação e prevenção. Necessitam de saber um pouco de tudo, as habilidades são técnicas, administrativas e sócio-psicológicas
+
+**Administração de rede** != **Administração de sistema**
+
+**Administração de sistema** -> Gestão de computadores 
 # Aula 2
 **Ética**
 As ações dos SysAdmins podem ter impacto nas vidas dos utilizadores
