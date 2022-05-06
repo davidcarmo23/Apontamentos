@@ -1,4 +1,5 @@
 # Aula 1
+
 # Aula 2
 **Ética**
 As ações dos SysAdmins podem ter impacto nas vidas dos utilizadores
@@ -30,7 +31,15 @@ Para trabalhar com o **Hardware**
 Para trabalhar com o **Software**
 ![[Pasted image 20220506185106.png]]
 
-Em termos de Software devemos ter sempre definido os privilégios minimos, estas restrições protegem o sistema de 
+Em termos de Software devemos ter sempre definido os **privilégios minimos**, estas restrições protegem o sistema de danos acidentais ou maliciosos, infeção por virus e de que os utilizadores escondam as suas ações com identidades falsas
+
+Para trabalhar com **Humanos**
+![[Pasted image 20220506185256.png]]
+
+O toolset de um Sysadmin é o seguinte
+![[Pasted image 20220506185336.png]]
+
+
 # Aula 3
 **Sistema** -> É a tanto o OS do computador ou o  conjunto de todos os computadores que cooperam dentro de uma rede
 
