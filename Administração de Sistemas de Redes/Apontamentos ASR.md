@@ -12,7 +12,21 @@ O **objetivo** de um SysAdmin é manter os utilizadores felizes
 
 **Administração de rede** != **Administração de sistema**
 
-**Administração de sistema** -> Gestão de computadores 
+**Administração de sistema** -> Gestão de computadores estejam ou não ligados por uma rede.
+Não é apenas sobre instalar sistemas operativos. É sobre **planear e desenhar uma comunidade eficiente de computadores**. Ou seja:
+![[Pasted image 20220506193527.png]]
+![[Pasted image 20220506193555.png]]
+Este tipo de administração falha em termos de um corpo sistemático de dados experimentais que dariam as suas **regras e principios** um rigor.
+
+As suas **práticas** variam de casuais para estado da arte.
+
+
+
+**Administração de rede** -> Gestão de dispositivos de infraestrutura de rede (routers e switches)
+
+Para computadores pessoais não faz sentido falar sobre administração de sistema
+
+
 # Aula 2
 **Ética**
 As ações dos SysAdmins podem ter impacto nas vidas dos utilizadores
