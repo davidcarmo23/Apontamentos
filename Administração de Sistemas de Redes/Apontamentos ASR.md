@@ -17,8 +17,29 @@ Para realmente conhecermos o nosso **filesystem** precisamos de saber o seguinte
 ![[Pasted image 20220506174931.png]]
 
 **Servidores** são caros, criticos e a sua falha é muito perigosa. Para nos protegermos de maus servidores temos de ter em conta
-- **Escolha de vendedor** -> Reputação, 
+- **Escolha de vendedor** -> Reputação, preço, performance ...
+- **Falar com outros Sysadmins** 
 
+Outras coisas a considerar:
+- **MTBF** -> Tempo Médio entre Avarias
+- **MTTR** -> Tempo Médio para Reparar
+- **Semelhante a RAID**
+
+O que é importante tendo em conta servidores? Missão? Meta Principios?
+
+**Integridade de Dados** -> Se temos a responsabilidade de integridade de dados, temos de ter cópias de segurança e redundância
+**Manter os Servidores seguros** -> Data centers, ambientes controlados
+
+Depois desta escolha apenas falta configurar os seguintes
+- **OS + Serviços + Aplicações**
+- **Acesso Remoto**
+- **KVM** -> Kernel Virtual machine
+
+De seguida : 
+- Definir, configurar e manter (DCIIM)
+	- CAPEX(Capital Expenditures) vs OPEX(Operational Expenditure)
+- DCIIMS
+	- Instalar software e house machine
 # Aula 5
 **Unicast** -> Processo de envio de um pacote de um host para um host individual
 **Broadcast** -> Processo de envio de um pacote de um host para todos os host's da rede
