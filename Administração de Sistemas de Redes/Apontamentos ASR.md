@@ -22,9 +22,9 @@ As suas **práticas** variam de casuais para estado da arte.
 
 Para começar neste caminho é necessário ter conhecimento de vários factos e construir confiança através de experiência. Temos também de saber os nossos limites para evitar erros
 
-O melhor conselho é pensar por nós mesmo e prestar atenção aos especialistas mas nunca acreditar automaticamente em ninguém.
+O **melhor conselho** é pensar por nós mesmo e prestar atenção aos especialistas mas nunca acreditar automaticamente em ninguém.
 
-
+Nos sistemas operativos houveram muitas facilitações desenvolvidas como nomear as diretorias corretas para a instala
 **Administração de rede** -> Gestão de dispositivos de infraestrutura de rede (routers e switches)
 
 Para computadores pessoais não faz sentido falar sobre administração de sistema
