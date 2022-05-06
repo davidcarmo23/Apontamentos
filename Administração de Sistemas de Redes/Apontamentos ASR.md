@@ -1,6 +1,19 @@
 # Aula 1
 # Aula 2
 # Aula 3
+**Sistema** -> É a tanto o OS do computador ou o  conjunto de todos os computadores que cooperam dentro de uma rede
+
+**Human-Computer System** -> Uma colaboração organizada entre humanos e computadores para resolver um problema ou fornecer um serviço. É não deterministico
+
+**Hardware + Software + Humanos**
+
+**Servidores + Clientes + Rede + SO + Aplicativos + ... + Humanos**
+
+**Clientes / Servidores**
+ - Servidores = Hardware + SO + App ?
+ - Clientes = Hardware + SO + App ?
+ - Serviços = Aplicações especializadas ?
+ - 
 # Aula 4
 ## FileSystems
 Um **filesystem** é uma forma de organização de dados em algum meio de armazenamento de dados em massa
