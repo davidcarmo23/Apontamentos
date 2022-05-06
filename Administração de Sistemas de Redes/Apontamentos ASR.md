@@ -1,6 +1,36 @@
 # Aula 1
 # Aula 2
+**Ética**
+As ações dos SysAdmins podem ter impacto nas vidas dos utilizadores
+- Privacidade de dados
+- igualdade de tratamento
+- ...
 
+Logo o desafio é saber e definir regras e procedimentos para aplicar
+- 1º , **Leis** -> Nationais , Europeias 
+- 2º , **Regulações** -> Empresas reguladoras, companhia, departamento
+- 3º, **Melhores Práticas** -> Amigos, colegas
+- 4º, **Senso Comum** -> Rule of thumb, Plano A,B,C , ter um backup e suporte de administrador
+
+Um bom **SysAdmin** é invisivel
+Maneiras de manter uma boa ética de trabalho e de resolver problemas
+
+![[Pasted image 20220506184754.png]]
+![[Pasted image 20220506185014.png]]
+
+- Começar os sistemas num estado conhecido
+- Ter um denominador minimo comum -> Todos os sistemas vaõ neste estado minimo, em caso de emergencia podemos iniciar este estado e instalar e usar os serviços
+- Automatização deste processo é recomendada
+
+![[Pasted image 20220506184952.png]]
+
+Para trabalhar com o **Hardware**
+![[Pasted image 20220506185044.png]]
+
+Para trabalhar com o **Software**
+![[Pasted image 20220506185106.png]]
+
+Em termos de Software devemos ter sempre definido os privilégios minimos, estas restrições protegem o sistema de 
 # Aula 3
 **Sistema** -> É a tanto o OS do computador ou o  conjunto de todos os computadores que cooperam dentro de uma rede
 
