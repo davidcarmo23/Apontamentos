@@ -64,6 +64,8 @@ IPV6 não tem endereços de broadcast
 	- ![[Pasted image 20220506014141.png]]
 - **Multicast** ->Têm o prefixo FF00::/8
 	- Assigned Multicast
+		- FF02::1 All-nodes multicast Group -> Mesmo efeito que um endereço de brocast IPv4, todos os dispositivos IPv6 se juntam
+		- FF02::2 All-routers multicast group -> Um pacote enviado para este grupo é processado por todos os routers inseridos nele
 	- Solicited Node Multicast
 - **Anycast**  ->
 
@@ -90,6 +92,24 @@ Os router enviam ICMPv6 mensagens utilizando link-local endereços como fonte de
 - Inserido com um valor de 16 bit's FFFE
 - Indentificador de dispositivo de 24 bits do endereço MAC do cliente
 **Randomly Generated Interface IDs** -> Dependendo do OS um dispositivo pode utilizar um ID de interface gerado aleatoriamente em vez de utilizar o endereço MAC  e o processo EUI-64
+
+## ICMPv4 and ICMPv6 Messages
+**Mensagens ICMP** -> servem para confirmar host, destino ou serviço fora de alcance, tempo excedido, redireção de rota
+
+Mesmo que o IP não seja um protocolo confiavel, o TCP/IP suite fornece mensagens para serem enviadas em caso de certos erros, são eviados utilizando serviços ICMP
+
+## ICMPv6 Router Solicitation and Router Advertisement Messages
+- **Router Solicitation and Router Advertisement Message** -> Sent between hosts and routers.
+- **Router Solicitation (RS) message** -> RS messages are sent as an IPv6
+all-routers multicast message.
+- **Router Advertisement (RA) message** -> RA messages are sent by routers to provide addressing information.
+
+## ICMPv6 Neighbor Solicitation and Neighbor Advertisement Messages
+Dois tipos de mensagens adicionais:
+- Neighbor Solicitation (NS)
+- Neighbor Advertisement (NA) messages
+
+**Utilizado para resoluç**
 
 # Aula 6
 ## Protocolos para partilhar volumes
