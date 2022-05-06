@@ -52,6 +52,10 @@ Técnicas de migração podem ser divididas em 3 categorias:
 	128 bits hexadecimais de comprimento 
 4 bits representam 1 hexadecimail, 32 hexadecimais = 1 IPV6
 
+**Regra Nº1** -> Omitir 0's que iniciem partes do endereço
+![[Pasted image 20220506012226.png]]
+
+**Regra Nº2** -> Omitir todos os segmentos de 0's
 # Aula 6
 ## Protocolos para partilhar volumes
 ### **O que é um volume ?**
