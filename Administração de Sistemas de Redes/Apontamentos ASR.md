@@ -24,7 +24,16 @@ Para começar neste caminho é necessário ter conhecimento de vários factos e 
 
 O **melhor conselho** é pensar por nós mesmo e prestar atenção aos especialistas mas nunca acreditar automaticamente em ninguém.
 
-Nos sistemas operativos houveram muitas facilitações desenvolvidas como nomear as diretorias corretas para a instala
+Nos sistemas operativos houveram muitas facilitações desenvolvidas como nomear as diretorias corretas para a instalação de executaveis de sistema, como daemons. As permissões necessárias para certos programas e ficheiros.
+
+Um **Administrador de sitemas** tem o poder de fazer decisões radicais, somos encorajados a fazer as escolhas mais lógicas.
+
+## Meta Principios
+- **Principio 1 - Politicas são a fundação** -> Administração de sistameas começa com uma politica, uma decisão do que queremos e do que deve ser em relação ao que necessitamos.
+- **Principio 2 - Previsibilidade** -> O maior objetivo é trabalhar até chegar a um sistema previsivel, tem limites no entanto é a base de dependibilidade, confiança e segurança.
+- **Principio 3 - Escalabilidade** -> Sistemas escalaveis são aqueles que crescem conforme as politicas, continuam a funcionar mesmo durante o crescimento
+
+
 **Administração de rede** -> Gestão de dispositivos de infraestrutura de rede (routers e switches)
 
 Para computadores pessoais não faz sentido falar sobre administração de sistema
