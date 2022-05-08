@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3c803d96eb2caaca",
+        "id": "ae53e07be2790889",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Administração de Sistemas de Redes/Apontamentos ASR.pdf"
+            "file": "Administração de Sistemas de Redes/Apontamentos ASR.md",
+            "mode": "preview",
+            "source": false
           }
         }
       }
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administração de Sistemas de Redes/Apontamentos ASR.pdf",
+                "file": "Administração de Sistemas de Redes/Apontamentos ASR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administração de Sistemas de Redes/Apontamentos ASR.pdf"
+                "file": "Administração de Sistemas de Redes/Apontamentos ASR.md"
               }
             }
           },
@@ -121,10 +123,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3c803d96eb2caaca",
+  "active": "ae53e07be2790889",
   "lastOpenFiles": [
-    "Administração de Sistemas de Redes/Apontamentos ASR.pdf",
     "Administração de Sistemas de Redes/Apontamentos ASR.md",
+    "Administração de Sistemas de Redes/Apontamentos ASR.pdf",
     "Administração de Sistemas de Redes/Pasted image 20220506193555.png",
     "Administração de Sistemas de Redes/Pasted image 20220506174931.png",
     "Administração de Sistemas de Redes/Administração de Sistemas de Rede.md",
