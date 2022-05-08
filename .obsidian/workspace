@@ -7,11 +7,9 @@
         "id": "3c803d96eb2caaca",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Administração de Sistemas de Redes/Apontamentos ASR.md",
-            "mode": "source",
-            "source": false
+            "file": "Administração de Sistemas de Redes/Apontamentos ASR.pdf"
           }
         }
       }
@@ -53,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administração de Sistemas de Redes/Apontamentos ASR.md",
+                "file": "Administração de Sistemas de Redes/Apontamentos ASR.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administração de Sistemas de Redes/Apontamentos ASR.md"
+                "file": "Administração de Sistemas de Redes/Apontamentos ASR.pdf"
               }
             }
           },
@@ -124,15 +123,15 @@
   },
   "active": "3c803d96eb2caaca",
   "lastOpenFiles": [
+    "Administração de Sistemas de Redes/Apontamentos ASR.pdf",
     "Administração de Sistemas de Redes/Apontamentos ASR.md",
+    "Administração de Sistemas de Redes/Pasted image 20220506193555.png",
     "Administração de Sistemas de Redes/Pasted image 20220506174931.png",
     "Administração de Sistemas de Redes/Administração de Sistemas de Rede.md",
     "Administração de Sistemas de Redes/Pasted image 20220505220458.png",
     "To Do List.md",
     "Untitled.md",
     "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md",
-    "Empreendedorismo Tecnológico/Apontamentos ET 2ª Parte.md",
-    "Estruturação/Cadeiras.md",
-    "Estruturação/Recursos.md"
+    "Empreendedorismo Tecnológico/Apontamentos ET 2ª Parte.md"
   ]
 }
