@@ -541,4 +541,8 @@ O **RFC 2625** trata 2 problemas
 - Transporta comandos de protocolo SCSI através de uma rede IP
 - É a norma mantido por IETF
 
- 
+# Aula 05 - easter egg 
+Para definir uma as network portion e host portion de um endereço, dispositivos usam um padrão de 32 bits - subnet mask - que define onde procurar por essas porções num endereço IPv4. 
+DHCP (Dynamic Host Configuration Protocol) - método preferencial de atribuir endereços IPv4 a anfitriões em redes grandes, uma vez que reduz o trabalho de staff de apoio a redes e elimina, virtualmente, erros de entrada. 
+IPv4 pode comunicar por unicast (enviar um pacote de um computador para um computador), broadcast (enviar um pacote de um computador para todos os computadores de uma rede) e multicast (enviar um pacote de um computador para vários computadores numa ou várias redes). 
+A transição de IPv4 para Ipv6 pode ser feita por dual-stack (coexistência de IPv4 e IPv6 na mesma rede), tunnelling (pacotes IPv6 são encapsulados dentro de pacotes IPv4) e translation (um pacote IPv6 é traduzido para um pacote IPv4, e vice-versa).
