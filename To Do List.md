@@ -42,7 +42,7 @@ Exemplo -> para tema https://mixpanel.com
 	- [x] Produtor
 	- [x] Limite de Caracteres
 	- [x] Timestamp
-- [ ] **Resumo de ASR**
+- [x] **Resumo de ASR**
 	- [ ] Aula 1 
 	- [ ] Aula 2
 	- [ ] Aula 3
