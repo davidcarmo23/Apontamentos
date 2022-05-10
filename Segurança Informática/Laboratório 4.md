@@ -10,4 +10,18 @@ Cipher Block Chaining
 ### Questão 5
 128 bits
 ### Questão 6
+Primeiro Comprimir e depois cifrar
+### Questão 7
+Advanced Encryption Standard
+### Questão 8
+Cifra de chave simétrica por blocos.
+### Questão 9
 
+### Questão 10
+### Questão 11
+### Questão 12
+### Questão 13
+### Questão 14
+### Questão 15
+### Questão 16
+### Questão 17
