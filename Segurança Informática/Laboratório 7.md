@@ -9,7 +9,8 @@ Message Authentication Code
 
 ### Questão 3
 ### Questão 4
-
+Todos os que possuem a chave secreta
 ### Questão 5
+integridade, autenticação da origem da informação
 ## Tarefa 2
 ### Questão 6
