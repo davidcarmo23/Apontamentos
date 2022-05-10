@@ -16,8 +16,9 @@ Advanced Encryption Standard
 ### Questão 8
 Cifra de chave simétrica por blocos.
 ### Questão 9
-
+Sim
 ### Questão 10
+8 bytes
 ### Questão 11
 ### Questão 12
 ### Questão 13
