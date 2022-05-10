@@ -32,3 +32,20 @@ Sim
  Sim
 ### Questão 15
 Rivest Cipher 4
+### Questão 16
+Sim, parece
+### Questão 17
+Não, não funcionou. :(
+### Questão 18
+Sim, já verifiquei usando $ cat ciphertext.rc4 e o que lá encontrei não faz sentido nenhum
+### Questão 19
+- 1º -K
+- 2º -k
+- 3º out
+- 4º in
+- 5º -e
+### Questão 20
+openssl enc -d -rc4 -K abcdef0123456789 -in ciphertext.rc4 -out teste.txt
+### Questão 21
+
+### Questão 22
