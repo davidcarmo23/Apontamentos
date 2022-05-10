@@ -47,3 +47,21 @@ Hummm, o facto do Prof. estar a perguntar deixame desconfiado(a)...
 
 # Tarefa 5
 
+### Questão 6
+Não... de maneira nenhuma. Que estranho!?
+### Questão 7
+Sim, neste caso poder-se-ia dizer isso.
+### Questão 8
+Cifra de chave simétrica por blocos.
+
+## Tarefa 7
+## Tarefa 8
+
+### Questão 9
+Sim, noto algo até meio (vá) assustador!
+### Questão 10
+Sim, pelos vistos sim.
+### Questão 11
+0
+### Questão 12
+Sim, sem problema.
