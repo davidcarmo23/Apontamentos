@@ -54,3 +54,29 @@ Sim, é vulnerável em ambas as situações.
 10.6 segundos
 ## Tarefa 7
 ### Questão 13
+7
+### Questão 14
+9
+### Questão 15
+3
+### Questão 16
+4
+### Questão 17
+Não, não ia
+### Questão 18
+Sim, vai.
+## Tarefa 8
+Fácil de prever.
+### Questão 20
+6
+### Questão 21
+10
+### Questão 22
+3
+### Questão 23
+6
+### Questão 24
+Sim, de facto parece.
+### Questão 25
+É impossível obter o texto-limpo de volta, a não ser que também lhe envie a sequência resultante da minha experiência.
+

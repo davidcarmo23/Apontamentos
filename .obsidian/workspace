@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Segurança Informática/Resolução Laboratórios Práticos.md",
+            "file": "Segurança Informática/Laboratório 2.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança Informática/Resolução Laboratórios Práticos.md",
+                "file": "Segurança Informática/Laboratório 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança Informática/Resolução Laboratórios Práticos.md"
+                "file": "Segurança Informática/Laboratório 2.md"
               }
             }
           },
@@ -124,7 +124,8 @@
   },
   "active": "2595fa64860809f8",
   "lastOpenFiles": [
-    "Segurança Informática/Resolução Laboratórios Práticos.md",
+    "Segurança Informática/Laboratório 2.md",
+    "Segurança Informática/Laboratório 1.md",
     "Segurança Informática/Segurança Informática.md",
     "Segurança Informática/Apontamentos SI.md",
     "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md",
@@ -132,7 +133,6 @@
     "Estruturação/Cadeiras.md",
     "Administração de Sistemas de Redes/Apontamentos ASR.md",
     "To Do List.md",
-    "Administração de Sistemas de Redes/Apontamentos ASR.pdf",
-    "Administração de Sistemas de Redes/Pasted image 20220506193555.png"
+    "Administração de Sistemas de Redes/Apontamentos ASR.pdf"
   ]
 }

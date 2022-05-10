@@ -3,7 +3,7 @@ ___
 # Empreendedorismo Tecnológico
 
 ## Notes and Ideas
-- [[Resolução Laboratórios Práticos]]
+- [[Laboratório 1]]
 - [[Apontamentos SI]]
 ## Assignments
 > Nenhum 
