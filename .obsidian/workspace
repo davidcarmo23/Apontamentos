@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Segurança Informática/Laboratório 7.md",
+            "file": "Segurança Informática/Laboratório 8.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e5d0d14edda66715",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Perguntas SI.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança Informática/Laboratório 7.md",
+                "file": "Segurança Informática/Laboratório 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança Informática/Laboratório 7.md"
+                "file": "Segurança Informática/Laboratório 8.md"
               }
             }
           },
@@ -124,13 +137,13 @@
   },
   "active": "26e69ff841bf5778",
   "lastOpenFiles": [
+    "Segurança Informática/Laboratório 8.md",
+    "Perguntas SI.md",
     "Segurança Informática/Laboratório 7.md",
     "Segurança Informática/Laboratório 6.md",
-    "Perguntas SI.md",
     "Segurança Informática/Laboratório 5.md",
     "Segurança Informática/Laboratório 4.md",
     "Segurança Informática/Laboratório 3.md",
-    "Segurança Informática/Laboratório 8.md",
     "Segurança Informática/Laboratório 2.md",
     "Segurança Informática/Laboratório 1.md",
     "Segurança Informática/Segurança Informática.md"
