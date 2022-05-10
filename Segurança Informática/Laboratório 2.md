@@ -47,5 +47,6 @@ Sim, já verifiquei usando $ cat ciphertext.rc4 e o que lá encontrei não faz s
 ### Questão 20
 openssl enc -d -rc4 -K abcdef0123456789 -in ciphertext.rc4 -out teste.txt
 ### Questão 21
-
+Sim , a chave utilizada para encriptar
 ### Questão 22
+Ao facto da mesma chave de cifra ser usada para cifrar e para decifrar.
