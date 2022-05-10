@@ -18,7 +18,7 @@ int main(){
 32
 ### Questão 2
 Sim, é, porque a sequência depende apenas do valor inicial (seed) que, neste caso, é igual nos dois casos.
-## Tarefa 2
+## Tarefa 2/Tarefa 3
 ```c
 #include <stdio.h> 
 #include<math.h> 
@@ -39,4 +39,11 @@ void encrypt (char * in, char * out, int ikey) {
 	encrypt("plaintext.txt", "cypher.txt", ikey);
 	}
 ```
-## Tarefa 3
+## Tarefa 4
+Basta trocar a ordem dos ficheiros
+
+### Questão 5
+Hummm, o facto do Prof. estar a perguntar deixame desconfiado(a)...
+
+# Tarefa 5
+
