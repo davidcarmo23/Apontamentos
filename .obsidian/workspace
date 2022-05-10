@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ae53e07be2790889",
+        "id": "2595fa64860809f8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Administração de Sistemas de Redes/Apontamentos ASR.md",
-            "mode": "preview",
+            "file": "Segurança Informática/Resolução Laboratórios Práticos.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administração de Sistemas de Redes/Apontamentos ASR.md",
+                "file": "Segurança Informática/Resolução Laboratórios Práticos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administração de Sistemas de Redes/Apontamentos ASR.md"
+                "file": "Segurança Informática/Resolução Laboratórios Práticos.md"
               }
             }
           },
@@ -122,17 +122,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae53e07be2790889",
+  "active": "2595fa64860809f8",
   "lastOpenFiles": [
+    "Segurança Informática/Resolução Laboratórios Práticos.md",
+    "Segurança Informática/Segurança Informática.md",
+    "Segurança Informática/Apontamentos SI.md",
+    "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md",
+    "Empreendedorismo Tecnológico/Apontamentos ET.md",
+    "Estruturação/Cadeiras.md",
     "Administração de Sistemas de Redes/Apontamentos ASR.md",
     "To Do List.md",
     "Administração de Sistemas de Redes/Apontamentos ASR.pdf",
-    "Administração de Sistemas de Redes/Pasted image 20220506193555.png",
-    "Administração de Sistemas de Redes/Pasted image 20220506174931.png",
-    "Administração de Sistemas de Redes/Administração de Sistemas de Rede.md",
-    "Administração de Sistemas de Redes/Pasted image 20220505220458.png",
-    "Untitled.md",
-    "Empreendedorismo Tecnológico/Empreendedorismo Tecnológico.md",
-    "Empreendedorismo Tecnológico/Apontamentos ET 2ª Parte.md"
+    "Administração de Sistemas de Redes/Pasted image 20220506193555.png"
   ]
 }
