@@ -44,6 +44,12 @@ Não estou a ver como iria fazer isso para já, mas creio que iria conseguir. A 
 ### Questão 17
 Resistência a colisões
 ### Questão 18
-Não -> 
+Não -> pois é 2^160
 ### Questão 19
 Resistência à descoberta de um segundo texto original.
+
+## Tarefa 7
+### Questão 20
+Sim é Pedro
+### Questão 21
+Não, porque não protege contra ataques que usam rainbow tables ou tabelas de hash précomputadas. Ora bolas! :S

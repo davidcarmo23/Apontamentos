@@ -12,7 +12,7 @@ mostra vários nomes de cifras e é necessário ver os que nao preciso fazer o v
 **LAB 5** 
 da o SHA e dizer qual o tamanho de bits utilizado para o gerar
 
-da o hash e dizer qual o sha utilizado
+da o hash e dizer qual o sha utilizado - numero de caracteres
 
 **LAB 6**
 dao um ficheiro com o hash e comparar se é igual
