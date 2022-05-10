@@ -36,4 +36,21 @@ Com uma só letra -> Acabam por ser todas iguais
 	J U W
 	I  S  T
 
-	9
+		9 20 22
+	- 8 18 19 = BCD
+
+### Questão 7
+Known-plaintext attack
+
+### Questão 8
+26!
+### Questão 9
+Não , não conseguia
+### Questão 10
+Sim, parece-me ser segura
+### Questão 11
+Sim, é vulnerável em ambas as situações.
+### Questão 12
+10.6 segundos
+## Tarefa 7
+### Questão 13
