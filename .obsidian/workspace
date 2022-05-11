@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Comandos SI.md",
+            "file": "To Do List.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Comandos SI.md",
+                "file": "To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandos SI.md"
+                "file": "To Do List.md"
               }
             }
           },
@@ -136,6 +136,7 @@
   },
   "active": "18ba7882dacff18f",
   "lastOpenFiles": [
+    "To Do List.md",
     "Comandos SI.md",
     "Segurança Informática/Laboratório 8.md",
     "Segurança Informática/Laboratório 5.md",
@@ -144,7 +145,6 @@
     "Segurança Informática/Laboratório 4.md",
     "Segurança Informática/Laboratório 3.md",
     "Segurança Informática/Segurança Informática.md",
-    "Segurança Informática/Laboratório 6.md",
-    "Segurança Informática/Laboratório 7.md"
+    "Segurança Informática/Laboratório 6.md"
   ]
 }
