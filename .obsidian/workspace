@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Segurança Informática/Laboratório 8.md",
+            "file": "Segurança Informática/Segurança Informática.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do List.md",
+                "file": "Segurança Informática/Segurança Informática.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do List.md"
+                "file": "Segurança Informática/Segurança Informática.md"
               }
             }
           },
@@ -134,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18ba7882dacff18f",
+  "active": "4e2e22ea783a4c88",
   "lastOpenFiles": [
+    "Segurança Informática/Segurança Informática.md",
+    "Segurança Informática/Apontamentos SI.md",
+    "Segurança Informática/Laboratório 8.md",
     "To Do List.md",
     "Comandos SI.md",
-    "Segurança Informática/Laboratório 8.md",
     "Segurança Informática/Laboratório 5.md",
     "Perguntas SI.md",
     "Segurança Informática/Laboratório 2.md",
     "Segurança Informática/Laboratório 4.md",
-    "Segurança Informática/Laboratório 3.md",
-    "Segurança Informática/Segurança Informática.md",
-    "Segurança Informática/Laboratório 6.md"
+    "Segurança Informática/Laboratório 3.md"
   ]
 }
