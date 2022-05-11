@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4e2e22ea783a4c88",
+        "id": "e1f038b12022dc80",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Segurança Informática/Segurança Informática.md",
+            "file": "Segurança Informática/Perguntas SI.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "18ba7882dacff18f",
+        "id": "4dde68888623dd04",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To Do List.md",
+            "file": "Segurança Informática/Comandos SI.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança Informática/Segurança Informática.md",
+                "file": "Segurança Informática/Comandos SI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança Informática/Segurança Informática.md"
+                "file": "Segurança Informática/Comandos SI.md"
               }
             }
           },
@@ -134,17 +135,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e2e22ea783a4c88",
+  "active": "4dde68888623dd04",
   "lastOpenFiles": [
+    "Segurança Informática/Comandos SI.md",
+    "Segurança Informática/Perguntas SI.md",
+    "Segurança Informática/Laboratório 9.md",
     "Segurança Informática/Segurança Informática.md",
     "Segurança Informática/Apontamentos SI.md",
     "Segurança Informática/Laboratório 8.md",
     "To Do List.md",
-    "Comandos SI.md",
     "Segurança Informática/Laboratório 5.md",
-    "Perguntas SI.md",
     "Segurança Informática/Laboratório 2.md",
-    "Segurança Informática/Laboratório 4.md",
-    "Segurança Informática/Laboratório 3.md"
+    "Segurança Informática/Laboratório 4.md"
   ]
 }
