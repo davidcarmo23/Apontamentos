@@ -14,4 +14,5 @@ Management de utilizadores é tudo sobre fazer interfacing de humanos para compu
 - Manutenção de confiança e segurança
 
 Alguns destes são **problemas tecnológicos** outros são **problemas humanos**
-Conforto e conveniência 
+Conforto e conveniência encontra-se no meio
+Manutenção de utilizadores é importante pois o sistema existe para ser utilizado por seres  
