@@ -25,3 +25,5 @@ Cada OS tem uma forma específica de criação de um utilizador local (alguns t�
 - password inicial (ter um modelo)
 - grupos a que pertence (ter um modelo)
 - acesso a recursos locais (ter um modelo)
+
+## Trabalhar com Utilizadores e Grupos
