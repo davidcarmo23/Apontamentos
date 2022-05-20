@@ -53,4 +53,5 @@ Para ver este UID basta utilizar o comando
 
 Num sistema de SUSE Linux o primeiro user regular é dado o UID de **1000** e os seguintes serão dados apartir desse. Fedora começa no **500**
 
-A conta de utilizador de **root** é sempre dado
+A conta de utilizador de **root** é sempre dado o **UID 0**. É este UID que o OS utiliza para controlar o acesso aos ficheiros e diretorias no file system
+
