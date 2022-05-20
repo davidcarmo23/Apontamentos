@@ -28,5 +28,6 @@ Cada OS tem uma forma específica de criação de um utilizador local (alguns t�
 
 ## Trabalhar com Utilizadores e Grupos
 - Gerir utilizadores e grupos
-	- Contas de utilizador de 
+	- Contas de utilizador Linux
+	- Grupos Linux
 - Gerir ownership, permissões e quotas
