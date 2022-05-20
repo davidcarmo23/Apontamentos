@@ -44,5 +44,6 @@ Para ver toda a informação sobre o **user** no sistema Linux
 	- A informação seguinte seria apresentada :
 		- **Login** -> utilizador que está a ser utilizado para autenticar ao sistema
 		-  **Name** -> Nome completo do **user**
-		- Directory -> Diretoria Home do **user**
-		- Shell -> S
+		- **Directory** -> Diretoria Home do **user**
+		- **Shell** -> Shell default que vai ser providenciada ao **user**
+		- **Last Login** -> Mostra a última vez que o **user** fez login e donde
