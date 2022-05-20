@@ -27,4 +27,5 @@ Cada OS tem uma forma específica de criação de um utilizador local (alguns t�
 - acesso a recursos locais (ter um modelo)
 
 ## Trabalhar com Utilizadores e Grupos
+Gerir utilizadores e grupos
 Gerir 
