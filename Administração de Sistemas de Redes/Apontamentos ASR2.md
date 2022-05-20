@@ -43,4 +43,6 @@ Para ver toda a informação sobre o **user** no sistema Linux
 - finger **user**
 	- A informação seguinte seria apresentada :
 		- **Login** -> utilizador que está a ser utilizado para autenticar ao sistema
-		- 
+		-  **Name** -> Nome completo do **user**
+		- Directory -> Diretoria Home do **user**
+		- Shell -> S
