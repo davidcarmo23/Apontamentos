@@ -11,4 +11,7 @@ Management de utilizadores é tudo sobre fazer interfacing de humanos para compu
 - Conforto e conveniência
 - Serviços de suporte
 - Problemas éticos
-- Manutenção de confiança e 
+- Manutenção de confiança e segurança
+
+Alguns destes são **problemas tecnológicos** outros são **problemas humanos**
+Conforto e conveniência 
