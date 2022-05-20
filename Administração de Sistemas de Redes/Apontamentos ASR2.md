@@ -31,3 +31,5 @@ Cada OS tem uma forma específica de criação de um utilizador local (alguns t�
 	- Contas de utilizador Linux
 	- Grupos Linux
 - Gerir ownership, permissões e quotas
+
+## Como funcionam Contas de Utilizador Linux
