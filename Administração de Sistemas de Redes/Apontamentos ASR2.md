@@ -39,4 +39,6 @@ Cada OS tem uma forma específica de criação de um utilizador local (alguns t�
 Por default todos as diretorias home de todos os utilizadores são criados e mantidos na diretoria **/home**.
 A diretoria home do utilizador root é **/root**
 
-Para ver toda a informação sobre o **user**
+Para ver toda a informação sobre o **user** no sistema Linux 
+- finger **user**
+	- A informaç
