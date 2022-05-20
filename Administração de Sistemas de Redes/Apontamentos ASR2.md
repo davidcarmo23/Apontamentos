@@ -33,3 +33,6 @@ Cada OS tem uma forma específica de criação de um utilizador local (alguns t�
 - Gerir ownership, permissões e quotas
 
 ## Como funcionam Contas de Utilizador Linux
+- Utilizador
+- Password
+Por default todos as diretorias home de todos os utilizad
