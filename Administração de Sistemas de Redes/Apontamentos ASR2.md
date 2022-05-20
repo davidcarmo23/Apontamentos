@@ -41,4 +41,6 @@ A diretoria home do utilizador root é **/root**
 
 Para ver toda a informação sobre o **user** no sistema Linux 
 - finger **user**
-	- A informaç
+	- A informação seguinte seria apresentada :
+		- **Login** -> utilizador que está a ser utilizado para autenticar ao sistema
+		- 
