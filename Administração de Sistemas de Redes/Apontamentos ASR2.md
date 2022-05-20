@@ -47,4 +47,4 @@ Para ver toda a informação sobre o **user** no sistema Linux
 		- **Directory** -> Diretoria Home do **user**
 		- **Shell** -> Shell default que vai ser providenciada ao **user**
 		- **Last Login** -> Mostra a última vez que o **user** fez login e donde
-Para além desta informação cada conta de utilizador é atribuida 
+Para além desta informação cada conta de utilizador é atribuida um **unique user ID (UID)**. Nunca existem 2 contas com o mesmo UID
