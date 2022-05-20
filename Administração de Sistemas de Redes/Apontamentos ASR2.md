@@ -19,16 +19,9 @@ Manutenção de utilizadores é importante pois o sistema existe para ser utiliz
 
 É **diferente** criar um utilizador local (para uma máquina) ou um utilizador para uma comunidade de máquinas
 
-•
-Cada OS tem uma forma específica de criação de um
-utilizador local (alguns têm ferramentas gráficas)
-•
-coisas a ter em conta:
-•
-nome do utilizador (ter um modelo)
-•
-password inicial (ter um modelo)
-•
-grupos a que pertence (ter um modelo)
-•
-acesso a recursos locais (ter um modelo)
+Cada OS tem uma forma específica de criação de um utilizador local (alguns têm ferramentas gráficas) coisas a ter em conta:
+
+- nome do utilizador (ter um modelo)
+- password inicial (ter um modelo)
+- grupos a que pertence (ter um modelo)
+- acesso a recursos locais (ter um modelo)
