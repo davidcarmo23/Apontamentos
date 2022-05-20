@@ -17,4 +17,4 @@ Alguns destes são **problemas tecnológicos** outros são **problemas humanos**
 **Conforto e conveniência** encontra-se no meio
 Manutenção de utilizadores é importante pois o sistema existe para ser utilizado por seres  humanos, e são tanto amigo como inimigo
 
-É **diferente** criar um utilizador local (para uma máquina) ou um uti
+É **diferente** criar um utilizador local (para uma máquina) ou um utilizador para uma comunidade de máquinas
