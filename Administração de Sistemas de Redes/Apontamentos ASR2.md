@@ -35,4 +35,6 @@ Cada OS tem uma forma específica de criação de um utilizador local (alguns t�
 ## Como funcionam Contas de Utilizador Linux
 - Utilizador
 - Password
-Por default todos as diretorias home de todos os utilizad
+
+Por default todos as diretorias home de todos os utilizadores são criados e mantidos na diretoria /home.
+A diretoria home 
