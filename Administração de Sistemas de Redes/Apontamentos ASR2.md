@@ -51,4 +51,6 @@ Para além desta informação cada conta de utilizador é atribuida um **unique 
 Para ver este UID basta utilizar o comando
 **id username**
 
-Num sistema 
+Num sistema de SUSE Linux o primeiro user regular é dado o UID de **1000** e os seguintes serão dados apartir desse. Fedora começa no **500**
+
+A conta de utilizador de **root** é sempre dado
