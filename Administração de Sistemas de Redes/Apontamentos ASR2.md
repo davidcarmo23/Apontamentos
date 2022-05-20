@@ -6,4 +6,5 @@ O utilizador cria um ficheiro crontab que executa os comandos dentro de si dentr
 **É um editor do tipo vi**
 
 ## Gestão de utilizadores
-Management de utilizadores é tudo sobre fazer interfacing de humanos para computadores 
+Management de utilizadores é tudo sobre fazer interfacing de humanos para computadores , isto traz a luz problemas como:
+- Accounting -> registar novos ut
