@@ -28,4 +28,4 @@ Cada OS tem uma forma específica de criação de um utilizador local (alguns t�
 
 ## Trabalhar com Utilizadores e Grupos
 Gerir utilizadores e grupos
-Gerir 
+Gerir ownership, permissões e quotas
