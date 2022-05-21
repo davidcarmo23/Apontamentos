@@ -132,3 +132,8 @@ Cada registo é composto pelos seguintes :
 Utilizado para modificar um grupo , incluindo adicionar utilizadores 
 #### Options
 ![[Pasted image 20220521223035.png]]
+
+### groupdel
+
+## Gerir ownership, permissões e quotas
+### Gerir Ownership
