@@ -79,3 +79,7 @@ São nos dados os seguintes métodos de autenticação para escolher:
 ### /etc/passwd File
 - Conteúdo ->Username:Password:Last_Modified:Min_Days:Max_Days:Days_Warn:Disabled_Days:Expire
  ![[Pasted image 20220521205413.png]]
+ ![[Pasted image 20220521205427.png]]
+![[Pasted image 20220521205439.png]]
+
+**Para verificar estes dois ficheiros basta utilizar o comando pwck , caso os ficheiros esteja**
