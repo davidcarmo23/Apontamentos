@@ -166,3 +166,10 @@ Por default o Linux atribui permissões rw-rw-rw- (666) a todos os ficheiros e d
 Para a maioria das distribuições Linux o valor default do **umask** é 022.
 O 1º digito refere-se ao dono , o 2º ao grupo e o 3º aos others.
 Para alterações temporárias utiliza-se o comando **umask value**
+
+#### Trabalhar com permissões especiais
+
+- **SUID** -> 4
+- **SGID** -> 2
+- **Sticky Bit** -> 1
+
