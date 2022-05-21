@@ -56,4 +56,8 @@ Num sistema de SUSE Linux o primeiro user regular é dado o UID de **1000** e os
 A conta de utilizador de **root** é sempre dado o **UID 0**. É este UID que o OS utiliza para controlar o acesso aos ficheiros e diretorias no file system
 
 ## Onde o Linux guarda as suas contas de utilizador
-Ao instalarmos o OS somos dados a escolher várias opções donde vamos querer guardar as nossas contas de utilizador
+Ao instalarmos o OS somos dados a escolher várias opções donde vamos querer guardar as nossas contas de utilizador.
+
+São nos dados os seguintes métodos de autenticação para escolher:
+- Local -> As contas são guardadas no ficheiro /etc/psswd
+- LDAP -> São guardadas n
