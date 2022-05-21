@@ -172,4 +172,7 @@ Para alterações temporárias utiliza-se o comando **umask value**
 - **SUID** -> 4
 - **SGID** -> 2
 - **Sticky Bit** -> 1
+![[Pasted image 20220521233639.png]]
 
+### Implementar quotas de disco
+Para implementar quotas de disco é necessário instalar 
