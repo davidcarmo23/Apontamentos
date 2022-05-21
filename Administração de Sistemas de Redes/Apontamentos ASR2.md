@@ -154,3 +154,5 @@ Utilizado para **mudar o grupo** que é **dono** de um ficheiro ou diretoria
 
 Cada ficheiro e diretoria no sistema Linux **guarda as permissões especificas atribuidas** ao mesmo. Estas permissões constituem o **modo do ficheiro**, estas são atribuidas às 3 entidades diferentes para cada ficheiro e diretoria no **file system**
 
+- Owner -> Conta de utilizador atribuida como dono, permissões atribuidas a donos apenas se aplicam aquela conta de utilizador em especifico
+- Group -> Grupo de utilizadores dados como donos d
