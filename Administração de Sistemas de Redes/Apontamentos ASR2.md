@@ -162,3 +162,4 @@ Cada ficheiro e diretoria no sistema Linux **guarda as permissões especificas a
 
 #### Trabalhar com permissões default
 
+Por default o Linux atribui 
