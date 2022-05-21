@@ -121,3 +121,4 @@ Cada registo é composto pelos seguintes :
 												**Group:Password:GID:Users**
 
 ![[Pasted image 20220521221929.png]]
+![[Pasted image 20220521221942.png]]
