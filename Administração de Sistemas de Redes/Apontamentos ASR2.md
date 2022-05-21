@@ -175,4 +175,7 @@ Para alterações temporárias utiliza-se o comando **umask value**
 ![[Pasted image 20220521233639.png]]
 
 ### Implementar quotas de disco
-Para implementar quotas de disco é necessário instalar 
+Para implementar quotas de disco é necessário instalar o package de quotas no nosso sistema
+![[Pasted image 20220521233759.png]]
+
+Para ver o espaço de disco utilizado por cada utilizador pode-se utilizar o comando -> repquota -av
