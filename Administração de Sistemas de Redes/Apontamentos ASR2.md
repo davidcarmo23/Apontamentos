@@ -151,3 +151,6 @@ Utilizado para **mudar o grupo** que é **dono** de um ficheiro ou diretoria
 ### Gerir Permissões
 #### Como funcionam as permissões
 ![[Pasted image 20220521224800.png]]
+
+Cada ficheiro e diretoria no sistema Linux **guarda as permissões especificas atribuidas** ao mesmo. Estas permissões constituem o **modo do ficheiro**, estas são atribuidas às 3 entidades diferentes para cada ficheiro e diretoria no **file system**
+
