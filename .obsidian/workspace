@@ -7,11 +7,9 @@
         "id": "0bba80c9920e4d3a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Administração de Sistemas de Redes/Apontamentos ASR2.md",
-            "mode": "source",
-            "source": false
+            "file": "Pasted image 20220521205439.png"
           }
         }
       }
@@ -53,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323,
-    "collapsed": true
+    "width": 323
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administração de Sistemas de Redes/Apontamentos ASR2.md",
+                "file": "Pasted image 20220521205439.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administração de Sistemas de Redes/Apontamentos ASR2.md"
+                "file": "Pasted image 20220521205439.png"
               }
             }
           },
@@ -125,15 +122,15 @@
   },
   "active": "0bba80c9920e4d3a",
   "lastOpenFiles": [
+    "Pasted image 20220521205439.png",
+    "Pasted image 20220521205309.png",
+    "Pasted image 20220521205320.png",
+    "Pasted image 20220521205413.png",
+    "Pasted image 20220521205427.png",
     "Administração de Sistemas de Redes/Apontamentos ASR2.md",
     "Administração de Sistemas de Redes/Apontamentos ASR.md",
     "Administração de Sistemas de Redes/Apontamentos ASR.pdf",
     "Segurança Informática/Comandos SI.md",
-    "Segurança Informática/Perguntas SI.md",
-    "Segurança Informática/Laboratório 9.md",
-    "Segurança Informática/Segurança Informática.md",
-    "Segurança Informática/Apontamentos SI.md",
-    "Segurança Informática/Laboratório 8.md",
-    "To Do List.md"
+    "Segurança Informática/Perguntas SI.md"
   ]
 }
