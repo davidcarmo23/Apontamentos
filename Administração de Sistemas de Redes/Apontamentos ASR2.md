@@ -117,4 +117,7 @@ São nos dados os seguintes métodos de autenticação para escolher:
 ## Grupos Linux
 Caso o sistema Linux tenha sido configurado para utilizar autenticação local os nossos grupos vão estar no ficheiro **/etc/group**
 
-Cada r
+Cada registo é composto pelos seguintes : 
+												**Group:Password:GID:Users**
+
+![[Pasted image 20220521221929.png]]
