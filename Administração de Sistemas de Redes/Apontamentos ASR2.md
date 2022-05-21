@@ -115,3 +115,6 @@ São nos dados os seguintes métodos de autenticação para escolher:
 É importante reter que por default o comando **userdel username** não apaga a diretoria home do utilizador do sistema , se quisermos fazer isso temos que utilizar a option **-r** 
 
 ## Grupos Linux
+Caso o sistema Linux tenha sido configurado para utilizar autenticação local os nossos grupos vão estar no ficheiro **/etc/group**
+
+Cada r
