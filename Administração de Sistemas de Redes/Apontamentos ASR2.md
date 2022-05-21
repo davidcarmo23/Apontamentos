@@ -110,3 +110,5 @@ São nos dados os seguintes métodos de autenticação para escolher:
 #### Options
 ![[Pasted image 20220521220611.png]]
 ![[Pasted image 20220521220622.png]]
+
+### userdel
