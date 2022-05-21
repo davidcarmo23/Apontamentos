@@ -143,3 +143,4 @@ Conseguimos ver a ownership dos ficheiros utilizando o comando **ls -l**
 Conseguimos **especificar** um certo utilizador como donos do ficheiro ou diretoria , para fazer isto é necessário estarmos autenticados com a conta root. Ou caso que seja para mudar qual o grupo que é dono do ficheiro ou diretoria é necessário sermos o utilizador que criou ou o root.
 Isto faz-se utilizando o **chown** e o **chgrp**
 #### chown
+Utilizado para **mudar o utilizador ou grupo** que é **dono** de um ficheiro ou diretoria
