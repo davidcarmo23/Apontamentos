@@ -93,3 +93,9 @@ São nos dados os seguintes métodos de autenticação para escolher:
 **/etc/login.defs** -> Contém valores  que podem ser utilizados para os parametros de GID e UID quando criada uma conta com o commando useradd, também contém os defaults para criar passwords em /etc/shadow -> conseguimos ver os valores default com **useradd -D**
 
 #### Options 
+![[Pasted image 20220521212454.png]]
+![[Pasted image 20220521212503.png]]
+![[Pasted image 20220521212519.png]]
+
+### passwd
+
