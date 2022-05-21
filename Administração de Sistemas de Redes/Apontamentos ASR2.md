@@ -158,3 +158,4 @@ Cada ficheiro e diretoria no sistema Linux **guarda as permissões especificas a
 - **Group** -> Grupo de utilizadores dados como donos, as permissões aplicam-se a todos os utilizadores dentro daquele grupo
 - **Others** -> Todos os utilizadores que se conseguiram autenticar no sistema.
 
+![[Pasted image 20220521231045.png]]
