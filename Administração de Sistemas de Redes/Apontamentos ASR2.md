@@ -88,3 +88,5 @@ São nos dados os seguintes métodos de autenticação para escolher:
 ## Creating and Managing User Accounts from the Command Line
 
 ### useradd
+**Syntax** -> useradd options username
+**Opções d**
