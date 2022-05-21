@@ -144,3 +144,6 @@ Conseguimos **especificar** um certo utilizador como donos do ficheiro ou direto
 Isto faz-se utilizando o **chown** e o **chgrp**
 #### chown
 Utilizado para **mudar o utilizador ou grupo** que é **dono** de um ficheiro ou diretoria
+
+#### chgrp
+Utilizado para mudar o grupo que é dono de um fich
