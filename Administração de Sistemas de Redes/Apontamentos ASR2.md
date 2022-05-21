@@ -83,3 +83,8 @@ São nos dados os seguintes métodos de autenticação para escolher:
 ![[Pasted image 20220521205439.png]]
 
 **Para verificar estes dois ficheiros basta utilizar o comando pwck , caso os ficheiros estejam desincronizados podesse utilizar pwconv para compor os ficheiros** -> Este vai adicionar contas de utilizador que faltem a ambos ficheiros
+
+
+## Creating and Managing User Accounts from the Command Line
+
+### useradd
