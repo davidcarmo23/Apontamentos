@@ -90,4 +90,6 @@ São nos dados os seguintes métodos de autenticação para escolher:
 ### useradd
 **Syntax** -> useradd options username
 **Opções default** -> A conta criada com useradd ncth ncth utiliza os parametros default contidos no ficheiro de configuração **/etc/default/useradd**
-**/etc/login.defs** -> Contém valores  que podem ser utilizados para os parametros de GID e UID quando criada uma conta com o commando useradd, també m c
+**/etc/login.defs** -> Contém valores  que podem ser utilizados para os parametros de GID e UID quando criada uma conta com o commando useradd, também contém os defaults para criar passwords em /etc/shadow -> conseguimos ver os valores default com **useradd -D**
+
+#### Options 
