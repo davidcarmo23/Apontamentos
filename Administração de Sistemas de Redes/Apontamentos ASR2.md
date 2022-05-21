@@ -122,3 +122,6 @@ Cada registo é composto pelos seguintes :
 
 ![[Pasted image 20220521221929.png]]
 ![[Pasted image 20220521221942.png]]
+
+## Gerir grupos através da linha de comandos
+### groupadd
