@@ -163,4 +163,6 @@ Cada ficheiro e diretoria no sistema Linux **guarda as permissões especificas a
 #### Trabalhar com permissões default
 
 Por default o Linux atribui permissões rw-rw-rw- (666) a todos os ficheiros e diretorias criados no **file system** . Para melhorar a segurança o Linux utiliza uma variável chamada **umask** para remover automaticamente essas permissões do modo default, o valor desta variável é um número de 3 digítos.
-Para a maioria das dist
+Para a maioria das distribuições Linux o valor default do **umask** é 022.
+O 1º digito refere-se ao dono , o 2º ao grupo e o 3º aos others.
+Para alterações temporár
