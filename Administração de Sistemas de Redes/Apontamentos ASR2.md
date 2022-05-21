@@ -138,12 +138,15 @@ Utilizado para modificar um grupo , incluindo adicionar utilizadores
 ## Gerir ownership, permissões e quotas
 ### Gerir Ownership
 Cada vez que um utilizador cria um novo ficheiro ou diretoria a sua conta é atribuída como **dona** do mesmo 
-### Como a ownership funciona
+#### Como a ownership funciona
 Conseguimos ver a ownership dos ficheiros utilizando o comando **ls -l**
 Conseguimos **especificar** um certo utilizador como donos do ficheiro ou diretoria , para fazer isto é necessário estarmos autenticados com a conta root. Ou caso que seja para mudar qual o grupo que é dono do ficheiro ou diretoria é necessário sermos o utilizador que criou ou o root.
 Isto faz-se utilizando o **chown** e o **chgrp**
-#### chown
+##### chown
 Utilizado para **mudar o utilizador ou grupo** que é **dono** de um ficheiro ou diretoria
 
-#### chgrp
-Utilizado para mudar o grupo que é dono de um fich
+##### chgrp
+Utilizado para **mudar o grupo** que é **dono** de um ficheiro ou diretoria
+
+### Gerir Permissões
+#### Como funcionam perm
