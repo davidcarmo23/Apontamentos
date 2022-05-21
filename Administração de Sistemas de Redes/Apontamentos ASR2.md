@@ -149,4 +149,5 @@ Utilizado para **mudar o utilizador ou grupo** que é **dono** de um ficheiro ou
 Utilizado para **mudar o grupo** que é **dono** de um ficheiro ou diretoria
 
 ### Gerir Permissões
-#### Como funcionam perm
+#### Como funcionam as permissões
+![[Pasted image 20220521224800.png]]
