@@ -98,4 +98,4 @@ São nos dados os seguintes métodos de autenticação para escolher:
 ![[Pasted image 20220521212519.png]]
 
 ### passwd
-
+**Este comando é utilizado para **
