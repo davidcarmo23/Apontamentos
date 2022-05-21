@@ -63,14 +63,8 @@ São nos dados os seguintes métodos de autenticação para escolher:
 - **LDAP** -> São guardadas num serviço de diretoria do **OpenLDAP** e este serviço é de **natureza hierárquica** permitindo **organizar** as contas por **localização, função ou departamento**
 - **NIS** -> Network Information Service é desenhado para providenciar gestão de contas de utilizador centralizadamente quando temos vários sistemas que têm de ter as mesmas contas. O NIS configura os sistemas para utilizarem um ficheiro passwd e shadow comum
 - **Windows Domain** -> Se tivermos um controlador de dominio windows na nossa rede podemos configurar o nosso sistema Linux para utilizar as contas de utilizador no dominio para autenticar o sistema local
-/etc/passwd
-This file contains the user
-account information for your system.
-■
-/etc/shadow
-This file contains passwords for
-your user accounts.
-■
-/etc/group
-This file contains your system’s
-groups.
+
+**Opções Locais**
+- **/etc/passwd** -> This file contains the user account information for your system.
+- **/etc/shadow** -> This file contains passwords for your user accounts.
+- **/etc/group** -> This file contains your system’s groups.
