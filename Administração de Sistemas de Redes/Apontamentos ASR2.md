@@ -162,4 +162,4 @@ Cada ficheiro e diretoria no sistema Linux **guarda as permissões especificas a
 
 #### Trabalhar com permissões default
 
-Por default o Linux atribui 
+Por default o Linux atribui permissões rw-rw-rw- (666) a todos os ficheiros e diretorias criados no **file system** . Para melhorar a segurança o Linux 
