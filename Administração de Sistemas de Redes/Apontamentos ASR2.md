@@ -74,3 +74,8 @@ São nos dados os seguintes métodos de autenticação para escolher:
 - Conteúdo ->Username:Password:UID:GID:Full_Name:Home_Directory:Default_Shell
 
 ![[Pasted image 20220521205309.png]]
+![[Pasted image 20220521205320.png]]
+
+### /etc/passwd File
+- Conteúdo ->Username:Password:Last_Modified:Min_Days:Max_Days:Days_Warn:Disabled_Days:Expire
+ ![[Pasted image 20220521205413.png]]
