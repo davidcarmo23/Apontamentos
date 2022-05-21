@@ -104,3 +104,9 @@ São nos dados os seguintes métodos de autenticação para escolher:
 ![[Pasted image 20220521220506.png]]
 ![[Pasted image 20220521220516.png]]
 
+### usermod
+**Utilizado para modificar um conta de utilizador existente**
+
+#### Options
+![[Pasted image 20220521220611.png]]
+![[Pasted image 20220521220622.png]]
