@@ -61,4 +61,5 @@ Ao instalarmos o OS somos dados a escolher várias opções donde vamos querer g
 São nos dados os seguintes métodos de autenticação para escolher:
 - **Local** -> As contas são **guardadas** no ficheiro /etc/psswd
 - **LDAP** -> São guardadas num serviço de diretoria do **OpenLDAP** e este serviço é de **natureza hierárquica** permitindo **organizar** as contas por **localização, função ou departamento**
-- **NIS** -> Network Information Service é desenhado para providenciar gestão de contas de utilizador centralizadamente quando temos vários sistemas que têm de ter as mesmas contas. O NIS configura os sistemas para utilizarem
+- **NIS** -> Network Information Service é desenhado para providenciar gestão de contas de utilizador centralizadamente quando temos vários sistemas que têm de ter as mesmas contas. O NIS configura os sistemas para utilizarem um ficheiro passwd e shadow comum
+- **Windows Domain** -> 
