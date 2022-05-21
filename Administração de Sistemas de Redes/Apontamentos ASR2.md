@@ -178,4 +178,7 @@ Para alterações temporárias utiliza-se o comando **umask value**
 Para implementar quotas de disco é necessário instalar o package de quotas no nosso sistema
 ![[Pasted image 20220521233759.png]]
 
-Para ver o espaço de disco utilizado por cada utilizador pode-se utilizar o comando -> repquota -av
+Para ver o **espaço de disco utilizado por cada utilizador** pode-se utilizar o comando -> **repquota -av**
+
+**Criar quotas de disco para cada utilizador** -> **edquota -u username**
+**Criar quotas de disco para cada grupo** -> **edquota -g groupname**
