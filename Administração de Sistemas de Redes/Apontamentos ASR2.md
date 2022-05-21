@@ -89,4 +89,4 @@ São nos dados os seguintes métodos de autenticação para escolher:
 
 ### useradd
 **Syntax** -> useradd options username
-**Opções d**
+**Opções default** -> A conta criada com useradd ncth ncth utiliza os parametros default contidos no ficheiro  
