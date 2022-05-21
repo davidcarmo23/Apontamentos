@@ -98,4 +98,9 @@ São nos dados os seguintes métodos de autenticação para escolher:
 ![[Pasted image 20220521212519.png]]
 
 ### passwd
-**Este comando é utilizado para **
+**Este comando é utilizado para mudar a palavra passe de um utilizador já existente**
+
+#### Options
+![[Pasted image 20220521220506.png]]
+![[Pasted image 20220521220516.png]]
+
