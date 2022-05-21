@@ -140,3 +140,4 @@ Utilizado para modificar um grupo , incluindo adicionar utilizadores
 Cada vez que um utilizador cria um novo ficheiro ou diretoria a sua conta é atribuída como **dona** do mesmo 
 ### Como a ownership funciona
 Conseguimos ver a ownership dos ficheiros utilizando o comando **ls -l**
+Conseguimos especificar um certo utilizador ou grupo como donos do ficheiro ou diretoria , para fazer isto é necessário estarmos autenticados com a conta roo
