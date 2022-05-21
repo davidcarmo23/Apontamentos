@@ -113,3 +113,5 @@ São nos dados os seguintes métodos de autenticação para escolher:
 
 ### userdel
 É importante reter que por default o comando **userdel username** não apaga a diretoria home do utilizador do sistema , se quisermos fazer isso temos que utilizar a option **-r** 
+
+## Grupos Linux
