@@ -68,3 +68,11 @@ São nos dados os seguintes métodos de autenticação para escolher:
 - **/etc/passwd** -> This file contains the user account information for your system.
 - **/etc/shadow** -> This file contains passwords for your user accounts.
 - **/etc/group** -> This file contains your system’s groups.
+
+
+### /etc/passwd File
+->Username:Password:UID:GID:Full_Name:Home_Directory:Default_Shell■Username:The Username field simply identifiesthe username the user will supply when logging into the system■Password:This is a legacy field. At one time, theuser’s password was stored in encrypted form inthis field in the passwd file. However, for securityreasons, the password has been moved from/etc/passwdto/etc/shadow.
+    
+2.  ![aula ASR 7 21-22.pdf](https://uc1f19c645b6aa4468aca9db3dda.previews.dropboxusercontent.com/p/pdf_img/ABj0dBnV60-bxTzfwQ6yi38sgigiueD4IQh5Y0A_qZpwcJ-P6zk6mflZmTippBI13ffrZs3QTHrZihphH5mKzYl9huR-frAWqdMu-Bljr7FOOEpyVHfE-CWV9fBxzUUHT2OFiaBwI1aXhPizabi8MChfb25vRvDm3xF7PC6GhNfhrfaERgwfYFKJWm7FVFW8JJlaKEtPFgn81wnphorIALQe1C6Wg1XhmNHbt6mzlyWbGs4cdh7w53FrYMrVoUy0nN7Cq-Qr5RdAFs-QxWdgDGVd78cSbZECDKJbbFOTHx9JQnKoJ8_J6bddypbHNhn2YJSF4uMEG6Mj5zWKSN5ddiqJ0yaBrlbImtLmehme--vknJHv3BPMML9JqjdkfNzP7xmAJ6vp7cM0bXBnxliPmg9O/p.png?page=25&scale_percent=0)
+    
+    ■UIDThis is the user ID for the user account■GIDThis field references the group ID numberof the user’s default group■Full_NameThis field contains the user’s fullname■Home_DirectoryThis field contains the path tothe user’s home directory.■Default_ShellThis field specifies the shell thatwill be used by default
