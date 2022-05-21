@@ -125,7 +125,10 @@ Cada registo é composto pelos seguintes :
 
 ## Gerir grupos através da linha de comandos
 ### groupadd
-![[Pasted image 20220521222842.png]]
+#### Options
+![[Pasted image 20220521223022.png]]
 
 ### groupmod
 Utilizado para modificar um grupo , incluindo adicionar utilizadores 
+#### Options
+![[Pasted image 20220521223035.png]]
