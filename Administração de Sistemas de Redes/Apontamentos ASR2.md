@@ -137,4 +137,6 @@ Utilizado para modificar um grupo , incluindo adicionar utilizadores
 
 ## Gerir ownership, permissões e quotas
 ### Gerir Ownership
-Cada vez que um utilizador cria um novo ficheiro ou diretoria a sua conta é atribuída como dono do mesmo 
+Cada vez que um utilizador cria um novo ficheiro ou diretoria a sua conta é atribuída como **dona** do mesmo 
+### Como a ownership funciona
+Conseguimos ver a ownersh
