@@ -139,4 +139,4 @@ Utilizado para modificar um grupo , incluindo adicionar utilizadores
 ### Gerir Ownership
 Cada vez que um utilizador cria um novo ficheiro ou diretoria a sua conta é atribuída como **dona** do mesmo 
 ### Como a ownership funciona
-Conseguimos ver a ownersh
+Conseguimos ver a ownership dos ficheiros utilizando o comando **ls -l**
