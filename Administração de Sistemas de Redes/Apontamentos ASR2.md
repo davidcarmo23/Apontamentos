@@ -204,7 +204,7 @@ Para ver o **espaço de disco utilizado por cada utilizador** pode-se utilizar o
 * Uma empresa pode contratar especialistas para fazer a análise de risco enquanto tem pessoal responsável pela gestão de risco
 
 ## Análise de Risco - o que é
-* Uma análise de risco consiste em determinar que desastres a empresa está em risco de experenciar
+* Uma análise de risco consiste em determinar que desastres a empresa está em risco de experienciar
 * Determinar as chances desses desastres acontecerem
 * A análise determina o possivel custo para a empresa por cada tipo de desastre
 * A empresa usa a informação da análise de risco para decidir quanto capital é sensato despender para mitigar os efeitos de cada desastre
@@ -372,8 +372,6 @@ Aeronaútica - tem redundância e backup de redundância.
 
 ## fim de Aula 8
 
-
-
 # Aula 9
 
 ## Logs
@@ -465,8 +463,6 @@ Servem para **prevenir** e **corrigir**
 ![](https://i.imgur.com/M6RZvRE.png)
 
 
-
-
 ## fim de Aula 9
 
 # Aula 10
@@ -500,4 +496,101 @@ Define os peers, o grupo diffie-helman e endereço correspondente. Estas informa
 5 -Ligar o processo anterior ativando o crypto map anteriormente definido 
 
 Verificação da conexão pode ser verificada através do ping
+
 ## fim de Aula 10
+
+# Perguntas Frequência
+---
+:::info
+### 1. A integridade dos dados de uma organização é de extrema importância. Como se mede o valor de um risco? O que é um desastre, e o que se pode fazer para minimizar o potencial dano de um desastre?
+
+Um desastre é tudo aquilo que tenha impacto significativo na habilidade de uma empresa fazer negócios. Um Desastre é um evento catastrófico que causa interrupções e afeta edificios e lugares.
+Para minizar o potencial dano de um desastre podemos fazer uma análise de risco que consiste em determinar que desastres a empresa está em risco de experienciar. A anlise de risco consiste em,
+* determinar as chances desses desastres acontecerem
+* A análise determina o possivel custo para a empresa por cada tipo de desastre
+* A empresa usa a informação da análise de risco para decidir quanto capital é sensato despender para mitigar os efeitos de cada desastre
+
+
+:::
+
+
+### 20. A integridade dos dados de uma organização é de extrema de importância. Discuta o princípio do "backup do backup" e dê o exemplo de uma circunstância em que este princípio não precisa de ser observado.
+
+
+:::warning
+Errado
+O princípio do "backup do backup" permite prevenir a um utilizador que caso a sua máquina sofra algum desastre este tenha um backup numa pen drive ou num CD permitindo-lhe repor os seus dados.Quando é feito backup numa pen é necessário conferir que esse equipamento está em perfeitas condições para garantir a segurança dos dados que este contem. Um exemplo de quando esta circunstância não...
+:::
+:::success
+O backup do backup permite prevenir que no caso de que o sistema sofra algum desastre temos o backup e caso este também sofra dano temos ainda outro backup. aqui esta o princípio da redundância de dados algo que é crucial em sistemas critícos onde a integridade dos dados é de máxima importância. Um exemplo deste conceito seria no caso da àrea de aeronautica temos vários backups para a mesma ferramenta, mas por exemplo no caso dos dados de um MP3 não seria necessário existir esta redundância pois não afeta economicamente o utilizador.
+:::
+
+## 4. Recentemente foi identificado um problema de segurança que afeta provavelmente todos os computadores do mundo.
+
+### a) A que problema me refiro?
+:::success
+Saiu no teste anterior -> falha no processamento paralelo de chips que permite roubar informações
+:::
+
+
+### b) Sendo SysAdmin qual é a relevância de estar informado sobre problemas que possam afectar a integridade dos seus sistemas? Porquê?
+Adoptar boas práticas, Educar os utilizadores, Ter Sistema de Backups, Fazer auditorias, Implementar Controlos de Acesso, Validar dados de input. -> Manter a Integridade
+Porquê: Para que o sistema esteja seguro, e a funcionar de modo a não prejudicar a informação guardada e a organização se houver violações ou acessos não planeados.
+:::success
+Ao estarmos informados sobre problemas que possam afetar os nossos sistemas conseguimos garantir integridade e prevenir perdas e problemas futuros que afetem a nossa empresa. Pois ao adotarmos boas práticas, educar os utilizadores, ter redundância de dados, etc... 
+:::
+
+### c) Que tipo de estratégia deve definir e implementar para proteger os seus sistemas?
+:::success
+Realizar uma análise de risco e definir um planos de desastre, isto garante que estamos a proteger o nosso sistema de violações ou acessos não planeados.
+:::
+Adoptar boas práticas, Educar os utilizadores, Ter Sistema de Backups, Fazer auditorias, Implementar Controlos de Acesso, Validar dados de input.
+
+### d) Acha que uma vulnerabilidade grave pode ser incluída no plano de desastres que definiu para a sua empresa? Porquê?
+:::success
+Uma vulnerabilidade grave pode ser definida como um desastre, pois um desastre é tudo aquilo que tem um impacto significativo na habilidade de uma empresa fazer negócios. Causa interrupções e afeta edíficios e lugares.
+Logo, é necessário medir os riscos e se a quantificação monetária necessária para mitigar os efeitos de desastre compensa o desenvolvimento de uma medida de atenuação.
+:::
+
+:::warning
+Sim, pois uma vulnerabilidade grave pode ser definida como um desastre, logo no plano de desastre incluímos medidas preventivas específicas. 
+:::
+
+---
+
+## 5. A sua empresa de produção de multimédia vai fazer a aquisição de uma empresa de animação, sendo criada uma nova empresa. Ambas as empresas têm sistemas informáticos que incluem servidores de ficheiros, serviços de email e partilha de recursos físicos. A nova empresa vai manter as duas localizações das duas anteriores empresas, em duas cidades diferentes.
+
+### a) A sua Administração pede-lhe para definir um plano de integração dos dois sistemas.Que tipo de preocupações devem estar na sua mente?(identifique pelo menos três)
+:::success
+No plano de integração destes dois sistemas três das preocupações que deveriamos ter em conta seriam:
+- Utilização do NIS (Network Information Service) para centralizar as contas dos utilizadores para as mesmas contas conseguirem ter os mesmos acessos nas duas localizações mantendo a mesma hierarquia de privilégios 
+- Sistemas de Servidor de Logs -> integração de várias organizações
+- Filesystems (Como e onde vamos guardar os dados)
+:::
+### b) Dado que a nova empresa vai ter um novo domínio, o que prevê que deva fazer com os dois anteriores sistemas de email?
+:::success
+Configurar o servidor SMTP. 
+:::
+
+### c) Uma das empresas tem um sistema de análise de logs, a outra não. E agora, o que vai fazer com isto?
+Os logs servem para alarmística e Manuntenção, isto é, Gestão de Recursos, Deteção de Intrusões, Resolução de Problemas e Análise Forense. Se uma empresa não possui um sistema de análise de logs, deve-ser implementar logs no seu software e mandá-los para análise num servidor.
+
+
+### d) Que problemas éticos pode ter? (identifique pelo menos três)
+:::success
+Privacidade
+Integridade de dados
+:::
+
+
+---
+
+## 4. Recentemente foi reportado num relatório online que um Sistema Operativo largamente conhecido fazia keylogging e enviava dados de para o respectivo fabricante
+
+### a) Acha que este relatório é verosímil?
+:::success
+???
+:::
+
+
+# Fichas Práticas
