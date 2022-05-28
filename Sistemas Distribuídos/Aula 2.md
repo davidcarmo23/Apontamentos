@@ -71,3 +71,9 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 ![[Pasted image 20220528181812.png]]
 
 **Socket** -> interface de um canal de comunicação entre dois processos. Um par de processos comunica através de um par de sockets
+
+**Paradigma de Comunicação**
+![[Pasted image 20220528181945.png]]
+
+### Endereço de um Socket
+É especifi
