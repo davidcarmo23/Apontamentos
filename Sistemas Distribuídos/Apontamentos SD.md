@@ -29,4 +29,5 @@ Integração de equipamento portátil em sistemas distribuidos.
 **Tolerâncias a Falhas** ->  Tolerar uma falha significa conter os seus efeitos de forma a que o sistema continue a funcionar
 **Segurança** ->![[Pasted image 20220528174144.png]]
 
-**Transparência** -> O 
+**Transparência** -> O sistema deve ser visto como um todo e não como uma coleção de componentes distribuidos.
+Tipos de Transparência
