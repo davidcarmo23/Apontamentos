@@ -39,5 +39,7 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 **Três tipos de sincronização**
 
 - Comunicação síncrona
+	- ![[Pasted image 20220528180818.png]]
+	- **Conceito de mais baixo nível (mais eficiente)**
 - Comunicação assíncrona
 - 
