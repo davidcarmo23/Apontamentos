@@ -89,3 +89,5 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 **Criar um Socket**
 
 ![[Pasted image 20220528183513.png]]
+
+**C**
