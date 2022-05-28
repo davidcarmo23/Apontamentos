@@ -31,4 +31,8 @@ A **comunicação entre processo IPC** é usada tanto para transferir dados entr
 As várias **formas de comunicação por mensagens** distinguem-se por dois aspetos:
 
 - Tipo de Sincronização
+	- ![[Pasted image 20220528180507.png]]
+- Forma como são especificados os vários intervenientes no processo
+	- ![[Pasted image 20220528180549.png]]
+	- 
 
