@@ -7,5 +7,8 @@ As várias threads de um processo partilham o mesmo espaço de endereçamento qu
 
 **Criação de Threads em JAVA**
 ![[Pasted image 20220528192453.png]]
-
 ![[Pasted image 20220528192509.png]]
+
+**Aceder a um Objeto Partilhado**
+![[Pasted image 20220528192559.png]]
+
