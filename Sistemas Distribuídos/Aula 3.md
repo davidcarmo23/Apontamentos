@@ -36,3 +36,6 @@ Após calcular a referência para o objecto, mas antes de executar o corpo de in
 
 ### Multithreaded Servers
 
+![[Pasted image 20220528193347.png]]
+![[Pasted image 20220528193357.png]]
+
