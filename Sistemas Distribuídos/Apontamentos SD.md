@@ -32,3 +32,6 @@ Integração de equipamento portátil em sistemas distribuidos.
 **Transparência** -> O sistema deve ser visto como um todo e não como uma coleção de componentes distribuidos.
 Tipos de Transparência:
 ![[Pasted image 20220528174422.png]]
+![[Pasted image 20220528174720.png]]
+![[Pasted image 20220528174738.png]]
+![[Pasted image 20220528174748.png]]
