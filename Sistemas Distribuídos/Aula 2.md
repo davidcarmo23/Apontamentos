@@ -39,4 +39,5 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 **Três tipos de sincronização**
 
 - Comunicação síncrona
-- Comuni
+- Comunicação assíncrona
+- 
