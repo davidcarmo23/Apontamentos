@@ -60,3 +60,6 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 
 - **Sistema em que todos os processos têm um nome único**
 	- ![[Pasted image 20220528181517.png]]
+- Quando não é apropriado um sistema de nomes únicos para todos os processos, definem-se entidades intermédias
+	- ![[Pasted image 20220528181653.png]]
+
