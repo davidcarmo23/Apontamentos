@@ -56,3 +56,6 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 	- ![[Pasted image 20220528181211.png]]
 	- ![[Pasted image 20220528181217.png]]
 	- ![[Pasted image 20220528181234.png]]
+### Identificação dos processos
+
+- **Sistema em que todos os processos têm um nome único**
