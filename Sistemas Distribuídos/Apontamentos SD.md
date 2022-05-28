@@ -12,4 +12,4 @@
 ![[Pasted image 20220528165445.png]]
 
 ### Oito Falácias da Computação Distribuida
-São oito 
+São oito pontos que assumidos que a longo prazo vão causar grandes problemas.
