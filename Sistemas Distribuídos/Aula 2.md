@@ -114,4 +114,6 @@ Ex Percorrer todos os portos de uma máquina remota
 **Fechar um socket**
 ![[Pasted image 20220528184502.png]]
 
-**Os Sistemas de Objetos Distribuidos implementam o mode**
+**Os Sistemas de Objetos Distribuidos implementam o modelo de objetos locais usando RPC**
+
+![[Pasted image 20220528185819.png]]
