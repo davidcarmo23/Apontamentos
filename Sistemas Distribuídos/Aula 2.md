@@ -105,4 +105,10 @@ Ex Percorrer todos os portos de uma máquina remota
 
 ![[Pasted image 20220528184334.png]]
 
-**Criar uma input **
+**Criar uma input stream (Servidor)**
+![[Pasted image 20220528184431.png]]
+
+**Criar uma input stream (Servidor)**
+![[Pasted image 20220528184440.png]]
+
+**Fechar um socket**
