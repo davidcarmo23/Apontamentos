@@ -7,3 +7,6 @@
 #### Caracteristicas
 
 ![[Pasted image 20220528165052.png]]
+![[Pasted image 20220528165428.png]]
+![[Pasted image 20220528165435.png]]
+![[Pasted image 20220528165445.png]]
