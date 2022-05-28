@@ -124,6 +124,12 @@ Ex Percorrer todos os portos de uma máquina remota
 ![[Pasted image 20220528190001.png]]
 
 - **Comunicação Ponto a Ponto**
+	- ![[Pasted image 20220528190136.png]]
+
+Para os subscritores serem notificados do evento há duas estratégias possíveis.
+
 - **Publish and Subscribe**
+	- ![[Pasted image 20220528190114.png]]
+	- ![[Pasted image 20220528190126.png]]
 - **Request-Reply**
-- 
+	- ![[Pasted image 20220528190105.png]]
