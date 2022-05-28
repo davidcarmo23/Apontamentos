@@ -24,4 +24,10 @@ As várias threads de um processo partilham o mesmo espaço de endereçamento qu
 
 Após calcular a referência para o objecto, mas antes de executar o corpo de instruções:
 
-- A thread adquire o lock associado ao objeto (caso este não perte)
+- A thread adquire o lock associado ao objeto (caso este não pertença já a alguma outra thread)
+	- Executa o corpo de instruções
+- Após Executar o corpo de instruções
+	- Liberta o lock
+
+**Notas**
+
