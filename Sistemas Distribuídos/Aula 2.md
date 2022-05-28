@@ -94,3 +94,7 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 
 ![[Pasted image 20220528183722.png]]
 
+Ex Percorrer todos os portos de uma máquina remota
+
+![[Pasted image 20220528183945.png]]
+
