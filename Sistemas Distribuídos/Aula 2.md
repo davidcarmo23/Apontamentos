@@ -98,3 +98,5 @@ Ex Percorrer todos os portos de uma máquina remota
 
 ![[Pasted image 20220528183945.png]]
 
+**Criar uma output stream ())**
+![[Pasted image 20220528184256.png]]
