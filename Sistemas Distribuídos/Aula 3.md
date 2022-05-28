@@ -48,4 +48,4 @@ Após calcular a referência para o objecto, mas antes de executar o corpo de in
 - notify()
 - notifyAll()
 
-Permitem a trans
+Permitem a transferência de controlo de uma thread para outra
