@@ -46,8 +46,10 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 	- **Permite um maior grau de concorrência**
 	- Exige que o sistema de execução faça a gestão e o **armazenamento das mensagens**
 
-###Invocação Remota de Procedimentos
+### Invocação Remota de Procedimentos
+- **Remote Procedure Calling**
 	- ![[Pasted image 20220528181029.png]]
 	- ![[Pasted image 20220528181036.png]]
 	- ![[Pasted image 20220528181043.png]]
 
+- **Vari**
