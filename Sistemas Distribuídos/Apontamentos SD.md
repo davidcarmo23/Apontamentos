@@ -24,4 +24,5 @@ Integração de equipamento portátil em sistemas distribuidos.
 
 ![[Pasted image 20220528171809.png]]
 
-**Escalabilidade** -> Capacidade de o sistema se manter a funcionar de forma correta e *a v*
+**Escalabilidade** -> Capacidade de o sistema se manter a funcionar de forma correta e à velocidade desejada independentemente do num de utilizadores
+****
