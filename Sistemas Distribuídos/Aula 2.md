@@ -114,3 +114,4 @@ Ex Percorrer todos os portos de uma máquina remota
 **Fechar um socket**
 ![[Pasted image 20220528184502.png]]
 
+**Os Sistemas de Objetos Distribuidos implementam o mode**
