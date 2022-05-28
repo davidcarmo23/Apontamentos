@@ -123,3 +123,7 @@ Ex Percorrer todos os portos de uma máquina remota
 
 ![[Pasted image 20220528190001.png]]
 
+- **Comunicação Ponto a Ponto**
+- **Publish and Subscribe**
+- **Request-Reply**
+- 
