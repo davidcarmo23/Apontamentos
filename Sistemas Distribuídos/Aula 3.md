@@ -41,3 +41,11 @@ Após calcular a referência para o objecto, mas antes de executar o corpo de in
 
 ## Aula 3b
 
+#### Transferência de controle entre Threads
+
+**Métodos**
+- wait()
+- notify()
+- notifyAll()
+
+Permitem a trans
