@@ -15,4 +15,6 @@
 São oito pontos que assumidos que a longo prazo vão causar grandes problemas.
 ![[Pasted image 20220528170706.png]]
 
-### 
+### Computação Móvel e Ubíqua
+Integração de equipamento portátil em sistemas distribuidos.
+![[Pasted image 20220528171545.png]]
