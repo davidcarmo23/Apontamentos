@@ -83,4 +83,5 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 **A Classe Socket**
 
 - Permite criar sockets que comunicam através do protocolo TCP usando uma stream de bytes.
-- Um dos sockets (servidor) aguarda por um pedido de ligação 
+- Um dos sockets (servidor) aguarda por um pedido de ligação enquanto o outro (cliente) solicita a ligação.
+- Após ser estabelecida a ligação, estes podem ser usados para transmitir dados nos **dois sentidos**
