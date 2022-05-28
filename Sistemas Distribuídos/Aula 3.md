@@ -12,3 +12,7 @@ As várias threads de um processo partilham o mesmo espaço de endereçamento qu
 **Aceder a um Objeto Partilhado**
 ![[Pasted image 20220528192559.png]]
 
+**Se a classe for subclasse de outra classe**
+![[Pasted image 20220528192651.png]]
+
+### Diagramas de Estados Possiveis para uma 
