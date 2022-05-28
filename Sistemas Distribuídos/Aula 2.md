@@ -17,5 +17,12 @@ Ao nivel do **sistema operativo,** a comunicação entre  processos é implement
 
 A **comunicação entre processo IPC** é usada tanto para transferir dados entre os processo tal como para coordenar a sua atividade.
 
-Modelos de IPC ma
+**Modelos de IPC mais importantes**:
+- Memória Partilhada
+- Comunicação por mensagens
+
+### Sistema de Memória Partilhada
+
+
+
 
