@@ -21,3 +21,5 @@ Integração de equipamento portátil em sistemas distribuidos.
 ![[Pasted image 20220528171602.png]]
 
 ### Desafios na implementação de sistemas distribuidos
+
+![[Pasted image 20220528171809.png]]
