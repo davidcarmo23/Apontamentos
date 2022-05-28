@@ -76,4 +76,9 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 ![[Pasted image 20220528181945.png]]
 
 ### Endereço de um Socket
-É especifi
+É especificado por 
+- **Endereço Internet** -> IP da máquina onde está o processo com que queremos comunicar
+- **Nº de um porto** -> um porto é representado por um inteiro >1024 que identifica os vários serviços em execução numa mesma máquina, 0-1023 reservados a utilizadores com privilégios root ou superuser
+
+**A Classe Socket**
+
