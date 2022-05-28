@@ -7,6 +7,7 @@ A computação é dividida em várias unidades que executam concorrentemente  em
 
 Um **sistema distribuido** é resultado da interação de vários componentes que atravessam toda a pilha de computação desde o hardware até ao software.
 
-**Hardware** -> Computadores com
+**Hardware** -> Computadores mais infra-estrutura de rede
+É gerido pelo SO que forneçe os serviços para:
 
 
