@@ -112,3 +112,5 @@ Ex Percorrer todos os portos de uma máquina remota
 ![[Pasted image 20220528184440.png]]
 
 **Fechar um socket**
+![[Pasted image 20220528184502.png]]
+
