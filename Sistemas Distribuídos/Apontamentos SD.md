@@ -15,3 +15,4 @@
 São oito pontos que assumidos que a longo prazo vão causar grandes problemas.
 ![[Pasted image 20220528170706.png]]
 
+### 
