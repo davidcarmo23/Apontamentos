@@ -23,3 +23,5 @@ Integração de equipamento portátil em sistemas distribuidos.
 ### Desafios na implementação de sistemas distribuidos
 
 ![[Pasted image 20220528171809.png]]
+
+**Escalabilidade** -> Capacidade de o sistema se manter a funcionar de forma correta e *a v*
