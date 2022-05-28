@@ -7,9 +7,11 @@
         "id": "0bba80c9920e4d3a",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20220521212454.png"
+            "file": "Sistemas Distribuídos/Aula.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20220521212454.png",
+                "file": "Sistemas Distribuídos/Aula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20220521212454.png"
+                "file": "Sistemas Distribuídos/Aula.md"
               }
             }
           },
@@ -122,15 +124,15 @@
   },
   "active": "0bba80c9920e4d3a",
   "lastOpenFiles": [
-    "Pasted image 20220521212454.png",
-    "Sistemas Distribuídos/Apontamentos SD.md",
+    "Sistemas Distribuídos/Aula.md",
+    "Sistemas Distribuídos/Aula 4.md",
+    "Sistemas Distribuídos/Aula 3.md",
+    "Sistemas Distribuídos/Aula 2.md",
+    "Untitled.md",
+    "Sistemas Distribuídos/Aula 1.md",
     "Sistemas Distribuídos/Sistemas Distribuídos.md",
+    "Sistemas Distribuídos/Pasted image 20220521212454.png",
     "Administração de Sistemas de Redes/Apontamentos ASR.md",
-    "Administração de Sistemas de Redes/Apontamentos ASR2.md",
-    "Administração de Sistemas de Redes/Pasted image 20220521205439.png",
-    "Administração de Sistemas de Redes/Pasted image 20220521205309.png",
-    "Administração de Sistemas de Redes/Pasted image 20220521205320.png",
-    "Administração de Sistemas de Redes/Pasted image 20220521205413.png",
-    "Administração de Sistemas de Redes/Pasted image 20220521205427.png"
+    "Administração de Sistemas de Redes/Apontamentos ASR2.md"
   ]
 }
