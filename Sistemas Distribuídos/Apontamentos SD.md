@@ -12,3 +12,4 @@
 ![[Pasted image 20220528165445.png]]
 
 ### Oito Falácias da Computação Distribuida
+São oito 
