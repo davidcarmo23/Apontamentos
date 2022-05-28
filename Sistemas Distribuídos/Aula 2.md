@@ -52,4 +52,7 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 	- ![[Pasted image 20220528181036.png]]
 	- ![[Pasted image 20220528181043.png]]
 
-- **Vari**
+- **Variante do RPC**
+	- ![[Pasted image 20220528181211.png]]
+	- ![[Pasted image 20220528181217.png]]
+	- ![[Pasted image 20220528181234.png]]
