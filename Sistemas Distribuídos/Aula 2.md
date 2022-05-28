@@ -63,3 +63,8 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 - Quando não é apropriado um sistema de nomes únicos para todos os processos, definem-se entidades intermédias
 	- ![[Pasted image 20220528181653.png]]
 
+### Formas de Criação de processos
+**Definição estática** -> 
+![[Pasted image 20220528181739.png]]
+
+**Definição dinâmica** ->
