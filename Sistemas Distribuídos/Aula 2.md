@@ -28,5 +28,7 @@ A **comunicação entre processo IPC** é usada tanto para transferir dados entr
 ### Sistema de Memória Distribuida
 ![[Pasted image 20220528180234.png]]
 
+As várias **formas de comunicação por mensagens** distinguem-se por dois aspetos:
 
+- Tipo de Sincronização
 
