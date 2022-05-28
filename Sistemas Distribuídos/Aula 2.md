@@ -23,6 +23,10 @@ A **comunicação entre processo IPC** é usada tanto para transferir dados entr
 
 ### Sistema de Memória Partilhada
 
+![[Pasted image 20220528180208.png]]
+
+### Sistema de Memória Distribuida
+![[Pasted image 20220528180234.png]]
 
 
 
