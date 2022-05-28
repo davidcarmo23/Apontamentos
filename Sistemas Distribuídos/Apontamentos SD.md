@@ -26,5 +26,5 @@ Integração de equipamento portátil em sistemas distribuidos.
 
 **Escalabilidade** -> Capacidade de o sistema se manter a funcionar de forma correta e à velocidade desejada independentemente do num de utilizadores
 **Sistema Aberto** -> Capacidade de o sistema ser extensível, quer em hardware quer em software
-**Tolerâncias a Falhas** ->  
+**Tolerâncias a Falhas** ->  Tolerar uma falha significa conter os seus efeitos de forma a que o sistema continue
 ****
