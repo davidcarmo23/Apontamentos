@@ -39,3 +39,5 @@ Após calcular a referência para o objecto, mas antes de executar o corpo de in
 ![[Pasted image 20220528193347.png]]
 ![[Pasted image 20220528193357.png]]
 
+## Aula 3b
+
