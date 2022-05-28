@@ -86,4 +86,6 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 - Um dos sockets (servidor) aguarda por um pedido de ligação enquanto o outro (cliente) solicita a ligação.
 - Após ser estabelecida a ligação, estes podem ser usados para transmitir dados nos **dois sentidos**
 
-**Criar um **
+**Criar um Socket**
+
+![[Pasted image 20220528183513.png]]
