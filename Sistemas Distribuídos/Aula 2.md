@@ -11,9 +11,11 @@ Um **sistema distribuido** é resultado da interação de vários componentes qu
 É gerido pelo SO que forneçe os serviços para:
 ![[Pasted image 20220528175705.png]]
 
-Ao nivel do sistema operativo, a comunicação entre  processos é implementada usando protocolos como:
+Ao nivel do **sistema operativo,** a comunicação entre  processos é implementada usando protocolos como:
 ![[Pasted image 20220528175747.png]]
 
 
+A **comunicação entre processo IPC** é usada tanto para transferir dados entre os processo tal como para coordenar a sua atividade.
 
+Modelos de IPC ma
 
