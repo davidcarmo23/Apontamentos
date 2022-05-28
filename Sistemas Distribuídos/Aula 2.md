@@ -90,4 +90,7 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 
 ![[Pasted image 20220528183513.png]]
 
-**C**
+**Criar um Socket se for um Servidor**
+
+![[Pasted image 20220528183722.png]]
+
