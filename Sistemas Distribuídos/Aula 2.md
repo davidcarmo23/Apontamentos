@@ -42,4 +42,6 @@ As várias **formas de comunicação por mensagens** distinguem-se por dois aspe
 	- ![[Pasted image 20220528180818.png]]
 	- **Conceito de mais baixo nível (mais eficiente)**
 - Comunicação assíncrona
-- 
+	- ![[Pasted image 20220528180913.png]]
+	- **Permite um maior grau de concorrência**
+	- Exige que o sistema de execução faça a gestão e o **armazenamento das mensagens**
