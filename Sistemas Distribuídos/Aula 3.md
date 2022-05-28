@@ -34,3 +34,5 @@ Após calcular a referência para o objecto, mas antes de executar o corpo de in
 ![[Pasted image 20220528193119.png]]
 ![[Pasted image 20220528193130.png]]
 
+### Multithreaded Servers
+
