@@ -15,4 +15,11 @@ As várias threads de um processo partilham o mesmo espaço de endereçamento qu
 **Se a classe for subclasse de outra classe**
 ![[Pasted image 20220528192651.png]]
 
-### Diagramas de Estados Possiveis para uma 
+### Diagramas de Estados Possiveis para uma Thread
+![[Pasted image 20220528192729.png]]
+
+**Sincronização de Threads** -> Mecanismo baseado no conceito de monitor
+
+![[Pasted image 20220528192807.png]]
+
+
