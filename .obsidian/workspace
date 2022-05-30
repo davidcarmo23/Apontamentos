@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Segurança Informática/Laboratório 1.md",
+            "file": "Segurança Informática/Apontamentos SI.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança Informática/Laboratório 1.md",
+                "file": "Segurança Informática/Apontamentos SI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança Informática/Laboratório 1.md"
+                "file": "Segurança Informática/Apontamentos SI.md"
               }
             }
           },
@@ -124,15 +124,15 @@
   },
   "active": "e96b425ec5d30098",
   "lastOpenFiles": [
-    "Segurança Informática/Laboratório 1.md",
-    "Segurança Informática/Comandos SI.md",
-    "Sistemas Distribuídos/Aula 1.md",
-    "Sistemas Distribuídos/Aula 3.md",
-    "Sistemas Distribuídos/Aula 2.md",
-    "Sistemas Distribuídos/Pasted image 20220528190136.png",
-    "Sistemas Distribuídos/Aula 5.md",
-    "Sistemas Distribuídos/Aula 4.md",
-    "Untitled.md",
-    "Sistemas Distribuídos/Sistemas Distribuídos.md"
+    "Segurança Informática/Apontamentos SI.md",
+    "Segurança Informática/Segurança Informática.md",
+    "Segurança Informática/Perguntas SI.md",
+    "Segurança Informática/Laboratório 8.md",
+    "Segurança Informática/Laboratório 7.md",
+    "Segurança Informática/Laboratório 6.md",
+    "Segurança Informática/Laboratório 5.md",
+    "Segurança Informática/Laboratório 4.md",
+    "Segurança Informática/Laboratório 3.md",
+    "Segurança Informática/Laboratório 2.md"
   ]
 }
