@@ -1,6 +1,6 @@
 # Segurança Informática
 
-### Aula 01
+## Aula 01
 
 Definições básicas de criptografia:
 * **Texto limpo** - informação que determinada entidade (transmissora) quer enviar para outra ou para si própria no futuro (recetora);
@@ -32,6 +32,7 @@ Definições básicas de segurança em redes e sistemas distribuídos:
 
 ---
 
+##
 ### Aula 02
 
 Introdução à Lei do Cibercrime.
