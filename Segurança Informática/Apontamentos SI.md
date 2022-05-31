@@ -33,7 +33,11 @@ Definições básicas de segurança em redes e sistemas distribuídos:
 ---
 
 ## Aula 01.5
-<>, qualquer representação de factos, informações ou conceitos sob uma forma susceptível de processamento num sistema
+**Dados Informáticos** - qualquer representação de factos, informações ou conceitos sob uma forma susceptível de processamento num sistema.
+
+**Dados de Tráfego** -  os dados informáticos relacionados com uma comunicação efectuada por meio de um sistema informático.
+
+<>, qualquer entidade, pública ou privada, que faculte aos utilizadores dos seus serviços a possibilidade de comunicar por meio de um sistema informático
 ## Aula 02
 
 Introdução à Lei do Cibercrime.
