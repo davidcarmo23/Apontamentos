@@ -47,8 +47,6 @@ Definições básicas de segurança em redes e sistemas distribuídos:
 
 ## Aula 02
 
-Introdução à Lei do Cibercrime.
-
 **Criptografia** - conjunto de técnicas que procuram tornar possível a comunicação secreta entre dois agentes sobre um canal aberto, constituído por cifras, mecanismos de integridade e de troca de chaves ou segredos criptográficos. As suas propriedades de segurança englobam *confidencialidade*, *autenticidade*, *anonimato* e *não repúdio*.
 
 **Criptanálise** - estudo de técnicas que visam gorar os objetivos da Criptografia, ou seja, quebrar a segurança da comunicação de modo a obter o texto-limpo original, a chave de cifra ou o algoritmo de cifra.
