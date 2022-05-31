@@ -37,7 +37,12 @@ Definições básicas de segurança em redes e sistemas distribuídos:
 
 **Dados de Tráfego** -  os dados informáticos relacionados com uma comunicação efectuada por meio de um sistema informático.
 
-<>, qualquer entidade, pública ou privada, que faculte aos utilizadores dos seus serviços a possibilidade de comunicar por meio de um sistema informático
+**Fornecedor de Serviços** -  qualquer entidade, pública ou privada, que faculte aos utilizadores dos seus serviços a possibilidade de comunicar por meio de um sistema informático
+
+**Intercepção** - o acto destinado a captar informações contidas num sistema informático, através de dispositivos electromagnéticos, acústicos, mecânicos ou outros.
+
+**Falsidade Informática** - Pena de prisão até **5** anos 
+
 ## Aula 02
 
 Introdução à Lei do Cibercrime.
