@@ -32,8 +32,9 @@ Definições básicas de segurança em redes e sistemas distribuídos:
 
 ---
 
-##
-### Aula 02
+## Aula 01.5
+<>, qualquer representação de factos, informações ou conceitos sob uma forma susceptível de processamento num sistema
+## Aula 02
 
 Introdução à Lei do Cibercrime.
 
@@ -55,7 +56,7 @@ Introdução à Lei do Cibercrime.
 
 ---
 
-### Aula 03
+## Aula 03
 
 **Ataque de força bruta** - o adversário opta por percorrer todo o espaço de chaves de cifra, inicializando e executando os algoritmos de cifra ou decifra para encontrar o texto-limpo correspondente a um criptograma, pressupondo que o espaço de chaves é muito inferior ao espaço de mensagens. Sempre passível de ser aplicado a uma cifra, porém condicionado pelo tempo dispendido.
 
@@ -74,7 +75,7 @@ As cifras de chave simétrica contínuas podem ser usadas em situações em que 
 
 ---
 
-### Aula 04
+## Aula 04
 
 **Cifras de chave simétrica por blocos** elaboram em funções (*Pseudo Random Permutations* (PRP)), que aceitam como valor de entrada uma chave e um bloco de bits, com tamanho fixo, e devolvem um bloco com o mesmo tamanho. Existe um algoritmo determinístico eficiente para avaliar $E(k, x)$; para cada $k$, a função $E(k, .)$ é bijetiva; existe um algoritmo determinístico eficiente para inverter $D(k, y)$. Exemplos canónicos: *Data Encryption Standard* (DES), *Triple DES* (3DES), *Advanced Encryption Standard* (AES).
 
@@ -114,7 +115,7 @@ O último bloco de uma mensagem pode ser preenchido até que a condição que ve
 
 ---
 
-### Aula 05
+## Aula 05
 
 Se uma cifra está bem construída, então a segurança do sistema criptográfico vai depender do secretismo da chave de cifra ou da chave de cifra privada. Os ataques são frequentemente focados no comprometimento da chave de cifra ou na sua distribuição, o que implica que a gestão das chaves seja um problema de importância crítica na criptografia. A abordagem mais direta consiste em gerar e distribuir as chaves de cifra antes da comunicação, seguindo:
 * Dois esquemas:
@@ -136,7 +137,7 @@ A cifra RSA baseia-se também no **problema da fatorização em números primos*
 
 ---
 
-### Aula 06
+## Aula 06
 
 Um protocolo define que as chaves são trocadas por mensagens e um esquema define que as chaves são definidas no início (não tem mensagens).
 
@@ -156,7 +157,7 @@ O ***Message Authentication Code*** (MAC) é um par de algoritmos $(S, V)$ defin
 
 ---
 
-### Aula 07
+## Aula 07
 
 Um **sistema de cifra de chave pública** é um terno de algoritmos eficientes $(G, E, D)$, em que $G$ define um algoritmo que dado um número de bits devolve um par de chaves pública e privada; $E$ define um algoritmo aleatorizado que dada uma mensagem e uma chave pública devolve um criptograma; $D$ define um algoritmo que dado um criptograma e uma chave privada devolve uma mensagem ou um símbolo de erro. Os três algoritmos satisfazem a condição de consistência, fornecendo imediatamente uma forma de trocar chaves de sessão sobre um canal inseguro.
 
@@ -170,7 +171,7 @@ O ***Optimal Asymmetric Encryption Padding*** (OAEP) define uma função de pré
 
 ---
 
-### Aula 08
+## Aula 08
 
 Um sistema de **assinatura digital** é um terno de algoritmos eficientes $(G, S, V)$ em que: $G$ define um algoritmo que, dado um número de bits, devolve um par de chaves pública e privada; $S$ define um algoritmo que, dada uma mensagem e uma chave privada, devolve um código (assinatura digital); $V$ define um algoritmo que, dada uma assinatura digital, uma mensagem e uma chave pública, devolve a validade dessa assinatura. Os três algoritmos satisfazem a condição de **consistência**, em que $S$ é designado algoritmo de assinatura e $V$ algoritmo de verificação. Se se assinar um documento e alterar um bit *a posteriori*, então a assinatura não será válida.
 
@@ -207,7 +208,7 @@ A validação de um certificado de um utilizador envolve o conhecimento da chave
 
 ---
 
-### Aula 09
+## Aula 09
 
 **Listas de revogação de certificados** (LRC) são documentos com os números de série dos certificados que são revogados antes de terminarem a validade, com assinatura digital (emitidos pela empresa que lançou o certificado revogado). Uma lista é **base**, se tiver todos os certificados que ainad não expiraram mas foram revogados; ou **delta**, se lista apenas os certificados que mudaram o seu estado (revogados ou excluídos) desde a emissão de uma LRC base.
 
@@ -233,7 +234,7 @@ Um cartão de cidadão possui dois pares de chaves, dos quais é impossível rem
 
 ---
 
-### Aula 10
+## Aula 10
 
 **Segurança da Informação** é sinónimo de proteção da informação e dos sistemas de informação das ameaças às três propriedades fundamentais CIA (Confidencialidade, Integridade, Disponibilidade). Inclui identificação das ameaças, dos recursos críticos e das vulnerabilidades, a quantificação do risco ($risco = probabilidade x valor$) e a concretização dos objetivos de segurança para determinada organização ou entidade através de um documento escrito - **política de segurança**.
 
