@@ -41,7 +41,9 @@ Definições básicas de segurança em redes e sistemas distribuídos:
 
 **Intercepção** - o acto destinado a captar informações contidas num sistema informático, através de dispositivos electromagnéticos, acústicos, mecânicos ou outros.
 
-**Falsidade Informática** - Pena de prisão até **5** anos 
+**Falsidade Informática** - Pena de prisão até **5** anos ou multa de 120 a 600 dias.
+
+
 
 ## Aula 02
 
