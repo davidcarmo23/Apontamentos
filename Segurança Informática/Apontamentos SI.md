@@ -70,7 +70,7 @@ Definições básicas de segurança em redes e sistemas distribuídos:
 **Ataque de força bruta** - o adversário opta por percorrer todo o espaço de chaves de cifra, inicializando e executando os algoritmos de cifra ou decifra para encontrar o texto-limpo correspondente a um criptograma, pressupondo que o espaço de chaves é muito inferior ao espaço de mensagens. Sempre possível de ser aplicado a uma cifra, porém condicionado pelo tempo dispendido.
 
 **Princípio de Kerckhoffs** - um sistema criptográfico deve ser seguro mesmo se tudo acerca desse sistema, à exceção da chave, é do conhecimento público. O corolário define que a segurança da cifra deve ser totalmente dependente de um parâmetro explícito (chave de cifra).
-
+**Cifra de Cesár** - 
 **Teoria da Informação** (Claude Shannon):
 * **Confusão** - obscurecer a relação que existe entre o texto-limpo, o criptograma e a chave;
 * **Difusão** - espalhar as redundâncias do texto-limpo por todo o criptograma.
