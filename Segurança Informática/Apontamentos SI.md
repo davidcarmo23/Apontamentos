@@ -105,8 +105,9 @@ Para que uma PRP $F(k, .)$ seja segura, esta deve ser indistinguível de uma qua
     * Suscetível a ataques por *code book* ou por remoção, troca e repetição de blocos;
     * Permite o acesso aleatório a dados cifrados e o processamento paralelo de informação, sendo que o último bloco necessita sempre de tratamento em termos de preenchimento;
     * Não apresenta problemas de propagação de erros entre blocos, no entanto, erros de sincronização (perda de bits) são irrecuperáveis;
-
+	![[Pasted image 20220601192439.png]]
 * *Deterministic Counter Mode* () - define uma cifra de chave simétrica contínua a partir de uma cifra por blocos, fazendo uso apenas da função de cifra $E(k, .)$, que é inicializada com uma chave e reincidentemente usada para gerar blocos pseudo-aleatórios. A decifra é exatamente igual à decifra, trocando apenas o criptograma de lugar com o texto-limpo no final;
+ ![[Pasted image 20220601192509.png]]
 * *Cipher Block Chaining* (CBC) - o criptograma deve ser diferente, mesmo que se cifre a mesma mensagem com duas chaves, o que é conseguido por um fator de aleatoriedade no processo de cifragem: **vetor de inicialização** (VI), valor que deve ser potencialmente único para cada combinação de chave de cifra/mensagem que não necessita de ser secreto e pode ser enviado juntamente com o criptograma;
     * Cifra: ![](https://i.imgur.com/Gc6XrEB.png)
     * Decifra: ![](https://i.imgur.com/yRP5Dx3.png)
