@@ -204,7 +204,7 @@ A assinatura digital possui as seguintes propriedades:
 * **Garantia de não-repúdio** - assegura que a entidade que a assinou não pode negar que o fez;
 * **Autenticação da origem da informação** - assegura que a mensagem veio pela entidade que a assinou;
 * **Dificuldade de falsificação** - assegura que mais nenhuma entidade pode ter assinado a mensagem, à exceção do emissor já (re)conhecido.
-**Cifra-se com a chave pública e veri**
+**Chave privada constrói a assinatura , chave pública verifica as assinaturas**
 É possível construir uma assinatura digital segura usando apenas mecanismos da criptografia de chave simétrica. Se alguém diz que não assinou algo, o agente de confiança tem a prova de que o fez através da mensagem cifrada com `ka`.
 
 **Certificado** - conjunto de parâmetros; documento eletrónico assinado digitalmente que liga dois ou mais valores entre si. Certificados são gerados e geridos por uma *Public Key Infrastructure* (PKI). Um **certificado de chave pública** é uma estrutura que associa uma chave pública a uma entidade em particular. A associação chave-entidade é estabelecida por um terceiro - **autoridade de certificação**, que assina digitalmente cada certificado.
