@@ -224,7 +224,7 @@ Para além de conterem a **chave pública, o período de validade e o identifica
 	- **Entidade terminal** (cliente) - aquela que utiliza os certificados PKI ou sistema a que se refere determinado certificado;
 	- **Autoridade Certificadora** (AC) - aquela que emite ou revoga certificados;
 	- **Autoridades de Registo Organizacional** (ARO) - sistema opcional ao qual as ACs delegam certas funcionalidades de gestão;
-- **Emissor de Listas de Revogação de Certificados** (LRC) - sistema que gera e assina LRCs;
+	- **Emissor de Listas de Revogação de Certificados** (LRC) - sistema que gera e assina LRCs;
 	- **Repositório** - sistema ou coleção de sistemas distribuídos que guardam certificados e LRCs, e que servem como meio de distribuição destes a entidades terminais.
 
 A PKI assenta em dois tipos de protocolos: **protocolos operacionais** (necessários para entregar certificados e LRCs a utilizadores cliente) e **protocolos de gestão** (necessários para suportar interações em linha entre utilizadores cliente e entidades de gestão ou entre entidades de gestão (registo, inicialização, certificação, recuperação/atualização de chaves, publicação de certificados e LRCs, pedido de revogação, certificação mútua entre ACs)).
