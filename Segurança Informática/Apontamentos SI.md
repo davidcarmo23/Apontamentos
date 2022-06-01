@@ -142,11 +142,11 @@ Se uma cifra está bem construída, então a **segurança do sistema criptográf
 
 **Chave de sessão** - usada para cifrar e decifrar, gerada somente para determinada comunicação.
 
-**Chave de cifra da chave de sessão** - usada única e exclusivamente para cifrar e decrifrar chaves de sessão - $C^n_2$, em que uma das entidades envolvida na comunicação gera a chave de sessão e envia-a à outra entidade cifrada com a chave pré-estabelecida.
+**Chave de cifra da chave de sessão** - usada única e exclusivamente para cifrar e decifrar chaves de sessão - $C^n_2$, em que uma das entidades envolvida na comunicação gera a chave de sessão e envia-a à outra entidade cifrada com a chave pré-estabelecida.
 
 **Agente de confiança** - entidade do sistema de comunicações em quem os utilizadores confiam plenamente e com quem podem ter chaves pré-estabelecidas.
 
-O **problema do logaritmo discreto** está na base do protocolo de chaves Diffie-Hellman e da cifra RSA. Dado um grupo cíclico finito $G$ e um gerador $g$ parra esse grupo, $G = {1, g, g^2, ..., g^n-1}$, o **problema do logaritmo discreto** é intratável se para todos os algoritmos eficientes $A$ que se venham a definir para resolver o problema a probabilidade de este algoritmo encontrar $x$ dqdo $g$ e $g^x$ é desprezível. O melhor algoritmo conhecido para resolver o problema é o *general number field sieve*, que determina o tamanho que estes números devem ter para garantir a segurança dos mecanismos que neles elaboram.
+O **problema do logaritmo discreto** está na base do protocolo de chaves *Diffie-Hellman* e da cifra RSA. Dado um grupo cíclico finito $G$ e um gerador $g$ parra esse grupo, $G = {1, g, g^2, ..., g^n-1}$, o **problema do logaritmo discreto** é intratável se para todos os algoritmos eficientes $A$ que se venham a definir para resolver o problema a probabilidade de este algoritmo encontrar $x$ dado $g$ e $g^x$ é desprezível. O melhor algoritmo conhecido para resolver o problema é o *general number field sieve*, que determina o tamanho que estes números devem ter para garantir a segurança dos mecanismos que neles elaboram.
 
 A cifra RSA baseia-se também no **problema da fatorização em números primos**, que define que é computacionalmente inviável fatorizar um número composto pelo produto de dois números primos grandes.
 
