@@ -132,7 +132,7 @@ O último bloco de uma mensagem pode ser preenchido até que a condição que ve
 
 ## Aula 05
 
-Se uma cifra está bem construída, então a segurança do sistema criptográfico vai depender do secretismo da chave de cifra ou da chave de cifra privada. Os ataques são frequentemente focados no comprometimento da chave de cifra ou na sua distribuição, o que implica que a gestão das chaves seja um problema de importância crítica na criptografia. A abordagem mais direta consiste em gerar e distribuir as chaves de cifra antes da comunicação, seguindo:
+Se uma cifra está bem construída, então a **segurança do sistema criptográfico** vai depender do secretismo da chave de cifra ou da chave de cifra privada. Os ataques são frequentemente focados no comprometimento da chave de cifra ou na sua distribuição, o que implica que a gestão das chaves seja um problema de importância crítica na criptografia. A abordagem mais direta consiste em gerar e distribuir as chaves de cifra antes da comunicação, seguindo:
 * Dois esquemas:
     * Todos os pares partilham uma chave de cifra de chaves de sessão;
     * Todas as entidades partilham uma chave de cifra de chaves de sessão com um agente de confiança;
