@@ -154,7 +154,7 @@ A cifra RSA baseia-se também no **problema da fatorização em números primos*
 
 ## Aula 06
 
-Um protocolo define que as chaves são trocadas por mensagens e um esquema define que as chaves são definidas no início (não tem mensagens).
+Um **protocolo** define que as chaves são trocadas por mensagens e um **esquema** define que as chaves são definidas no início (não tem mensagens).
 
 A segurança da informação deve assentar nos pilares de **confidencialidade** (os dados não podem ser acedidos por quem não lhes pertence), **integridade** (os dados devem encontrar-se como foram deixados ou transmitidos) e **disponibilidade**.
 
