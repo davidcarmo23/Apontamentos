@@ -194,8 +194,10 @@ O ***Optimal Asymmetric Encryption Padding*** (OAEP) define uma função de pré
 
 ## Aula 08
 
-Um sistema de **assinatura digital** é um terno de algoritmos eficientes $(G, S, V)$ em que: $G$ define um algoritmo que, dado um número de bits, devolve um par de chaves pública e privada; $S$ define um algoritmo que, dada uma mensagem e uma chave privada, devolve um código (assinatura digital); $V$ define um algoritmo que, dada uma assinatura digital, uma mensagem e uma chave pública, devolve a validade dessa assinatura. Os três algoritmos satisfazem a condição de **consistência**, em que $S$ é designado algoritmo de assinatura e $V$ algoritmo de verificação. Se se assinar um documento e alterar um bit *a posteriori*, então a assinatura não será válida.
-**Cartão de Cidadão** - Implementa *hash SHA1* com a função *al*
+Um sistema de **assinatura digital** é um terno de algoritmos eficientes $(G, S, V)$ em que: $G$ define um algoritmo que, dado um número de bits, devolve um par de chaves pública e privada; $S$ define um algoritmo que, dada uma mensagem e uma chave privada, devolve um código (assinatura digital); $V$ define um algoritmo que, dada uma assinatura digital, uma mensagem e uma chave pública, devolve a validade dessa assinatura. 
+Os três algoritmos satisfazem a condição de **consistência**, em que $S$ é designado algoritmo de assinatura e $V$ algoritmo de verificação. Se se assinar um documento e alterar um bit *a posteriori*, então a assinatura não será válida.
+
+**Cartão de Cidadão** - Implementa *hash SHA1* com a função *alçapão RSA*
 A assinatura digital possui as seguintes propriedades:
 * **Autenticidade da informação** - assegura que a entidade que assinou a mensagem tinha conhecimento do seu conteúdo;
 * **Integridade dos dados** - assegura que a mensagem a que corresponde a assinatura não foi alterada desde que foi assinada até que foi validada;
