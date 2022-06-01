@@ -188,6 +188,7 @@ A **cifra ElGamal** elabora no protocolo de acordo de chaves Diffie-Hellman, em 
 ***Rivest, Shamir e Adleman*** (RSA) refere um sistema de cifra de chave pública, mais corretamente definido como uma permutação com alçapão. Possibilita a construção de assinaturas digitais de um modo simples. Se se escolher dois **números primos grandes**, calcular $N = p \times q$ e dar $N$ a alguém para descobrir quais os dois números primos que o decompõem, está-se perante um problema intratável. O **RSA em modo livro da escola** não deve ser usado, porque é determinístico (logo, não é semanticamente seguro) e porque os criptogramas são maneáveis.
 
 O ***Optimal Asymmetric Encryption Padding*** (OAEP) define uma função de pré-processamento da preenchimento e aleatorização da mensagem antes de esta ser cifrada. Aquando da receção de uma mensagem codificada, o recetor começa por decifrar o criptograma com a função inversa e a respetiva chave privada, recuperando primeiro $r$ e depois $m$.
+![[Pasted image 20220601213511.png]]
 
 ---
 
