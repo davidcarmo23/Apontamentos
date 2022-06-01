@@ -168,7 +168,7 @@ Uma função de *hash* diz-se **criptográfica** se for computacionalmente invi�
 
 O algoritmo ***Message Digest* 5** (MD5) opera sobre um estado de 128 bits dividido em quatro palavras de 32 bits. A mensagem é dividida em blocos de 512 bits, que são subdivididos em peças de 32 bits que são combinadas com as quatro palavras definidas antes em 64 operações. 
 ![[Pasted image 20220601200818.png]]
-O algoritmo ***Secure Hash Algorithm* 1** (SHA1) produz um resumo de 160 bits de qualquer mensagem.
+O algoritmo ***Secure Hash Algorithm* 1** (SHA1) produz um resumo de 160 bits de qualquer mensagem. Utilizado em *TLS/SSL, PGP, SSH, S/MIME e IPSec*.
 ![[Pasted image 20220601200835.png]]
 
 O ***Message Authentication Code*** (MAC) é um par de algoritmos $(S, V)$ definidos sobre o espaço de chaves, mensagens e códigos possíveis, em que $S(k, m)$ é normalmente designado por algoritmo de assinatura e $V(k, m, t)$ é conhecido como algoritmo de verificação, que permite garantir a integridade de mensagens. O algoritmo de verificação devolve o valor `verifica` ou `não verifica` conforme o código corresponda ou não à mensagem a que está associado. O MAC assume que apenas as entidades que estão em comunicação possuem a chave de integridade e que, portanto, um adversário mal intencionado não deverá conseguir alterar a mensagem e o código simultaneamente.
