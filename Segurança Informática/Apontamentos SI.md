@@ -221,11 +221,11 @@ A utilização de uma PKI e de certificados X.509 assenta nas seguintes propried
 Para além de conterem a **chave pública, o período de validade e o identificador do dono, os certificados de chave pública contêm também um campo que indica para que efeitos pode ser usada a chave neles contida: assinatura digital, autenticação, troca de chaves de sessão ou assinatura de outros certificados**. Assim, o processo de verificação de uma assinatura digital e de cifra de chaves de sessão fica mais complexo: é necessário verificar que a assinatura do certificado é válida, que foi emitida por uma entidade certificadora de segurança e que está dentro do prazo de validade, bem como se é consistente com as permissões/privilégios indicados.
 
 ***Public Key Infrastructure*** (PKI) é o conjunto de *hardware*, *software*, pessoas, políticas e procedimentos necessários à criação, gestão, distribuição, utilização, armazenamento e revogação de certificados digitais. Uma PKI é composta por:
-* **Entidade terminal** (cliente) - aquela que utiliza os certificados PKI ou sistema a que se refere determinado certificado;
-* **Autoridade Certificadora** (AC) - aquela que emite ou revoga certificados;
-* **Autoridades de Registo Organizacional** (ARO) - sistema opcional ao qual as ACs delegam certas funcionalidades de gestão;
-* **Emissor de Listas de Revogação de Certificados** (LRC) - sistema que gera e assina LRCs;
-* **Repositório** - sistema ou coleção de sistemas distribuídos que guardam certificados e LRCs, e que servem como meio de distribuição destes a entidades terminais.
+	- **Entidade terminal** (cliente) - aquela que utiliza os certificados PKI ou sistema a que se refere determinado certificado;
+	- **Autoridade Certificadora** (AC) - aquela que emite ou revoga certificados;
+	- **Autoridades de Registo Organizacional** (ARO) - sistema opcional ao qual as ACs delegam certas funcionalidades de gestão;
+- **Emissor de Listas de Revogação de Certificados** (LRC) - sistema que gera e assina LRCs;
+	- **Repositório** - sistema ou coleção de sistemas distribuídos que guardam certificados e LRCs, e que servem como meio de distribuição destes a entidades terminais.
 
 A PKI assenta em dois tipos de protocolos: **protocolos operacionais** (necessários para entregar certificados e LRCs a utilizadores cliente) e **protocolos de gestão** (necessários para suportar interações em linha entre utilizadores cliente e entidades de gestão ou entre entidades de gestão (registo, inicialização, certificação, recuperação/atualização de chaves, publicação de certificados e LRCs, pedido de revogação, certificação mútua entre ACs)).
 
