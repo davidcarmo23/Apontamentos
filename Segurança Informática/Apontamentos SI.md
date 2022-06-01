@@ -255,7 +255,7 @@ A **rede de confiança** determina que: se confia todas as chaves assinadas por 
 
 Caso as chaves públicas sejam **comprometidas** ou **deixem de ser seguras**, no PGP: o utilizador **emite um certificado a revogar a sua própria chave pública, assinando-a com a sua chave privada**; ou o utilizador **nomeia outro utilizador para revogar as suas chaves** (caso as tenha perdido).
 
-Um cartão de cidadão possui dois pares de chaves, dos quais é impossível remover a chave privada. É dentro do cartão que se guarda a assinatura digital, sendo pedido sempre o PIN pessoal. As operações de assinatura e autenticação são pedidas pelo próprio cartão, não pelo *software* que o lê. Um cartão de cidadão tem pelo menos cinco certificados digitais e dois métodos de autenticação (o próprio cartão e o PIN). Um cartão de cidadão não permite cifrar. Por definição, um cartão de cidadão traz os seus pares de chave revogados.
+Um **cartão de cidadão** possui **dois pares de chaves**, dos quais é impossível remover a chave privada. É dentro do cartão que se guarda a assinatura digital, sendo pedido **sempre** o **PIN pessoal**. As operações de assinatura e autenticação são pedidas pelo próprio cartão, não pelo *software* que o lê. Um cartão de cidadão tem pelo menos cinco certificados digitais e dois métodos de autenticação (o próprio cartão e o PIN). Um cartão de cidadão não permite cifrar. Por definição, um cartão de cidadão traz os seus pares de chave revogados.
 
 ---
 
