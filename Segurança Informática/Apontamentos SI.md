@@ -97,7 +97,7 @@ O algoritmo de cifra ou decifra começa por aplicar funções de expansão da ch
 Para que uma PRP $F(k, .)$ seja segura, esta deve ser indistinguível de uma qualquer outra função $F(.)$ escolhida ao acaso da totalidade de funções de $X$ para $X$.
 
 **Redes de Feistel** são funções sempre invertíveis, mas construídas a partir de funções que podem não ter inversa. O **teorema de Luby-Rackoff** assegura que qualquer rede de Feistel com mais do que 3 rondas construída a partir de *Pseudo Random Functions* (PRF) seguras define um PRP seguro.
-
+![[Pasted image 20220601192323.png]]
 **Modos de cifra** definem circuitos ou algoritmos de cifra e decifra:
 * *Eletronic Code Book* (ECB) - mais simples e direto, a mensagem a cifrar é dividida em blocos de tamanho $n$ e cada bloco é cifrado independentemente dos outros, com a mesma chave;
     * Não é semanticamente seguro no modelo COA e pode apenas ser usado para cifrar pedaços de informação aleatórios e tipicamente mais pequenos que o bloco;
