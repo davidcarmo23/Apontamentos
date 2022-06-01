@@ -166,7 +166,10 @@ Uma função de *hash* diz-se **criptográfica** se for computacionalmente invi�
 
 **Construção iterativa de Merkle-Damgard** - pode obter-se uma função $H(m)$ que primeiramente aplique $g$ a um vetor de inicialização $vi$ e ao primeiro bloco da mensagem com $r$ bits, e depois a aplique iterativamente a cada bloco de $r$ bits e ao resumo obtido no passo anterior, devolvendo o valor resultante para o último bloco. Qualquer função construída conforme o esquema de *Merkle-Damgard* é resistente a colisões, no entanto, não permite o processamento paralelo.
 
-O algoritmo ***Message Digest* 5** (MD5) opera sobre um estado de 128 bits dividido em quatro palavras de 32 bits. A mensagem é dividida em blocos de 512 bits, que são subdivididos em peças de 32 bits que são combinadas com as quatro palavras definidas antes em 64 operações. O algoritmo ***Secure Hash Algorithm* 1** (SHA1) produz um resumo de 160 bits de qualquer mensagem.
+O algoritmo ***Message Digest* 5** (MD5) opera sobre um estado de 128 bits dividido em quatro palavras de 32 bits. A mensagem é dividida em blocos de 512 bits, que são subdivididos em peças de 32 bits que são combinadas com as quatro palavras definidas antes em 64 operações. 
+![[Pasted image 20220601200818.png]]
+O algoritmo ***Secure Hash Algorithm* 1** (SHA1) produz um resumo de 160 bits de qualquer mensagem.
+![[Pasted image 20220601200835.png]]
 
 O ***Message Authentication Code*** (MAC) é um par de algoritmos $(S, V)$ definidos sobre o espaço de chaves, mensagens e códigos possíveis, em que $S(k, m)$ é normalmente designado por algoritmo de assinatura e $V(k, m, t)$ é conhecido como algoritmo de verificação, que permite garantir a integridade de mensagens. O algoritmo de verificação devolve o valor `verifica` ou `não verifica` conforme o código corresponda ou não à mensagem a que está associado. O MAC assume que apenas as entidades que estão em comunicação possuem a chave de integridade e que, portanto, um adversário mal intencionado não deverá conseguir alterar a mensagem e o código simultaneamente.
 * ***Encrypted Cipher Block Chaining MAC*** (ECBC-MAC) - construído a partir de funções de permutação pseudo-aleatórias seguras (exige duas chaves de cifra);
