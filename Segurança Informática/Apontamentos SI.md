@@ -79,7 +79,7 @@ Definições básicas de segurança em redes e sistemas distribuídos:
 * **Confusão** - obscurecer a relação que existe entre o texto-limpo, o criptograma e a chave;
 * **Difusão** - espalhar as redundâncias do texto-limpo por todo o criptograma.
 
-**Secretismo perfeito** - para quaisquer duas mensagens, a probabilidade de obter o mesmo criptograma pela cifra de Vernam (*One Time Pad*) depois de cifradas é igual `(secção 2.4 aula 2)`.
+**Secretismo perfeito** - para quaisquer duas mensagens, a probabilidade de obter o mesmo criptograma pela cifra de Vernam (*One Time Pad*) depois de cifradas é igual.  Não é viável pois a chave deve ter o mesmo tamanho ou ser ma
 
 **Cifras de chave simétrica contínua** - substitui-se a chave aleatória de tamanho `n` igual ao do texto-limpo por uma chave pseudo-aleatória que é gerada, a partir de uma semente, por um gerador seguro que deve ser imprevisível. A chave de cifra não deve ser usada mais do que uma vez, no entanto, pode haver redundância suficiente na linguagem e codificação utilizada para permitir reaver as mensagens originais a partir do seu XOR.
 * **Segurança semântica** - se o adversário errar aproximadamente tantas vezes quantas acerta na mensagem cifrada, então a cifra é segura (a vantagem deve ser menor do que `1/2^80`.
