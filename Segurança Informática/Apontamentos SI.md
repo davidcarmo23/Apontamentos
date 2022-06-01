@@ -96,7 +96,7 @@ O algoritmo de cifra ou decifra começa por aplicar funções de expansão da ch
 
 Para que uma PRP $F(k, .)$ seja segura, esta deve ser indistinguível de uma qualquer outra função $F(.)$ escolhida ao acaso da totalidade de funções de $X$ para $X$.
 
-**Redes de Feistel** são funções sempre invertíveis, mas construídas a partir de funções que podem não ter inversa. O **teorema de Luby-Rackoff** assegura que qualquer rede de Feistel com mais do que 3 rondas construída a partir de *Pseudo Random Functions* (PRF) seguras define um PRP seguro.
+**Redes de Feistel** são funções sempre invertíveis, mas construídas a partir de funções que podem não ter inversa. O **teorema de Luby-Rackoff** assegura que qualquer rede de Feistel com mais do que **3** rondas construída a partir de *Pseudo Random Functions* (PRF) seguras define um PRP seguro.
 ![[Pasted image 20220601192323.png]]
 **Modos de cifra** definem circuitos ou algoritmos de cifra e decifra:
 * *Eletronic Code Book* (ECB) - mais simples e direto, a mensagem a cifrar é dividida em blocos de tamanho $n$ e cada bloco é cifrado independentemente dos outros, com a mesma chave;
@@ -105,6 +105,7 @@ Para que uma PRP $F(k, .)$ seja segura, esta deve ser indistinguível de uma qua
     * Suscetível a ataques por *code book* ou por remoção, troca e repetição de blocos;
     * Permite o acesso aleatório a dados cifrados e o processamento paralelo de informação, sendo que o último bloco necessita sempre de tratamento em termos de preenchimento;
     * Não apresenta problemas de propagação de erros entre blocos, no entanto, erros de sincronização (perda de bits) são irrecuperáveis;
+
 * *Deterministic Counter Mode* () - define uma cifra de chave simétrica contínua a partir de uma cifra por blocos, fazendo uso apenas da função de cifra $E(k, .)$, que é inicializada com uma chave e reincidentemente usada para gerar blocos pseudo-aleatórios. A decifra é exatamente igual à decifra, trocando apenas o criptograma de lugar com o texto-limpo no final;
 * *Cipher Block Chaining* (CBC) - o criptograma deve ser diferente, mesmo que se cifre a mesma mensagem com duas chaves, o que é conseguido por um fator de aleatoriedade no processo de cifragem: **vetor de inicialização** (VI), valor que deve ser potencialmente único para cada combinação de chave de cifra/mensagem que não necessita de ser secreto e pode ser enviado juntamente com o criptograma;
     * Cifra: ![](https://i.imgur.com/Gc6XrEB.png)
