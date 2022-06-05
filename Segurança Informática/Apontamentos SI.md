@@ -235,7 +235,7 @@ A validação de um certificado de um utilizador envolve o conhecimento da chave
 
 ## Aula 09
 
-**Listas de revogação de certificados** (LRC) são documentos com os números de série dos certificados que são revogados antes de terminarem a validade, com **assinatura digital** (emitidos pela empresa que lançou o certificado revogado). Uma lista é **base**, se tiver todos os certificados que ainad não expiraram mas foram revogados; ou **delta**, se lista apenas os certificados que mudaram o seu estado (revogados ou excluídos) desde a emissão de uma LRC base.
+**Listas de revogação de certificados** (LRC) são documentos com os números de série dos certificados que são revogados antes de terminarem a validade, com **assinatura digital** (emitidos pela empresa que lançou o certificado revogado). Uma lista é **base**, se tiver todos os certificados que ainda não expiraram mas foram revogados; ou **delta**, se lista apenas os certificados que mudaram o seu estado (revogados ou excluídos) desde a emissão de uma LRC base.
 
 ***Pretty Good Privacy*** (PGP) - *software* que combina diversos mecanismos da criptografia de chave simétrica e de chave pública para fornecer serviços de segurança a comunicações eletrónicas e armazenamento de dados:
 * **Autenticação**;
