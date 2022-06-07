@@ -9,4 +9,4 @@ NAS -> Network Attached Storage
 ![[Pasted image 20220607095820.png]]
 
 **Desastres**
-Não existe redunância na lig
+Não existe redundância na ligação com o R1 e também de dados
