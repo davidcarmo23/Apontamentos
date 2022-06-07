@@ -7,6 +7,7 @@ Poderia ser FTP em vez do **FreeNAS** (problemas de segurança no FTP)
 NAS -> Network Attached Storage 
 
 ![[Pasted image 20220607095820.png]]
+![[Pasted image 20220607100443.png]]
 
 **Desastres**
 Não existe redundância na ligação com o R1 e também de dados(Não existir o RAID)
