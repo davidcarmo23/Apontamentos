@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Segurança Informática/Apontamentos SI.md",
+            "file": "Administração de Sistemas de Redes/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Segurança Informática/Apontamentos SI.md",
+                "file": "Administração de Sistemas de Redes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Segurança Informática/Apontamentos SI.md"
+                "file": "Administração de Sistemas de Redes/Untitled.md"
               }
             }
           },
@@ -124,6 +124,7 @@
   },
   "active": "68b0f45ae349b6a4",
   "lastOpenFiles": [
+    "Administração de Sistemas de Redes/Untitled.md",
     "Segurança Informática/Apontamentos SI.md",
     "Segurança Informática/Segurança Informática.md",
     "Segurança Informática/Perguntas SI.md",
@@ -132,7 +133,6 @@
     "Segurança Informática/Laboratório 6.md",
     "Segurança Informática/Laboratório 5.md",
     "Segurança Informática/Laboratório 4.md",
-    "Segurança Informática/Laboratório 3.md",
-    "Segurança Informática/Laboratório 2.md"
+    "Segurança Informática/Laboratório 3.md"
   ]
 }
