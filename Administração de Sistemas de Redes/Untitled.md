@@ -10,7 +10,7 @@ NAS -> Network Attached Storage
 ![[Pasted image 20220607100443.png]]
 
 **Desastres**
-Não existe redundância na ligação com o R1 e também de dados(Não existir o RAID)
+Não existe redundância na ligação com o R1(Minimização é redunda) e também de dados(Não existir o RAID)
 Não existe também redundância de servidores, se for perdido ao o acesso ao NAS perde-se o acesso à cópias de segurança.
 
 ![[Pasted image 20220607100211.png]]
