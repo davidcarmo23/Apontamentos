@@ -17,4 +17,4 @@ Não existe também redundância de servidores, se for perdido ao o acesso ao NA
 **Roubo** ->
 **Single point Failures** - > Routers e switches (**Minimizar** eliminar o SPF, **mitigação** reparação de serviço, uso de backup e substituição )
 ![[Pasted image 20220607100211.png]]
-Logs de firewalls, acesso indevido, de utilizadores, dos backups e acesso aos mesmos, de acesso ao site
+**Logs** de firewalls, acesso indevido(exterior), de utilizadores, dos backups e acesso aos mesmos, de acesso ao site
