@@ -1,4 +1,5 @@
-HTTPS foi criado uma pasta para cada site de forma a fazer os ports
+HTTPS -> foi criado uma pasta para cada site de forma a fazer os ports 80  e 8080
+DNS -> na pasta hosts tentou-se fazer o hierarquico e nao conseguimos
 
 **Filesystems** 
 NFS para Linux > Este foi utilizado -- 
