@@ -3,7 +3,8 @@ DNS -> na pasta hosts tentou-se fazer o hierarquico e nao conseguimos
 Firewall > Está feita , foram estabelecidas acess-lists para permitir apenas acesso interno
 NTP -> Foi feito e dado o timezone 
 NAS -> Configurado o servidor FreeNAS, demos um  ip para conseguir entrar na página de admin através de pcs, dentro do Nas criamos uma pool uma pasta de backups e uma de NFS, sharing foi o NFS apenas pode ser acedido internamente , foi editado o ficheiro fstab para dar mount do NAS no fileexplorer do pc no arranque 
-Backup -> apenas o admin tem acesso, e foi criado utilizando um script bashrc com crontab para realizar os backups periódicos
+Backup -> apenas o admin tem acesso, e foi criado utilizando um script bashrc com crontab para realizar os backups periódicos, calcula o dia , cria um backup local e depois copia os dados para o servidor NAS.
+
 **Filesystems** 
 NFS para Linux > Este foi utilizado -- 
 Samba para Windows
