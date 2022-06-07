@@ -7,11 +7,19 @@
         "id": "68b0f45ae349b6a4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Administração de Sistemas de Redes/Apontamentos ASR.md",
-            "mode": "source",
-            "source": false
+            "file": "Pasted image 20220601215509.png"
+          }
+        }
+      },
+      {
+        "id": "caa792c68b6bfbd3",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Pasted image 20220528192356.png"
           }
         }
       }
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administração de Sistemas de Redes/Apontamentos ASR.md",
+                "file": "Pasted image 20220528192356.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administração de Sistemas de Redes/Apontamentos ASR.md"
+                "file": "Pasted image 20220528192356.png"
               }
             }
           },
@@ -122,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68b0f45ae349b6a4",
+  "active": "caa792c68b6bfbd3",
   "lastOpenFiles": [
-    "Administração de Sistemas de Redes/Apontamentos ASR.md",
+    "Pasted image 20220528192356.png",
+    "Pasted image 20220601215509.png",
+    "Pasted image 20220607095820.png",
     "Administração de Sistemas de Redes/Untitled.md",
+    "Administração de Sistemas de Redes/Apontamentos ASR.md",
     "Segurança Informática/Apontamentos SI.md",
     "Segurança Informática/Segurança Informática.md",
     "Segurança Informática/Perguntas SI.md",
     "Segurança Informática/Laboratório 8.md",
-    "Segurança Informática/Laboratório 7.md",
-    "Segurança Informática/Laboratório 6.md",
-    "Segurança Informática/Laboratório 5.md",
-    "Segurança Informática/Laboratório 4.md"
+    "Segurança Informática/Laboratório 7.md"
   ]
 }

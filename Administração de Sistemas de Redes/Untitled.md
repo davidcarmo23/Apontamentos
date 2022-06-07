@@ -5,3 +5,5 @@ AFP([### Apple Filing Protocol](https://en.wikipedia.org/wiki/Apple_Filing_Proto
 
 Poderia ser FTP em vez do **FreeNAS** (problemas de segurança no FTP)
 NAS -> Network Attached Storage 
+
+![[Pasted image 20220607095820.png]]
