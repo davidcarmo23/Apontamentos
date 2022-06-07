@@ -13,5 +13,7 @@ NAS -> Network Attached Storage
 Não existe redundância na ligação com o R1(**Minimização** é redundância e **mitigação** é reparação) e também de dados(Não existir o RAID)
 Não existe também redundância de servidores, se for perdido ao o acesso ao NAS perde-se o acesso à cópias de segurança.
 
+**Problemas de malware** -> Minimização (boas práticas, antivirus e consultar fóruns) Mitigação (Antivirus e serviços atualizados)
+**Roubo** ->
 **Single point Failures** - > Routers e switches (**Minimizar** eliminar o SPF, **mitigação** reparação de serviço, uso de backup e substituição )
 ![[Pasted image 20220607100211.png]]
