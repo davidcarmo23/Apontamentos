@@ -10,5 +10,6 @@ NAS -> Network Attached Storage
 
 **Desastres**
 Não existe redundância na ligação com o R1 e também de dados(Não existir o RAID)
+Não existe também redundância de servidores
 
 ![[Pasted image 20220607100211.png]]
