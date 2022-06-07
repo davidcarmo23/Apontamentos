@@ -13,5 +13,5 @@ NAS -> Network Attached Storage
 Não existe redundância na ligação com o R1(**Minimização** é redundância e **mitigação** é reparação) e também de dados(Não existir o RAID)
 Não existe também redundância de servidores, se for perdido ao o acesso ao NAS perde-se o acesso à cópias de segurança.
 
-Single point Failures - > Routers e switches (**Minimizar** eliminar o SPF, **mitigação** reparação de serviço )
+**Single point Failures** - > Routers e switches (**Minimizar** eliminar o SPF, **mitigação** reparação de serviço, uso de backup e substituição )
 ![[Pasted image 20220607100211.png]]
