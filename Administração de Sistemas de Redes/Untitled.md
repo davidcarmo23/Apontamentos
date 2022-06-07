@@ -19,4 +19,4 @@ Não existe também redundância de servidores, se for perdido ao o acesso ao NA
 ![[Pasted image 20220607100211.png]]
 **Logs** de firewalls, acesso indevido(exterior), de utilizadores, dos backups e acesso aos mesmos, de acesso ao site
 
-- **LDAP**: São guardadas num serviço de diretoria do **OpenLDAP** e este serviço é de **natureza hierárquica** permitindo **organizar** as contas por **localização, função ou departamento**
+- **LDAP**: São guardadas num serviço de diretoria do **OpenLDAP** e este serviço é de **natureza hierárquica** permitindo **organizar** as contas por **localização, função ou departamento** - **Potencial localização** dentro da rede de empresa.
