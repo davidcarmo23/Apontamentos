@@ -1,6 +1,7 @@
 HTTPS -> foi criado uma pasta para cada site de forma a fazer os ports 80  e 8080
 DNS -> na pasta hosts tentou-se fazer o hierarquico e nao conseguimos
 Firewall > Está feita , foram estabelecidas acess-lists para permitir apenas acesso interno
+NTP -> Foi feito e dado o timezone 
 
 **Filesystems** 
 NFS para Linux > Este foi utilizado -- 
