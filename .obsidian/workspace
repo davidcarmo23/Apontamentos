@@ -7,11 +7,9 @@
         "id": "caa792c68b6bfbd3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Administração de Sistemas de Redes/Untitled.md",
-            "mode": "source",
-            "source": false
+            "file": "Pasted image 20220607101841.png"
           }
         }
       }
@@ -53,8 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323,
-    "collapsed": true
+    "width": 323
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -70,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Administração de Sistemas de Redes/Untitled.md",
+                "file": "Pasted image 20220607101841.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Administração de Sistemas de Redes/Untitled.md"
+                "file": "Pasted image 20220607101841.png"
               }
             }
           },
@@ -125,14 +122,14 @@
   },
   "active": "caa792c68b6bfbd3",
   "lastOpenFiles": [
+    "Pasted image 20220607101841.png",
+    "Pasted image 20220607095820.png",
     "Administração de Sistemas de Redes/Untitled.md",
     "Pasted image 20220607101842 1.png",
     "Pasted image 20220607100443.png",
-    "Pasted image 20220607101841.png",
     "Pasted image 20220607101842 2.png",
     "Pasted image 20220607100211.png",
     "Pasted image 20220607101842.png",
-    "Pasted image 20220607095820.png",
     "Administração de Sistemas de Redes/Apontamentos ASR.md",
     "Administração de Sistemas de Redes/Apontamentos ASR2.md"
   ]
