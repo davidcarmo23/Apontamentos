@@ -1,8 +1,10 @@
 ## Aprendizagem Automática
   **Componente Prática**
- *Mini-teste* -> 6 de Novembro 
+ *Mini-teste* -> 6 de Novembro (6 Valores)
  
  **Componente Prática**
+*Apresentação Individual* -> 5 min (1 Valor)
+*Apresentação Coletiva* -> 15mi
  
 ## Interface Hardware Software
 
