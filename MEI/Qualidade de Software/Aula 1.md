@@ -79,6 +79,9 @@ Activities that must be performed to consider the software **done**.
 - Based on sequences of **stimuli** and **observations**
 	- *Stimuli* that the system must react to
 	- *Observations* of system reactions
-	- *Verdicts* on corrr
+	- *Verdicts* on correctness
 
+![[Pasted image 20220926194322.png]]
 
+## Validation
+- Does the software fulfill the user's a
