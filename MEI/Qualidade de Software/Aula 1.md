@@ -143,7 +143,13 @@ Software engineering is the process of designing, constructing and maintaining t
 *Better, faster, or cheaper - pick any two*
 
 ## Perfect Verification
+Verification is an instance of the **halting problem**
+
+There is at least one program for which any technique cannot obtain an answer in finite time. Testing - cannot exhaustively try all inputs. 
+Must accept some degree of inaccuracy
+
 ## Verification Trade-Offs
+****
 ### How can we assess Readiness
 ### Product Readiness
 ### Ensuring Quality of Successive Releases
