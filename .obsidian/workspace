@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Aprendizagem Automática\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "caa792c68b6bfbd3",
+  "active": "70351f0ca651e72c",
   "lastOpenFiles": [
     "MEI/Sistemas de Informação/Aula 1.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 1.md",
