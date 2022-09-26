@@ -149,8 +149,15 @@ There is at least one program for which any technique cannot obtain an answer in
 Must accept some degree of inaccuracy
 
 ## Verification Trade-Offs
-****
+**Pessimistic Inaccuracy** -> not guaranteed to program even if the it possesses X
+**Optimistic Inaccuracy** -> may accept program that does not possess X
+**Property Complexity** -> if X is too difficult to check, substitute simpler property Y
+
 ### How can we assess Readiness
+
+Finding all faults is nearly impossible.
+Instead, decide when to stop V&V.  Need to establish criteria for acceptance. ▪ How good is “good enough”?  Measure dependability and other quality attributes and set threshold to meet.
+
 ### Product Readiness
 ### Ensuring Quality of Successive Releases
 ### Improving the Development Process
