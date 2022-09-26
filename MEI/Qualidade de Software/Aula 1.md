@@ -74,4 +74,7 @@ Activities that must be performed to consider the software **done**.
 		- Test cases and requirements
 		- Source code and user manuals
 
+## Software Testing
+Investigation into system quality
+
 
