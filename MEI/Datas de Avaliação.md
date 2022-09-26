@@ -16,9 +16,9 @@
  *Frequência* -> 15 de Dezembro (6 Valores)
  
  **Componente Prática**
-*TP1* -> 5 min (1 Valor)
-*TP2* -> 5 min (1 Valor)
-*TP3* -> 5 min (1 Valor)
+*TP1* ->  29 de Setembro (1 Valores)
+*TP2* ->  24 de Novembro (5 Valores)
+*TP3* ->  05 de Janeiro (8 Valores)
 
 ## Qualidade de Software
 
