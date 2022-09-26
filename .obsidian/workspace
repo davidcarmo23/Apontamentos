@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Course Template.md",
+            "file": "MEI/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Course Template.md",
+                "file": "MEI/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Course Template.md"
+                "file": "MEI/Untitled.md"
               }
             }
           },
@@ -124,6 +124,7 @@
   },
   "active": "caa792c68b6bfbd3",
   "lastOpenFiles": [
+    "Templates/Course Template.md",
     "To Do List.md",
     "3ºAno/Estruturação/Cadeiras.md",
     "3ºAno/Estruturação/Trabalhos.md",
@@ -132,7 +133,6 @@
     "3ºAno/Sistemas Distribuídos/Aula 2.md",
     "Untitled.md",
     "3ºAno/Administração de Sistemas de Redes/Pasted image 20220607101841.png",
-    "3ºAno/Administração de Sistemas de Redes/Pasted image 20220607095820.png",
-    "3ºAno/Administração de Sistemas de Redes/Untitled.md"
+    "3ºAno/Administração de Sistemas de Redes/Pasted image 20220607095820.png"
   ]
 }
