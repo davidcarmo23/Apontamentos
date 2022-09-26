@@ -3,4 +3,6 @@
 - *When we have finished testing*
 - *When the quality*
 
-Everyone wants **high-q**
+Everyone wants **high-quality** software but the definition of quality isn't the same for everyone
+
+Quality encompasses both **what** the system doe
