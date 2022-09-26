@@ -25,4 +25,13 @@
 ## Sistemas de Gestão de Base de Dados
 
 ## Sistemas de Informação
+(3 Faltas)
+  **Componente Teórica**
+ *Frequência* -> 14 de Dezembro (6 Valores)
+ 
+ **Componente Prática**
+*TP1* ->  30 de Setembro (1 Valores)
+*TP2* ->  19 de Outubro (5 Valores)
+*TP3* ->  16 de Novembro (8 Valores)
+*TP2* ->  19 de Outubro (5 Valores)
 
