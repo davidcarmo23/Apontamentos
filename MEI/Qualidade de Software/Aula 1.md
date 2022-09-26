@@ -23,3 +23,6 @@ Describe **desired properties** of the system
 - *Performance* -> Ability to meet timing requirements. When events occur, the system must respond quickly
 - *Security* -> Ability to protect information from unauthorized access whole providing service to authorized users
 - *Scalability* -> Ability to grow the system to process more concurrent requests
+- *Availability* ->
+- *Modifiability* ->
+- *Testability* ->
