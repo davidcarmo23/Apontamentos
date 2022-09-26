@@ -28,3 +28,11 @@ Describe **desired properties** of the system
 - *Testability* -> Ability to easily identify faults in a system. Probability that a fault will result in a visible failure.
 - *Interoperability* -> Ability to exchange information with and provide functionality to other systems.
 - *Usability* -> Ability to enable users to perform tasks and provide support to users.  How easy it is to use the system, learn features, adapt to meet user needs, and increase confidence and satisfaction in usage.
+
+### Others
+*Resilience*
+*Supportability*
+*Portability*
+*Development Efficiency*
+*Time to Deliver*
+*Tool Support*
