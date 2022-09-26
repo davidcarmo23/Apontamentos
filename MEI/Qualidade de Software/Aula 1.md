@@ -136,3 +136,8 @@ Discovers problems from runtime interaction, timing problems, or performance iss
 Often cheaper than static verification.
 	▪ Easier to automate. 
 	▪ However, cannot prove that properties are met - cannot try all possible executions
+
+## The trade-Off game
+Software engineering is the process of designing, constructing and maintaining the best software possible given the available resources. Always trading off between what we want, what we need, and what we've got.
+
+**
