@@ -3,6 +3,7 @@
 - *When we have finished testing*
 - *When the quality*
 
+## Software Quality
 Everyone wants **high-quality** software but the definition of quality isn't the same for everyone
 
 *Quality* encompasses both **what** the system does and **how** it does it
@@ -11,4 +12,7 @@ Everyone wants **high-quality** software but the definition of quality isn't the
 	`How available its services are`
 	`How easily it scales to more users`
 
-*Quality* is hard to measure a
+*Quality* is hard to measure and assess objectively
+
+## Quality Attributes
+Describe 
