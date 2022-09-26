@@ -4,7 +4,9 @@
  
  **Componente Prática**
 *Apresentação Individual* -> 5 min (1 Valor)
-*Apresentação Coletiva* -> 15mi
+*Apresentação Coletiva* -> 15min (2 Valores)
+	*Trabalho Individual* -> (data);  
+		Ferramentas :Python, Scikit;
  
 ## Interface Hardware Software
 
