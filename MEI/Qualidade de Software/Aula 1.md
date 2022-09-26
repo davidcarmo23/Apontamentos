@@ -60,8 +60,12 @@ Activities that must be performed to consider the software **done**.
 
 *Verification* -> Are we building the product right ?
 	The process of proving that the software conforms to its specified functional and non-functional requirements.
+
+Does the software work as intended? ▪ Shows that software is dependable.
+
 *Validation* -> Are we building the right product ? 
 	The process of proving that the software meets the customer’s true requirements, needs, and expectations.
+Does the software meet the needs of your users? ▪ Shows that software is useful. ▪ This is much harder.
 
 ## Verification
 **Verification** is an experiment -> Perform trials, evaluate results, gather evidence
