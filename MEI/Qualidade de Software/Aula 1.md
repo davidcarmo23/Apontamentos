@@ -156,7 +156,10 @@ Must accept some degree of inaccuracy
 ### How can we assess Readiness
 
 Finding all faults is nearly impossible.
-Instead, decide when to stop V&V.  Need to establish criteria for acceptance. ▪ How good is “good enough”?  Measure dependability and other quality attributes and set threshold to meet.
+Instead, decide when to stop V&V. 
+Need to establish criteria for acceptance. 
+	How good is “good enough”? 
+Measure dependability and other quality attributes and set threshold to meet.
 
 ### Product Readiness
 ### Ensuring Quality of Successive Releases
