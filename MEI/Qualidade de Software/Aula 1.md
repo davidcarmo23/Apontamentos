@@ -61,3 +61,5 @@ Activities that must be performed to consider the software **done**.
 *Verification* -> Are we building the product right ?
 	The process of proving that the software conforms to its specified functional and non-functional requirements.
 *Validation* -> Are we building the right product ? 
+	The process of proving that the software meets the customer’s true requirements, needs, and expectations.
+
