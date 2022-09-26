@@ -19,4 +19,7 @@ Describe **desired properties** of the system
 *Developers* prioritize attributes and design system that meets chosen thresholds
 
 
-*Dependability*  (Most relevant ) -> Ability to consistently offer correct functionality, even under unforeseen or unsafe conditions
+- *Dependability*  (Most relevant ) -> Ability to consistently offer correct functionality, even under unforeseen or unsafe conditions
+- *Performance* -> Ability to meet timing requirements. When events 
+- *Security* ->
+- *Scalability* ->
