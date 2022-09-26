@@ -154,7 +154,6 @@ Must accept some degree of inaccuracy
 **Property Complexity** -> if X is too difficult to check, substitute simpler property Y
 
 ### How can we assess Readiness
-
 Finding all faults is nearly impossible.
 Instead, decide when to stop V&V. 
 Need to establish criteria for acceptance. 
