@@ -1,5 +1,5 @@
-[[Aprendizagem Automática]]
-[[Interface Automática]]
-[[Aprendizagem Automática]]
-[[Aprendizagem Automática]]
-[[Aprendizagem Automática]]
+#
+Interface Hardware Software
+Aprendizagem Automática
+Aprendizagem Automática
+Aprendizagem Automática
