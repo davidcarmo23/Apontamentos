@@ -117,4 +117,4 @@ Can start **as soon as the project starts**
 ### Static Verification
 Analysis of system artifacts to discover problems
 *Proofs* ->  Posing hypotheses and making arguments for their validity using specifications, system models, etc.
-*Inspections* -> Manual sanity check on artifacts
+*Inspections* -> Manual sanity check on artifacts by people or tools, searching for issues
