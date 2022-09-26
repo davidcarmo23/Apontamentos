@@ -20,6 +20,6 @@ Describe **desired properties** of the system
 
 
 - *Dependability*  (Most relevant ) -> Ability to consistently offer correct functionality, even under unforeseen or unsafe conditions
-- *Performance* -> Ability to meet timing requirements. When events 
-- *Security* ->
-- *Scalability* ->
+- *Performance* -> Ability to meet timing requirements. When events occur, the system must respond quickly
+- *Security* -> Ability to protect information from unauthorized access whole providing service to authorized users
+- *Scalability* -> Ability to grow the system to process more concurrent requests
