@@ -140,4 +140,9 @@ Often cheaper than static verification.
 ## The trade-Off game
 Software engineering is the process of designing, constructing and maintaining the best software possible given the available resources. Always trading off between what we want, what we need, and what we've got.
 
-**
+*Better, faster, or cheaper - pick any two*
+
+## Perfect Verification
+## Verification Trade-Offs
+### How can we assess Readiness
+### Product Readiness
