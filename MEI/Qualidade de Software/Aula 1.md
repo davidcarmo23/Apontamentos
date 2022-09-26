@@ -54,4 +54,7 @@ General Principals of QA
 It's ready when you can argue that it's *dependable*
 - Correct, reliable, safe and robust
 - Shown  through **Verification and Validation**
-- 
+
+## Verification and Validation
+*Verification* -> Are we building the 
+*Validation* -> Are we building the right produtct ? 
