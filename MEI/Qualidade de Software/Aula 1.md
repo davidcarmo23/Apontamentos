@@ -106,4 +106,13 @@ Depends on:
 - **User Expectations** -> Users may tolerate bugs because the benefits outweigh cost of failure recovery
 - **Marketing Environment** -> Competing products - features and cost - and speed to market.
 
-### When does V$
+### When does V&V start?
+Can start **as soon as the project starts**
+- Feasibility studies must consider quality assessment. 
+- Requirements can be used to derive test cases. 
+- Design can be verified against requirements. 
+- Code can be verified against design and requirements. 
+- Feedback can be sought from stakeholders at any time.
+
+### Static Verification
+Analysis of system a
