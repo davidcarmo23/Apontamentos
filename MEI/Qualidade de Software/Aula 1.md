@@ -84,4 +84,8 @@ Activities that must be performed to consider the software **done**.
 ![[Pasted image 20220926194322.png]]
 
 ## Validation
-- Does the software fulfill the user's a
+- Does the software fulfill the user's **actual needs**?
+- 
+Not the same as conforming to a specification.
+	▪ If we specify two buttons and implement all behaviors related to those buttons, we can achieve verification. 
+	▪ If the user expected a third button, we have not achieved validation.
