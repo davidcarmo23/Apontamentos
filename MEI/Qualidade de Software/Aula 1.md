@@ -104,4 +104,6 @@ Not the same as conforming to a specification.
 Depends on:
 - **Software Purpose** -> The more critical, the more important that it's reliable
 - **User Expectations** -> Users may tolerate bugs because the benefits outweigh cost of failure recovery
-- **Marketing Environment** -> 
+- **Marketing Environment** -> Competing products - features and cost - and speed to market.
+
+### When does V$
