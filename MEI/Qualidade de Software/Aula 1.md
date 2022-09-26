@@ -23,6 +23,8 @@ Describe **desired properties** of the system
 - *Performance* -> Ability to meet timing requirements. When events occur, the system must respond quickly
 - *Security* -> Ability to protect information from unauthorized access whole providing service to authorized users
 - *Scalability* -> Ability to grow the system to process more concurrent requests
-- *Availability* ->
-- *Modifiability* ->
-- *Testability* ->
+- *Availability* -> Ability to carry out a task when needed, to minimize “downtime”, and to recover from failures
+- *Modifiability* -> Ability to enhance software by fixing issues, adding features, and adapting to new environments
+- *Testability* -> Ability to easily identify faults in a system. Probability that a fault will result in a visible failure.
+- *Interoperability* -> Ability to exchange information with and provide functionality to other systems.
+- *Usability* -> Ability to enable users to perform tasks and provide support to users.  How easy it is to use the system, learn features, adapt to meet user needs, and increase confidence and satisfaction in usage.
