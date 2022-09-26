@@ -124,4 +124,15 @@ One error can hide other errors.  Inspections not impacted by program interactio
 Incomplete systems can be inspected without special code to run partial system. 
 Inspection can assess quality attributes such as maintainability, portability, code style, program inefficiencies, etc.
 
-## Dyna
+## Dynamic Verification
+Exercising and observing the system to argue that it meets the requirements. 
+- **Testing**: Formulating sets of input to demonstrate requirement satisfaction or find faults
+- **Fuzzing**: Generating semi-random input to locate crashes and other anomalies. 
+- **Taint Analysis**: Monitoring how faults spread by corrupting system variables.
+
+**Advantages**
+
+Discovers problems from runtime interaction, timing problems, or performance issues.
+Often cheaper than static verification.
+	▪ Easier to automate. 
+	▪ However, cannot prove that properties are met - cannot try all possible executions
