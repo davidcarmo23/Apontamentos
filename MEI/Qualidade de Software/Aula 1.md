@@ -115,4 +115,6 @@ Can start **as soon as the project starts**
 - Feedback can be sought from stakeholders at any time.
 
 ### Static Verification
-Analysis of system a
+Analysis of system artifacts to discover problems
+*Proofs* ->  Posing hypotheses and making arguments for their validity using specifications, system models, etc.
+*Inspections* -> Manual sanity check on artifacts
