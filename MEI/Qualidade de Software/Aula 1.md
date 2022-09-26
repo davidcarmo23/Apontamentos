@@ -71,7 +71,7 @@ Both of these are important
 	A well verified system might not meet the user's needs
 	A system can't meet the user's needs unless it is well-constructed
 
-**Testing **
+**Testing is the primary activity of verification**
 
 ## Verification
 **Verification** is an experiment -> Perform trials, evaluate results, gather evidence
@@ -99,3 +99,8 @@ Both of these are important
 Not the same as conforming to a specification.
 	▪ If we specify two buttons and implement all behaviors related to those buttons, we can achieve verification. 
 	▪ If the user expected a third button, we have not achieved validation.
+
+## Required Level of V&V
+Depends on:
+- **Software Purpose** -> The more critical, the more important that it's reliable
+- ****
