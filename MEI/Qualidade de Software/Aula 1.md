@@ -66,5 +66,12 @@ Activities that must be performed to consider the software **done**.
 ## Verification
 **Verification** is an experiment -> Perform trials, evaluate results, gather evidence
 
-*Specification and Implementation* are
+*Specification and Implementation* are roles
+	Usually source code and requirement specification
+	But also...
+		- Detailed design and high-level architecture
+		- Design and requirements
+		- Test cases and requirements
+		- Source code and user manuals
+
 
