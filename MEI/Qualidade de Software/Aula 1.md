@@ -43,3 +43,11 @@ The Qualities **often conflict**
 	Localizing safety-critical features ensures safety, but degrades performance.
 
 It's important to decide what is important and set a threshold on when it's good enough
+
+## Quality Assurance
+General Principals of QA
+- Know what you are doing
+- Know what you should be doing
+- Know how to measure the difference
+
+### When is software ready for r
