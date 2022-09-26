@@ -56,5 +56,8 @@ It's ready when you can argue that it's *dependable*
 - Shown  through **Verification and Validation**
 
 ## Verification and Validation
-*Verification* -> Are we building the 
-*Validation* -> Are we building the right produtct ? 
+Activities that must be performed to consider the software **done**.
+
+*Verification* -> Are we building the product right ?
+	The process of proving that the software conforms to its specified functional and non-functional requirements.
+*Validation* -> Are we building the right product ? 
