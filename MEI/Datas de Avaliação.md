@@ -25,13 +25,9 @@
  *Frequência* -> 02 de Janeiro (8 Valores)
  
  **Componente Prática**
-*TP1* ->  21 de Outubro (1 Valor)
-*TP2* ->  19 de Outubro (3 Valores)
-*TP3* ->  16 de Novembro (4 Valores)
-*TP4* ->  04 de Janeiro (6 Valores)
+*TP1* ->  21 de Outubro (4 Valores)
+*TP2* ->  9 de Dezembro (8 Valores)
 
-	**Alternativa**
-*TF* (TP3 + TP4) 
 ## Sistemas de Gestão de Base de Dados
 
 ## Sistemas de Informação
