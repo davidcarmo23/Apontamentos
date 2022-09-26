@@ -50,4 +50,8 @@ General Principals of QA
 - Know what you should be doing
 - Know how to measure the difference
 
-### When is software ready for r
+### When is software ready for release ? 
+It's ready when you can argue that it's *dependable*
+- Correct, reliable, safe and robust
+- Shown  through **Verification and Validation**
+- 
