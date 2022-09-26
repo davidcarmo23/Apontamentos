@@ -103,4 +103,5 @@ Not the same as conforming to a specification.
 ## Required Level of V&V
 Depends on:
 - **Software Purpose** -> The more critical, the more important that it's reliable
-- ****
+- **User Expectations** -> Users may tolerate bugs because the benefits outweigh cost of failure recovery
+- **Marketing Environment** -> 
