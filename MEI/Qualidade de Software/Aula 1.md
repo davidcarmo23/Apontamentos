@@ -75,6 +75,10 @@ Activities that must be performed to consider the software **done**.
 		- Source code and user manuals
 
 ## Software Testing
-Investigation into system quality
+- Investigation into system quality
+- Based on sequences of **stimuli** and **observations**
+	- *Stimuli* that the system must react to
+	- *Observations* of system reactions
+	- *Verdicts* on corrr
 
 
