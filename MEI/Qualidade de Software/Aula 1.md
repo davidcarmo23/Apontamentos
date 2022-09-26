@@ -18,4 +18,5 @@ Everyone wants **high-quality** software but the definition of quality isn't the
 Describe **desired properties** of the system
 *Developers* prioritize attributes and design system that meets chosen thresholds
 
-Most relevante ****
+
+*Dependability*  (Most relevant ) -> Ability to consistently offer correct functionality, even under unforeseen or unsafe conditions
