@@ -146,3 +146,6 @@ Software engineering is the process of designing, constructing and maintaining t
 ## Verification Trade-Offs
 ### How can we assess Readiness
 ### Product Readiness
+### Ensuring Quality of Successive Releases
+### Improving the Development Process
+## Software Testing Myths
