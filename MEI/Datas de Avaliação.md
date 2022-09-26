@@ -16,7 +16,7 @@
  *Frequência* -> 15 de Dezembro (6 Valores)
  
  **Componente Prática**
-*TP1* ->  29 de Setembro (1 Valores)
+*TP1* ->  29 de Setembro (1 Valor)
 *TP2* ->  24 de Novembro (5 Valores)
 *TP3* ->  05 de Janeiro (8 Valores)
 
@@ -30,8 +30,10 @@
  *Frequência* -> 14 de Dezembro (6 Valores)
  
  **Componente Prática**
-*TP1* ->  30 de Setembro (1 Valores)
-*TP2* ->  19 de Outubro (5 Valores)
-*TP3* ->  16 de Novembro (8 Valores)
-*TP2* ->  19 de Outubro (5 Valores)
+*TP1* ->  30 de Setembro (1 Valor)
+*TP2* ->  19 de Outubro (3 Valores)
+*TP3* ->  16 de Novembro (4 Valores)
+*TP4* ->  04 de Janeiro (6 Valores)
 
+	**Alternativa**
+*TF* (TP3 + TP4) -> 
