@@ -42,4 +42,4 @@ The Qualities **often conflict**
 	Redundant data helps availability, but lessens security. 
 	Localizing safety-critical features ensures safety, but degrades performance.
 
-It'
+It's important to decide what is important and set a threshold on when it's good enough
