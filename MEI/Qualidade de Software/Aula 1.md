@@ -15,4 +15,7 @@ Everyone wants **high-quality** software but the definition of quality isn't the
 *Quality* is hard to measure and assess objectively
 
 ## Quality Attributes
-Describe 
+Describe **desired properties** of the system
+*Developers* prioritize attributes and design system that meets chosen thresholds
+
+Most relevante ****
