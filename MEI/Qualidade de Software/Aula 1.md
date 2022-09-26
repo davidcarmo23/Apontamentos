@@ -36,3 +36,10 @@ Describe **desired properties** of the system
 *Development Efficiency*
 *Time to Deliver*
 *Tool Support*
+
+The Qualities **often conflict**
+	Fewer subsystems improves performance, but hurts modifiability. 
+	Redundant data helps availability, but lessens security. 
+	Localizing safety-critical features ensures safety, but degrades performance.
+
+It'
