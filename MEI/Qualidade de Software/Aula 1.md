@@ -118,3 +118,10 @@ Can start **as soon as the project starts**
 Analysis of system artifacts to discover problems
 *Proofs* ->  Posing hypotheses and making arguments for their validity using specifications, system models, etc.
 *Inspections* -> Manual sanity check on artifacts by people or tools, searching for issues
+
+**Advantages**
+One error can hide other errors.  Inspections not impacted by program interactions. 
+Incomplete systems can be inspected without special code to run partial system. 
+Inspection can assess quality attributes such as maintainability, portability, code style, program inefficiencies, etc.
+
+## Dyna
