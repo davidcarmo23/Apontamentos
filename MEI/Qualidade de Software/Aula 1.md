@@ -161,6 +161,12 @@ Need to establish criteria for acceptance.
 Measure dependability and other quality attributes and set threshold to meet.
 
 ### Product Readiness
+Put it in the hands of human users. 
+**Alpha/Beta Testing** 
+	▪ Small group of users using the product, reporting feedback and failures.
+	▪ Use this to judge product readiness. 
+	▪ Make use of dependability metrics for quantitative judgement (metric > threshold). 
+	▪ Make use of surveys as a qualitative judgement.
 ### Ensuring Quality of Successive Releases
 ### Improving the Development Process
 ## Software Testing Myths
