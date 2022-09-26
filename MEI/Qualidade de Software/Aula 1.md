@@ -67,6 +67,12 @@ Does the software work as intended? ▪ Shows that software is dependable.
 	The process of proving that the software meets the customer’s true requirements, needs, and expectations.
 Does the software meet the needs of your users? ▪ Shows that software is useful. ▪ This is much harder.
 
+Both of these are important
+	A well verified system might not meet the user's needs
+	A system can't meet the user's needs unless it is well-constructed
+
+**Testing **
+
 ## Verification
 **Verification** is an experiment -> Perform trials, evaluate results, gather evidence
 
