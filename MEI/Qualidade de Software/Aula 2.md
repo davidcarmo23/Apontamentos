@@ -9,4 +9,7 @@
 - Statistical approximation of correctness
 - The likehood of correct behavior from some period of observed behavior
 	Time Period, number of system executions
-Measured relative to a specification and usage profile (expected pattern of intera)
+- Measured relative to a specification and usage profile (expected pattern of interaction)
+	Dependent on how the system is used by a type of user
+
+# Dependence on Specifications
