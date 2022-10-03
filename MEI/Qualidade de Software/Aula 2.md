@@ -16,4 +16,7 @@
 - Correctness and reliability
 	- Success relative to the strength of the specification
 		- **Hard to meaningfully prove anything for strong spec**
-	- Severity of a failures
+	- Severity of a failure is not considered
+		- **Some failures are worse than others**
+- Safety revolves around **a restricted specification**
+- Robustness revolves around **everything n**
