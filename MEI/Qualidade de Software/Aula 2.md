@@ -13,3 +13,7 @@
 	Dependent on how the system is used by a type of user
 
 # Dependence on Specifications
+- Correctness and reliability
+	- Success relative to the strength of the specification
+		- **Hard to meaningfully prove anything for strong spec**
+	- Severity of a failures
