@@ -22,7 +22,7 @@
 
 ## Qualidade de Software
 **Componente Teórica**
- *Frequência* -> 02 de Janeiro (8 Valores)
+ *Frequência* -> 04 de Janeiro (8 Valores)
  
  **Componente Prática**
 *TP1* ->  21 de Outubro (4 Valores)
