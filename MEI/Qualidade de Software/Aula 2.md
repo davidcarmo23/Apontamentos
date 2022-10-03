@@ -7,3 +7,4 @@ Correctness is rarely probably achieved
 
 # Reliability
 Statistical approximation of correctness
+The likehood of correct behavior from some period of observe
