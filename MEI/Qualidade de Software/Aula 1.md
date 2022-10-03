@@ -167,6 +167,23 @@ Put it in the hands of human users.
 	▪ Use this to judge product readiness. 
 	▪ Make use of dependability metrics for quantitative judgement (metric > threshold). 
 	▪ Make use of surveys as a qualitative judgement.
+	
 ### Ensuring Quality of Successive Releases
+V&V do not end with the release of the software. 
+
+▪ Software evolves - new features, environmental adaptations, bug fixes. 
+▪ Need to test code, retest old code, track changes. 
+▪ When code changes, rerun tests to ensure tested elements still works. 
+▪ Retain tests that exposed faults to ensure they do not return.
+
 ### Improving the Development Process
+Try to learn from your mistakes in the next project. 
+▪ Collect data during development. 
+• Fault information, bug reports, project metrics (complexity, # classes, # lines of code, test coverage, etc.). 
+▪ Classify faults into categories. 
+▪ Look for common mistakes. 
+▪ Learn how to avoid such mistakes. 
+▪ Share information within your organization.
+
 ## Software Testing Myths
+![[Pasted image 20220926223504.png]]
