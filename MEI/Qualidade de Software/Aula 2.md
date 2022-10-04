@@ -1,3 +1,5 @@
+[[MEI/Qualidade de Software/Aula 1]]
+
 # Correctness
 - A program is **correct** if it is always consistent with its specification
 - Depends on quality and detail of requirements
@@ -20,3 +22,10 @@
 		- **Some failures are worse than others**
 - Safety revolves around **a restricted specification**
 - Robustness revolves around **everything not specified**
+
+
+
+
+
+
+[[MEI/Qualidade de Software/Aula 3]]
