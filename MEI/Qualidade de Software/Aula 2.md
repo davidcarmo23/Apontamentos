@@ -19,4 +19,4 @@
 	- Severity of a failure is not considered
 		- **Some failures are worse than others**
 - Safety revolves around **a restricted specification**
-- Robustness revolves around **everything n**
+- Robustness revolves around **everything not specified**
