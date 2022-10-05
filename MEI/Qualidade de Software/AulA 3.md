@@ -74,4 +74,9 @@
 ![[Pasted image 20221005142939.png]]
 
 # Availability Scenarios
-- Ability of the system to mask or repair failures such that the outage period does not exceed a 
+- Ability of the system to mask or repair failures such that the outage period does not exceed a required valuer over a time period
+- **Measure how the system responds to failure**
+	- What does the system do to return to normal ?
+	- How long does it take?
+- **Stimuli should always be a failure**
+
