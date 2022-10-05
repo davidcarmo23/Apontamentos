@@ -53,5 +53,9 @@
 		- Can be demonstrated through sufficient volume of testing.
 
 # What is Reliability?
-- Probability of failure-free operation for a ****
+- Probability of failure-free operation for a **specified time** in a **specified environment** for a **given purpose**
+	- Depends on the system and type of user
+- How well users **think** the system provides services they require
+
+
 [[MEI/Qualidade de Software/Aula 3]]
