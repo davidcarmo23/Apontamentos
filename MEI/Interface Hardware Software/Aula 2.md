@@ -58,5 +58,14 @@ Mau condutor de corrente elétrica, não se deixa facilmente atravessar pelo flu
 
 **Semicondutor**
 Apresentam condutividade entre os isolantes e os condutores, não sendo bons condutores nem bons isolantes. 
-Dois exemplos são o germânio e o silício, sendo este último o mais utilizado, devido às suas melhores características e também por ser muito abundante à face da Terra (segundo elemento mais abundante na crosta terrestre a seguir ao oxigénio). Em comparação com os metais e os isolantes, as propriedades elétricas dos semicondutores são afetadas por variações de temperatura, pressão, luz, etc, bem como pela adição de impurezas. Isto permite a construção de sensores bem como de componentes eletrónicos (diodos, transistores, circuitos integrados)
+Dois exemplos são o germânio e o silício, sendo este último o mais utilizado, devido às suas melhores características e também por ser muito abundante à face da Terra (segundo elemento mais abundante na crosta terrestre a seguir ao oxigénio). 
+Em comparação com os metais e os isolantes, as propriedades elétricas dos semicondutores são afetadas por variações de temperatura, pressão, luz, etc, bem como pela adição de impurezas. Isto permite a construção de sensores bem como de componentes eletrónicos (diodos, transistores, circuitos integrados)
+
 **Condutor**
+Bom condutor de corrente elétrica, deixa-se atravessar facilmente pelo fluxo de cargas; Exs: metais na sua maioria, mas também não metais como grafite, água salgada ou qualquer material em estado de plasma. 
+Nos metais a prata é o melhor condutor, seguido do cobre, ouro e alumínio. Os condutores podem ser piores ou melhores, na medida em que se oponham mais ou menos à passagem da corrente elétrica
+
+**Elemento de Circuito**
+Modelo matemático para os dispositivos físicos reais 
+- Elemento geral de circuito: pode ser decomposto em um ou mais elementos simples; 
+- Elemento simples de circuito: não pode ser dividido em elementos mais simples, ficando completamente caracterizado pela relação entre a tensão (U) e a corrente (I) nos seus terminais
