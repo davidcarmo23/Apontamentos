@@ -160,5 +160,11 @@
 - Requires that additional resources
 	- Result in performance improvement
 	- Did not require undue effort to add
+	- Did not disrupt operations
+- The system must be design to scale
+
+## Assessing Scalability
+- Ability to address more requests is often part of the **performance assessment**
+- Assessing scalability directly measures impact of adding or removing resources.  Response measures reflect: ▪ Changes to performance. ▪ Changes to availability. ▪ Load assigned to existing and new resources.
 
 [[MEI/Qualidade de Software/Aula 3]]
