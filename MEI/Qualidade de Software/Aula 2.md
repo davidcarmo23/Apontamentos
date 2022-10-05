@@ -71,6 +71,8 @@
 ## How to measure Reliability
 - Hardware metrics often aren't suitable for software since they are based on component failures and the design is assumed to be correct
 - Software failures are always design failures
-	- Often the system is available even though a failure has o
+	- Often the system is available even though a failure has occurred
+	- Metrics consider **failure rates, uptime and time between failures**
+
 
 [[MEI/Qualidade de Software/Aula 3]]
