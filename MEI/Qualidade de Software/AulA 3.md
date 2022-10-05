@@ -48,4 +48,10 @@
 	- Writing should be unambiguous and free of jargon
 
 ## Effective Scenario Use
-- **Identify a fo**
+- **Identify a focused scenario set**
+	- Too many scenarios can be distracting
+	- Prioritize no more than 15-20
+- **Use distinct scenarios**
+	- Avoid having multiple scenarios centered around near identical events. Redundant
+	- Consider demands placed on the system
+- 
