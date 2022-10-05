@@ -57,4 +57,5 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 - O objetivo dos conjuntos de desenvolvimento e teste é direcionar os esforços para as alterações mais importantes a serem feitas no sistema de aprendizagem
 - Sob pena de perda de poder de generalização, nunca devemos assumir que a distribuição do conjunto de treino é a mesma do conjunto de teste. Tentar escolher um conjunto de teste que reflita as condições futuras de funcionamento.
 
--
+- O conjunto de validação deve refletir a tarefa que pretendemos aprender
+- Outro problema em ter diferentes distribuições de conjunto de teste e validação: podemos contruir algo que funcione bem no conjunto de desenvolvimento, apenas para desco
