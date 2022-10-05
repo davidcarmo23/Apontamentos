@@ -28,3 +28,4 @@
 - Aprendizagem **semi-supervisionada** -> muitos dados de treino mas apenas uns poucos estão rotulados
 - Aprendizagem **por reforço** -> o agente obtém recompensas advindas de uma sequência de ações
 
+# Aprendizagem com Supervisã
