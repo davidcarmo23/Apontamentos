@@ -68,3 +68,6 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 Na era dos *big data* , **a fração** de dados alocada para conjuntos de validação/teste tem diminuído 
 Não há necessidade de ter conjuntos de validação/teste excessivamente grandes - para além do que é necessário para avaliar o desempenho dos algoritmos.
 
+## AA via regressão linear
+- A regressão linear é um método paramétrico, o que significa que faz uma suposição sobre a forma da função que relaciona X e Y (vamos cobrir exemplos de métodos não paramétricos mais tarde). 
+- O modelo resultante será uma função que prevê ŷ dado um x específico
