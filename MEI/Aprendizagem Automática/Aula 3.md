@@ -63,4 +63,7 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 
 - Qual o tamanho destes conjuntos ? 
 	- O **conjunto de validação** deve ser grande o suficiente para detetar diferenças entre algoritmos concorrentes
-	- O **conjunto de teste** deve ser grande o suficiente para garantir confiança no desempenho geral do sistema. Uma heuri 
+	- O **conjunto de teste** deve ser grande o suficiente para garantir confiança no desempenho geral do sistema. Uma heurística popular era usar 30% dos dados para teste
+
+Na era dos *big data* , **a fração** de dados alocada para conjuntos de validação/teste tem diminuído 
+Não há necessidade de ter conjuntos de validação(/)
