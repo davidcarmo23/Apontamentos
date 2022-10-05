@@ -20,11 +20,16 @@ Constituídos pelo teclado, rato, ecrãs e os respetivos comandos e menus usados
 
 # Definições
 **Sistema**
+Conjunto de dispositivos e/ou componentes interligados que desempenham uma função complexa
 
 **Sistema Analógico/Digital**
+Constituído por vários blocos/dispositivos, que no conjunto desempenham determinada função
 
 **Dispositivo**
+Constituido por vários componentes que desempenham uma função simples.
 
 **Componente**
+Cada uma das partes que constituem um dispositivo
 
 **Circuito Integrado (Chip)**
+Inclui diversos componentes integrados sobre uma mesma base (substrato ou plataforma) – não é bem um componente, mas sim uma junção de muitos componentes miniaturizados
