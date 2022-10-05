@@ -53,4 +53,6 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 ![[Pasted image 20221005165503.png]]
 
 - Os conjuntos de validação e teste devem ser escolhidos de forma a refletir os dados que se espera obter no futuro e nos quais se quer um bom desempenho
-- O conjunto de teste não deve ser simplesmente 30% dos dados disponíveis, especialmente se os dados futuro
+- O conjunto de teste não deve ser simplesmente 30% dos dados disponíveis, especialmente se os dados futuros forem de natureza diferente do conjunto de treino
+- O objetivo dos conjuntos de desenvolvimento e teste é direcionar os esforços para as alterações mais importantes a serem feitas no sistema de aprendizagem
+- Sob pena de perda de poder de generalizxação, nunca devemos assumir 
