@@ -94,4 +94,9 @@
 	- Maintenance or reconfiguration
 
 ![[Pasted image 20221005144635.png]]
+![[Pasted image 20221005144709.png]]
+![[Pasted image 20221005144727.png]]
+![[Pasted image 20221005144742.png]]
 
+# Performance Scenarios
+- Measure system 
