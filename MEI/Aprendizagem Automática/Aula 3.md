@@ -52,4 +52,5 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 - **Conjunto de teste** -> Para avaliar o desempenho do algoritmo
 ![[Pasted image 20221005165503.png]]
 
-- Os conjus
+- Os conjuntos de validação e teste devem ser escolhidos de forma a refletir os dados que se espera obter no futuro e nos quais se quer um bom desempenho
+- O conjunto de teste não deve ser simplesmente 30% dos dados disponíveis, especialmente se os dados futuro
