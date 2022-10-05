@@ -44,4 +44,6 @@
 	- Addresses a single, concrete situation
 - Precise
 	- Intended user of scenario should be clear about the described situation and response
-- Compre
+- Comprehensible
+	- Writing should be unambiguous and free of jargon
+
