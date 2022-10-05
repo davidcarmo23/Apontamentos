@@ -69,3 +69,7 @@ Nos metais a prata é o melhor condutor, seguido do cobre, ouro e alumínio. Os 
 Modelo matemático para os dispositivos físicos reais 
 - Elemento geral de circuito: pode ser decomposto em um ou mais elementos simples; 
 - Elemento simples de circuito: não pode ser dividido em elementos mais simples, ficando completamente caracterizado pela relação entre a tensão (U) e a corrente (I) nos seus terminais
+ ![[Pasted image 20221005160341.png]]
+
+**Circuito Elétrico**
+Composto por um conjunto de elementos de circuito de tal modo que exista pelo menos um percurso fechado para que possa estabelecer-se uma corrente (I)
