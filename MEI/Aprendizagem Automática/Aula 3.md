@@ -47,6 +47,8 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 ![[Pasted image 20221005164843.png]]
 
 ## Preparação dos dados
-- Conjunto de treino -> Utilizado para treinar o algoritmo de aprendizagem
-- Conjunto de desenvolvimento -> utilizado para ajustar parâmetros, selecionar recursos e tomar outras decisões sobre o algoritmo de aprendizagem. Também chamado de validação (cruzada).
-- Conjunto de teste -> 
+- **Conjunto de treino** -> Utilizado para treinar o algoritmo de aprendizagem
+- **Conjunto de desenvolvimento** -> Utilizado para ajustar parâmetros, selecionar recursos e tomar outras decisões sobre o algoritmo de aprendizagem. Também chamado de validação (cruzada).
+- **Conjunto de teste** -> Para avaliar o desempenho do algoritmo
+![[Pasted image 20221005165503.png]]
+
