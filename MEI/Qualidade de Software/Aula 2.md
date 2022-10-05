@@ -172,6 +172,12 @@
 	- Load assigned to existing and new resources.
 
 # Security
-- Ability to protect data and information from unauthorized acce
+- Ability to protect data and information from unauthorized access
+	- **while still providing access to people and systems that are authorized**
+- Can we protect software from attacks ?
+	- Unauthorized access attempts
+	- Attempts to deny service to legitimate users
+
+
 
 [[MEI/Qualidade de Software/Aula 3]]
