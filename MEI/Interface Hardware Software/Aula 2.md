@@ -26,7 +26,7 @@ Conjunto de dispositivos e/ou componentes interligados que desempenham uma funç
 Constituído por vários blocos/dispositivos, que no conjunto desempenham determinada função
 
 **Dispositivo**
-Constituido por vários componentes que desempenham uma função simples.
+Constituído por vários componentes que desempenham uma função simples.
 
 **Componente**
 Cada uma das partes que constituem um dispositivo
@@ -47,5 +47,8 @@ Responsável pelas forças de atração/repulsão entre partículas carregadas
 **Corrente Elétrica (I)**
 Medida da taxa em que a carga se está a movimentar através de uma determinada superfície e num certo sentido → unidade Ampére (A) 
 - A corrente elétrica, sendo um movimento de cargas, define-se pela sua intensidade e sentido; 
-- Chama-se corrente contínua (CC) a uma corrente constante em termos do sentido em que flui; • são os eletrões que se movimentam, ou seja, partículas de carga negativa (podendo no entanto ser elementos de carga positiva a movimentarem-se)
+- Chama-se corrente contínua (CC) a uma corrente constante em termos do sentido em que flui; 
+- São os eletrões que se movimentam, ou seja, partículas de carga negativa (podendo no entanto ser elementos de carga positiva a movimentarem-se)
+
 **Tensão Elétrica (U)**
+A acumulação de cargas em um ponto em relação a outro, leva ao aparecimento de uma diferença de potencial (também chamada voltagem ou tensão), proporcional à diferença de cargas entre os dois pontos. Essa tensão é responsável pela capacidade de movimentar as cargas ao longo do circuito → unidade Volt (V)
