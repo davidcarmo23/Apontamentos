@@ -152,4 +152,9 @@
 ## Assessing Security
 - No universal metrics for measuring “security”. 
 	- Present specific attack types and specify response. 
-- Response assessed by appropriate metrics. ▪ Time to identify attacker. ▪ Amount of data protected. ▪ Time to stop attack. ▪ Number of accounts compromised. ▪ Availability during attack
+- Response assessed by appropriate metrics. 
+	- Time to identify attacker. 
+	- Amount of data protected.
+	- Time to stop attack. 
+	- Number of accounts compromised. 
+	- Availability during attack
