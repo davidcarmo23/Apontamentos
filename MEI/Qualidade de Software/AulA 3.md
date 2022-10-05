@@ -37,4 +37,11 @@
 
 ## Good Scenarios
 - Credible 
-	- Realisti
+	- Realistic scenario
+- Valuable
+	- Can be directly used during architectural definition
+- Specific
+	- Addresses a single, concrete situation
+- Precise
+	- Intended user of scenario should be clear about the described situation and response
+- Compre
