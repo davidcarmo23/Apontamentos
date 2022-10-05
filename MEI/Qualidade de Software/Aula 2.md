@@ -140,8 +140,9 @@
 	- ![[Pasted image 20221005115624.png]]
 - **Throughput** -> Usually number of transactions the system can process in a unit of time
 	- ![[Pasted image 20221005115641.png]]
-	- 
+	- ![[Pasted image 20221005115705.png]]
 - **Deadlines in processing** -> Points where processing must have reached a particular stage
+	- ![[Pasted image 20221005115725.png]]
 - **Number of events not processed** because the system was too busy to respond
 
 [[MEI/Qualidade de Software/Aula 3]]
