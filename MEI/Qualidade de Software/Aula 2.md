@@ -40,6 +40,7 @@
 		- Looking at how a program could fail and handling those situations
 	- Cannot be proved, but is a goal to aspire to
 
+# Dependability Property Relations
 
 
 
