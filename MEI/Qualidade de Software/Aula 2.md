@@ -129,6 +129,11 @@
 	- Often at the expense of other quality attributes
 	- **All** systems have performance requirements
 
-
+## Performance Measurements
+- **Latency**
+- **Response Jitter**
+- **Throughput**
+- **Deadlines in processing**
+- 
 
 [[MEI/Qualidade de Software/Aula 3]]
