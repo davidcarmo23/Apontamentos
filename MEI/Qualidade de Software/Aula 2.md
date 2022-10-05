@@ -74,5 +74,6 @@
 	- Often the system is available even though a failure has occurred
 	- Metrics consider **failure rates, uptime and time between failures**
 
+## Metric 1 : 
 
 [[MEI/Qualidade de Software/Aula 3]]
