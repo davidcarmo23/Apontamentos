@@ -58,4 +58,7 @@
 	- Most impactful early in development to focus design activities on most important aspects of the system
 
 # Reliability Scenarios
-- **The ability to minimize the **
+- **The ability to minimize the number of observed failures**
+- Scenarios revolve around one function accessed through an interface
+	- Give context on type of user if it impacts system execution or perceived reliability
+
