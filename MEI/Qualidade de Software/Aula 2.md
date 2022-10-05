@@ -68,5 +68,7 @@
 	- **Non-functional** requirements define number of failures that are acceptable during normal use or time in which system is allowed to be unavailable
 	- **Functional** requirements define how the software avoids, detects, and tolerates failures
 
-## How to measure
+## How to measure Reliability
+- Hardware metrics often aren't suitable for software since 
+
 [[MEI/Qualidade de Software/Aula 3]]
