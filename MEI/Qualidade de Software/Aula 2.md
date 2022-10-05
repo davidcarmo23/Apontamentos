@@ -130,10 +130,10 @@
 	- **All** systems have performance requirements
 
 ## Performance Measurements
-- **Latency**
-- **Response Jitter**
-- **Throughput**
-- **Deadlines in processing**
-- 
+- **Latency** -> The time between the arrival of the stimulus and the system’s response to it.
+- **Response Jitter** -> The allowable variation in latency
+- **Throughput** -> Usually number of transactions the system can process in a unit of time
+- **Deadlines in processing** -> Points where processing must have reached a particular stage
+- **Number of events not processed** because the system was too busy to respond
 
 [[MEI/Qualidade de Software/Aula 3]]
