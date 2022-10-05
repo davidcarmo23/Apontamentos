@@ -110,4 +110,8 @@
 		- “At least 200 ms between arrival of two events”
 
 ## Performance Measurements
-- Latency: The time between the arrival of the stimulus and the system’s response to it.  Response Jitter: The allowable variation in latency.  Throughput: Number of transactions system can process in a unit of time.  Deadlines in processing: Points where processing must have reached a particular stage.  Number of events not processed because the system was too busy to respond.
+- **Latency**: The time between the arrival of the stimulus and the system’s response to it.
+- **Response Jitter**: The allowable variation in latency. 
+- **Throughput**: Number of transactions system can process in a unit of time.
+- **Deadlines in processing**: Points where processing must have reached a particular stage. 
+- **Number of events not processed** because the system was too busy to respond.
