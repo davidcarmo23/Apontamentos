@@ -218,5 +218,10 @@
 	- Set realistic expectations!
 	- ![[Pasted image 20221005121255.png]]
 
-
+## Assessing Security
+- Measure of system’s ability to protect data from unauthorized access while still providing service to authorized users
+- Assess how well the system responds to attacks
+	- Stimuli are attacks from external systems/users or demonstrations of policies (log-in, authorization). 
+	- Responses: auditing, logging, reporting, analyzing.
+- No universal metrics for measuring 
 [[MEI/Qualidade de Software/Aula 3]]
