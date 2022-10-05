@@ -83,7 +83,11 @@
 	- **Both a reliability measurement and an independent quality attribute**
 - Measured as **(uptime) / (total time observed)**
 ![[Pasted image 20221005114037.png]]
-### 
+### Availability Considerations
+- Time to repair is the time until the failure is no longer observable
+	- Can be hard to define
+- Software can remain partially available more easily than hardware
+- 
 
 
 [[MEI/Qualidade de Software/Aula 3]]
