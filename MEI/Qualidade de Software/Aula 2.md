@@ -23,7 +23,10 @@
 - Safety revolves around **a restricted specification**
 - Robustness revolves around **everything not specified**
 
-
+# Safety 
+- Safety is the **ability to avoid hazards**
+	- *Hazard* -> defined undesirable situation
+	- Genera
 
 
 
