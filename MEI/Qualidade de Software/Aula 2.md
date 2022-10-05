@@ -90,6 +90,7 @@
 - If code containing fault is executed, but the system is able to recover there was no failure
 
 
-
+## Metric 2 : Probability of Failure on Demand (POFOD)
+- Like
 
 [[MEI/Qualidade de Software/Aula 3]]
