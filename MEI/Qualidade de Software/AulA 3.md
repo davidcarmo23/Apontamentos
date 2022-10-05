@@ -21,4 +21,9 @@
 ## Response Measures
 - Most quality measurements are non-deterministic
 	- **Time-based measures should be probabilistic**
-	- 
+		- 95% of the time, the response should be N. **(common case)** 
+		- 99% of the time, the response should be M. **(worst case)**
+	- For real-time systems, time measurements should give **absolute bounds**
+		- Look at worst case scenario
+	- For other measures, gives an absolute threshold
+
