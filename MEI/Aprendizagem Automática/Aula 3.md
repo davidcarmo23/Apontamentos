@@ -76,4 +76,6 @@ Exemplo de regressão - Ajuste de uma curva
 ![[Pasted image 20221005171105.png]]
 ![[Pasted image 20221005171520.png]]
 
-- Duas maneiras de combater o **sobreajuste (overfitting****)**
+- Duas maneiras de combater o **sobreajuste (overfitting)**
+1) Utilizar **mais dados de treino**. Com mais dados é mais difícil conseguir sobreajustar os dados, evitando aprender “demasiado” um qualquer exemplo de treino
+2) Utilizar a **regularização**. Acrescentar uma penalização na função de perda para evitar que o modelo atribua demasiado poder explicativo a uma qualquer característica (ou por outro lado permita que demasiadas características sejam tidas em conta)
