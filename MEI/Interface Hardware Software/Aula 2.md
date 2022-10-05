@@ -36,7 +36,16 @@ Inclui diversos componentes integrados sobre uma mesma base (substrato ou plataf
 
 **Carga Elétrica**
 Responsável pelas forças de atração/repulsão entre partículas carregadas 
-a carga pode ser positiva ou negativa • cargas do mesmo nome repelem-se e de nomes diferentes atraem-se • átomo: protão(carga positiva) + neutrão(sem carga) + eletrão(carga negativa) • as cargas podem transferir-se (ex. ao esfregar um objeto de plástico num pano de lã) • a transferência de carga corresponde a: 1) processo de transferência de energia – ex. cabos de transmissão de energia eléctrica 2) processo de transferência de informação (através das variações na taxa de transferência de carga) – ex. sistemas de comunicações (telefone, televisão)
-**Corrente Elétrica (I)**
+- A carga pode ser positiva ou negativa 
+- Cargas do mesmo nome repelem-se e de nomes diferentes atraem-se 
+- Átomo: protão(carga positiva) + neutrão(sem carga) + eletrão(carga negativa)
+- As cargas podem transferir-se (ex. ao esfregar um objeto de plástico num pano de lã) 
+- A transferência de carga corresponde a: 
+	1) processo de transferência de energia – ex. cabos de transmissão de energia elétrica
+	2) processo de transferência de informação (através das variações na taxa de transferência de carga) – ex. sistemas de comunicações (telefone, televisão)
 
+**Corrente Elétrica (I)**
+Medida da taxa em que a carga se está a movimentar através de uma determinada superfície e num certo sentido → unidade Ampére (A) 
+- A corrente elétrica, sendo um movimento de cargas, define-se pela sua intensidade e sentido; 
+- Chama-se corrente contínua (CC) a uma corrente constante em termos do sentido em que flui; • são os eletrões que se movimentam, ou seja, partículas de carga negativa (podendo no entanto ser elementos de carga positiva a movimentarem-se)
 **Tensão Elétrica (U)**
