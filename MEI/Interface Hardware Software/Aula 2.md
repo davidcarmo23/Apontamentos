@@ -6,4 +6,4 @@
 - Modalidade gráfica de apresentação dos dados e das funções de um programa ao utilizador
 
 - Designa o modo como ocorre a **comunicação** entre duas partes distintas e que não se podem conectar diretamente.
-- 
+- É um limite ou fronteira, através da qual dois ou mais componentes separados de um sistema trocam informação. Pode ser entre software, hardware, dispositivos periféricos, seres humanos...
