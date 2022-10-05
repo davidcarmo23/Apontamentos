@@ -115,3 +115,12 @@
 - **Throughput**: Number of transactions system can process in a unit of time.
 - **Deadlines in processing**: Points where processing must have reached a particular stage. 
 - **Number of events not processed** because the system was too busy to respond.
+
+
+## Specifying Response Time
+- Response time targets require a defined load
+	- One transaction in 3s is easy if that is the only request
+	- Can you still hit 3s if there are 500 transactions per second? 
+Must specify a clearly-defined response time goal.
+Define when a transaction starts and ends. 
+Not all requests take the same amount of time, even with constant load
