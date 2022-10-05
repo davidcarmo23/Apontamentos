@@ -92,3 +92,9 @@ As fontes, (pilhas, baterias ) podem associar-se em série ou em paralelo, conso
  ![[Pasted image 20221005160648.png]]
 
 # Conceitos Básicos : Lei de Ohm
+Se aplicarmos uma fonte de tensão (U) a um circuito elétrico, vai estabelecer-se uma corrente (I) com um sentido e valor que dependem dos vários elementos do circuito
+
+**Sentido da corrente** 
+1) *sentido real*: como a corrente elétrica corresponde ao movimento dos eletrões - cuja carga é negativa - o sentido real da corrente é saindo do pólo negativo da fonte , atravessando o circuito e regressando à fonte pelo pólo positivo; 
+2) *sentido convencional*: no início dos estudos sobre eletricidade, estabeleceu-se que a corrente seria do pólo positivo para o negativo, este sentido (embora incorreto) na maioria dos casos não interfere com a análise/projeto dos circuitos, pelo que normalmente é o usado
+3) 
