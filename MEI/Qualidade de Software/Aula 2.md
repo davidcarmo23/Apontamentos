@@ -81,6 +81,6 @@
 		- Can the system recover from an error ?
 - The ability to mask or repair faults such that the cumulative outages do not exceed a required value over a time interval
 	- **Both a reliability measurement and an independent quality attribute**
-	- 
+- Measured as ****
 
 [[MEI/Qualidade de Software/Aula 3]]
