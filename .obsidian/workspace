@@ -7,9 +7,11 @@
         "id": "900056f8fe24d378",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEI/Qualidade de Software/Pasted image 20221005113019.png"
+            "file": "MEI/Qualidade de Software/Aula 3.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Qualidade de Software/Pasted image 20221005113019.png",
+                "file": "MEI/Qualidade de Software/Aula 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Qualidade de Software/Pasted image 20221005113019.png"
+                "file": "MEI/Qualidade de Software/Aula 3.md"
               }
             }
           },
@@ -120,8 +122,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "70351f0ca651e72c",
+  "active": "900056f8fe24d378",
   "lastOpenFiles": [
+    "MEI/Qualidade de Software/Pasted image 20221005113019.png",
     "MEI/Qualidade de Software/Aula 3.md",
     "MEI/Qualidade de Software/Aula 2.md",
     "MEI/Qualidade de Software/Aula 1.md",
@@ -130,7 +133,6 @@
     "3ºAno/Segurança Informática/Laboratório 3.md",
     "MEI/Sistemas de Informação/Aula 1.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 1.md",
-    "MEI/Aprendizagem Automática/Aula 1.md",
-    "MEI/Interface Hardware Software/Aula 1.md"
+    "MEI/Aprendizagem Automática/Aula 1.md"
   ]
 }
