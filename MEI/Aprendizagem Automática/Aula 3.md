@@ -39,4 +39,8 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 - Arranjar mais dados
 - Maior variação de dados relacionadas
 - Treinar o algoritmo durante mais tempo
-- Tentar o
+- Tentar outro algoritmo de aprendizagem
+- Testar diferentes parametrizações
+- Mudar a arquitetura do classificador (mais complexo/simples)
+
+## Escala impulsiona a AA
