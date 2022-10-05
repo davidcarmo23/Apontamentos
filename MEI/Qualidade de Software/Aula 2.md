@@ -30,7 +30,10 @@
 - Relies on the specification of hazard
 	- What the hazard is and how it will be avoided in the software
 	- We prove or show evidence that the hazard is avoided
-	- 
+	- Only concerned with hazards, so proofs are often possible
+
+# Robustness
+
 
 
 
