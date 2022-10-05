@@ -86,6 +86,9 @@ As fontes, (pilhas, baterias ) podem associar-se em série ou em paralelo, conso
 
 1) Se ligarmos, sucessivamente, o pólo negativo de uma bateria ao pólo positivo de outra, consegue-se um agrupamento com uma f.e.m.(tensão) superior à de cada bateria e igual à soma de todas as f.e.m
 
+![[Pasted image 20221005160612.png]]
 
-2) 
- 
+2) ) Se pretendermos uma fonte CC que debite correntes mais elevadas do que uma só bateria é capaz, agrupamos várias baterias em paralelo, tendo em atenção que as baterias têm de ter f.e.m. (tensão/voltagem) iguais
+ ![[Pasted image 20221005160648.png]]
+
+# Conceitos Básicos : Lei de Ohm
