@@ -86,5 +86,10 @@
 		- (“95% of the time, the failure is detected within 5ms”)
 	- Time system in degraded mode
 		- (“95% of the time, must be back online within 10 minutes”)
-- Scenarios must distinguish physical failures in the system and the software's perception of the fau
+- Scenarios must distinguish physical failures in the system and the software's perception of the failure
+	- Do not assume software is omniscient
+- Scenarios tend to deal with:
+	- Failure of internal component or external system
+	- Reconfiguration of physical system
+	- Maintenance or reconfiguration
 
