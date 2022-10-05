@@ -150,5 +150,10 @@
 - Ability to process increasing number of requests
 	- While meeting performance requirements
 - Horizontal scalability
+	- Adding more resources to logical units
+		- Adding another server to a cluster
+		- Elasticity
+- Vertical scalability
+	- Adding more resources to a physical unit
 
 [[MEI/Qualidade de Software/Aula 3]]
