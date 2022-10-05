@@ -74,3 +74,6 @@ Não há necessidade de ter conjuntos de validação/teste excessivamente grande
 
 Exemplo de regressão - Ajuste de uma curva
 ![[Pasted image 20221005171105.png]]
+![[Pasted image 20221005171520.png]]
+
+- Duas maneiras de combater o **sobreajuste (overfitting****)**
