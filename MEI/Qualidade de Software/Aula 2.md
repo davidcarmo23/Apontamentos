@@ -195,5 +195,8 @@
 
 ## Supporting CIA
 - Authentication : Verifies identities of all parties
-- Nonrepudiation : Garantees that 
+- Nonrepudiation : Guarantees that the sender cannot deny sending, and recipient cannot deny receiving
+- Authorization : Grants privilege of performing a task
+
+
 [[MEI/Qualidade de Software/Aula 3]]
