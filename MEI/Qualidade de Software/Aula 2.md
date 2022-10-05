@@ -165,6 +165,13 @@
 
 ## Assessing Scalability
 - Ability to address more requests is often part of the **performance assessment**
-- Assessing scalability directly measures impact of adding or removing resources.  Response measures reflect: ▪ Changes to performance. ▪ Changes to availability. ▪ Load assigned to existing and new resources.
+- Assessing scalability directly measures impact of adding or removing resources. 
+- Response measures reflect: 
+	- Changes to performance. 
+	- Changes to availability. 
+	- Load assigned to existing and new resources.
+
+# Security
+- Ability to protect data and information from unauthorized acce
 
 [[MEI/Qualidade de Software/Aula 3]]
