@@ -80,15 +80,15 @@
 	- How long does it take?
 - **Stimuli should always be a failure**
 - Response measures should always include a measure of availability
-	- Availability threshold
+	- *Availability threshold*
 		- (“Availability must be at least 0.9999”)
-	- Time to detect or repair fault
+	- *Time to detect or repair fault*
 		- (“95% of the time, the failure is detected within 5ms”)
-	- Time system in degraded mode
+	- *Time system in degraded mode*
 		- (“95% of the time, must be back online within 10 minutes”)
-- Scenarios must distinguish physical failures in the system and the software's perception of the failure
+- Scenarios must **distinguish physical failures in the system and the software's perception of the failure**
 	- Do not assume software is omniscient
-- Scenarios tend to deal with:
+- **Scenarios** **tend to deal with**:
 	- Failure of internal component or external system
 	- Reconfiguration of physical system
 	- Maintenance or reconfiguration
@@ -99,7 +99,7 @@
 ![[Pasted image 20221005144742.png]]
 
 # Performance Scenarios
-- Measure system performance (not user)
+- **Measure system performance** (not user)
 - Begins with an event arriving at the system. 
 	- Responding requires resources to be consumed. 
 - Arrival pattern for events can be: 
