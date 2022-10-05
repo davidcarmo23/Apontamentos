@@ -47,3 +47,5 @@
 - Comprehensible
 	- Writing should be unambiguous and free of jargon
 
+## Effective Scenario Use
+- **Identify a fo**
