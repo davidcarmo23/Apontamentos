@@ -79,4 +79,8 @@
 	- What does the system do to return to normal ?
 	- How long does it take?
 - **Stimuli should always be a failure**
+- Response measures should always include a measure of availability
+	- Availability threshold
+	- Time to detect or repair fault
+	- Time system in degraded 
 
