@@ -78,6 +78,9 @@
 - Can the software carry out a task when needed ?
 	- Encompasses **reliability** and **repair**
 		- Does the system tend to show correct behavior ?
-		- Can the system recover from an error
+		- Can the system recover from an error ?
+- The ability to mask or repair faults such that the cumulative outages do not exceed a required value over a time interval
+	- **Both a reliability measurement and an independent quality attribute**
+	- 
 
 [[MEI/Qualidade de Software/Aula 3]]
