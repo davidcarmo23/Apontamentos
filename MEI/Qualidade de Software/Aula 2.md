@@ -26,7 +26,11 @@
 # Safety 
 - Safety is the **ability to avoid hazards**
 	- *Hazard* -> defined undesirable situation
-	- Genera
+		- Generally serious problems
+- Relies on the specification of hazard
+	- What the hazard is and how it will be avoided in the software
+	- We prove or show evidence that the hazard is avoided
+	- 
 
 
 
