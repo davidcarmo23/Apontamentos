@@ -93,3 +93,5 @@
 	- Reconfiguration of physical system
 	- Maintenance or reconfiguration
 
+![[Pasted image 20221005144635.png]]
+
