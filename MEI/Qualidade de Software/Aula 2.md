@@ -33,7 +33,10 @@
 	- Only concerned with hazards, so proofs are often possible
 
 # Robustness
-
+- Software that is correct may fail when the assumptions of its design are violated
+	- How it fails matters
+- **Software that gracefully fails is robust**
+	- Design the software to con
 
 
 
