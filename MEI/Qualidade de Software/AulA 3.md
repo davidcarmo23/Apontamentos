@@ -66,4 +66,4 @@
 - POFOD: (failures/ requests over period) 
 - ROCOF: (failures / total time observed) 
 - MTBF: Average time between observed failures. 
-- Availability is a quality attribute of its own.
+- **Availability is a quality attribute of its own**
