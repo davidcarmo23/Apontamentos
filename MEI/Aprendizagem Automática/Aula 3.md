@@ -52,3 +52,4 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 - **Conjunto de teste** -> Para avaliar o desempenho do algoritmo
 ![[Pasted image 20221005165503.png]]
 
+- Os conjus
