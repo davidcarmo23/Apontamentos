@@ -142,5 +142,14 @@
 
 
 # Security Scenarios
-- Ability to protect data from unauthorized access while still providing service to authorized users
-- Stimuli are attacks from external systems/users or demonstrations of policies (log-in, authorization).  Responses: ▪ Auditing, logging, reporting, analyzing.  Measures: ▪ time to detect/stop attack; time to identify attacker; impact of breach
+- **Ability to protect data from unauthorized access while still providing service to authorized users**
+	- Stimuli are attacks from external systems/users or demonstrations of policies (log-in, authorization). 
+- Responses: 
+	- Auditing, logging, reporting, analyzing. 
+- Measures: 
+	- Time to detect/stop attack; time to identify attacker; impact of breach
+
+## Assessing Security
+- No universal metrics for measuring “security”. 
+	- Present specific attack types and specify response. 
+- Response assessed by appropriate metrics. ▪ Time to identify attacker. ▪ Amount of data protected. ▪ Time to stop attack. ▪ Number of accounts compromised. ▪ Availability during attack
