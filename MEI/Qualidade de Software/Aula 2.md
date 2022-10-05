@@ -91,6 +91,14 @@
 
 
 ## Metric 2 : Probability of Failure on Demand (POFOD)
-- Like
+- Likelihood that a request will fail
+- **(failures/requests over observed period)**
+- Used in situations where a failure is serious
+
+## Metric 2 : Probability of Failure on Demand (POFOD)
+- Likelihood that a request will fail
+- **(failures/requests over observed period)**
+- Used in situations where a failure is serious
+
 
 [[MEI/Qualidade de Software/Aula 3]]
