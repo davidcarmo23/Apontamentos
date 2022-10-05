@@ -132,4 +132,10 @@
 - Not all requests take the same amount of time, even with constant load
 
 
-# Scalabilty 
+# Scalability Scenarios
+- **The ability to efficiently use available resources**
+- Scenarios assessing scalability directly deal with impact of **adding or removing resources**
+- Performance measures to reflect
+	- Changes to performance
+	- Changes to availability
+	- Loa
