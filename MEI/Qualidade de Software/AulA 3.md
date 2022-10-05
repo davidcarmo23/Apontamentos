@@ -109,6 +109,8 @@
 		- “No more than 600 per minute” 
 		- “At least 200 ms between arrival of two events”
 
+
+
 ## Performance Measurements
 - **Latency**: The time between the arrival of the stimulus and the system’s response to it.
 - **Response Jitter**: The allowable variation in latency. 
@@ -120,7 +122,7 @@
 ## Specifying Response Time
 - Response time targets require a defined load
 	- One transaction in 3s is easy if that is the only request
-	- Can you still hit 3s if there are 500 transactions per second? 
-Must specify a clearly-defined response time goal.
-Define when a transaction starts and ends. 
-Not all requests take the same amount of time, even with constant load
+		- Can you still hit 3s if there are 500 transactions per second? 
+	- Must specify a clearly-defined response time goal.
+		- Define when a transaction starts and ends. 
+- Not all requests take the same amount of time, even with constant load
