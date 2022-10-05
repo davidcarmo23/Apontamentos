@@ -223,5 +223,11 @@
 - Assess how well the system responds to attacks
 	- Stimuli are attacks from external systems/users or demonstrations of policies (log-in, authorization). 
 	- Responses: auditing, logging, reporting, analyzing.
-- No universal metrics for measuring 
+- No universal metrics for measuring security
+- Present specific attack types and specify how the system responds
+- Response assessed by appropriate metrics
+	- Time to identify attacker
+	- Amount of data protected
+	- Time to stop attack
+
 [[MEI/Qualidade de Software/Aula 3]]
