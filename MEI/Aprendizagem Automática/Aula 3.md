@@ -58,4 +58,6 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 - Sob pena de perda de poder de generalização, nunca devemos assumir que a distribuição do conjunto de treino é a mesma do conjunto de teste. Tentar escolher um conjunto de teste que reflita as condições futuras de funcionamento.
 
 - O conjunto de validação deve refletir a tarefa que pretendemos aprender
-- Outro problema em ter diferentes distribuições de conjunto de teste e validação: podemos contruir algo que funcione bem no conjunto de desenvolvimento, apenas para desco
+- Outro problema em ter diferentes distribuições de conjunto de teste e validação: podemos contruir algo que funcione bem no conjunto de desenvolvimento, apenas para descobri que corre mal no conjunto de teste
+- Mesmo quando isso acontece se os conjuntos de desenvolvimento e teste vieram das mesma distribuição, o diagnóstico é muito claro: ajuste excessivo aos dados de validação.
+- 
