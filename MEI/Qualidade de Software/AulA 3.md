@@ -99,4 +99,13 @@
 ![[Pasted image 20221005144742.png]]
 
 # Performance Scenarios
-- Measure system 
+- Measure system performance (not user)
+- Begins with an event arriving at the system. 
+	- Responding requires resources to be consumed. 
+- Arrival pattern for events can be: 
+	- *Periodic* (at regular time intervals) 
+	- *Stochastic* (events arrive according to a distribution) 
+	- *Sporadic* (unknown timing, but known properties) 
+		- “No more than 600 per minute” 
+		- “At least 200 ms between arrival of two events”
+
