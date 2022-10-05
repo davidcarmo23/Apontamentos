@@ -62,4 +62,5 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 - Mesmo quando isso acontece se os **conjuntos de desenvolvimento e teste vieram das mesma distribuição**, o diagnóstico é muito claro: *ajuste excessivo aos dados de validação*. A *solução* passa por aumentar o tamanho do conjunto de validação
 
 - Qual o tamanho destes conjuntos ? 
-	- O conjunto de validaç
+	- O **conjunto de validação** deve ser grande o suficiente para detetar diferenças entre algoritmos concorrentes
+	- O **conjunto de teste** deve ser grande o suficiente para garantir confiança no desempenho geral do sistema. Uma heuri 
