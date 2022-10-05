@@ -28,4 +28,10 @@
 	- For other measures, gives an absolute threshold
 
 ## What do we do with Scenarios ? 
-- 
+- System Design 
+- Stakeholder Negotiation
+- Exploratory Testing
+	- Human experiments with app
+- Formal Test Cases
+	- Assign specific input and check response
+
