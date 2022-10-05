@@ -70,3 +70,4 @@
 
 ## Reliability Scenarios
 ![[Pasted image 20221005142754.png]]
+![[Pasted image 20221005142905.png]]
