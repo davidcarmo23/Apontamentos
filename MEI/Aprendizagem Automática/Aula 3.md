@@ -19,3 +19,4 @@
 - Aprendizagem **Supervisionada** -> Os dados de treino compreendem exemplos dos vetores de entrada junto com os seus vetores alvo correspondentes
 	- **Classificação** -> o objetivo é atribuir a cada vetor de entrada um número finito de categorias discretas
 	- **Regressão** -> a saída desejada consiste em uma ou mais variáveis contínuas
+- Aprendizagem **não supervisionada** -> Os dados de treino cons
