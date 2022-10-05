@@ -216,5 +216,7 @@
 	- Try to avoid attack, prevent damage, and quickly recover.
 	- Balance risks against cost of guarding against them.
 	- Set realistic expectations!
-	- 
+	- ![[Pasted image 20221005121255.png]]
+
+
 [[MEI/Qualidade de Software/Aula 3]]
