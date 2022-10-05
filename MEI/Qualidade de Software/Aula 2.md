@@ -57,5 +57,7 @@
 	- Depends on the system and type of user
 - How well users **think** the system provides services they require
 
+# Improving Reliability
+- **Improved when faults in the **
 
 [[MEI/Qualidade de Software/Aula 3]]
