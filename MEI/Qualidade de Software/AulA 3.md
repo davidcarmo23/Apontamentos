@@ -149,6 +149,9 @@
 - Measures: 
 	- Time to detect/stop attack; time to identify attacker; impact of breach
 
+![[Pasted image 20221005150405.png]]
+
+
 ## Assessing Security
 - No universal metrics for measuring “security”. 
 	- Present specific attack types and specify response. 
