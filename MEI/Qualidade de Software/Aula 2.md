@@ -69,6 +69,8 @@
 	- **Functional** requirements define how the software avoids, detects, and tolerates failures
 
 ## How to measure Reliability
-- Hardware metrics often aren't suitable for software since 
+- Hardware metrics often aren't suitable for software since they are based on component failures and the design is assumed to be correct
+- Software failures are always design failures
+	- Often the system is available even though a failure has o
 
 [[MEI/Qualidade de Software/Aula 3]]
