@@ -69,5 +69,8 @@ Na era dos *big data* , **a fração** de dados alocada para conjuntos de valida
 Não há necessidade de ter conjuntos de validação/teste excessivamente grandes - para além do que é necessário para avaliar o desempenho dos algoritmos.
 
 ## AA via regressão linear
-- A regressão linear é um método paramétrico, o que significa que faz uma suposição sobre a forma da função que relaciona X e Y (vamos cobrir exemplos de métodos não paramétricos mais tarde). 
+- A regressão linear é um método paramétrico, o que significa que faz uma suposição sobre a forma da função que relaciona X e Y.
 - O modelo resultante será uma função que prevê ŷ dado um x específico
+
+Exemplo de regressão - Ajuste de uma curva
+![[Pasted image 20221005171105.png]]
