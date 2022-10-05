@@ -95,10 +95,18 @@
 - **(failures/requests over observed period)**
 - Used in situations where a failure is serious
 
-## Metric 2 : Probability of Failure on Demand (POFOD)
-- Likelihood that a request will fail
-- **(failures/requests over observed period)**
-- Used in situations where a failure is serious
+## Metric 3 : Rate of Occurrence of Fault (ROCOF)
+- Frequency of occurrence of unexpected behavior
+- **(number of failures / total time observed)**
+- Most appropriate metric when requests are made on a regular basis (such as a shop).
 
+## Metric 4 : Mean Time Between Failures (MTBF)
+- Frequency of occurrence of unexpected behavior
+- **(number of failures / total time observed)**
+- Most appropriate metric when requests are made on a regular basis (such as a shop).
 
+## Metric 5 : Rate of Occurrence of Fault (ROCOF)
+- Frequency of occurrence of unexpected behavior
+- **(number of failures / total time observed)**
+- Most appropriate metric when requests are made on a regular basis (such as a shop).
 [[MEI/Qualidade de Software/Aula 3]]
