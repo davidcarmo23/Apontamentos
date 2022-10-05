@@ -41,8 +41,12 @@
 	- Cannot be proved, but is a goal to aspire to
 
 # Dependability Property Relations
+![[Pasted image 20221005112452.png]]
 
 
+# Measuring dependability
+- Must establish a criteria for when the system is dependable enough to release
+- 
 
 
 [[MEI/Qualidade de Software/Aula 3]]
