@@ -198,5 +198,13 @@
 - Nonrepudiation : Guarantees that the sender cannot deny sending, and recipient cannot deny receiving
 - Authorization : Grants privilege of performing a task
 
+## Security Approaches
+- Achieving security relies on:
+	- Detecting attacks. 
+	- Resisting attacks. 
+	- Reacting to attacks. 
+	- Recovering from attacks.
+- Objects being protected are:
+- 
 
 [[MEI/Qualidade de Software/Aula 3]]
