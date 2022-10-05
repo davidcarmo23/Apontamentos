@@ -144,5 +144,11 @@
 - **Deadlines in processing** -> Points where processing must have reached a particular stage
 	- ![[Pasted image 20221005115725.png]]
 - **Number of events not processed** because the system was too busy to respond
+	- ![[Pasted image 20221005115806.png]]
+
+# Scalability 
+- Ability to process increasing number of requests
+	- While meeting performance requirements
+- Horizontal scalability
 
 [[MEI/Qualidade de Software/Aula 3]]
