@@ -66,4 +66,5 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 	- O **conjunto de teste** deve ser grande o suficiente para garantir confiança no desempenho geral do sistema. Uma heurística popular era usar 30% dos dados para teste
 
 Na era dos *big data* , **a fração** de dados alocada para conjuntos de validação/teste tem diminuído 
-Não há necessidade de ter conjuntos de validação(/)
+Não há necessidade de ter conjuntos de validação/teste excessivamente grandes - para além do que é necessário para avaliar o desempenho dos algoritmos.
+
