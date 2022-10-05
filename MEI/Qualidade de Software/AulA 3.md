@@ -138,4 +138,9 @@
 - Performance measures to reflect
 	- Changes to performance
 	- Changes to availability
-	- Loa
+	- Load assigned to existing and new resources
+
+
+# Security Scenarios
+- Ability to protect data from unauthorized access while still providing service to authorized users
+- Stimuli are attacks from external systems/users or demonstrations of policies (log-in, authorization).  Responses: ▪ Auditing, logging, reporting, analyzing.  Measures: ▪ time to detect/stop attack; time to identify attacker; impact of breach
