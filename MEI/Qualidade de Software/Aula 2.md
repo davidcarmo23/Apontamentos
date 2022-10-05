@@ -178,6 +178,12 @@
 	- Unauthorized access attempts
 	- Attempts to deny service to legitimate users
 
+- Processes that allow owners of resources to control access
+	- Who: Actors (systems or users). 
+	- Resources are sensitive elements, operations, and data of the system. 
+	- Policies define legitimate access to resourced. 
+	- Enforced by security mechanisms used by actors to gain access to resources.
+	- ![[Pasted image 20221005120657.png]]
 
 
 [[MEI/Qualidade de Software/Aula 3]]
