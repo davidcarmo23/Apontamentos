@@ -7,9 +7,11 @@
         "id": "900056f8fe24d378",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20221005150501.png"
+            "file": "MEI/Interface Hardware Software/Aula 2.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20221005150501.png",
+                "file": "MEI/Interface Hardware Software/Aula 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20221005150501.png"
+                "file": "MEI/Interface Hardware Software/Aula 2.md"
               }
             }
           },
@@ -122,6 +124,7 @@
   },
   "active": "900056f8fe24d378",
   "lastOpenFiles": [
+    "MEI/Qualidade de Software/Pasted image 20221005150501.png",
     "MEI/Qualidade de Software/Aula 3.md",
     "MEI/Qualidade de Software/Pasted image 20221005113019.png",
     "MEI/Qualidade de Software/Aula 2.md",
@@ -130,7 +133,6 @@
     "MEI/Datas de Avaliação.md",
     "3ºAno/Segurança Informática/Laboratório 3.md",
     "MEI/Sistemas de Informação/Aula 1.md",
-    "MEI/Sistemas de Gestão de Base de Dados/Aula 1.md",
-    "MEI/Aprendizagem Automática/Aula 1.md"
+    "MEI/Sistemas de Gestão de Base de Dados/Aula 1.md"
   ]
 }
