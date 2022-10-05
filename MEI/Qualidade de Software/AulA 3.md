@@ -73,3 +73,5 @@
 ![[Pasted image 20221005142905.png]]
 ![[Pasted image 20221005142939.png]]
 
+# Availability Scenarios
+- Ability of the system to mask or repair failures such that the outage period does not exceed a 
