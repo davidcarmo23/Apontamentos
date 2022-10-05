@@ -81,6 +81,10 @@
 - **Stimuli should always be a failure**
 - Response measures should always include a measure of availability
 	- Availability threshold
+		- (“Availability must be at least 0.9999”)
 	- Time to detect or repair fault
-	- Time system in degraded 
+		- (“95% of the time, the failure is detected within 5ms”)
+	- Time system in degraded mode
+		- (“95% of the time, must be back online within 10 minutes”)
+- Scenarios must distinguish physical failures in the system and the software's perception of the fau
 
