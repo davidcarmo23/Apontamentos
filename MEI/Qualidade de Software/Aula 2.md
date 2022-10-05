@@ -125,7 +125,10 @@
 - Characterize pattern of input events and responses
 	- Requests served per minute
 	- Variation in output time
-- Driving fac
+- Driving factor in software design
+	- Often at the expense of other quality attributes
+	- **All** systems have performance requirements
+
 
 
 [[MEI/Qualidade de Software/Aula 3]]
