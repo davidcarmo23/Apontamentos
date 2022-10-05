@@ -7,11 +7,9 @@
         "id": "900056f8fe24d378",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "MEI/Interface Hardware Software/Aula 2.md",
-            "mode": "source",
-            "source": false
+            "file": "MEI/Interface Hardware Software/Pasted image 20221005160458.png"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Interface Hardware Software/Aula 2.md",
+                "file": "MEI/Interface Hardware Software/Pasted image 20221005160458.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Interface Hardware Software/Aula 2.md"
+                "file": "MEI/Interface Hardware Software/Pasted image 20221005160458.png"
               }
             }
           },
@@ -122,11 +120,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "900056f8fe24d378",
+  "active": "70351f0ca651e72c",
   "lastOpenFiles": [
+    "MEI/Interface Hardware Software/Aula 2.md",
     "C.md",
     "Untitled.md",
-    "MEI/Interface Hardware Software/Aula 2.md",
     "MEI/Qualidade de Software/Pasted image 20221005150501.png",
     "MEI/Qualidade de Software/Aula 3.md",
     "MEI/Qualidade de Software/Pasted image 20221005113019.png",

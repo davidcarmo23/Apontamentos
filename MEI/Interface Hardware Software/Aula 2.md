@@ -99,8 +99,5 @@ Se aplicarmos uma fonte de tensão (U) a um circuito elétrico, vai estabelecer-
 2) *sentido convencional*: no início dos estudos sobre eletricidade, estabeleceu-se que a corrente seria do pólo positivo para o negativo, este sentido (embora incorreto) na maioria dos casos não interfere com a análise/projeto dos circuitos, pelo que normalmente é o usado
 
 **Valor da corrente: Lei de Ohm**
-- A voltagem (U) através de um elemento de circuito simples é diretamente proporcional à corrente (I) que o atravessa, onde a constante de proporcionalidade é a resistência
-(R): U = R * I [Volt] 
-ou 
-- Num elemento de circuito a intensidade de corrente elétrica (I) é diretamente proporcional à tensão (U) aplicada ao circuito e inversamente proporcional à resistência (R) do mesmo: I = U / R [Ampére] 
-	- resistência: R = U / I , unidade de resistência = Ohm [Ω] → 1Ω = 1V/1A
+![[Pasted image 20221005160920.png]]
+![[Pasted image 20221005160940.png]]
