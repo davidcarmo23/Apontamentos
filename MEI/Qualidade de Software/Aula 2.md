@@ -204,7 +204,17 @@
 	- Resisting attacks. 
 	- Reacting to attacks. 
 	- Recovering from attacks.
-- Objects being protected are:
-- 
 
+- Objects being protected are:
+	- Data at rest.  
+	- Data in transit.
+	- Computational processes
+
+## Security is Risk Management
+- **Not simply secure/not secure**
+	- All systems will be compromised. 
+	- Try to avoid attack, prevent damage, and quickly recover.
+	- Balance risks against cost of guarding against them.
+	- Set realistic expectations!
+	- 
 [[MEI/Qualidade de Software/Aula 3]]
