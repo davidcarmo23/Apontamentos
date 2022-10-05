@@ -109,6 +109,10 @@
 		- “No more than 600 per minute” 
 		- “At least 200 ms between arrival of two events”
 
+![[Pasted image 20221005145408.png]]
+![[Pasted image 20221005145422.png]]
+![[Pasted image 20221005145434.png]]
+![[Pasted image 20221005145445.png]]
 
 
 ## Performance Measurements
