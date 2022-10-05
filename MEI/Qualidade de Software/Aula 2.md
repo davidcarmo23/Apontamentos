@@ -111,4 +111,14 @@
 - Probability that system will provide a service within required bounds over a specified time interval. 
 	- **Availability = MTBF / (MTBF + MTTR)**
 
+
+# Reliability Economics
+- May be cheaper to accept unreliability and pay for failure costs
+- Depends on social/political factors and system
+	- Reputation for unreliability may hurt more than cost of improving reliability. 
+	- Cost of failure depends on risks of failure. 
+		- Health risks or equipment failure risk requires high reliability. 
+		- Minor annoyances can be tolerated.
+
+
 [[MEI/Qualidade de Software/Aula 3]]
