@@ -185,5 +185,11 @@
 	- Enforced by security mechanisms used by actors to gain access to resources.
 	- ![[Pasted image 20221005120657.png]]
 
+## Security Characterization (CIA)
+- Confidentiality
+	- Data and services protected from unauthorized access
+- Integrity
+	- Data/Services not subjec
+- Availability
 
 [[MEI/Qualidade de Software/Aula 3]]
