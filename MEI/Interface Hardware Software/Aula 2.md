@@ -81,3 +81,11 @@ Caracterizada por uma tensão nos seus terminais que não depende da corrente qu
 ![[Pasted image 20221005160458.png]]
 
 
+# Elementos de Circuito - Associação de fontes
+As fontes, (pilhas, baterias ) podem associar-se em série ou em paralelo, consoante o objetivo pretendido.
+
+1) Se ligarmos, sucessivamente, o pólo negativo de uma bateria ao pólo positivo de outra, consegue-se um agrupamento com uma f.e.m.(tensão) superior à de cada bateria e igual à soma de todas as f.e.m
+
+
+2) 
+ 
