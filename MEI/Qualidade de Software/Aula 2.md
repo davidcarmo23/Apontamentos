@@ -156,4 +156,5 @@
 - Vertical scalability
 	- Adding more resources to a physical unit
 
+
 [[MEI/Qualidade de Software/Aula 3]]
