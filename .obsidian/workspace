@@ -7,9 +7,11 @@
         "id": "544248bd312b8130",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEI/Aprendizagem Automática/Pasted image 20221005171105.png"
+            "file": "MEI/Aprendizagem Automática/Aula 3.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Aprendizagem Automática/Pasted image 20221005171105.png",
+                "file": "MEI/Aprendizagem Automática/Aula 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Aprendizagem Automática/Pasted image 20221005171105.png"
+                "file": "MEI/Aprendizagem Automática/Aula 3.md"
               }
             }
           },
@@ -120,8 +122,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "70351f0ca651e72c",
+  "active": "544248bd312b8130",
   "lastOpenFiles": [
+    "MEI/Aprendizagem Automática/Pasted image 20221005171105.png",
     "MEI/Aprendizagem Automática/Aula 3.md",
     "Pasted image 20221005164354.png",
     "MEI/Aprendizagem Automática/Pasted image 20221005162918.png",
@@ -130,7 +133,6 @@
     "C.md",
     "Untitled.md",
     "MEI/Qualidade de Software/Pasted image 20221005150501.png",
-    "MEI/Qualidade de Software/Aula 3.md",
-    "MEI/Qualidade de Software/Pasted image 20221005113019.png"
+    "MEI/Qualidade de Software/Aula 3.md"
   ]
 }
