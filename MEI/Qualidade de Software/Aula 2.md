@@ -58,6 +58,11 @@
 - How well users **think** the system provides services they require
 
 # Improving Reliability
-- **Improved when faults in the **
+- **Improved when faults in the most frequently-used parts of the software are removed**
+![[Pasted image 20221005113021.png]]
+
+
+# Reliability is measurable
+- Reliability cand
 
 [[MEI/Qualidade de Software/Aula 3]]
