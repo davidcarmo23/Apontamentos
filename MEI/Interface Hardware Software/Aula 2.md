@@ -73,3 +73,11 @@ Modelo matemático para os dispositivos físicos reais
 
 **Circuito Elétrico**
 Composto por um conjunto de elementos de circuito de tal modo que exista pelo menos um percurso fechado para que possa estabelecer-se uma corrente (I)
+
+**Fonte de tensão Independente**
+Caracterizada por uma tensão nos seus terminais que não depende da corrente que a atravessa 
+- Tensão contínua (DC-direct current) se o sentido da tensão nunca muda (ex. pilhas, baterias); 
+- Tensão alternada (AC-alternate current) se o sentido da tensão muda periodicamente (ex. rede elétrica, alternadores dos automóveis);
+![[Pasted image 20221005160458.png]]
+
+
