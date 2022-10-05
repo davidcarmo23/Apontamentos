@@ -27,3 +27,5 @@
 		- Look at worst case scenario
 	- For other measures, gives an absolute threshold
 
+## What do we do with Scenarios ? 
+- 
