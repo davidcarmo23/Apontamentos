@@ -130,3 +130,6 @@
 	- Must specify a clearly-defined response time goal.
 		- Define when a transaction starts and ends. 
 - Not all requests take the same amount of time, even with constant load
+
+
+# Scalabilty 
