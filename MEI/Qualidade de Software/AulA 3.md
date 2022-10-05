@@ -150,6 +150,10 @@
 	- Time to detect/stop attack; time to identify attacker; impact of breach
 
 ![[Pasted image 20221005150405.png]]
+![[Pasted image 20221005150420.png]]
+![[Pasted image 20221005150438.png]]
+![[Pasted image 20221005150450.png]]
+![[Pasted image 20221005150501.png]]
 
 
 ## Assessing Security
