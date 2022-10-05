@@ -156,5 +156,9 @@
 - Vertical scalability
 	- Adding more resources to a physical unit
 
+- How can we effectively utilize additional resources?
+- Requires that additional resources
+	- Result in performance improvement
+	- Did not require undue effort to add
 
 [[MEI/Qualidade de Software/Aula 3]]
