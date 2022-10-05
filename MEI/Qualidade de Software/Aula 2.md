@@ -131,6 +131,9 @@
 
 ## Performance Measurements
 - **Latency** -> The time between the arrival of the stimulus and the system’s response to it.
+	- Time it takes to complete an interaction
+	- **Responsiveness** : how quickly the system responds to routine tasks
+	- 
 - **Response Jitter** -> The allowable variation in latency
 - **Throughput** -> Usually number of transactions the system can process in a unit of time
 - **Deadlines in processing** -> Points where processing must have reached a particular stage
