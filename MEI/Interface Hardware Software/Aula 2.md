@@ -52,3 +52,5 @@ Medida da taxa em que a carga se está a movimentar através de uma determinada 
 
 **Tensão Elétrica (U)**
 A acumulação de cargas em um ponto em relação a outro, leva ao aparecimento de uma diferença de potencial (também chamada voltagem ou tensão), proporcional à diferença de cargas entre os dois pontos. Essa tensão é responsável pela capacidade de movimentar as cargas ao longo do circuito → unidade Volt (V)
+
+**Isolador**
