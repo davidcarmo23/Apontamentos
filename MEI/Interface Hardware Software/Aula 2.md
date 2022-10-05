@@ -15,4 +15,16 @@ Corresponde a fichas, conectores, cabos e sinais elétricos que os percorrem
 **Interfaces de Hardware/Software**
 São as linguagens, códigos e mensagens que os programas usam para comunicar entre si e com o hardware
 **Interfaces de utilizador**
-Constituídos pelo teclado, rato, ecrºas e os respetivos comandos e menus usados para comunicar entre os computadores e os utilizadores humanos
+Constituídos pelo teclado, rato, ecrãs e os respetivos comandos e menus usados para comunicar entre os computadores e os utilizadores humanos
+
+
+# Definições
+**Sistema**
+
+**Sistema Analógico/Digital**
+
+**Dispositivo**
+
+**Componente**
+
+**Circuito Integrado (Chip)**
