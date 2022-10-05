@@ -34,3 +34,9 @@ Neste tipo de problemas partimos de um conjunto de dados com exemplos de treino 
 Por exemplo quando se aprende a classificar dígitos manuscritos, um algoritmo de aprendizagem supervisionado recebe milhares de fotografias de dígitos manuscritos, juntamente com etiquetas que indicam o número que cada imagem representa
 
 O algoritmo aprenderá então a relação entre as imagens e os números associados, e aplicará essa relação aprendida para classificar imagens completamente novas (sem etiquetas) que a máquina nunca tinha visto antes
+
+## Precisão é baixa, como melhorar o desempenho ?
+- Arranjar mais dados
+- Maior variação de dados relacionadas
+- Treinar o algoritmo durante mais tempo
+- Tentar o
