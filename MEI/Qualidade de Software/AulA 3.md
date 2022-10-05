@@ -55,10 +55,15 @@
 	- Avoid having multiple scenarios centered around near identical events. Redundant
 	- Consider demands placed on the system
 - **Use scenarios early**
-	- Most impactful early in development to focus design activities on most important aspects of the system
+	- Most impactfull early in development to focus design activities on most important aspects of the system
 
 # Reliability Scenarios
 - **The ability to minimize the number of observed failures**
 - Scenarios revolve around one function accessed through an interface
 	- Give context on type of user if it impacts system execution or perceived reliability
 
+## Reliability Metrics
+- POFOD: (failures/ requests over period) 
+- ROCOF: (failures / total time observed) 
+- MTBF: Average time between observed failures. 
+- Availability is a quality attribute of its own.
