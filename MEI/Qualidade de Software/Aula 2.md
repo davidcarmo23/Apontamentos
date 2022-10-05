@@ -120,5 +120,12 @@
 		- Health risks or equipment failure risk requires high reliability. 
 		- Minor annoyances can be tolerated.
 
+# Performance
+- Ability to meet timing requirements
+- Characterize pattern of input events and responses
+	- Requests served per minute
+	- Variation in output time
+- Driving fac
+
 
 [[MEI/Qualidade de Software/Aula 3]]
