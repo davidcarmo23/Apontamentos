@@ -57,12 +57,16 @@
 	- Depends on the system and type of user
 - How well users **think** the system provides services they require
 
-# Improving Reliability
+## Improving Reliability
 - **Improved when faults in the most frequently-used parts of the software are removed**
 ![[Pasted image 20221005113021.png]]
 
 
-# Reliability is measurable
-- Reliability cand
+## Reliability is measurable
+- Reliability can be defined and measured
+- Reliability requirements can be specified:
+	- **Non-functional** requirements define number of failures that are acceptable during normal use or time in which system is allowed to be unavailable
+	- **Functional** requirements define how the software avoids, detects, and tolerates failures
 
+## How to measure
 [[MEI/Qualidade de Software/Aula 3]]
