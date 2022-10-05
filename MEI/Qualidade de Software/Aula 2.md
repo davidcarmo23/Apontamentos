@@ -189,7 +189,11 @@
 - Confidentiality
 	- Data and services protected from unauthorized access
 - Integrity
-	- Data/Services not subjec
+	- Data/Services not subject to unauthorized manipulation
 - Availability
+	- The system will be available for legitimate use
 
+## Supporting CIA
+- Authentication : Verifies identities of all parties
+- Nonrepudiation : Garantees that 
 [[MEI/Qualidade de Software/Aula 3]]
