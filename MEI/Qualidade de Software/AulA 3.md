@@ -54,4 +54,8 @@
 - **Use distinct scenarios**
 	- Avoid having multiple scenarios centered around near identical events. Redundant
 	- Consider demands placed on the system
-- 
+- **Use scenarios early**
+	- Most impactful early in development to focus design activities on most important aspects of the system
+
+# Reliability Scenarios
+- **The ability to minimize the **
