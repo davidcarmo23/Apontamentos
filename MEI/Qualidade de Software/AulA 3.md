@@ -35,3 +35,6 @@
 - Formal Test Cases
 	- Assign specific input and check response
 
+## Good Scenarios
+- Credible 
+	- Realisti
