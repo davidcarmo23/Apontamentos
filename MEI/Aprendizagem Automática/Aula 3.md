@@ -45,3 +45,5 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 
 ## Escala impulsiona a AA
 ![[Pasted image 20221005164843.png]]
+
+## Preparação dos dados
