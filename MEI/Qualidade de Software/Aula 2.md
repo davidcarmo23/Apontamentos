@@ -87,7 +87,9 @@
 - Time to repair is the time until the failure is no longer observable
 	- Can be hard to define
 - Software can remain partially available more easily than hardware
-- 
+- If code containing fault is executed, but the system is able to recover there was no failure
+
+
 
 
 [[MEI/Qualidade de Software/Aula 3]]
