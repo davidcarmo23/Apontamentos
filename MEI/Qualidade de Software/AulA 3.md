@@ -67,3 +67,6 @@
 - ROCOF: (failures / total time observed) 
 - MTBF: Average time between observed failures. 
 - **Availability is a quality attribute of its own**
+
+## Reliability Scenarios
+![[Pasted image 20221005142754.png]]
