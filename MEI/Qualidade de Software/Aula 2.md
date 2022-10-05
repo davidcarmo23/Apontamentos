@@ -74,6 +74,10 @@
 	- Often the system is available even though a failure has occurred
 	- Metrics consider **failure rates, uptime and time between failures**
 
-## Metric 1 : 
+## Metric 1 : Availability
+- Can the software carry out a task when needed ?
+	- Encompasses **reliability** and **repair**
+		- Does the system tend to show correct behavior ?
+		- Can the system recover from an error
 
 [[MEI/Qualidade de Software/Aula 3]]
