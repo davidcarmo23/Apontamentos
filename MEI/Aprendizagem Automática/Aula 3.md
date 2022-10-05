@@ -47,3 +47,4 @@ O algoritmo aprenderá então a relação entre as imagens e os números associa
 ![[Pasted image 20221005164843.png]]
 
 ## Preparação dos dados
+- Conjunto de treino -> Utilizado para treinar o algoritmo de aprendiza
