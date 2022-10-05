@@ -35,7 +35,8 @@ Cada uma das partes que constituem um dispositivo
 Inclui diversos componentes integrados sobre uma mesma base (substrato ou plataforma) – não é bem um componente, mas sim uma junção de muitos componentes miniaturizados
 
 **Carga Elétrica**
-
+Responsável pelas forças de atração/repulsão entre partículas carregadas 
+a carga pode ser positiva ou negativa • cargas do mesmo nome repelem-se e de nomes diferentes atraem-se • átomo: protão(carga positiva) + neutrão(sem carga) + eletrão(carga negativa) • as cargas podem transferir-se (ex. ao esfregar um objeto de plástico num pano de lã) • a transferência de carga corresponde a: 1) processo de transferência de energia – ex. cabos de transmissão de energia eléctrica 2) processo de transferência de informação (através das variações na taxa de transferência de carga) – ex. sistemas de comunicações (telefone, televisão)
 **Corrente Elétrica (I)**
 
 **Tensão Elétrica (U)**
