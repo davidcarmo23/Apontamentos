@@ -101,11 +101,10 @@
 - Most appropriate metric when requests are made on a regular basis (such as a shop).
 
 ## Metric 4 : Mean Time Between Failures (MTBF)
-- Frequency of occurrence of unexpected behavior
-- **(number of failures / total time observed)**
-- Most appropriate metric when requests are made on a regular basis (such as a shop).
+- Average length of time between observed failures.
+- Used for systems with long user sessions, where crashes can cause major issues
 
-## Metric 5 : Rate of Occurrence of Fault (ROCOF)
+## Metric 5 : Rate of Occurrence of Fault (Average time to recover from failure)
 - Frequency of occurrence of unexpected behavior
 - **(number of failures / total time observed)**
 - Most appropriate metric when requests are made on a regular basis (such as a shop).
