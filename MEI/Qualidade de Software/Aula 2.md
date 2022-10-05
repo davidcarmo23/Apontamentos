@@ -134,10 +134,13 @@
 	- Time it takes to complete an interaction
 	- **Responsiveness** : how quickly the system responds to routine tasks
 	- ![[Pasted image 20221005115454.png]]
-- **Response Jitter** -> The allowable variation in latency
 	- **Turnaround time** = time to complete larger tasks
 	- ![[Pasted image 20221005115526.png]]
+- **Response Jitter** -> The allowable variation in latency
+	- ![[Pasted image 20221005115624.png]]
 - **Throughput** -> Usually number of transactions the system can process in a unit of time
+	- ![[Pasted image 20221005115641.png]]
+	- 
 - **Deadlines in processing** -> Points where processing must have reached a particular stage
 - **Number of events not processed** because the system was too busy to respond
 
