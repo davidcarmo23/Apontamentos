@@ -15,4 +15,10 @@
 
 ## Scenario Format
 ![[Pasted image 20221005140756.png]]
+![[Pasted image 20221005140810.png]]
+![[Pasted image 20221005140823.png]]
 
+## Response Measures
+- Most quality measurements are non-deterministic
+	- **Time-based measures should be probabilistic**
+	- 
