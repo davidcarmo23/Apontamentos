@@ -46,7 +46,12 @@
 
 # Measuring dependability
 - Must establish a criteria for when the system is dependable enough to release
-- 
+	- Correctness hard to prove conclusively. 
+	- Robustness/Safety important, but do not demonstrate functional correctness.
+	- **Reliability is the basis for arguing dependability**. 
+		- Can be measured. 
+		- Can be demonstrated through sufficient volume of testing.
 
-
+# What is Reliability?
+- Probability of failure-free operation for a ****
 [[MEI/Qualidade de Software/Aula 3]]
