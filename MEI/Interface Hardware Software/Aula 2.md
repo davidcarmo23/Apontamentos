@@ -53,5 +53,10 @@ Medida da taxa em que a carga se está a movimentar através de uma determinada 
 **Tensão Elétrica (U)**
 A acumulação de cargas em um ponto em relação a outro, leva ao aparecimento de uma diferença de potencial (também chamada voltagem ou tensão), proporcional à diferença de cargas entre os dois pontos. Essa tensão é responsável pela capacidade de movimentar as cargas ao longo do circuito → unidade Volt (V)
 
-**Isolador**
+**Isolador (Dielétrico)** 
+Mau condutor de corrente elétrica, não se deixa facilmente atravessar pelo fluxo de cargas; Exs: borracha, silicone, vidro, cerâmica, ar, papel, madeira, água pura.
+
 **Semicondutor**
+Apresentam condutividade entre os isolantes e os condutores, não sendo bons condutores nem bons isolantes. 
+Dois exemplos são o germânio e o silício, sendo este último o mais utilizado, devido às suas melhores características e também por ser muito abundante à face da Terra (segundo elemento mais abundante na crosta terrestre a seguir ao oxigénio). Em comparação com os metais e os isolantes, as propriedades elétricas dos semicondutores são afetadas por variações de temperatura, pressão, luz, etc, bem como pela adição de impurezas. Isto permite a construção de sensores bem como de componentes eletrónicos (diodos, transistores, circuitos integrados)
+**Condutor**
