@@ -16,3 +16,7 @@
 ## Test Oracle Components
 ## Oracles are Code
 ## Expected-Value Oracles
+## Property-based Oracles
+## Properties
+## Implicit Oracles
+# Testing Stages
