@@ -7,7 +7,7 @@
         "id": "2e66848230e285de",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -115,8 +115,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "70351f0ca651e72c",
+  "active": "2e66848230e285de",
   "lastOpenFiles": [
+    "{{title}} Outline.md",
+    "Uni Courses.md",
     "Templates/Course Template.md",
     "MEI/Datas de Avaliação.md",
     "MEI/Aprendizagem Automática/Aula 4.md",
@@ -124,8 +126,6 @@
     "MEI/Qualidade de Software/Aula 3.md",
     "MEI/Aprendizagem Automática/Aula 3.md",
     "MEI/Aprendizagem Automática/Pasted image 20221005171105.png",
-    "Pasted image 20221005164354.png",
-    "MEI/Aprendizagem Automática/Pasted image 20221005162918.png",
-    "MEI/Interface Hardware Software/Pasted image 20221005160458.png"
+    "Pasted image 20221005164354.png"
   ]
 }
