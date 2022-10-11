@@ -7,8 +7,12 @@
         "id": "2e66848230e285de",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "MEI/Datas de Avaliação.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MEI/Datas de Avaliação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MEI/Datas de Avaliação.md"
+              }
             }
           },
           {
@@ -117,15 +124,15 @@
   },
   "active": "2e66848230e285de",
   "lastOpenFiles": [
+    "MEI/Aprendizagem Automática/Aula 4.md",
+    "MEI/Qualidade de Software/Aula 4.md",
+    "MEI/Qualidade de Software/Aula 3.md",
     "MEI/Aprendizagem Automática/Aula 3.md",
     "MEI/Aprendizagem Automática/Pasted image 20221005171105.png",
     "Pasted image 20221005164354.png",
     "MEI/Aprendizagem Automática/Pasted image 20221005162918.png",
     "MEI/Interface Hardware Software/Pasted image 20221005160458.png",
     "MEI/Interface Hardware Software/Aula 2.md",
-    "C.md",
-    "Untitled.md",
-    "MEI/Qualidade de Software/Pasted image 20221005150501.png",
-    "MEI/Qualidade de Software/Aula 3.md"
+    "C.md"
   ]
 }
