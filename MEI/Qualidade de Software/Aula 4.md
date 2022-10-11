@@ -10,4 +10,9 @@
 ## Test Suite and Test Case
 ## Anatomy of a Test Case
 ## Test Input
-## Test Creation and
+## Test Creation and Execution
+## Sources of Input
+# Test Oracle - Definition
+## Test Oracle Components
+## Oracles are Code
+## Expected-Value Oracles
