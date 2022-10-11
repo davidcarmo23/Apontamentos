@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MEI/Datas de Avaliação.md",
+            "file": "MEI/Qualidade de Software/Aula 4.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Datas de Avaliação.md",
+                "file": "MEI/Qualidade de Software/Aula 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Datas de Avaliação.md"
+                "file": "MEI/Qualidade de Software/Aula 4.md"
               }
             }
           },
@@ -124,10 +124,10 @@
   },
   "active": "2e66848230e285de",
   "lastOpenFiles": [
+    "MEI/Datas de Avaliação.md",
     "{{title}} Outline.md",
     "Uni Courses.md",
     "Templates/Course Template.md",
-    "MEI/Datas de Avaliação.md",
     "MEI/Aprendizagem Automática/Aula 4.md",
     "MEI/Qualidade de Software/Aula 4.md",
     "MEI/Qualidade de Software/Aula 3.md",
