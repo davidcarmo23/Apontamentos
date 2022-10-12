@@ -97,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "00777f7b1d814e49",
@@ -127,7 +126,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1be225d45bdd73a8",
+  "active": "e290be36d7a09d18",
   "lastOpenFiles": [
     "MEI/MEI.md",
     "MEI/Datas de Avaliação.md",
