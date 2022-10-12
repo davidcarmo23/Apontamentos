@@ -217,7 +217,12 @@ Uses assertions, contracts, and other logical properties
 
 ## System (Integration) Testing
 - After testing units, test their *integration*
-	- Integrate 
+	- Integrate units in one subsystem
+	- Then integrate the subsystems
+- Test input through a defined interface
+	- Focus on showing that functionality accessed through interfaces is correct
+	- Subsystems: "Top-level" Class, API
+	- System: APY,
 ## System Testing
 ## Interface Errors
 ## GUI Testing
