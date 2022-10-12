@@ -1,6 +1,9 @@
 ---
 title: Apresentação TP3 - SIO
-allDay: true
+allDay: false
 date: 2022-11-16
-endDate: 2022-11-17
+endDate: null
+startTime: 14:00
+endTime: 16:00
+type: single
 ---
