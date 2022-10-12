@@ -14,6 +14,11 @@
 	- *Verdicts* on correctness
 ![[Pasted image 20221012154528.png]]
 
+**The main purpose of testing is to find fault**
+Tests must reflect normal system usage and extreme boundary events
+
+
+
 ## Bugs ? What are those?
 - **Bug is an overloaded term**
 	- Does it refer to the bad behavior observed?
