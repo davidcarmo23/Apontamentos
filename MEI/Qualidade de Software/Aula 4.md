@@ -324,7 +324,11 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 - Documents rationale for scope of testing, how we judge results, why we chose a strategy
 
 ### Analyze the Product
-
+- Must understand the product before you can test it
+	- What are the needs of the users?
+	- Who will use the product?
+	- What will it be used for?
+	- What are the
 ### Develop the Test Strategy
 
 ## Testing Scope
