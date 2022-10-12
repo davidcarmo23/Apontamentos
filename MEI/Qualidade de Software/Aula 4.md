@@ -72,6 +72,14 @@ Program testing can be used to show the presence of bugs, but **never their abse
 ## Test Input
 - Any deliberate interactions with a software feature
 	- **Generally , call a function through an interface**
+- Environment manipulation
+	- Set up a database with particular records 
+	- Set up simulated network environment
+	- Create/delete files
+	- Control available CPU/memory/disc space
+- Timing
+	- Before/at/after deadline
+	- Varying frequency/volume of input
 
 ## Test Creation and Execution
 ## Sources of Input
