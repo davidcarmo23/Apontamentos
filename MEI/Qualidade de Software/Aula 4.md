@@ -335,8 +335,13 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 
 ### Develop the Test Strategy
 - Document defining
-	- Test Ob
+	- Test Objectives (and how to achieve them)
+	- Testing Effort and Cost
+
+![[Pasted image 20221012173841.png]]
+
 ## Testing Scope
+- *What are you planning to test?*
 
 ## Identify Testing Types
 
