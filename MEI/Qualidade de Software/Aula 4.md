@@ -193,7 +193,13 @@ Uses assertions, contracts, and other logical properties
 
 # Unit Testing
 - Testing the smallest "unit" that can be tested
-	- 
+	- Often, a class and its methods
+- Tested in *isolation* from all other units
+	- *Mocks* the results from other classes
+- Test input = method calls
+- Test oracle = assertions on output/class variables
+
+- For a unit, tests shou
 ## System (Integration) Testing
 ## System Testing
 ## Interface Errors
