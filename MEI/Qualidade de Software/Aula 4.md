@@ -127,6 +127,8 @@ Program testing can be used to show the presence of bugs, but **never their abse
 	- May result in false negatives - “fail” when there was not a fault in the system
 
 ## Expected-Value Oracles
+- Simplest oracle - what exactly should happen ?
+- Writen for a single test
 ## Property-based Oracles
 ## Properties
 ## Implicit Oracles
