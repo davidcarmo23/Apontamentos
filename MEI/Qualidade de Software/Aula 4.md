@@ -254,12 +254,15 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 ## Exploratory Testing
 - Tests are not created in advance. 
 - Testers check the system on-the-fly.
-- Guided by scenarios. 
-- Often based on ideas noted before beginning. 
-Testing as a thinking idea. 
-About discovery, investigation, and role-playing. 
-Tests end-to-end journeys through app.
-Test design and execution done concurrently
+	- Guided by scenarios. 
+	- Often based on ideas noted before beginning. 
+- Testing as a thinking idea. 
+	- About discovery, investigation, and role-playing. 
+	- Tests end-to-end journeys through app.
+	- Test design and execution done concurrently
+
+- Tester write down ideas to give direction, then create critical, pratical , and useful tests
+- 
 ## Testing Percentages
 ## Testing
 ## Acceptance Testing
