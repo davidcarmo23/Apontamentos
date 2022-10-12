@@ -35,8 +35,8 @@ ___
 **Grupo 5**
 *TP1* - Data (3 Valores)
 *TP2* - Data (3.5 Valores)
-*Tema* - Data (5 Valores)  -> **4 - Base de Dados Temporais**
-*Arguente* - Data (1 Valores)
+*Tema* - Data (5 Valores)  -> **4 - Bases de Dados Temporais**
+*Arguente* - Data (1 Valores) -> ****
 ___
 ## Sistemas de Informação
 (3 Faltas)
