@@ -71,7 +71,7 @@ Program testing can be used to show the presence of bugs, but **never their abse
 
 ## Test Input
 - Any deliberate interactions with a software feature
-	- **Generally , call a function through an interface**
+	- *Generally , call a function through an interface*
 - Environment manipulation
 	- Set up a database with particular records 
 	- Set up simulated network environment
@@ -89,7 +89,7 @@ Program testing can be used to show the presence of bugs, but **never their abse
 	- Capture/replay tools can re-execute UI-based tests
 	- Automated input generation
 ## Sources of Input
-- **Black Box (Functional) Test Design**
+- *Black Box (Functional) Test Design*
 - Use Knowledge about how the system should act to design test cases
 	- Requirements, comments, user manuals, intuition
 - Tests can be designed before code is written
@@ -97,13 +97,17 @@ Program testing can be used to show the presence of bugs, but **never their abse
 
 - **White Box (Structural) Test Design**
 - Input chosen to exercise part of the code
-- Usually based on **adequacy criteria**
+- Usually based on *adequacy criteria*
 	- Checklists based on program elements
-	- **Branch Coverage** -> Make all conditional statements evaluate to all outcomes (if-statements, switches, loops)
+	- *Branch Coverage* -> Make all conditional statements evaluate to all outcomes (if-statements, switches, loops)
 - Fill in the gaps in black-box test design
 
 # Test Oracle - Definition
-- A predicate that determines whether a program is correct or not. ▪ Based on observations of the program. ▪ Output, timing, speed, energy use, ...  Will respond with a pass or a fail verdict.  Can be specific to one test or more general.
+- A predicate that determines whether a program is correct or not.
+	- Based on observations of the program. 
+	- Output, timing, speed, energy use, ... 
+- Will respond with a *pass* or a *fail* verdict. 
+- Can be specific to one test or more general.
 
 ## Test Oracle Components
 ## Oracles are Code
