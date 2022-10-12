@@ -1,6 +1,6 @@
 ## Aprendizagem Automática
   **Componente Teórica**
- *Mini-teste* -> 6 de Novembro (6 Valores)
+ *Mini Teste* -> 6 de Novembro (6 Valores)
  
  **Componente Prática**
 *Apresentação Individual* -> 5 min (1 Valor) - FEITO
