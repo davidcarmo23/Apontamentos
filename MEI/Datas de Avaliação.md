@@ -31,9 +31,11 @@
 ## Sistemas de Gestão de Base de Dados
 **100% Presenças Obrigatórias**
 *Frequência* - Data (7.5v)
+
+**Grupo 7**
 *TP1* - Data (3v)
 *TP2* - Data (3.5v)
-*Tema* - Data (5v)
+*Tema* - Data (5v) 
 *Arguente* - Data (1v)
 
 ## Sistemas de Informação

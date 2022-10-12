@@ -7,9 +7,11 @@
         "id": "2e66848230e285de",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "MEI/Qualidade de Software/Pasted image 20221011201810.png"
+            "file": "MEI/Datas de Avaliação.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Qualidade de Software/Pasted image 20221011201810.png",
+                "file": "MEI/Datas de Avaliação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Qualidade de Software/Pasted image 20221011201810.png"
+                "file": "MEI/Datas de Avaliação.md"
               }
             }
           },
@@ -120,8 +122,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "70351f0ca651e72c",
+  "active": "2e66848230e285de",
   "lastOpenFiles": [
+    "MEI/Qualidade de Software/Pasted image 20221011201810.png",
     "MEI/Datas de Avaliação.md",
     "MEI/Qualidade de Software/Aula 4.md",
     "MEI/Qualidade de Software/Aula 3.md",
@@ -130,7 +133,6 @@
     "{{title}} Outline.md",
     "Uni Courses.md",
     "Templates/Course Template.md",
-    "MEI/Aprendizagem Automática/Aula 4.md",
-    "MEI/Aprendizagem Automática/Aula 3.md"
+    "MEI/Aprendizagem Automática/Aula 4.md"
   ]
 }
