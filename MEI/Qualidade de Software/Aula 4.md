@@ -162,6 +162,13 @@ Uses assertions, contracts, and other logical properties
 - Subsystems built from *units*. 
 	- Communication via method calls. 
 	- Set of methods is an interface.
-- **
+- *Unit Testing*
+	- Do the methods of a class work?
+- *System-level Testing*
+	- *System (Integration) Testing*
+		- (Subsystem-level) Do the collected units work? 
+		- System-level) Does high-level interaction through APIs/UIs work?
+	- *Exploratory Testing*
+		- Does interaction th
 
 [[MEI/Qualidade de Software/Aula 5]]
