@@ -319,7 +319,9 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 	- *Who* will be responsible for writing test cases (assign responsibility to team members).
 
 ### Why make a Test Plan ?
-- 
+- Guides development team
+- Helps people outside the team understand the testing process
+- Documents rationale for scope of testing, how we judge results, why we chose a strategy
 
 ### Analyze the Product
 
