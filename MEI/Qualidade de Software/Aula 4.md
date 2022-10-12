@@ -376,9 +376,12 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 ![[Pasted image 20221012174304.png]]
 
 ## Resource Planning
+![[Pasted image 20221012174312.png]]
 
 ## Plan Test Environment
+![[Pasted image 20221012174323.png]]
 
 ## Schedule Estimation
+![[Pasted image 20221012174334.png]]
 
 [[MEI/Qualidade de Software/Aula 5]]
