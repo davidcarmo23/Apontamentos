@@ -366,8 +366,14 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 
 ## Define Test Objectives
 - What are the goals of the testing process?
-	- 
+	- What features, system elements need to be tested?
+	- What quality attributes do we need to demonstrate?
+	- For each feature or quality, what scenarios do we want to walk through?
+- Does not include a list of specific tests
+	- But, at a high level, should detail scenarios we plan to examine by writing one or more test cases
+
 ## Define Test Criteria
+![[Pasted image 20221012174304.png]]
 
 ## Resource Planning
 
