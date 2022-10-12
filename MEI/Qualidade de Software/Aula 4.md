@@ -190,6 +190,13 @@ Uses assertions, contracts, and other logical properties
 ## Testing Percentages
 ## Testing
 ## Acceptance Testing
-## Acceptance Testing Types
+### Acceptance Testing Types
+### Acceptance Testing Stages
+## Test Plans
+### Why make a Test Plan ?
+### Analyze the Product
+### Develop the Test Strategy
+## Testing Scope
+## Identify Testing Types
 
 [[MEI/Qualidade de Software/Aula 5]]
