@@ -233,8 +233,15 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 ## Interface Errors
 - Interface Misuse
 	- Malformed data, order, number of parameters
-- Interface Misunder
+- Interface Misunderstanding
+	- Incorrect assumptions made about called component
+	- A binary search called with an unordered array
+- Timing Errors
+	- Producer of data and consumer of data access data in the wrong order
+
+
 ## GUI Testing
+
 ## Exploratory Testing
 ## Testing Percentages
 ## Testing
