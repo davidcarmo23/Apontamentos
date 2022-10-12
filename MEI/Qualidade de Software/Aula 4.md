@@ -128,8 +128,12 @@ Program testing can be used to show the presence of bugs, but **never their abse
 
 ## Expected-Value Oracles
 - Simplest oracle - what exactly should happen ?
-- Writen for a single test
+- Writen for a single test case, not reusable
+![[Pasted image 20221012161419.png]]
+
 ## Property-based Oracles
+Rather than comparing actual values, use properties about results to judge sequences
+Uses assertions, contracts, and other logical properties
 ## Properties
 ## Implicit Oracles
 # Testing Stages
