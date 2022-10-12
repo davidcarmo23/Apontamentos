@@ -246,8 +246,20 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 	- Often based on *scenarios*
 - GUI Testing
 	- Deliberate tests, specific input
-	- May be automated or
+	- May be automated or human-executed
+- Exploratory Testing
+	- Open-ended, human-driven exploration
+
+
 ## Exploratory Testing
+- Tests are not created in advance. 
+- Testers check the system on-the-fly.
+- Guided by scenarios. 
+- Often based on ideas noted before beginning. 
+Testing as a thinking idea. 
+About discovery, investigation, and role-playing. 
+Tests end-to-end journeys through app.
+Test design and execution done concurrently
 ## Testing Percentages
 ## Testing
 ## Acceptance Testing
