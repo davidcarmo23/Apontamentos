@@ -146,6 +146,15 @@ Uses assertions, contracts, and other logical properties
 	- More properties = more expensive to write
 
 ## Implicit Oracles
+- Check properties expected of any program
+	- Crashes and exceptions
+	- Buffer overruns
+	- Deadlock
+	- Memory Leaks
+	- Excessive energy usage or downloads
+- Faults that do not require expected output to detect
+
 # Testing Stages
+
 
 [[MEI/Qualidade de Software/Aula 5]]
