@@ -162,6 +162,7 @@ Uses assertions, contracts, and other logical properties
 - Subsystems built from *units*. 
 	- Communication via method calls. 
 	- Set of methods is an interface.
+
 - *Unit Testing*
 	- Do the methods of a class work?
 - *System-level Testing*
@@ -169,6 +170,13 @@ Uses assertions, contracts, and other logical properties
 		- (Subsystem-level) Do the collected units work? 
 		- System-level) Does high-level interaction through APIs/UIs work?
 	- *Exploratory Testing*
-		- Does interaction th
+		- Does interaction through GUI's work?
+
+- *Acceptance Testing / AB Testing*
+	- Give product to a set of users to check whether it meets their needs.
+	- Alpha/beta Testing - controlled pools of users, generally on their own machine. 
+	- Acceptance Testing - controlled pool of customers, in a controlled environment, formal acceptance criteria 
+	- Can expose many faults. 
+	- Can be planned during requirements elicitation
 
 [[MEI/Qualidade de Software/Aula 5]]
