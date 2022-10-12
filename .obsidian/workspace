@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "d64d93812ad2e36b",
+        "id": "5a162ba00291f917",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "full-calendar-view",
           "state": {}
         }
       }
@@ -115,8 +115,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d64d93812ad2e36b",
+  "active": "5a162ba00291f917",
   "lastOpenFiles": [
+    "MEI/2022-12-20 Entrega TP Grupo - AA.md",
     "MEI/Datas de Avaliação.md",
     "MEI/MEI.md",
     "MEI/Interface Hardware Software/Aula 2.md",
@@ -125,7 +126,6 @@
     "MEI/Qualidade de Software/Aula 4.md",
     "MEI/Qualidade de Software/Aula 5.md",
     "MEI/Qualidade de Software/Aula 2.md",
-    "MEI/Qualidade de Software/Aula 1.md",
-    "MEI/Aprendizagem Automática/Aula 3.md"
+    "MEI/Qualidade de Software/Aula 1.md"
   ]
 }
