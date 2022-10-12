@@ -84,9 +84,13 @@ Program testing can be used to show the presence of bugs, but **never their abse
 ## Test Creation and Execution
 - Can be *human-driven*
 	- Exploratory testing, alpha/beta testing
-- or *automated
-- *
+- or *automated*
+	- Test written as code
+	- Capture/replay tools can re-execute UI-based tests
+	- Automated input generation
 ## Sources of Input
+- **Black Box (Functional) Test Design**
+- 
 # Test Oracle - Definition
 ## Test Oracle Components
 ## Oracles are Code
