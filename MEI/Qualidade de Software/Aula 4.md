@@ -222,9 +222,18 @@ Uses assertions, contracts, and other logical properties
 - Test input through a defined interface
 	- Focus on showing that functionality accessed through interfaces is correct
 	- Subsystems: "Top-level" Class, API
-	- System: APY,
+	- System: API, GUI, CLI
+
 ## System Testing
+Subsystem made up classes of A, B, and C. We have performed unit testing... 
+- Classes work together to perform subsystem functions. 
+- Tests applied to the interface of the subsystem they form.
+- Errors in combined behavior not caught by unit testing.
+
 ## Interface Errors
+- Interface Misuse
+	- Malformed data, order, number of parameters
+- Interface Misunder
 ## GUI Testing
 ## Exploratory Testing
 ## Testing Percentages
