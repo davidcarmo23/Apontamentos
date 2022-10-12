@@ -7,10 +7,8 @@
         "id": "297b632e3dd15757",
         "type": "leaf",
         "state": {
-          "type": "image",
-          "state": {
-            "file": "MEI/Qualidade de Software/Pasted image 20221012154528.png"
-          }
+          "type": "full-calendar-view",
+          "state": {}
         }
       }
     ],
@@ -51,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -66,9 +65,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MEI/Qualidade de Software/Pasted image 20221012154528.png"
-              }
+              "state": {}
             }
           },
           {
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Qualidade de Software/Pasted image 20221012154528.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,10 +104,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "70351f0ca651e72c",
+  "active": "297b632e3dd15757",
   "lastOpenFiles": [
+    "MEI/Qualidade de Software/Pasted image 20221012154528.png",
     "MEI/Qualidade de Software/Aula 4.md",
     "MEI/Datas de Avaliação.md",
     "MEI/Qualidade de Software/Aula 3.md",
@@ -120,7 +118,6 @@
     "MEI/Calendário/2022-10-19 Apresentação TP2 - SIO.md",
     "MEI/Calendário/2022-12-20 Entrega TP Grupo - AA.md",
     "MEI/MEI.md",
-    "MEI/Interface Hardware Software/Aula 2.md",
-    "MEI/Sistemas de Informação/Aula 1.md"
+    "MEI/Interface Hardware Software/Aula 2.md"
   ]
 }
