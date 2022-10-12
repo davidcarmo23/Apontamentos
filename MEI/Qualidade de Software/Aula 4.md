@@ -342,6 +342,12 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 
 ## Testing Scope
 - *What are you planning to test?*
+	- Software, hardware, middleware
+- And What are you *NOT* going to test?
+	- Gives project members a clear understanding about what you are responsible for
+- Must take into account
+	- Requirements, budget, skills of you testing team
+	- 
 
 ## Identify Testing Types
 
