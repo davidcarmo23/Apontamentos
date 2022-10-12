@@ -99,8 +99,12 @@ Program testing can be used to show the presence of bugs, but **never their abse
 - Input chosen to exercise part of the code
 - Usually based on **adequacy criteria**
 	- Checklists based on program elements
-	- **Branch Cvera**
+	- **Branch Coverage** -> Make all conditional statements evaluate to all outcomes (if-statements, switches, loops)
+- Fill in the gaps in black-box test design
+
 # Test Oracle - Definition
+- A predicate that determines whether a program is correct or not. ▪ Based on observations of the program. ▪ Output, timing, speed, energy use, ...  Will respond with a pass or a fail verdict.  Can be specific to one test or more general.
+
 ## Test Oracle Components
 ## Oracles are Code
 ## Expected-Value Oracles
