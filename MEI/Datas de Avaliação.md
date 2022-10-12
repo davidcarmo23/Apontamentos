@@ -30,11 +30,11 @@
 
 ## Sistemas de Gestão de Base de Dados
 **100% Presenças Obrigatórias**
-*Frequência* - 7.5v
-*TP1* - 3v
-*TP2* - 3.5v
-*Tema* - 5v
-Arguente - 1v
+*Frequência* - DaTa (7.5v)
+*TP1* - DaTa (3v)
+*TP2* - DaTa (3.5v)
+*Tema* - Daa (5v)
+*Arguente* - Data (1v)
 ## Sistemas de Informação
 (3 Faltas)
   **Componente Teórica**
