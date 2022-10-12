@@ -1,7 +1,5 @@
 
 ___
-# {{Mestrado Engenharia}}
-
+# Mestrado Engenharia
 ## Assignments
 [[Datas de Avaliação]]
-

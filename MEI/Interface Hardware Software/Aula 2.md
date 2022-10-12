@@ -101,3 +101,5 @@ Se aplicarmos uma fonte de tensão (U) a um circuito elétrico, vai estabelecer-
 **Valor da corrente: Lei de Ohm**
 ![[Pasted image 20221005160920.png]]
 ![[Pasted image 20221005160940.png]]
+
+[[]]
