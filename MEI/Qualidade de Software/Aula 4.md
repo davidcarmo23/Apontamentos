@@ -300,18 +300,36 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 	- Work with customers to define how validation will be conducted, and the conditions that will determine acceptance. 
 - *Plan acceptance testing* 
 	- Decide resources, time, and budget for acceptance testing. Establish a schedule. Define order that features should be tested. Define risks to testing process.
-
+- *Derive acceptance tests.* 
+	- Design tests to check whether or not the system is acceptable. Test both functional and non-functional characteristics of the system. 
+- *Run acceptance tests* 
+	- Users complete the set of tests. Should take place in the same environment that they will use the software. Some training may be required.
+- *Negotiate test results*
+- *Reject or accept the system*
+	- 
 ## Test Plans
-- Derive acceptance tests. ▪ Design tests to check whether or not the system is acceptable. Test both functional and non-functional characteristics of the system.  Run acceptance tests ▪ Users complete the set of tests. Should take place in the same environment that they will use the software. Some training may be required.
+
+
 ### Why make a Test Plan ?
+
 ### Analyze the Product
+
 ### Develop the Test Strategy
+
 ## Testing Scope
+
 ## Identify Testing Types
+
 ## Create Test Logistics
+
 ## Define Test Objectives
+
 ## Define Test Criteria
+
 ## Resource Planning
+
 ## Plan Test Environment
+
 ## Schedule Estimation
+
 [[MEI/Qualidade de Software/Aula 5]]
