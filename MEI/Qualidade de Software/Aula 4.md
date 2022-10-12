@@ -274,7 +274,11 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 
 ## Testing
 - 70/20/10 recommended
-- Unit tests execute quickly, relati
+- Unit tests execute quickly, relatively simple
+- System tests more complex, require more setup, slower to execute
+- UI tests very slow, may require humans
+- Well tested units reduce likelihood of integration issues, making high levels of testing easier
+
 ## Acceptance Testing
 ### Acceptance Testing Types
 ### Acceptance Testing Stages
