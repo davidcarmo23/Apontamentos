@@ -95,7 +95,11 @@ Program testing can be used to show the presence of bugs, but **never their abse
 - Tests can be designed before code is written
 	- (test-driven development)
 
-- 
+- **White Box (Structural) Test Design**
+- Input chosen to exercise part of the code
+- Usually based on **adequacy criteria**
+	- Checklists based on program elements
+	- **Branch Cvera**
 # Test Oracle - Definition
 ## Test Oracle Components
 ## Oracles are Code
