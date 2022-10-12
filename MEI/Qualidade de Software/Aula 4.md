@@ -16,9 +16,15 @@
 
 ## Bugs ? What are those?
 - **Bug is an overloaded term**
-	- Does it refer to the bad behavio
+	- Does it refer to the bad behavior observed?
+	- Is it the source code mistake that led to that behavior?
+	- Is it both or either?
+
 	
 ## Faults and Failures
+- *Failure*
+	- An execution that yields an incorrect result.
+- *Fa*
 # Testing Scenarios
 ## Axiom of Testing
 ## Test Suite and Test Case
