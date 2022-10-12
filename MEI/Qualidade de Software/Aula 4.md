@@ -288,13 +288,21 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 	- Wide variety of usage types
 
 ### Acceptance Testing Types
-- Alpha Testing ▪ A small group of users work closely with development team to test the software. 
-- Beta Testing ▪ A release of the software is made available to a larger group of interested users. 
-- Formal Acceptance Testing 
-- Customers decide whether or not the system is ready to be released.
+- *Alpha Testing* 
+	- A small group of users work closely with development team to test the software. 
+- *Beta Testing* 
+	- A release of the software is made available to a larger group of interested users. 
+- *Formal Acceptance Testing* 
+	- Customers decide whether or not the system is ready to be released.
 
 ### Acceptance Testing Stages
+- *Define acceptance criteria* 
+	- Work with customers to define how validation will be conducted, and the conditions that will determine acceptance. 
+- *Plan acceptance testing* 
+	- Decide resources, time, and budget for acceptance testing. Establish a schedule. Define order that features should be tested. Define risks to testing process.
+
 ## Test Plans
+- Derive acceptance tests. ▪ Design tests to check whether or not the system is acceptable. Test both functional and non-functional characteristics of the system.  Run acceptance tests ▪ Users complete the set of tests. Should take place in the same environment that they will use the software. Some training may be required.
 ### Why make a Test Plan ?
 ### Analyze the Product
 ### Develop the Test Strategy
