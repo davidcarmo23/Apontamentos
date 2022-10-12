@@ -32,7 +32,7 @@
 **100% Presenças Obrigatórias**
 *Frequência* - Data (7.5v)
 
-**Grupo 7**
+**Grupo 5**
 *TP1* - Data (3v)
 *TP2* - Data (3.5v)
 *Tema* - Data (5v) 
