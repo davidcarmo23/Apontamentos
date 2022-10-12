@@ -199,8 +199,17 @@ Uses assertions, contracts, and other logical properties
 - Test input = method calls
 - Test oracle = assertions on output/class variables
 
-- For a unit, tests shou
+- For a unit, tests should be
+	- Test all jobs associated with the unit
+		- Individual methods belonging to a class.
+		- Sequences of methods that can interact.
+	- Set and check class variables. 
+		- Examine how variables change after method calls.
+		- Put the variables into all possible states (types of values)
+
+- Unit tests should cover: ▪ Set and check class variables • Can any methods change identifier, temperature, pressure? ▪ Each “job” performed by the class. • Single methods or method sequences. • Vary the order methods are called. • Each outcome of each “job” (error handling, return conditions)
 ## System (Integration) Testing
+
 ## System Testing
 ## Interface Errors
 ## GUI Testing
