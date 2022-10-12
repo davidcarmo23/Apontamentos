@@ -2,8 +2,10 @@
 ![[Pasted image 20221011201810.png]]
 
 # Verification
-Ensuring that an implementation conforms to its specification
-*AKA* -
+- Ensuring that an implementation conforms to its specification
+	*AKA* -> Under these conditions, does the software work?
+- Proper V&V produces dependable software
+	**Testing is the primary verification activity**
 # Software Testing
 ## Bugs ? What are those?
 ## Faults and Failures
