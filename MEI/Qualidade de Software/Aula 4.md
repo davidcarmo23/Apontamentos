@@ -24,7 +24,12 @@
 ## Faults and Failures
 - *Failure*
 	- An execution that yields an incorrect result.
-- *Fa*
+- *Fault*
+	- The problem that caused a failure
+	- Mistake in the code, omission from the code, misuse
+	- **When we observe a failure, we try to find the fault**
+
+
 # Testing Scenarios
 ## Axiom of Testing
 ## Test Suite and Test Case
