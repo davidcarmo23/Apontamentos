@@ -90,6 +90,11 @@ Program testing can be used to show the presence of bugs, but **never their abse
 	- Automated input generation
 ## Sources of Input
 - **Black Box (Functional) Test Design**
+- Use Knowledge about how the system should act to design test cases
+	- Requirements, comments, user manuals, intuition
+- Tests can be designed before code is written
+	- (test-driven development)
+
 - 
 # Test Oracle - Definition
 ## Test Oracle Components
