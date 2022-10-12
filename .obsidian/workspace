@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -129,7 +130,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0a07589cf4508407",
+  "active": "35383427d57d6770",
   "lastOpenFiles": [
     "MEI/Datas de Avaliação.md",
     "MEI/MEI.md",
