@@ -34,7 +34,7 @@ ___
 
 **Grupo 5**
 *TP1* - Data (3 Valores) -> **4 - Aplicações 3-Camadas (em Lazarus), Servidor de Aplicações**
-*TP2* - Data (3.5 Valores)
+*TP2* - Data (3.5 Valores) -> **Aspetos Avançados da programação SQL e Transações (SQL Server)**
 *Tema* - 23 de Novembro  (5 Valores)  -> **4 - Bases de Dados Temporais** -> (Enviar Relatório Grupo 2 -> 1 semana antes)
 *Arguente* - Data (1 Valores) -> **6 - Consistência**
 ___
