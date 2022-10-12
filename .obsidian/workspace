@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5a162ba00291f917",
-        "type": "leaf",
-        "state": {
-          "type": "full-calendar-view",
-          "state": {}
-        }
-      },
-      {
         "id": "297b632e3dd15757",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MEI/Datas de Avaliação.md",
+            "file": "MEI/Qualidade de Software/Aula 4.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +69,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Datas de Avaliação.md"
+                "file": "MEI/Qualidade de Software/Aula 4.md"
               }
             }
           },
@@ -131,9 +123,9 @@
   },
   "active": "297b632e3dd15757",
   "lastOpenFiles": [
+    "MEI/Datas de Avaliação.md",
     "MEI/Calendário/2022-10-19 Apresentação TP2 - SIO.md",
     "MEI/Calendário/2022-12-20 Entrega TP Grupo - AA.md",
-    "MEI/Datas de Avaliação.md",
     "MEI/MEI.md",
     "MEI/Interface Hardware Software/Aula 2.md",
     "MEI/Sistemas de Informação/Aula 1.md",
