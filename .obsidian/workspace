@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MEI/Sistemas de Informação/Aula 1.md",
-            "mode": "source",
+            "file": "MEI/Datas de Avaliação.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Sistemas de Informação/Aula 1.md",
+                "file": "MEI/Datas de Avaliação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Sistemas de Informação/Aula 1.md"
+                "file": "MEI/Datas de Avaliação.md"
               }
             }
           },
@@ -124,15 +124,15 @@
   },
   "active": "2e66848230e285de",
   "lastOpenFiles": [
+    "MEI/MEI.md",
+    "MEI/Datas de Avaliação.md",
+    "MEI/Sistemas de Informação/Aula 1.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md",
     "MEI/Qualidade de Software/Aula 4.md",
     "MEI/Qualidade de Software/Aula 5.md",
     "MEI/Qualidade de Software/Aula 2.md",
     "MEI/Qualidade de Software/Aula 1.md",
     "MEI/Aprendizagem Automática/Aula 3.md",
-    "MEI/Interface Hardware Software/Aula 2.md",
-    "MEI/Interface Hardware Software/Aula 3.md",
-    "MEI/MEI.md",
-    "Templates/Course Template.md"
+    "MEI/Interface Hardware Software/Aula 2.md"
   ]
 }
