@@ -6,7 +6,7 @@
 *Apresentação Individual* -> 5 min (1 Valor) - FEITO
 *Apresentação Coletiva* -> 15min (2 Valores)
 	*Trabalho Individual* -> (data), (2 Valores);   
-		Ferramentas :Python, Scikit;
+		Ferramentas : Python, Scikit;
 	*Trabalho Coletivo* -> 20 de Dezembro, (7 Valores);   
 		 *Apresentação Coletiva* -> (2 Valores)
 ___
