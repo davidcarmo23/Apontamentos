@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Datas de Avaliação.md"
+                "file": "MEI/Qualidade de Software/Aula 4.md"
               }
             }
           },
@@ -89,21 +89,14 @@
               "type": "todo",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "00777f7b1d814e49",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "1be225d45bdd73a8",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Datas de Avaliação.md",
+                "file": "MEI/Qualidade de Software/Aula 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,8 +104,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -121,10 +113,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1be225d45bdd73a8",
+  "active": "2db07addc4f32f70",
   "lastOpenFiles": [
-    "MEI/Qualidade de Software/Aula 4.md",
     "MEI/Datas de Avaliação.md",
+    "MEI/Qualidade de Software/Aula 4.md",
     "MEI/Qualidade de Software/Aula 3.md",
     "MEI/Qualidade de Software/Aula 5.md",
     "MEI/Qualidade de Software/Pasted image 20221005115454.png",

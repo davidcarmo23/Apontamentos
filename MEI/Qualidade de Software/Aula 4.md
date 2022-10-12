@@ -49,6 +49,11 @@ Tests must reflect normal system usage and extreme boundary events
 Program testing can be used to show the presence of bugs, but **never their absence**
 
 ## Test Suite and Test Case
+- A *Test suite* is collection of *test cases*
+	- Executed together
+	- Each test case should be independent
+- May have multiple 
+
 ## Anatomy of a Test Case
 ## Test Input
 ## Test Creation and Execution
