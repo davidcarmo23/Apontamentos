@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MEI/Interface Hardware Software/Aula 2.md",
+            "file": "MEI/Qualidade de Software/Aula 4.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Interface Hardware Software/Aula 2.md",
+                "file": "MEI/Qualidade de Software/Aula 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Interface Hardware Software/Aula 2.md"
+                "file": "MEI/Qualidade de Software/Aula 4.md"
               }
             }
           },
@@ -124,15 +124,15 @@
   },
   "active": "2e66848230e285de",
   "lastOpenFiles": [
-    "MEI/Interface Hardware Software/Aula 3.md",
+    "MEI/Qualidade de Software/Aula 5.md",
+    "MEI/Qualidade de Software/Aula 4.md",
+    "MEI/Qualidade de Software/Aula 2.md",
+    "MEI/Qualidade de Software/Aula 1.md",
+    "MEI/Aprendizagem Automática/Aula 3.md",
     "MEI/Interface Hardware Software/Aula 2.md",
+    "MEI/Interface Hardware Software/Aula 3.md",
     "MEI/MEI.md",
     "Templates/Course Template.md",
-    "Uni Courses.md",
-    "MEI/Datas de Avaliação.md",
-    "MEI/Qualidade de Software/Pasted image 20221011201810.png",
-    "MEI/Qualidade de Software/Aula 4.md",
-    "MEI/Qualidade de Software/Aula 3.md",
-    "MEI/Qualidade de Software/Aula 2.md"
+    "Uni Courses.md"
   ]
 }

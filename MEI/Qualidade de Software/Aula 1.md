@@ -187,3 +187,5 @@ Try to learn from your mistakes in the next project.
 
 ## Software Testing Myths
 ![[Pasted image 20220926223504.png]]
+
+[[MEI/Qualidade de Software/Aula 2]]
