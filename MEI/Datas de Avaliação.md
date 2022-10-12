@@ -29,10 +29,11 @@
 *TP2* ->  9 de Dezembro (8 Valores)
 
 ## Sistemas de Gestão de Base de Dados
-Frequên
-TP1
-TP2
-
+Frequên - 7.5v
+TP1 - 3v
+TP2 - 3.5v
+Tem - 5v
+rguente - 1v
 ## Sistemas de Informação
 (3 Faltas)
   **Componente Teórica**
