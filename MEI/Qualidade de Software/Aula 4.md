@@ -328,9 +328,14 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 	- What are the needs of the users?
 	- Who will use the product?
 	- What will it be used for?
-	- What are the
-### Develop the Test Strategy
+	- What are the dependencies of the product?
+- Review requirements and documentation
+- Interview stakeholders and developers
+- Perform a product walkthrough (if code is running).
 
+### Develop the Test Strategy
+- Document defining
+	- Test Ob
 ## Testing Scope
 
 ## Identify Testing Types
