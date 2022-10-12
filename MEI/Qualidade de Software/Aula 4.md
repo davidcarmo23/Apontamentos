@@ -262,8 +262,14 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 	- Test design and execution done concurrently
 
 - Tester write down ideas to give direction, then create critical, pratical , and useful tests
-- 
+	- Requires minimal planning. Tester chooses next action based on result of current action
+- Can find subtle faults missed by formal testing
+	- Allows tester to better learn system functionality, and identify new ways of using features
+
 ## Testing Percentages
+Unit tests verify behavior of a single class.
+System tests verify class interactions. 
+GUI tests verify end-to-end journeys. ▪ 10% of your tests
 ## Testing
 ## Acceptance Testing
 ### Acceptance Testing Types
