@@ -33,8 +33,8 @@ ___
 *Frequência* - Data (7.5v)
 
 **Grupo 5**
-*TP1* - Data (3v)
-*TP2* - Data (3.5v)
+*TP1* - Data (3 Valores)
+*TP2* - Data (3.5 Valores)
 *Tema* - Data (5 Valores)  -> 
 *Arguente* - Data (1 Valores)
 ___
