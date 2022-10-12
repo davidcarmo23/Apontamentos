@@ -182,14 +182,14 @@ Uses assertions, contracts, and other logical properties
 # Automation vs Human-Driven
 # The V-Model of Development
 # Unit Testing
-# System (Integration) Testing
-#
-#
-#
-#
-#
-#
-#
-#
+## System (Integration) Testing
+## System Testing
+## Interface Errors
+## GUI Testing
+## Exploratory Testing
+## Testing Percentages
+## Testing
+## Acceptance Testing
+## Acceptance Testing Types
 
 [[MEI/Qualidade de Software/Aula 5]]
