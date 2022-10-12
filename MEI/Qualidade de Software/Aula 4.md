@@ -280,7 +280,19 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 - Well tested units reduce likelihood of integration issues, making high levels of testing easier
 
 ## Acceptance Testing
+- Once the system is internally tested, it should be placed in the hands of users for feedback. 
+- Users must ultimately approve the system. 
+- Many faults do not emerge until the system is used in the wild. 
+	- Alternative operating environments. 
+	- More eyes on the system.
+	- Wide variety of usage types
+
 ### Acceptance Testing Types
+- Alpha Testing ▪ A small group of users work closely with development team to test the software. 
+- Beta Testing ▪ A release of the software is made available to a larger group of interested users. 
+- Formal Acceptance Testing 
+- Customers decide whether or not the system is ready to be released.
+
 ### Acceptance Testing Stages
 ## Test Plans
 ### Why make a Test Plan ?
