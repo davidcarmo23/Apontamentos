@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Aprendizagem Automática\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +113,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2db07addc4f32f70",
+  "active": "70351f0ca651e72c",
   "lastOpenFiles": [
     "MEI/Datas de Avaliação.md",
     "MEI/Qualidade de Software/Aula 4.md",

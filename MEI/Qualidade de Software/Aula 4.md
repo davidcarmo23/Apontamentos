@@ -174,9 +174,22 @@ Uses assertions, contracts, and other logical properties
 
 - *Acceptance Testing / AB Testing*
 	- Give product to a set of users to check whether it meets their needs.
-	- Alpha/beta Testing - controlled pools of users, generally on their own machine. 
-	- Acceptance Testing - controlled pool of customers, in a controlled environment, formal acceptance criteria 
+		- Alpha/beta Testing - controlled pools of users, generally on their own machine. 
+		- Acceptance Testing - controlled pool of customers, in a controlled environment, formal acceptance criteria 
 	- Can expose many faults. 
 	- Can be planned during requirements elicitation
+
+# Automation vs Human-Driven
+# The V-Model of Development
+# Unit Testing
+# System (Integration) Testing
+#
+#
+#
+#
+#
+#
+#
+#
 
 [[MEI/Qualidade de Software/Aula 5]]
