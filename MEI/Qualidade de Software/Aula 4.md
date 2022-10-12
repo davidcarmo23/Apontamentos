@@ -7,6 +7,8 @@
 - Proper V&V produces dependable software
 	**Testing is the primary verification activity**
 # Software Testing
+- An investigation into system quality
+- Based on sequences of *stimuli* and *observations*
 ## Bugs ? What are those?
 ## Faults and Failures
 # Testing Scenarios
