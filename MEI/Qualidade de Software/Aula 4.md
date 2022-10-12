@@ -185,10 +185,15 @@ Uses assertions, contracts, and other logical properties
 	- Executed repeatedly, often on check-in
 - Exploratory/Acceptance Testing often human-driven
 	- Humans interact with app
-	- Based on scenarios, without 
+	- Based on scenarios, without pre-planned input
+	- Some tool support, but not often repeated exactly
 
 # The V-Model of Development
+![[Pasted image 20221012164244.png]]
+
 # Unit Testing
+- Testing the smallest "unit" that can be tested
+	- 
 ## System (Integration) Testing
 ## System Testing
 ## Interface Errors
