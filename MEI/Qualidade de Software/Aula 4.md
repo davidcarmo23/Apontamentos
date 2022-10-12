@@ -141,7 +141,10 @@ Uses assertions, contracts, and other logical properties
 	- For a method or high-level API/UI function
 	- Properties based on behavior of that function
 - Work for any input to that function
-- Trade-o
+- Trade-off: limited by number of properties
+	- Faults missed even if specified properties are obeyed
+	- More properties = more expensive to write
+
 ## Implicit Oracles
 # Testing Stages
 
