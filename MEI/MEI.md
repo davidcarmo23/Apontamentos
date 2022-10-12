@@ -3,9 +3,9 @@ ___
 # {{Mestrado Engenharia}}
 
 ## Notes and Ideas
-- [[{{title}} Outline]]
+- [[]]
 ## Assignments
+[[Datas de Avaliação]]
 ## Lectures
-## 
 ___
 References:
