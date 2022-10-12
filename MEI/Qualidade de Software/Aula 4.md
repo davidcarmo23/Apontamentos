@@ -180,6 +180,7 @@ Uses assertions, contracts, and other logical properties
 	- Can be planned during requirements elicitation
 
 # Automation vs Human-Driven
+
 # The V-Model of Development
 # Unit Testing
 ## System (Integration) Testing
