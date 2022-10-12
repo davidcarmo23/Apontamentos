@@ -198,5 +198,10 @@ Uses assertions, contracts, and other logical properties
 ### Develop the Test Strategy
 ## Testing Scope
 ## Identify Testing Types
-
+## Create Test Logistics
+## Define Test Objectives
+## Define Test Criteria
+## Resource Planning
+## Plan Test Environment
+## Schedule Estimation
 [[MEI/Qualidade de Software/Aula 5]]
