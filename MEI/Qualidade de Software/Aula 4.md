@@ -61,11 +61,18 @@ Program testing can be used to show the presence of bugs, but **never their abse
 ## Anatomy of a Test Case
 ![[Pasted image 20221012155720.png]]
 
-- Initialization 
+- **Initialization** 
 	- Any steps that must be taken before test execution. 
-- Test Steps 
-	- Interactions with the system, and comparisons between oracle and actual values. Tear Down ▪ Any steps that must be taken after test execution
+- **Test Steps** 
+	- Interactions with the system, and comparisons between oracle and actual values. 
+- **Tear Down** 
+	- Any steps that must be taken after test execution
+
+
 ## Test Input
+- Any deliberate interactions with a software feature
+	- **Generally , call a function through an interface**
+
 ## Test Creation and Execution
 ## Sources of Input
 # Test Oracle - Definition
