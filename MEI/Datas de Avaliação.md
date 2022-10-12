@@ -9,7 +9,7 @@
 		Ferramentas :Python, Scikit;
 	*Trabalho Coletivo* -> 20 de Dezembro, (7 Valores);   
 		 *Apresentação Coletiva* -> (2 Valores)
-		 
+___
 ## Interface Hardware Software
 (3 Faltas)
   **Componente Teórica**
@@ -19,7 +19,7 @@
 *TP1* ->  29 de Setembro (1 Valor)
 *TP2* ->  24 de Novembro (5 Valores)
 *TP3* ->  05 de Janeiro (8 Valores)
-
+___
 ## Qualidade de Software
 **Componente Teórica**
  *Frequência* -> 04 de Janeiro (8 Valores)
@@ -27,7 +27,7 @@
  **Componente Prática**
 *TP1* ->  21 de Outubro (4 Valores)
 *TP2* ->  9 de Dezembro (8 Valores)
-
+___
 ## Sistemas de Gestão de Base de Dados
 **100% Presenças Obrigatórias**
 *Frequência* - Data (7.5v)
@@ -35,9 +35,9 @@
 **Grupo 5**
 *TP1* - Data (3v)
 *TP2* - Data (3.5v)
-*Tema* - Data (5v) 
+*Tema* - Data (5v)  -> 
 *Arguente* - Data (1v)
-
+___
 ## Sistemas de Informação
 (3 Faltas)
   **Componente Teórica**
@@ -51,3 +51,4 @@
 
 	**Alternativa**
 *TF* (TP3 + TP4) 
+___
