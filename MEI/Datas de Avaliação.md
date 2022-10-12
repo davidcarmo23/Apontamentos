@@ -35,7 +35,7 @@ ___
 **Grupo 5**
 *TP1* - Data (3 Valores)
 *TP2* - Data (3.5 Valores)
-*Tema* - 23 de Novembro (5 Valores)  -> **4 - Bases de Dados Temporais**
+*Tema* - 23 de Novembro (5 Valores)  -> **4 - Bases de Dados Temporais** ->
 *Arguente* - Data (1 Valores) -> **6 - Consistência**
 ___
 ## Sistemas de Informação
