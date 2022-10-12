@@ -347,12 +347,15 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 	- Gives project members a clear understanding about what you are responsible for
 - Must take into account
 	- Requirements, budget, skills of you testing team
-	- 
+
+![[Pasted image 20221012174029.png]]
 
 ## Identify Testing Types
+![[Pasted image 20221012174046.png]]
 
 ## Create Test Logistics
-
+- Who will write and execute test cases?
+	- What types of testers do you need?  Skills needed for the targeted domain ▪ What is the budget for testing? • How many people can you hire to test?  When will each testing activity occur? ▪ When to design and when to execute tests. ▪ Pair with appropriate stage of development. • Unit development -> unit testing -> system testing -> ...
 ## Define Test Objectives
 
 ## Define Test Criteria
