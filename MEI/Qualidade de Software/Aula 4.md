@@ -134,7 +134,14 @@ Program testing can be used to show the presence of bugs, but **never their abse
 ## Property-based Oracles
 Rather than comparing actual values, use properties about results to judge sequences
 Uses assertions, contracts, and other logical properties
+![[Pasted image 20221012161506.png]]
+
 ## Properties
+- Usually written at "function" level
+	- For a method or high-level API/UI function
+	- Properties based on behavior of that function
+- Work for any input to that function
+- Trade-o
 ## Implicit Oracles
 # Testing Stages
 
