@@ -10,18 +10,6 @@
           "type": "full-calendar-view",
           "state": {}
         }
-      },
-      {
-        "id": "0a07589cf4508407",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MEI/Datas de Avaliação.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -77,9 +65,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MEI/Datas de Avaliação.md"
-              }
+              "state": {}
             }
           },
           {
