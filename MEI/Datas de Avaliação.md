@@ -15,6 +15,7 @@ ___
   **Componente Teórica**
  *Frequência* -> 15 de Dezembro (6 Valores)
  
+**Grupo 2**
  **Componente Prática**
 *TP1* ->  29 de Setembro (1 Valor)
 *TP2* ->  24 de Novembro (5 Valores)

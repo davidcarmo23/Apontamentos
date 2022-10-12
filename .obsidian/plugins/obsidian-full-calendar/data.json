@@ -1,0 +1,12 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#444a73",
+      "directory": "MEI"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": false,
+  "firstDay": 0
+}
