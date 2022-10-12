@@ -29,6 +29,9 @@
 *TP2* ->  9 de Dezembro (8 Valores)
 
 ## Sistemas de Gestão de Base de Dados
+Frequên
+TP1
+TP2
 
 ## Sistemas de Informação
 (3 Faltas)
