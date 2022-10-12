@@ -30,7 +30,7 @@
 
 ## Sistemas de Gestão de Base de Dados
 **100% Presenças Obrigtórias**
-Frequênia - 7.5v
+Frequência - 7.5v
 TP1 - 3v
 TP2 - 3.5v
 Tem - 5v
