@@ -2,6 +2,8 @@
 ![[Pasted image 20221011201810.png]]
 
 # Verification
+Ensuring that an implementation conforms to its specification
+*AKA* -
 # Software Testing
 ## Bugs ? What are those?
 ## Faults and Failures
