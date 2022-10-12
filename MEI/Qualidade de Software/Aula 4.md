@@ -9,6 +9,9 @@
 # Software Testing
 - An investigation into system quality
 - Based on sequences of *stimuli* and *observations*
+	- *Stimuli* that the system must react to.
+	- *Observations* of the system reactions
+	- *Verdicts* on correctene
 ## Bugs ? What are those?
 ## Faults and Failures
 # Testing Scenarios
