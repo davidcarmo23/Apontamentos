@@ -207,9 +207,17 @@ Uses assertions, contracts, and other logical properties
 		- Examine how variables change after method calls.
 		- Put the variables into all possible states (types of values)
 
-- Unit tests should cover: ▪ Set and check class variables • Can any methods change identifier, temperature, pressure? ▪ Each “job” performed by the class. • Single methods or method sequences. • Vary the order methods are called. • Each outcome of each “job” (error handling, return conditions)
-## System (Integration) Testing
+- Unit tests should cover: 
+	- Set and check class variables 
+		- Can any methods change identifier, temperature, pressure? 
+	- Each “job” performed by the class. 
+		- Single methods or method sequences.
+		- Vary the order methods are called. 
+		- Each outcome of each “job” (error handling, return conditions)
 
+## System (Integration) Testing
+- After testing units, test their *integration*
+	- Integrate 
 ## System Testing
 ## Interface Errors
 ## GUI Testing
