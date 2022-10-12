@@ -36,6 +36,9 @@ Tests must reflect normal system usage and extreme boundary events
 
 
 # Testing Scenarios
+- *Verification*
+	- Demonstrate that  software meets the specification
+	- 
 ## Axiom of Testing
 ## Test Suite and Test Case
 ## Anatomy of a Test Case
