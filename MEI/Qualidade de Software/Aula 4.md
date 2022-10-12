@@ -82,6 +82,10 @@ Program testing can be used to show the presence of bugs, but **never their abse
 	- Varying frequency/volume of input
 
 ## Test Creation and Execution
+- Can be *human-driven*
+	- Exploratory testing, alpha/beta testing
+- or *automated
+- *
 ## Sources of Input
 # Test Oracle - Definition
 ## Test Oracle Components
