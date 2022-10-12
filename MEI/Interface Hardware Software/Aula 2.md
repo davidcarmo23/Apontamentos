@@ -102,4 +102,4 @@ Se aplicarmos uma fonte de tensão (U) a um circuito elétrico, vai estabelecer-
 ![[Pasted image 20221005160920.png]]
 ![[Pasted image 20221005160940.png]]
 
-[[]]
+[[MEI/Interface Hardware Software/Aula 3]]
