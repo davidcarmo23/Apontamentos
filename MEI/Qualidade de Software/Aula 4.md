@@ -305,12 +305,21 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 - *Run acceptance tests* 
 	- Users complete the set of tests. Should take place in the same environment that they will use the software. Some training may be required.
 - *Negotiate test results*
+	- It is unlikely that all of the tests will pass the first time. Developer and customer negotiate to decide if the system is good enough or if it needs more work
 - *Reject or accept the system*
-	- 
-## Test Plans
+	- Developers and customer must meet to decide whether the system is ready to be released.
 
+## Test Plans
+-  Plan for how we will test the system. 
+	- *What* is being tested (units, subsystems, features). 
+	- *When* it will be tested (required stage of completion).
+	- *How* it will be tested (what scenarios do we run?).
+	- *Where* we are testing it (types of environments). 
+	- *Why* we are testing it (what purpose do tests serve?). 
+	- *Who* will be responsible for writing test cases (assign responsibility to team members).
 
 ### Why make a Test Plan ?
+- 
 
 ### Analyze the Product
 
