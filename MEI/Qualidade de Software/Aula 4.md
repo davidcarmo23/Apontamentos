@@ -110,7 +110,15 @@ Program testing can be used to show the presence of bugs, but **never their abse
 - Can be specific to one test or more general.
 
 ## Test Oracle Components
+- **Oracle Information**
+	- Embedded information used to judge the correctness of the implementation, given the inputs.
+- **Oracle Procedure**
+	- Code that uses that information and relevant observations to arrive at a verdict. 
+	- Often as simple as.
+![[Pasted image 20221012161101.png]]
+
 ## Oracles are Code
+
 ## Expected-Value Oracles
 ## Property-based Oracles
 ## Properties
