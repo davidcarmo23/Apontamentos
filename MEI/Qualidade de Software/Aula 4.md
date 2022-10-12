@@ -118,6 +118,13 @@ Program testing can be used to show the presence of bugs, but **never their abse
 ![[Pasted image 20221012161101.png]]
 
 ## Oracles are Code
+- Oracles must be developed
+	- Like the project and is built from the requirements
+		- is subject to interpretation by the developer
+		- may contain faults
+- A faulty oracle can be trouble
+	- May result in false positives - “pass” when there was a fault in the system. 
+	- May result in false negatives - “fail” when there was not a fault in the system
 
 ## Expected-Value Oracles
 ## Property-based Oracles
