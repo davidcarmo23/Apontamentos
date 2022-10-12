@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323
+    "width": 323,
+    "collapsed": true
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -69,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Qualidade de Software/Aula 4.md"
+                "file": "MEI/Datas de Avaliação.md"
               }
             }
           },
@@ -108,8 +109,8 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               },
               "pinned": true
             }
@@ -118,16 +119,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "297b632e3dd15757",
+  "active": "1be225d45bdd73a8",
   "lastOpenFiles": [
-    "MEI/Qualidade de Software/Aula 3.md",
     "MEI/Qualidade de Software/Aula 4.md",
+    "MEI/Datas de Avaliação.md",
+    "MEI/Qualidade de Software/Aula 3.md",
     "MEI/Qualidade de Software/Aula 5.md",
     "MEI/Qualidade de Software/Pasted image 20221005115454.png",
-    "MEI/Datas de Avaliação.md",
     "MEI/Calendário/2022-10-19 Apresentação TP2 - SIO.md",
     "MEI/Calendário/2022-12-20 Entrega TP Grupo - AA.md",
     "MEI/MEI.md",

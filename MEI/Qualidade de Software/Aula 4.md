@@ -46,6 +46,8 @@ Tests must reflect normal system usage and extreme boundary events
 		- Large volume of data , null data, malformed data , attacks
 
 ## Axiom of Testing
+Program testing can be used to show the presence of bugs, but **never their absence**
+
 ## Test Suite and Test Case
 ## Anatomy of a Test Case
 ## Test Input
