@@ -180,6 +180,12 @@ Uses assertions, contracts, and other logical properties
 	- Can be planned during requirements elicitation
 
 # Automation vs Human-Driven
+- Unit/System Testing heavily use automation
+	- Tests written as code
+	- Executed repeatedly, often on check-in
+- Exploratory/Acceptance Testing often human-driven
+	- Humans interact with app
+	- Based on scenarios, without 
 
 # The V-Model of Development
 # Unit Testing
