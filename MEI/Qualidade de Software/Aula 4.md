@@ -155,6 +155,13 @@ Uses assertions, contracts, and other logical properties
 - Faults that do not require expected output to detect
 
 # Testing Stages
-
+- We interact with *systems* through *interfaces*.
+	- APIs, GUIs, CLIs 
+- Systems built from *subsystems*.
+	- With their own interfaces. 
+- Subsystems built from *units*. 
+	- Communication via method calls. 
+	- Set of methods is an interface.
+- **
 
 [[MEI/Qualidade de Software/Aula 5]]
