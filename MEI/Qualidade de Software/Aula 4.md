@@ -38,7 +38,13 @@ Tests must reflect normal system usage and extreme boundary events
 # Testing Scenarios
 - *Verification*
 	- Demonstrate that  software meets the specification
-	- 
+	- Tests tend to reflect "normal" usage
+	- Any lack of conformance is a fault
+- *Resilience*
+	- Show that software can handle rare/extreme situations
+	- Tests tend to reflect extreme usage
+		- Large volume of data , null data, malformed data , attacks
+
 ## Axiom of Testing
 ## Test Suite and Test Case
 ## Anatomy of a Test Case
