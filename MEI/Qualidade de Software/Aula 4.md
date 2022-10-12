@@ -52,7 +52,11 @@ Program testing can be used to show the presence of bugs, but **never their abse
 - A *Test suite* is collection of *test cases*
 	- Executed together
 	- Each test case should be independent
-- May have multiple 
+- May have multiple suites in one project
+	- Different types of tests, different resource/time needs
+- A test case consists of
+	- Initialization, test steps, inputs, oracles, tear down
+
 
 ## Anatomy of a Test Case
 ## Test Input
