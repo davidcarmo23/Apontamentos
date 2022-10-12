@@ -11,8 +11,13 @@
 - Based on sequences of *stimuli* and *observations*
 	- *Stimuli* that the system must react to.
 	- *Observations* of the system reactions
-	- *Verdicts* on correctene
+	- *Verdicts* on correctness
+![[Pasted image 20221012154528.png]]
+
 ## Bugs ? What are those?
+- **Bug is an overloaded term**
+	- Does it refer to the bad behavio
+	
 ## Faults and Failures
 # Testing Scenarios
 ## Axiom of Testing
