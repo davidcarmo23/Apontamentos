@@ -35,8 +35,8 @@ ___
 **Grupo 5**
 *TP1* - Data (3v)
 *TP2* - Data (3.5v)
-*Tema* - Data (5v)  -> 
-*Arguente* - Data (1v)
+*Tema* - Data (5 Valores)  -> 
+*Arguente* - Data (1 Valores)
 ___
 ## Sistemas de Informação
 (3 Faltas)
