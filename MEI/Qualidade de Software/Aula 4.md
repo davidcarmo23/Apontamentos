@@ -355,9 +355,18 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 
 ## Create Test Logistics
 - Who will write and execute test cases?
-	- What types of testers do you need?  Skills needed for the targeted domain ▪ What is the budget for testing? • How many people can you hire to test?  When will each testing activity occur? ▪ When to design and when to execute tests. ▪ Pair with appropriate stage of development. • Unit development -> unit testing -> system testing -> ...
-## Define Test Objectives
+	- What types of testers do you need? 
+		- Skills needed for the targeted domain 
+	- What is the budget for testing?
+		- How many people can you hire to test? 
+- When will each testing activity occur? 
+	- When to design and when to execute tests.
+	- Pair with appropriate stage of development. 
+		- Unit development -> unit testing -> system testing -> ...
 
+## Define Test Objectives
+- What are the goals of the testing process?
+	- 
 ## Define Test Criteria
 
 ## Resource Planning
