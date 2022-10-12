@@ -267,10 +267,14 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 	- Allows tester to better learn system functionality, and identify new ways of using features
 
 ## Testing Percentages
-Unit tests verify behavior of a single class.
-System tests verify class interactions. 
-GUI tests verify end-to-end journeys. ▪ 10% of your tests
+- Unit tests verify behavior of a single class. *70%*
+- System tests verify class interactions. *20%*
+- GUI tests verify end-to-end journeys. *10%*
+![[Pasted image 20221012165840.png]]
+
 ## Testing
+- 70/20/10 recommended
+- Unit tests execute quickly, relati
 ## Acceptance Testing
 ### Acceptance Testing Types
 ### Acceptance Testing Stages
