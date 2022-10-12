@@ -36,7 +36,7 @@ ___
 *TP1* - Data (3 Valores)
 *TP2* - Data (3.5 Valores)
 *Tema* - Data (5 Valores)  -> **4 - Bases de Dados Temporais**
-*Arguente* - Data (1 Valores) -> ****
+*Arguente* - Data (1 Valores) -> **6 - **
 ___
 ## Sistemas de Informação
 (3 Faltas)
