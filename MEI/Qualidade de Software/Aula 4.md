@@ -241,7 +241,12 @@ Subsystem made up classes of A, B, and C. We have performed unit testing...
 
 
 ## GUI Testing
-
+- Tests designed to reflect *end-to-end* user journeys
+	- From opening to closing
+	- Often based on *scenarios*
+- GUI Testing
+	- Deliberate tests, specific input
+	- May be automated or
 ## Exploratory Testing
 ## Testing Percentages
 ## Testing
