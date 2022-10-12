@@ -82,18 +82,18 @@
             }
           },
           {
-            "id": "211f9714dd53303e",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "bbe4c64b10f928b6",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "119c17a778b83c29",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
               "state": {}
             }
           }
@@ -127,7 +127,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2db07addc4f32f70",
+  "active": "119c17a778b83c29",
   "lastOpenFiles": [
     "MEI/MEI.md",
     "MEI/Datas de Avaliação.md",
