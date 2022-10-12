@@ -29,12 +29,12 @@
 *TP2* ->  9 de Dezembro (8 Valores)
 
 ## Sistemas de Gestão de Base de Dados
-**100% Presenças Obrigtórias**
-Frequência - 7.5v
-TP1 - 3v
-TP2 - 3.5v
-Tem - 5v
-arguente - 1v
+**100% Presenças Obrigatórias**
+*Frequência* - 7.5v
+*TP1* - 3v
+*TP2* - 3.5v
+*Tema* - 5v
+Arguente - 1v
 ## Sistemas de Informação
 (3 Faltas)
   **Componente Teórica**
