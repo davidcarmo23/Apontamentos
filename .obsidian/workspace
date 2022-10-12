@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "35383427d57d6770",
+        "id": "d64d93812ad2e36b",
         "type": "leaf",
         "state": {
-          "type": "full-calendar-view",
+          "type": "empty",
           "state": {}
         }
       }
@@ -49,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323,
-    "collapsed": true
+    "width": 323
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -116,7 +115,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35383427d57d6770",
+  "active": "d64d93812ad2e36b",
   "lastOpenFiles": [
     "MEI/Datas de Avaliação.md",
     "MEI/MEI.md",
