@@ -106,7 +106,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -115,6 +116,8 @@
   },
   "active": "e60d31a995d6877d",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "MEI/TODO.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 3.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md",
     "MEI/Aprendizagem Automática/Aula 3.md",
@@ -122,8 +125,6 @@
     "MEI/Sistemas de Informação/Aula 4.md",
     "MEI/Sistemas de Informação/Aula 3.md",
     "MEI/Sistemas de Informação/Aula 2.md",
-    "MEI/Sistemas de Gestão de Base de Dados/Aula 4.md",
-    "MEI/Interface Hardware Software/Aula 5.md",
-    "MEI/Qualidade de Software/Aula 6.md"
+    "MEI/Sistemas de Gestão de Base de Dados/Aula 4.md"
   ]
 }
