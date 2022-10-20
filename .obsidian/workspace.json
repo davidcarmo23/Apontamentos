@@ -23,9 +23,11 @@
             "id": "1902325767634273",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.0"
+                "file": "MEI/Qualidade de Software/Aula 4.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/TODO.md"
+                "file": "MEI/Qualidade de Software/Aula 4.md"
               }
             }
           },
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/TODO.md",
+                "file": "MEI/Qualidade de Software/Aula 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +127,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,15 +138,15 @@
   },
   "active": "1902325767634273",
   "lastOpenFiles": [
+    "MEI/Qualidade de Software/Aula 2.md",
+    "MEI/Qualidade de Software/Aula 3.md",
+    "MEI/Qualidade de Software/Aula 4.md",
     "MEI/Datas de Avaliação.md",
     "MEI/TODO.md",
     "Untitled Kanban.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 3.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md",
     "MEI/Aprendizagem Automática/Aula 3.md",
-    "MEI/Aprendizagem Automática/Aula 4.md",
-    "MEI/Sistemas de Informação/Aula 4.md",
-    "MEI/Sistemas de Informação/Aula 3.md",
-    "MEI/Sistemas de Informação/Aula 2.md"
+    "MEI/Aprendizagem Automática/Aula 4.md"
   ]
 }
