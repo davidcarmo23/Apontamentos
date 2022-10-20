@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "MEI/Qualidade de Software/Aula 3.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -132,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
