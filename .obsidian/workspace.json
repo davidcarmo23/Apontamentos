@@ -23,7 +23,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1be225d45bdd73a8",
+  "active": "1902325767634273",
   "lastOpenFiles": [
     "3ºAno/Segurança Informática/Segurança Informática.md",
     "MEI/Qualidade de Software/Aula 4.md",
