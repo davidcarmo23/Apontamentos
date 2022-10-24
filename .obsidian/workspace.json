@@ -27,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e60d31a995d6877d",
+  "active": "1902325767634273",
   "lastOpenFiles": [
     "MEI/Qualidade de Software/Aula 5.md",
     "MEI/Qualidade de Software/Aula 6.md",
