@@ -11,8 +11,12 @@
             "id": "e60d31a995d6877d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MEI/Qualidade de Software/Aula 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -23,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MEI/Qualidade de Software/Aula 3.md"
+              }
             }
           },
           {
@@ -106,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MEI/Qualidade de Software/Aula 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,11 +132,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1902325767634273",
+  "active": "e60d31a995d6877d",
   "lastOpenFiles": [
-    "3ºAno/Segurança Informática/Segurança Informática.md",
     "MEI/Qualidade de Software/Aula 4.md",
     "MEI/Qualidade de Software/Aula 5.md",
+    "3ºAno/Segurança Informática/Segurança Informática.md",
     "MEI/Qualidade de Software/Aula 6.md",
     "MEI/TODO.md",
     "MEI/Datas de Avaliação.md",
