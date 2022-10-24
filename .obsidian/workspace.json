@@ -111,22 +111,23 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e60d31a995d6877d",
+  "active": "1be225d45bdd73a8",
   "lastOpenFiles": [
+    "3ºAno/Segurança Informática/Segurança Informática.md",
     "MEI/Qualidade de Software/Aula 4.md",
     "MEI/Qualidade de Software/Aula 5.md",
     "MEI/Qualidade de Software/Aula 6.md",
@@ -135,7 +136,6 @@
     "MEI/MEI.md",
     "MEI/Qualidade de Software/Aula 3.md",
     "MEI/Qualidade de Software/Aula 2.md",
-    "Untitled Kanban.md",
-    "MEI/Sistemas de Gestão de Base de Dados/Aula 3.md"
+    "Untitled Kanban.md"
   ]
 }
