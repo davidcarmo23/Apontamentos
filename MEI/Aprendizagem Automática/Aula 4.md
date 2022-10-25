@@ -51,3 +51,9 @@ Minimizada pelo método da descida do gradiente
 ### Conjunto de validação
 ![[Pasted image 20221025202015.png]]
 
+### Não há almoços à pala
+![[Pasted image 20221025202050.png]]
+
+### Validação do modelo
+![[Pasted image 20221025202113.png]]
+
