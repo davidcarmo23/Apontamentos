@@ -44,4 +44,10 @@ Minimizada pelo método da descida do gradiente
 - Se o algoritmo é baseado em instâncias, apenas aprende os exemplos e generaliza para novas instâncias usando uma **medida de similaridade** para comparar com as instâncias aprendidas
 
 - **O modelo não deve ser muito simples (nesse caso o ajuste será insuficiente) nem muito complexo (nesse caso terá sobreajuste)**
-### Como
+
+### Como avaliar um modelo
+- **Avaliar um modelo é bastante simples: basta usar um conjunto de teste**
+
+### Conjunto de validação
+![[Pasted image 20221025202015.png]]
+
