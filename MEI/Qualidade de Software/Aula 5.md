@@ -125,4 +125,9 @@ Boundary value testing focuses on the boundaries between equivalence classes, si
 - FloodControl cuts water supply when water detected on floor
 - **Interaction means building burns down**
 
-## Selecting Test 
+## Selecting Test Specifications
+- We want to select interesting specifications
+- **Category-Partition Method**
+	- Apply constraints to reduce the number of specifications
+- **Combinatorial Interaction Testing**
+	- Identify a subset that covers all interactio
