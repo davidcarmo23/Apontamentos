@@ -63,4 +63,8 @@ Minimizada pelo método da descida do gradiente
 ### Matriz de confusão
 ![[Pasted image 20221025202211.png]]
 
-### Outras medidas d
+### Outras medidas de validação
+![[Pasted image 20221025202232.png]]
+![[Pasted image 20221025202240.png]]
+
+[[MEI/Qualidade de Software/Aula 5]]
