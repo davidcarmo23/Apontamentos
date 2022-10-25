@@ -57,3 +57,10 @@ Minimizada pelo método da descida do gradiente
 ### Validação do modelo
 ![[Pasted image 20221025202113.png]]
 
+![[Pasted image 20221025202131.png]]
+
+
+### Matriz de confusão
+![[Pasted image 20221025202211.png]]
+
+### Outras medidas d
