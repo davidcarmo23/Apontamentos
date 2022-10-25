@@ -17,6 +17,11 @@
 
 ### Session-Based Exploratory Testing
 ![[Pasted image 20221025193520.png]]
+
+### Session Report Items
+- **Mission: Overall goal**
+- **Charter: Features and scenarios to focus on**
+
 ## Automation vs Human-Driven
 - Unit/System Testing heavily use automation
 	- Tests written as code
