@@ -10,9 +10,14 @@
 	- Tests end-to-end journeys through app
 	- Test design and execution done concurrently
 
+- Tester write down ideas to give direction, then create tests "live"
+	- Tester ch
+
 ## Automation vs Human-Driven
 - Unit/System Testing heavily use automation
 	- Tests written as code
 	- Executed repeatedly, often on check-in
 - Exploratory/Acceptance Testing often human-driven
-	- Humans interact with a
+	- Humans interact with app
+	- Based on scenarios, without pre-planned input
+	- Some tool support, but not often repeated exactly
