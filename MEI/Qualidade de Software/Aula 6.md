@@ -67,6 +67,15 @@
 ![[Pasted image 20221025194510.png]]
 
 #### Bad Neighborhood Tour
+![[Pasted image 20221025194526.png]]
+
+#### Museum Tour
+![[Pasted image 20221025194542.png]]
+
+#### Entertainment District
+![[Pasted image 20221025194607.png]]
+
+#### Supporting Actor Tour
 
 
 ## Automation vs Human-Driven
