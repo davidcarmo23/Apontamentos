@@ -67,4 +67,4 @@ Minimizada pelo método da descida do gradiente
 ![[Pasted image 20221025202232.png]]
 ![[Pasted image 20221025202240.png]]
 
-[[MEI/Qualidade de Software/Aula 5]]
+[[MEI/Aprendizagem Automática/Aula 5]]
