@@ -11,5 +11,7 @@
 ![[Pasted image 20221025200733.png]]
 
 
+## Regressão Logística
 
+- Método aplicado apenas para problemas de class
 
