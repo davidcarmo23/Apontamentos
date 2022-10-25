@@ -88,3 +88,11 @@
 ![[Pasted image 20221025191109.png]]
 
 #### Parameter Context
+![[Pasted image 20221025191127.png]]
+
+### Identifying Representative Values
+- We know the functions
+- We have a set of choices
+- What values should we try?
+	- For some choices, finite set
+	- For many, near
