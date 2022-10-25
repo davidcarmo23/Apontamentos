@@ -19,5 +19,9 @@
 - Podemos usar um modelo de regressão linear para o mesmo fim?
 	- Este pode acabar por prever valores inferiores a 0 ou superiores a 1, o que não faz sentido. Em vez disso o modelo de regressão logística (ou logit) foi concebido para atribuir uma probabilidade (entre 0% e 100%) de Y pertencer a uma determinada classe.
 ![[Pasted image 20221025201306.png]]
-![[Pasted image 20221025201320.png]]
+![[Pasted image 20221025201358.png]]
+Minimizada pelo método da descida do gradiente
 
+![[Pasted image 20221025201421.png]]
+
+## 
