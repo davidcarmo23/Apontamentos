@@ -145,3 +145,6 @@ Boundary value testing focuses on the boundaries between equivalence classes, si
 ![[Pasted image 20221025192500.png]]
 
 ### Combinatorial Interaction Testing
+![[Pasted image 20221025192529.png]]
+
+[[Aula 6]]
