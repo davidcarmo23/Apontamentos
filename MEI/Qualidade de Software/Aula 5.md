@@ -95,4 +95,6 @@
 - We have a set of choices
 - What values should we try?
 	- For some choices, finite set
-	- For many, near
+	- For many, near-infinite set
+- **What about exhaustively trying all options ?**
+![[Pasted image 20221025191253.png]]
