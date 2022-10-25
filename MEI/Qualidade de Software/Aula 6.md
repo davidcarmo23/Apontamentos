@@ -40,6 +40,13 @@
 ![[Pasted image 20221025194106.png]]
 
 ### Automating Exploratory Testing
+![[Pasted image 20221025194132.png]]
+![[Pasted image 20221025194208.png]]
+
+#### Capture and Replay Tools
+![[Pasted image 20221025194155.png]]
+
+### Using 
 
 ## Automation vs Human-Driven
 - Unit/System Testing heavily use automation
