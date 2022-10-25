@@ -72,5 +72,10 @@
 	- UI - look for user-visible functions
 
 
-### Units and "Functionality"
-- An independently testable function is a capabilit
+#### Units and "Functionality"
+- An independently testable function is a capability of the software
+	- Can be at class, subsystem or system level
+	- **Defined by an interface**
+
+### Identify Input Choices
+- What choices do we ,a
