@@ -15,6 +15,9 @@
 
 - Método aplicado apenas para problemas de classificação
 - Ajusta uma curva sigmoide aos dados binários. O modelo produz a probabilidade de uma variável alvo Y pertencer a uma determinada class.
-- Pode também ser aplicada a qualq
-
+- Pode também ser aplicada a qualquer número de categorias
+- Podemos usar um modelo de regressão linear para o mesmo fim?
+	- Este pode acabar por prever valores inferiores a 0 ou superiores a 1, o que não faz sentido. Em vez disso o modelo de regressão logística (ou logit) foi concebido para atribuir uma probabilidade (entre 0% e 100%) de Y pertencer a uma determinada classe.
+![[Pasted image 20221025201306.png]]
+![[Pasted image 20221025201320.png]]
 
