@@ -27,4 +27,10 @@ Minimizada pelo método da descida do gradiente
 ## Máquinas de vetores de suporte
 - Resolve o mesmo problema que a regressão logística - classificação com duas classes e produz um desempenho semelhante.
 - É geometricamente motivado, em vez de ser conduzido por pensamento probabilístico
-- Realiza um mapeamento não linear para transformar os dados de treino originais em uma dimensão maior, buscando ne
+- Realiza um mapeamento não linear para transformar os dados de treino originais em uma dimensão maior, buscando nesta nova dimensão um hiperplano que separe os dados linearmente de forma ótima. Com um mapeamento apropriado (para uma dimensão suficientemente alta) os dados poderão ser sempre separados por um hiperplano. O SVM encontra este hiperplano usando vetores de suporte (exemplos do treino) maximizando a margem definida por estes
+![[Pasted image 20221025201646.png]]
+
+![[Pasted image 20221025201708.png]]
+![[Pasted image 20221025201723.png]]
+
+
