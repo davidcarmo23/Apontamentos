@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEI/Sistemas de Informação/Aula 1.md",
+                "file": "MEI/Aprendizagem Automática/Aula 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Sistemas de Informação/Aula 1.md"
+                "file": "MEI/Aprendizagem Automática/Aula 4.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Sistemas de Informação/Aula 1.md",
+                "file": "MEI/Aprendizagem Automática/Aula 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +138,8 @@
   },
   "active": "c61e18d263da1478",
   "lastOpenFiles": [
+    "MEI/Aprendizagem Automática/Aula 3.md",
+    "MEI/Sistemas de Informação/Aula 1.md",
     "MEI/Sistemas de Informação/Aula 2.md",
     "MEI/Sistemas de Informação/Aula 3.md",
     "MEI/Qualidade de Software/Aula 6.md",
@@ -145,8 +147,6 @@
     "MEI/Qualidade de Software/Prints/Pasted image 20221025193520.png",
     "MEI/Qualidade de Software/Aula 5.md",
     "MEI/Qualidade de Software/Prints/Pasted image 20221025192610.png",
-    "MEI/Qualidade de Software/Prints/Pasted image 20221025191712.png",
-    "MEI/Qualidade de Software/Prints/Pasted image 20221025185702.png",
-    "MEI/Qualidade de Software/Prints/Pasted image 20220926194322.png"
+    "MEI/Qualidade de Software/Prints/Pasted image 20221025191712.png"
   ]
 }
