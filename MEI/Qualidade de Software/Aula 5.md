@@ -39,4 +39,5 @@
 - System tests **bring many classes together**
 	- Focus on testing through an interface
 	- One interface call triggers many internal calls
-		- Slower t
+		- Slower test execution
+	- May have complex input and setup
