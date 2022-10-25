@@ -137,3 +137,7 @@ Boundary value testing focuses on the boundaries between equivalence classes, si
 
 #### Identify Choices
 ![[Pasted image 20221025192321.png]]
+
+#### Identify Representative Values
+![[Pasted image 20221025192410.png]]
+
