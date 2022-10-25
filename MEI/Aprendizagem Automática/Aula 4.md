@@ -8,3 +8,8 @@
 	- *X* , os atributos (características) a serem utilizados na determinação da classe de saída
 	- *Y* , o atributo para o qual se deseja fazer a predição do valor de saída
 	- É comum particionar os dados de entrada (rotulados) em dois conjuntos: **conjunto de treino** que servirá de construir o modelo, e o **conjunto de teste** que servirá para verificar como o modelo se comporta com novos dados, para podermos ajustar o modelo para a construção da versão final
+![[Pasted image 20221025200733.png]]
+
+
+
+
