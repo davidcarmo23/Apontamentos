@@ -130,4 +130,10 @@ Boundary value testing focuses on the boundaries between equivalence classes, si
 - **Category-Partition Method**
 	- Apply constraints to reduce the number of specifications
 - **Combinatorial Interaction Testing**
-	- Identify a subset that covers all interactio
+	- Identify a subset that covers all interactions between pairs of choices
+
+### Category-Partition Method
+![[Pasted image 20221025192255.png]]
+
+#### Identify Choices
+![[Pasted image 20221025192321.png]]
