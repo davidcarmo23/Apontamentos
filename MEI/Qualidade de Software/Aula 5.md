@@ -28,3 +28,5 @@
 - Test through a **defined interface**
 ![[Pasted image 20221025185702.png]]
 
+- Functional tests at the system level are used to ensure that the behaviour of the system adheres to the requirements specification. All functional requirements for the system must be achievable by the system.
+- Funcitonal tests are black box in nature. Focus in inputs and the proper outputs.
