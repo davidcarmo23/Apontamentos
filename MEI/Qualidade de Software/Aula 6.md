@@ -46,7 +46,15 @@
 #### Capture and Replay Tools
 ![[Pasted image 20221025194155.png]]
 
-### Using 
+### Using Tours in Exploratory Testing
+![[Pasted image 20221025194242.png]]
+
+### Exploratory Tours
+![[Pasted image 20221025194303.png]]
+#### Business District
+![[Pasted image 20221025194321.png]]
+
+####
 
 ## Automation vs Human-Driven
 - Unit/System Testing heavily use automation
