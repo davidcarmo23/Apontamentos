@@ -41,3 +41,6 @@
 	- One interface call triggers many internal calls
 		- Slower test execution
 	- May have complex input and setup
+
+- **Tests can be written early in the project**
+	- Requirements discuss high-level functionality
