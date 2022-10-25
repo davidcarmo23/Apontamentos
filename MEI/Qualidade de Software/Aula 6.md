@@ -21,6 +21,12 @@
 ### Session Report Items
 - **Mission: Overall goal**
 - **Charter: Features and scenarios to focus on**
+- **Start and end time of session**
+- **Duration of session**
+- **Testing notes** - Journal of actions taken
+- **Fault information** - 
+- **Issues Information** - 
+- **Set-ip**
 
 ## Automation vs Human-Driven
 - Unit/System Testing heavily use automation
