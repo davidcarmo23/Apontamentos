@@ -85,6 +85,15 @@
 ![[Pasted image 20221025194707.png]]
 
 #### Hotel District
+![[Pasted image 20221025194731.png]]
+
+#### Rained-Out Tour
+![[Pasted image 20221025194747.png]]
+
+#### Couch Potato Tour
+![[Pasted image 20221025194815.png]]
+
+#### Seedy District
 
 
 ## Automation vs Human-Driven
