@@ -24,4 +24,5 @@ Minimizada pelo método da descida do gradiente
 
 ![[Pasted image 20221025201421.png]]
 
-## 
+## Máquinas de vetores de suporte
+- Resolve o mesmo problema que a regressão logística - classificação com duas 
