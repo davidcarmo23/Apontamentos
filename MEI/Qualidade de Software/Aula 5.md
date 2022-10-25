@@ -54,3 +54,12 @@
 ![[Pasted image 20221025190404.png]]
 
 ## Interface Errors
+![[Pasted image 20221025190429.png]]
+
+## Testing Percentages
+![[Pasted image 20221025190448.png]]
+
+## Testing
+![[Pasted image 20221025190507.png]]
+
+## Creating System-Level Tests
