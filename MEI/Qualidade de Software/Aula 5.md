@@ -11,3 +11,8 @@
 - For a unit, tests should:
 	- Test all "jobs" associated with the unit
 	- Set and check value of all class variables
+![[Pasted image 20221025185336.png]]
+
+### Advantages
+- Increases confidence in changing/maintaining code.
+- Coed
