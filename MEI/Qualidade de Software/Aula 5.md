@@ -23,4 +23,8 @@
 
 ## System Testing
 - After testing units, test their **integration**
-	- Integrate 
+	- Integrate units in one subsystem
+	- Then integrate the subsystems
+- Test through a **defined interface**
+![[Pasted image 20221025185702.png]]
+
