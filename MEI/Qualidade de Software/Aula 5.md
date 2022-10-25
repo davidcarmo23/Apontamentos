@@ -105,3 +105,7 @@
 - Errors tend to occur at the boundary of a partition.
 - Remember to select inputs from those boundaries.
 
+Boundary value testing focuses on the boundaries between equivalence classes, simply because that is where so many defects hide
+
+- Method
+![[Pasted image 20221025191712.png]]
