@@ -76,6 +76,15 @@
 ![[Pasted image 20221025194607.png]]
 
 #### Supporting Actor Tour
+![[Pasted image 20221025194629.png]]
+
+#### Tourist District
+![[Pasted image 20221025194644.png]]
+
+#### Supermodel Tour
+![[Pasted image 20221025194707.png]]
+
+#### Hotel District
 
 
 ## Automation vs Human-Driven
