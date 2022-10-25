@@ -118,4 +118,11 @@ Boundary value testing focuses on the boundaries between equivalence classes, si
 
 ## Triggering Interactions
 - **Interactions** result from combining **values** of individual **choices**
-- Want to detect, manage, and 
+- Want to detect, manage, and resolve inadvertent interactions
+
+## Fire and Flood Control
+- FireControl activates sprinklers when fire detected.
+- FloodControl cuts water supply when water detected on floor
+- **Interaction means building burns down**
+
+## Selecting Test 
