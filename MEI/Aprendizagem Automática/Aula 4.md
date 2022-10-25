@@ -32,5 +32,10 @@ Minimizada pelo método da descida do gradiente
 
 ![[Pasted image 20221025201708.png]]
 ![[Pasted image 20221025201723.png]]
+![[Pasted image 20221025201739.png]]
 
+## Avaliação de classificadores
+- A aprendizagem automática visa fazer com que as máquinas fiquem melhores em certas tarefas, aprendendo a partir dos dados
+- Existem muitos tipos diferentes de sistemas de AA: supervisionados ou não, baseado em instâncias ou baseados em modelos
+- 
 
