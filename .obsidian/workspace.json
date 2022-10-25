@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c61e18d263da1478",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20221025193520.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Qualidade de Software/Aula 6.md"
+                "file": "Pasted image 20221025193520.png"
               }
             }
           },
@@ -103,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Qualidade de Software/Aula 6.md",
+                "file": "Pasted image 20221025193520.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,17 +134,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e60d31a995d6877d",
+  "active": "c61e18d263da1478",
   "lastOpenFiles": [
+    "MEI/Qualidade de Software/Aula 7.md",
+    "MEI/Qualidade de Software/Aula 6.md",
     "MEI/Qualidade de Software/Aula 5.md",
     "MEI/Qualidade de Software/Prints/Pasted image 20221025192610.png",
-    "MEI/Qualidade de Software/Aula 6.md",
     "MEI/Qualidade de Software/Prints/Pasted image 20221025191712.png",
     "MEI/Qualidade de Software/Prints/Pasted image 20221025185702.png",
     "MEI/Qualidade de Software/Prints/Pasted image 20220926194322.png",
     "MEI/Qualidade de Software/Aula 4.md",
     "MEI/Qualidade de Software/Aula 3.md",
-    "MEI/Qualidade de Software/Aula 2.md",
-    "MEI/Qualidade de Software/Aula 1.md"
+    "MEI/Qualidade de Software/Aula 2.md"
   ]
 }

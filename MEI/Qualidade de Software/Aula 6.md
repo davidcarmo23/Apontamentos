@@ -94,6 +94,11 @@
 ![[Pasted image 20221025194815.png]]
 
 #### Seedy District
+![[Pasted image 20221025194831.png]]
+
+#### Saboteur Tour
+![[Pasted image 20221025194852.png]]
+
 
 
 ## Automation vs Human-Driven
@@ -104,3 +109,5 @@
 	- Humans interact with app
 	- Based on scenarios, without pre-planned input
 	- Some tool support, but not often repeated exactly
+
+[[Aula 7]]
