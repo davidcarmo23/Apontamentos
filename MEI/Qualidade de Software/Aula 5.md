@@ -44,3 +44,9 @@
 
 - **Tests can be written early in the project**
 	- Requirements discuss high-level functionality
+	- Can create tests using requirements
+- Creating tests support requirement refinement
+- Can be made concrete once code is built
+
+
+## Interface Types
