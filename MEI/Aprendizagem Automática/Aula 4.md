@@ -7,4 +7,4 @@
 - O objetivo do algoritmo é aprender uma regra geral que mapeie corretamente as entradas com as saídas. Os dados de entrada podem ser divididos em dois grupos
 	- *X* , os atributos (características) a serem utilizados na determinação da classe de saída
 	- *Y* , o atributo para o qual se deseja fazer a predição do valor de saída
-	- É comum particionar os dados de entrada (rotulados) em dois conjuntos: 
+	- É comum particionar os dados de entrada (rotulados) em dois conjuntos: **conjunto de treino** que servirá de construir o modelo, e o **conjunto de teste** que servirá para verificar como o modelo se comporta com novos dados, para podermos ajustar o modelo para a construção da versão final
