@@ -15,6 +15,8 @@
 - Can find subtle faults missed by formal testing
 	- Allows tester to better learn system functionality, and identify new ways of using features
 
+### Session-Based Exploratory Testing
+![[Pasted image 20221025193520.png]]
 ## Automation vs Human-Driven
 - Unit/System Testing heavily use automation
 	- Tests written as code
