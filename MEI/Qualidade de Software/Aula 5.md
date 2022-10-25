@@ -66,4 +66,6 @@
 ![[Pasted image 20221025190525.png]]
 
 ### Independently Testable Functionality
-- **A well-**
+- **A well-defined function that can be tested in (relative) isolation**
+	- Based on the "verbs" - what can we do with this system?
+	- High
