@@ -17,4 +17,10 @@
 - Increases confidence in changing/maintaining code.
 - Codes are more reusable. To make unit testing possible, codes need to be 'modular'
 - Are more reliable than developer tests
-- Less effort to find and fix defects found during un
+- Less effort to find and fix defects found during unit testing
+- The cost of fixing a defect is lesser
+- Debugging is easy
+
+## System Testing
+- After testing units, test their **integration**
+	- Integrate 
