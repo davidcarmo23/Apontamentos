@@ -11,7 +11,9 @@
 	- Test design and execution done concurrently
 
 - Tester write down ideas to give direction, then create tests "live"
-	- Tester ch
+	- Tester chooses next action based on results seen
+- Can find subtle faults missed by formal testing
+	- Allows tester to better learn system functionality, and identify new ways of using features
 
 ## Automation vs Human-Driven
 - Unit/System Testing heavily use automation
