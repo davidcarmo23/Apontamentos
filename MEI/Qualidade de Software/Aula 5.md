@@ -50,3 +50,7 @@
 
 
 ## Interface Types
+![[Pasted image 20221025190355.png]]
+![[Pasted image 20221025190404.png]]
+
+## Interface Errors
