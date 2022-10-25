@@ -109,3 +109,9 @@ Boundary value testing focuses on the boundaries between equivalence classes, si
 
 - Method
 ![[Pasted image 20221025191712.png]]
+
+## Internal Interaction
+- **Low-level functions are expected to interact**
+	- Usually this is planned
+	- Sometimes unplanned interactions break the system
+	- **We want to select tests that thoroughly test interactions**
