@@ -115,3 +115,7 @@ Boundary value testing focuses on the boundaries between equivalence classes, si
 	- Usually this is planned
 	- Sometimes unplanned interactions break the system
 	- **We want to select tests that thoroughly test interactions**
+
+## Triggering Interactions
+- **Interactions** result from combining **values** of individual **choices**
+- Want to detect, manage, and 
