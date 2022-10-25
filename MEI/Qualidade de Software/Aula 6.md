@@ -36,6 +36,10 @@
 - Start with a basic scenario and then gradually enhance it to add more features to test it
 ![[Pasted image 20221025193926.png]]
 
+### Pair-Based Exploratory Testing
+![[Pasted image 20221025194106.png]]
+
+### Automating Exploratory Testing
 
 ## Automation vs Human-Driven
 - Unit/System Testing heavily use automation
