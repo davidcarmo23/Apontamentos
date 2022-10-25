@@ -13,5 +13,8 @@
 
 ## Regressão Logística
 
-- Método aplicado apenas para problemas de class
+- Método aplicado apenas para problemas de classificação
+- Ajusta uma curva sigmoide aos dados binários. O modelo produz a probabilidade de uma variável alvo Y pertencer a uma determinada class.
+- Pode também ser aplicada a qualq
+
 
