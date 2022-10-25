@@ -24,9 +24,11 @@
 - **Start and end time of session**
 - **Duration of session**
 - **Testing notes** - Journal of actions taken
-- **Fault information** - 
-- **Issues Information** - 
-- **Set-ip**
+- **Fault information** - Describe each fault. File a bug report, include tracker ID.
+- **Issues Information** - If an issue prevents or complicates testing, describe it.
+	- Include **data files**
+- **Set-up Time** - % of time required to set-up
+- **Test Design and Execution Time** - % of time spent purely on testing
 
 ## Automation vs Human-Driven
 - Unit/System Testing heavily use automation
