@@ -63,3 +63,7 @@
 ![[Pasted image 20221025190507.png]]
 
 ## Creating System-Level Tests
+![[Pasted image 20221025190525.png]]
+
+### Independently Testable Functionality
+- **A well-**
