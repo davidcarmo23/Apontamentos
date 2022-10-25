@@ -25,4 +25,6 @@ Minimizada pelo método da descida do gradiente
 ![[Pasted image 20221025201421.png]]
 
 ## Máquinas de vetores de suporte
-- Resolve o mesmo problema que a regressão logística - classificação com duas 
+- Resolve o mesmo problema que a regressão logística - classificação com duas classes e produz um desempenho semelhante.
+- É geometricamente motivado, em vez de ser conduzido por pensamento probabilístico
+- Realiza um mapeamento não linear para transformar os dados de treino originais em uma dimensão maior, buscando ne
