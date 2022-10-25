@@ -98,3 +98,10 @@
 	- For many, near-infinite set
 - **What about exhaustively trying all options ?**
 ![[Pasted image 20221025191253.png]]
+
+
+## Boundary Values
+
+- Errors tend to occur at the boundary of a partition.
+- Remember to select inputs from those boundaries.
+
