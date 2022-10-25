@@ -30,6 +30,13 @@
 - **Set-up Time** - % of time required to set-up
 - **Test Design and Execution Time** - % of time spent purely on testing
 
+### Tips for Exploratory Testing
+- Divide the application into modules or features, then try to further divide
+- Make a checklist of all the features and put a check mark when each is covered
+- Start with a basic scenario and then gradually enhance it to add more features to test it
+![[Pasted image 20221025193926.png]]
+
+
 ## Automation vs Human-Driven
 - Unit/System Testing heavily use automation
 	- Tests written as code
