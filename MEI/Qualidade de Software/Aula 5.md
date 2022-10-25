@@ -68,4 +68,9 @@
 ### Independently Testable Functionality
 - **A well-defined function that can be tested in (relative) isolation**
 	- Based on the "verbs" - what can we do with this system?
-	- High
+	- High-level functionality offered by an interface
+	- UI - look for user-visible functions
+
+
+### Units and "Functionality"
+- An independently testable function is a capabilit
