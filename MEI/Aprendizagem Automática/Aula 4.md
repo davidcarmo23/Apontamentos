@@ -37,5 +37,11 @@ Minimizada pelo método da descida do gradiente
 ## Avaliação de classificadores
 - A aprendizagem automática visa fazer com que as máquinas fiquem melhores em certas tarefas, aprendendo a partir dos dados
 - Existem muitos tipos diferentes de sistemas de AA: supervisionados ou não, baseado em instâncias ou baseados em modelos
-- 
+- Em um projeto de AA, os dados são reunidos em um conjunto de treino e o conjunto de treino serve de entrada para um algoritmo de aprendizagem
 
+- Se o algoritmo é baseado num modelo, otimiza alguns parâmetros para ajustar o modelo ao conjunto de treino. Espera-se que venha a ser capaz de fazer **boas previsões sobre novos casos**
+
+- Se o algoritmo é baseado em instâncias, apenas aprende os exemplos e generaliza para novas instâncias usando uma **medida de similaridade** para comparar com as instâncias aprendidas
+
+- **O modelo não deve ser muito simples (nesse caso o ajuste será insuficiente) nem muito complexo (nesse caso terá sobreajuste)**
+### Como
