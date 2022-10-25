@@ -33,4 +33,10 @@
 - This is the only phase of testing which test *both* functional and non-functional requirements of the system
 
 ## Unit vs System Testing
-- 
+- Unit tests focus on a **single class**
+	- Simple functionality, more freedom
+	- Few method calls
+- System tests **bring many classes together**
+	- Focus on testing through an interface
+	- One interface call triggers many internal calls
+		- Slower t
