@@ -78,4 +78,7 @@
 	- **Defined by an interface**
 
 ### Identify Input Choices
-- What choices do we ,a
+- What choices do we make when using a function?
+	- **Anything we control that can change the outcome**
+- What are the **inputs** to that feature?
+- What **configuration choices** can we make
