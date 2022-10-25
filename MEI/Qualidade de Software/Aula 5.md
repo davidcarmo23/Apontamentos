@@ -81,4 +81,10 @@
 - What choices do we make when using a function?
 	- **Anything we control that can change the outcome**
 - What are the **inputs** to that feature?
-- What **configuration choices** can we make
+- What **configuration choices** can we make?
+- Are there **environmental factors** we can vary?
+
+#### Parameter Characteristics
+![[Pasted image 20221025191109.png]]
+
+#### Parameter Context
