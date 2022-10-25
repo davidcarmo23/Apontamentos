@@ -8,3 +8,6 @@
 - Test input = method calls
 - Test oracle = assertions on output/class variables
 
+- For a unit, tests should:
+	- Test all "jobs" associated with the unit
+	- Set and check value of all class variables
