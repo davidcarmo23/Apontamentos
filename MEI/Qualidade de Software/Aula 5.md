@@ -15,4 +15,6 @@
 
 ### Advantages
 - Increases confidence in changing/maintaining code.
-- Coed
+- Codes are more reusable. To make unit testing possible, codes need to be 'modular'
+- Are more reliable than developer tests
+- Less effort to find and fix defects found during un
