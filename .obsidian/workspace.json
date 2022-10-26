@@ -11,7 +11,7 @@
             "id": "80651325112652f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "full-calendar-view",
               "state": {}
             }
           }
@@ -111,12 +111,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "80651325112652f0",
+  "active": "2db07addc4f32f70",
   "lastOpenFiles": [
     "MEI/Qualidade de Software/Aula 6.md",
     "MEI/Aprendizagem Automática/Prints/Pasted image 20221025202240.png",
