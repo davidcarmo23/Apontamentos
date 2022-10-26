@@ -4,29 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7fea08c7245b48fd",
+        "id": "9c60e84b83a9ee36",
         "type": "tabs",
         "children": [
           {
-            "id": "e60d31a995d6877d",
+            "id": "80651325112652f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MEI/Qualidade de Software/Aula 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c61e18d263da1478",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "MEI/Aprendizagem Automática/Prints/Pasted image 20221025202240.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,9 +72,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MEI/Qualidade de Software/Aula 6.md"
-              }
+              "state": {}
             }
           },
           {
@@ -113,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Qualidade de Software/Aula 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +116,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "70351f0ca651e72c",
+  "active": "80651325112652f0",
   "lastOpenFiles": [
+    "MEI/Qualidade de Software/Aula 6.md",
     "MEI/Aprendizagem Automática/Prints/Pasted image 20221025202240.png",
     "MEI/Aprendizagem Automática/Aula 4.md",
     "MEI/Qualidade de Software/Aula 5.md",
@@ -143,7 +127,6 @@
     "MEI/Aprendizagem Automática/Prints/Pasted image 20221005171520.png",
     "MEI/Aprendizagem Automática/Aula 3.md",
     "MEI/Sistemas de Informação/Aula 1.md",
-    "MEI/Sistemas de Informação/Aula 2.md",
-    "MEI/Sistemas de Informação/Aula 3.md"
+    "MEI/Sistemas de Informação/Aula 2.md"
   ]
 }
