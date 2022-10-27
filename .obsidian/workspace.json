@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8fb9ad2a497009e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,10 +139,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "1d859169e4dd248f",
+  "active": "a8fb9ad2a497009e",
   "lastOpenFiles": [
     "MEI/Qualidade de Software/Aula 6.md",
     "MEI/Aprendizagem Automática/Prints/Pasted image 20221025202240.png",
