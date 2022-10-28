@@ -57,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5036334991455
+    "width": 292.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -72,9 +73,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MEI/Sistemas de Informação/Aula 4.md"
-              }
+              "state": {}
             }
           },
           {
@@ -99,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Sistemas de Informação/Aula 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +115,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "70351f0ca651e72c",
+  "active": "80651325112652f0",
   "lastOpenFiles": [
+    "MEI/Sistemas de Informação/Aula 4.md",
     "MEI/Sistemas de Informação/Aula 3.md",
     "MEI/Sistemas de Informação/Aula 2.md",
     "MEI/Sistemas de Informação/Aula 1.md",
@@ -127,7 +126,6 @@
     "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md",
     "MEI/Qualidade de Software/Aula 6.md",
     "MEI/Qualidade de Software/Aula 3.md",
-    "MEI/Qualidade de Software/Aula 2.md",
-    "MEI/Qualidade de Software/Aula 4.md"
+    "MEI/Qualidade de Software/Aula 2.md"
   ]
 }
