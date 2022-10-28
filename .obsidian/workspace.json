@@ -14,8 +14,21 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "4ac94bb3a65100d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MEI/Qualidade de Software/Aula 6.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5036334991455,
-    "collapsed": true
+    "width": 292.5036334991455
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -73,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MEI/Qualidade de Software/Aula 6.md"
+              }
             }
           },
           {
@@ -98,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MEI/Qualidade de Software/Aula 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "80651325112652f0",
+  "active": "4ac94bb3a65100d6",
   "lastOpenFiles": [
+    "MEI/Interface Hardware Software/Aula 2.md",
+    "MEI/Interface Hardware Software/Aula 3.md",
+    "MEI/Interface Hardware Software/Aula 4.md",
+    "MEI/Interface Hardware Software/Aula 5.md",
+    "MEI/Interface Hardware Software/Prints/Pasted image 20221005160940.png",
     "MEI/Sistemas de Informação/Aula 4.md",
     "MEI/Sistemas de Informação/Aula 3.md",
     "MEI/Sistemas de Informação/Aula 2.md",
     "MEI/Sistemas de Informação/Aula 1.md",
-    "MEI/Sistemas de Gestão de Base de Dados/Aula 4.md",
-    "MEI/Sistemas de Gestão de Base de Dados/Aula 3.md",
-    "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md",
-    "MEI/Qualidade de Software/Aula 6.md",
-    "MEI/Qualidade de Software/Aula 3.md",
-    "MEI/Qualidade de Software/Aula 2.md"
+    "MEI/Sistemas de Gestão de Base de Dados/Aula 4.md"
   ]
 }
