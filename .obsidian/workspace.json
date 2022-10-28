@@ -26,21 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a8fb9ad2a497009e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MEI/Datas de Avaliação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Datas de Avaliação.md"
+                "file": "MEI/Qualidade de Software/Aula 3.md"
               }
             }
           },
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Datas de Avaliação.md",
+                "file": "MEI/Qualidade de Software/Aula 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +129,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a8fb9ad2a497009e",
+  "active": "1d859169e4dd248f",
   "lastOpenFiles": [
+    "MEI/Datas de Avaliação.md",
     "MEI/Qualidade de Software/Aula 6.md",
     "MEI/Aprendizagem Automática/Prints/Pasted image 20221025202240.png",
     "MEI/Aprendizagem Automática/Aula 4.md",
@@ -151,7 +140,6 @@
     "MEI/Aprendizagem Automática/Prints/Pasted image 20221025200733.png",
     "MEI/Aprendizagem Automática/Prints/Pasted image 20221005171520.png",
     "MEI/Aprendizagem Automática/Aula 3.md",
-    "MEI/Sistemas de Informação/Aula 1.md",
-    "MEI/Sistemas de Informação/Aula 2.md"
+    "MEI/Sistemas de Informação/Aula 1.md"
   ]
 }
