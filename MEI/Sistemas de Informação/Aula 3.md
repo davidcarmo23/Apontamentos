@@ -58,3 +58,6 @@
 
 - **Explícito** -> transmissível numa linguagem formal, podendo ser expresso através de palavras e de números, inscrito num suporte acessível (informático ou não), sendo facilmente partilhado e atualizado além de claramente gerível.
 - **Tácito** ->  igualmente importante para o sucesso de uma organização, mas não é facilmente visto ou expresso. É fortemente pessoal e difícil de formalizar. Pode estar radicado ou enraizado nas experiências, nas atitudes, nos valores e nos padrões de comportamento dos indivíduos.
+
+Estes dois tipos poderão ser de âmbito individual ou coletivo
+O **Explícito** é o maior desafio das organizações -> transformar *táito*
