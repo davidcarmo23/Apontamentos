@@ -44,3 +44,7 @@
 ### Estrutura/Intervenção Humana
 ![[Pasted image 20221101113856.png]]
 
+![[Pasted image 20221101115107.png]]
+
+
+# Caracterização do conhecimento
