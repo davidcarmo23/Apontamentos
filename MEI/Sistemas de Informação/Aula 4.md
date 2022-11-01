@@ -71,4 +71,4 @@
 
 ### TPS
 - **Tipos**
-- 
+	- **Online (Tempo)**
