@@ -173,3 +173,9 @@ Um sistema é composto por quatro funções básicas
 ![[Pasted image 20221101130018.png]]
 ![[Pasted image 20221101130028.png]]
 
+# Tecnologia
+![[Pasted image 20221101130054.png]]
+![[Pasted image 20221101130103.png]]
+![[Pasted image 20221101130117.png]]
+
+# Sistemas e Tecnologias de Informação
