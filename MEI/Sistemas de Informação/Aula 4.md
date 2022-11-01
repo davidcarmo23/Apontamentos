@@ -50,4 +50,9 @@
 	- Necessitam de julgamento humano;
 	- ex: seleção de modelos de equipamentos
 - **Não-Estruturados** -> situações específicas, frequentemente únicas (ambientes complexos e dinâmicos):
-- Dificilmente automatizados; • Necessitam de muito julgamento humano; • ex: seleção de produtos e/ou serviços a produzir e/ou fornecer
+	- Dificilmente automatizados;
+	- Necessitam de muito julgamento humano; 
+	- ex: seleção de produtos e/ou serviços a produzir e/ou fornecer
+
+# Níveis Organizacionais
+- **Nível Estratégico** -> Gestores de topo
