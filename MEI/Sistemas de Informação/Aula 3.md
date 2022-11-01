@@ -137,4 +137,8 @@ Um sistema é composto por quatro funções básicas
 - **Input** > recolha/aquisição dos elementos que entram no sistema para serem processados
 - **Processamento** -> Processo de transformação dos inputs em produto acabado
 - **Armazenamento** -> Armazenamento temporário de produtos
-- **Output** -> produto 
+- **Output** -> produto acabado, resultante do processo de transformação
+
+“*Feedback*” (retroalimentação): informação produzida pelo sistema que informa sobre o comportamento do próprio sistema; mecanismo de correção de erros/desvios
+
+## 
