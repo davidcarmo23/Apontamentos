@@ -35,7 +35,10 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-
+ **Tipos de Gestores**
+	- *Gestores de topo* -> tomam decisões estratégicas de longo-prazo sobre produtos e serviços a produzir
+	- *gestores intermédios* -> executam os programas e planos do gestores de topo; 
+	- *gestores operacionais* -> monitorizam as atividades diárias da empresa
 
 --- column-end ---
 
@@ -48,14 +51,26 @@ Largest Column: standard
 
 === end-multi-column
 
-
-- **Tipos de Gestores**
-	- *Gestores de topo* -> tomam decisões estratégicas de longo-prazo sobre produtos e serviços a produzir
-	- *gestores intermédios* -> executam os programas e planos do gestores de topo; 
-	- *gestores operacionais* -> monitorizam as atividades diárias da empresa
--
-
 ## Tipos de problemas a resolver
+
+```start-multi-column
+ID: ID_14tn
+Number of Columns: 3
+Largest Column: standard
+```
+
+
+
+--- column-end ---
+
+
+**Não-Estruturados** -> situações específicas, frequentemente únicas (ambientes complexos e dinâmicos):
+	- Dificilmente automatizados;
+	- Necessitam de muito julgamento humano; 
+	- ex: seleção de produtos e/ou serviços a produzir e/ou fornecer
+=== end-multi-column
+
+
 - **Estruturados** -> operações ou transações, cujos processos de recuperação e controle de dados são repetitivos:
 	- Facilmente automatizados; 
 	- Todos os dados relevantes estão disponíveis; 
@@ -65,10 +80,7 @@ Largest Column: standard
 	- Algumas partes podem ser automatizadas;
 	- Necessitam de julgamento humano;
 	- ex: seleção de modelos de equipamentos
-- **Não-Estruturados** -> situações específicas, frequentemente únicas (ambientes complexos e dinâmicos):
-	- Dificilmente automatizados;
-	- Necessitam de muito julgamento humano; 
-	- ex: seleção de produtos e/ou serviços a produzir e/ou fornecer
+- 
 
 # Níveis Organizacionais
 - **Nível Estratégico** -> Gestores de topo, definem e monitorizam o rumo da empresa
