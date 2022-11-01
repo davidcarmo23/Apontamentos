@@ -118,3 +118,4 @@ Largest Column: standard
 
 ### Análise Estratégica
 
+Base de todo o processo -> proc
