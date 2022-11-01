@@ -53,23 +53,6 @@ Largest Column: standard
 
 ## Tipos de problemas a resolver
 
-```start-multi-column
-ID: ID_14tn
-Number of Columns: 3
-Largest Column: standard
-```
-
-
-
---- column-end ---
-
-
-**Não-Estruturados** -> situações específicas, frequentemente únicas (ambientes complexos e dinâmicos):
-	- Dificilmente automatizados;
-	- Necessitam de muito julgamento humano; 
-	- ex: seleção de produtos e/ou serviços a produzir e/ou fornecer
-=== end-multi-column
-
 
 - **Estruturados** -> operações ou transações, cujos processos de recuperação e controle de dados são repetitivos:
 	- Facilmente automatizados; 
@@ -80,7 +63,10 @@ Largest Column: standard
 	- Algumas partes podem ser automatizadas;
 	- Necessitam de julgamento humano;
 	- ex: seleção de modelos de equipamentos
-- 
+- **Não-Estruturados** -> situações específicas, frequentemente únicas (ambientes complexos e dinâmicos):
+	- Dificilmente automatizados;
+	- Necessitam de muito julgamento humano; 
+	- ex: seleção de produtos e/ou serviços a produzir e/ou fornecer
 
 # Níveis Organizacionais
 - **Nível Estratégico** -> Gestores de topo, definem e monitorizam o rumo da empresa
