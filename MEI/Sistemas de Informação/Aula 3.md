@@ -159,3 +159,8 @@ Um sistema é composto por quatro funções básicas
 
 - É composto por diversos subsistemas de natureza conceptual idêntica à daquele que integram(contabilidade, RH, produção...), mas com características específicas quanto à sua finalidade e justificação, quanto ao tipo de tecnologias utilizadas e quanto ao nível dos processos ou natureza das pessoas envolvidas
 
+![[Pasted image 20221101125840.png]]
+![[Pasted image 20221101125850.png]]
+
+## Arquitetura Geral do Sistema de Informação
+![[Pasted image 20221101125918.png]]
