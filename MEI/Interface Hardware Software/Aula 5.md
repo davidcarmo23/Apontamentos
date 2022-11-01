@@ -38,3 +38,4 @@ O seu valor é *diferente* para cada nível da organização.
 Uma das formas de obter vantagens competitivas consiste no melhoramento do fluxo de informação entre a organização e cada um dos elementos do seu ambiente.
 ![[Pasted image 20221101153632.png]]
 
+- Quanto mais importante for determinada informação para as necessidades da empres
