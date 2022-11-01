@@ -28,4 +28,9 @@
 	- retém dados significativos da sua experiência – ex: controlo de qualidade-devoluções (feedback)
 
 ## Gestores
-- **T**
+- **Tipos de Gestores**
+	- *Gestores de topo* -> tomam decisões estratégicas de longo-prazo sobre produtos e serviços a produzir
+	- *gestores intermédios* -> executam os programas e planos do gestores de topo; 
+	- *gestores operacionais* -> monitorizam as atividades diárias da empresa
+- **Funções dos Gestores**
+	- 
