@@ -62,3 +62,9 @@
 Estes dois tipos poderão ser de âmbito individual ou coletivo
 O **Explícito** é o maior desafio das organizações -> transformar *tácito* em *explícito* e organizá-lo para torná-lo disponível.
 
+## Criação do Conhecimento
+Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e transformações contínuas, de um tipo de conhecimento para outro (explícito ↔ tácito), intencionalmente ou não.
+
+![[Pasted image 20221101120630.png]]
+
+- 
