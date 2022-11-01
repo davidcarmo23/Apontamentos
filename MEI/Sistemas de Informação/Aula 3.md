@@ -103,4 +103,7 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 
 # Níveis de Responsabilidade <-> Informação
 - **Estratégico** -> Planeamento a longo prazo
-	- Interface da organização com o meio que a rodeia -> perceção e antecipação das mudanças no meio e definição das respos
+	- Interface da organização com o meio que a rodeia -> perceção e antecipação das mudanças no meio e definição das respostas a dar
+	- Estabelece os objetivos e seleciona as estratégias para os atingir
+- **Tático** -> Supervisão e planeamento de atividades
+	- Transforma as decisões do nível estratégico em prog
