@@ -114,14 +114,14 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "4045169251f3b4ac",
+  "active": "2db07addc4f32f70",
   "lastOpenFiles": [
     "MEI/Sistemas de Informação/Aula 2.md",
     "MEI/Sistemas de Informação/Aula 1.md",
