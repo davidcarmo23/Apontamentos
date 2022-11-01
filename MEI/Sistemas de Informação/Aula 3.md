@@ -110,4 +110,4 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 	- obtém e aloca eficientemente os recursos necessários à execução das atividades
 - **Operacional** -> atividades de rotina da organização
 	- preocupa-se com a execução das tarefas e recursos necessários para produzir eficientemente bens\serviços de qualidade
-	- responsabilidade de exe
+	- responsabilidade de executar os planos definidos nos níveis anteriores
