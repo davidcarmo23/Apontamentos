@@ -94,5 +94,12 @@
 	- Permitem planear, comparar, controlar e tomar decisões 
 	- Alertar para a existência de problemas e oportunidades
 - **Característica dos outputs (relatórios)**
-	- Periódicos: em determinados intervalos (semanais, mensais) – Sumários: agregam informação 
-	- Específicos: mostram somente um subconjunto da informação disponível – Comparativos: comparam subconjuntos de informação análoga • Vantagem dos MIS sobre os TPS: – Maior flexibilidade na obtenção dos elementos necessários para a gestão – Maior integração de informação através das diferentes áreas funcionais • Exemplos: Vendas por região: Real vs Planeado; Análise da evolução dos custos; Controlo de Produção. Aplicações: Eticadata, PHC, Primavera Software, SAP(Systems Applications and Products).
+	- Periódicos: em determinados intervalos (semanais, mensais) 
+	- Sumários: agregam informação 
+	- Específicos: mostram somente um subconjunto da informação disponível
+	- Comparativos: comparam subconjuntos de informação análoga 
+- **Vantagem dos MIS sobre os TPS**
+	- Maior flexibilidade na obtenção dos elementos necessários para a gestão 
+	- Maior integração de informação através das diferentes áreas funcionais
+- **Exemplos**Vendas por região: Real vs Planeado; Análise da evolução dos custos; Controlo de Produção. 
+	- Aplicações: Eticadata, PHC, Primavera Software, SAP(Systems Applications and Products).
