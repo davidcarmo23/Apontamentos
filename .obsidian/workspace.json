@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9c60e84b83a9ee36",
+        "id": "cd86c1b1b78e84d8",
         "type": "tabs",
         "children": [
           {
-            "id": "80651325112652f0",
+            "id": "4045169251f3b4ac",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MEI/Sistemas de Informação/Aula 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -72,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MEI/Sistemas de Informação/Aula 3.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MEI/Sistemas de Informação/Aula 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,8 +121,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "80651325112652f0",
+  "active": "4045169251f3b4ac",
   "lastOpenFiles": [
+    "MEI/Sistemas de Informação/Aula 2.md",
+    "MEI/Sistemas de Informação/Aula 1.md",
     "MEI/Qualidade de Software/Aula 7.md",
     "MEI/Qualidade de Software/Aula 6.md",
     "MEI/Sistemas de Informação/Aula 5.md",
@@ -123,8 +132,6 @@
     "MEI/Aprendizagem Automática/Aula 4.md",
     "MEI/Aprendizagem Automática/Aula 5.md",
     "MEI/Aprendizagem Automática/Aula 3.md",
-    "MEI/Qualidade de Software/Aula 4.md",
-    "MEI/Qualidade de Software/Aula 5.md",
-    "MEI/Interface Hardware Software/Aula 2.md"
+    "MEI/Qualidade de Software/Aula 4.md"
   ]
 }

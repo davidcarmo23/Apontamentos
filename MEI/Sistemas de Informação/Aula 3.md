@@ -1,0 +1,2 @@
+## Dados -> Informação -> Conhecimento -> saber
+
