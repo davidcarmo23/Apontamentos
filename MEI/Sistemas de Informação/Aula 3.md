@@ -73,3 +73,11 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 - **Interiorização** -> integração de conhecimentos explícitos no nosso comportamento, através da prática das técnicas, regras, descobertas científicas, etc
 
 ## Gestão do Conhecimento
+- A este dinamismo na criação de conhecimento deverá corresponder igual dinamismo na sua gestão
+- ![[Pasted image 20221101120855.png]]
+
+![[Pasted image 20221101120911.png]]
+
+- As pessoas atuam baseando-se na informação e no conhecimento que têm acumulado; 
+- As ações e seus resultados alimentam o processo de acumulação de conhecimento; 
+- A acumulação de conhecimento – saber – torna as pessoas mais capazes de transformar dados em informação e de a usar para tomar decisões e agirem;
