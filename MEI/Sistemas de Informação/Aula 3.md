@@ -60,4 +60,5 @@
 - **Tácito** ->  igualmente importante para o sucesso de uma organização, mas não é facilmente visto ou expresso. É fortemente pessoal e difícil de formalizar. Pode estar radicado ou enraizado nas experiências, nas atitudes, nos valores e nos padrões de comportamento dos indivíduos.
 
 Estes dois tipos poderão ser de âmbito individual ou coletivo
-O **Explícito** é o maior desafio das organizações -> transformar *táito*
+O **Explícito** é o maior desafio das organizações -> transformar *tácito* em *explícito* e organizá-lo para torná-lo disponível.
+
