@@ -59,4 +59,7 @@
 	- **ESS (Executive Suport Systems), DSS (Decision-Support Systems)** -> Quais produtos? Tendências de custos?
 - **Nível Tático** -> Gestores médios, técnicos, secretárias. Monitorizam, controlam e tomam decisões, desenvolvem atividades administrativas.
 	- **DSS (Decision-Support Systems), MIS (Management Information Systems) OAS (Office Automation Systems), KMS (Knowledge Management Systems)** Estatísticas de vendas , Controlo orçamental, CAD, Software Office, gestão documental
-- **Nível Operacional** -> 
+- **Nível Operacional** -> Operários, compras, produção, vendas, fluxos de materiais
+	- **TPS (Transaction Processing Systems)** Quantas peças de X? Pagamento do Sr. Y?
+
+## Tipos de SI : N
