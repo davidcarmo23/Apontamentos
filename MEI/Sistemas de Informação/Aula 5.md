@@ -116,3 +116,5 @@ Largest Column: standard
 ![[Pasted image 20221101160445.png]]
 
 
+### Análise Estratégica
+
