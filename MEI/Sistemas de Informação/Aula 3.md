@@ -108,4 +108,6 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 - **Tático** -> Supervisão e planeamento de atividades
 	- Transforma as decisões do nível estratégico em programas de ação para concretizar os objetivos da gestão
 	- obtém e aloca eficientemente os recursos necessários à execução das atividades
-- **Operacional** ->
+- **Operacional** -> atividades de rotina da organização
+	- preocupa-se com a execução das tarefas e recursos necessários para produzir eficientemente bens\serviços de qualidade
+	- responsabilidade de exe
