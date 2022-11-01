@@ -95,3 +95,7 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 - **Concisa** (de fácil manipulação): informação demasiado extensa ou pormenorizada, acabará por não ser utilizada;
 
 **"Informação certa, às pessoas certas e na hora certa"**
+
+# Organização
+
+- Conjunto de pessoas e de meios, que concorrem para um fim comum
