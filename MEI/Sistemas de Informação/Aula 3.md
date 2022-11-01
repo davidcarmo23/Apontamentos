@@ -81,3 +81,9 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 - As pessoas atuam baseando-se na informação e no conhecimento que têm acumulado; 
 - As ações e seus resultados alimentam o processo de acumulação de conhecimento; 
 - A acumulação de conhecimento – saber – torna as pessoas mais capazes de transformar dados em informação e de a usar para tomar decisões e agirem;
+
+# Caracterização da Informação
+
+-![[Pasted image 20221101121021.png]]
+
+- Suporta a tomada de decisão
