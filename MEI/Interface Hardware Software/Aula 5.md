@@ -61,4 +61,10 @@ Uma das formas de obter vantagens competitivas consiste no melhoramento do fluxo
 O sucesso de um SI dependerá intrinsecamente da qualidade do PSI, DSI e ESI ou seja da qualidade da sua gestão
 
 - **GSI** -> é um processo em que as atividades são relacionais e interdependentes entre si, ocorrendo numa sequência lógica:
-	- PSI -> Pensar os sistemas -> DSI -> 
+	- PSI -> Pensar os sistemas -> DSI -> Produzir os Sistemas -> ESI -> Utilizar os sistemas
+	- é um *processo contínuo*, podendo ocorrer em simultâneo (ex: sistemas antigos coexistem com sistemas novos); 
+	- é um *processo interativo*, dado que em qualquer atividade da GSI poderão ser identificados novos problemas ou oportunidades; 
+	- é um *processo cíclico*, em que as atividades se alimentam e influenciam mutuamente (ex: uma dada implementação pode ter de ser modificada em função de alterações no ambiente ou em condições internas); 
+	- **objetivos**
+		1) contribuir para melhorar a estratégia do negócio – disponibilizando a informação necessária à gestão e alinhando o SI com a estratégia do negócio;
+		2) ajudar a melhorar os sistemas atuais – identificando ineficiências, redundâncias, etc;
