@@ -18,8 +18,14 @@
 - **Controlar o negócio** -> despesas, receitas, rentabilidade, tempos de execução, stocks... - a visão geral do negócio para tomar as melhores decisões
 
 ## Gestão e Informação
-- Informação -> **recurso** usado para apoiar a tomada de decisões -> precisa de ser gerido como qualquer outro recurso
+- Informação -> *recurso* usado para apoiar a tomada de decisões -> precisa de ser gerido como qualquer outro recurso
 - Recurso mais valioso que outros, pois
 	- descreve recursos físicos e o mundo onde se encontram
 	- a posse de recursos físicos sem informação acerca deles tem pouca utilidade
-- Através de representaç
+- Através de representações informacionais
+	- a empresa organiza-se para *competir* – ex: moda (modelos, cores), prazos de entrega
+	- adquire conhecimentos úteis ao seu *funcionamento* – ex: nível de vendas
+	- retém dados significativos da sua experiência – ex: controlo de qualidade-devoluções (feedback)
+
+## Gestores
+- **T**
