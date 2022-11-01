@@ -67,3 +67,4 @@
 	- Suportam as operações (eventos) elementares diárias da empresa: vendas, recibos, depósitos, fluxo de materiais.
 	- Devem responder a perguntas de rotina como: Quantas partes do produto X há no inventário? O que aconteceu ao pagamento do sr. Y?
 	- Neste nível, as tarefas, recursos e objetivos, estão predefinidos e são estruturados. Portanto o nível de automatização das tarefas é muito elevado.
+![[Pasted image 20221101144250.png]]
