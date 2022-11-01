@@ -120,5 +120,6 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 	- lidam com informação para tomada de decisões táticas e operacionais, de modo a implementarem as decisões de topo; 
 	- a informação apresenta-se sob a forma de relatórios sumariados e de tabelas;
 - **Operacional** -> TPS-Transaction Processing Systems
-	- preocupa-se com a execução das tarefas e recursos necessários para produzir eficientemente bens\serviços de qualidade
-	- responsabilidade de executar os planos definidos nos níveis anteriores
+	- processam grandes quantidades de informação (faturas, dados de produção,...) 
+	- grau de complexidade pequeno mas constitui a fonte básica, geradora da informação que flui na organização;
+	- a informação deve ser precisa e de fácil acesso; • faz uso de relatórios detalhados
