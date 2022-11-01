@@ -175,11 +175,15 @@ Largest Column: standard
 	- contratação e alocação de recursos humanos, técnicos e financeiros;
 	- planos de reorganização interna e de suporte aos utilizadores;
 
+
+
+--- column-end ---
+
 - Estratégias - a implementação deve ser continuamente avaliada e controlada de modo a: 
 	- assegurar que respondem às mudanças, tanto organizacionais como tecnológicas; 
 	- verificar se os benefícios e objetivos esperados estão a ser alcançados ou não; 
 	- garantir o permanente *alinhamento* com o negócio, sendo revistas em consonância;
-
-
+	
 === end-multi-column
+
 
