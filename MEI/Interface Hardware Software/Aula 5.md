@@ -88,7 +88,9 @@ Largest Column: standard
 
 **Perfil do Analista**
 - forte conhecedor do negócio da organização
-possuidor de conhecimentos técnicos adequadosgrande capacidade de relacionamento humano
+- possuidor de conhecimentos técnicos adequados
+- grande capacidade de relacionamento humano
 
 === end-multi-column
 
+# Componentes da Gestão de Sistemas de Informação
