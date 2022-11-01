@@ -126,11 +126,23 @@ Number of Columns: 2
 Largest Column: standard
 ```
 
-- **ambiente interno** -> o que a organização faz, como o faz e qual a sua estrutura • funcionamento do negócio: objetivos e estratégias • ambiente organizacional: valores e cultura da organização • recursos humanos: capacidades e relações (formais e informais) • estilo de gestão: centralizada, por delegação
+- **ambiente interno** -> o que a organização faz, como o faz e qual a sua estrutura
+	- funcionamento do negócio: objetivos e estratégias 
+	- ambiente organizacional: valores e cultura da organização 
+	- recursos humanos: capacidades e relações (formais e informais) 
+	- estilo de gestão: centralizada, por delegação
 
 --- column-end ---
-ambiente externo: forças que afetam o negócio • fatores competitivos: preços, qualidade, prazos de entrega • conjuntura económica, social, política, legal, ecológica e tecnológica • relacionamento com fornecedores, clientes, competidores e entidades reguladoras
+- **ambiente externo** -> forças que afetam o negócio 
+	- fatores competitivos: preços, qualidade, prazos de entrega 
+	- conjuntura económica, social, política, legal, ecológica e tecnológica
+	- relacionamento com fornecedores, clientes, competidores e entidades reguladoras
 
 
 === end-multi-column
 
+- **Objetivos**
+	- identificar problemas e oportunidades para o desenvolvimento e exploração de SI; 
+	- analisar as tendências e inovações tecnológicas selecionando aquelas que podem trazer um maior impacto para a organização; 
+	- definir as necessidades de SI/TI para o DSI, criando cenários alternativos em função de: custos/benefícios, riscos e implicações organizacionais, recursos necessários, grandes opções tecnológicas;
+	- o resultado desta atividade não deverá apenas ser uma perceção precisa da situação actual, mas também, das aspirações e direções estratégicas da organização e do seu SI (olhar para a frente)
