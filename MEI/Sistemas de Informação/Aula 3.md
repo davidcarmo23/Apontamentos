@@ -101,4 +101,6 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 - Conjunto de pessoas e de meios, que concorrem para um fim comum
 ![[Pasted image 20221101121438.png]]
 
-# Níveis de Responsabilidade
+# Níveis de Responsabilidade <-> Informação
+- **Estratégico** -> Planeamento a longo prazo
+	- Interface da organização com o meio que a rodeia -> perceção e antecipação das mudanças no meio e definição das respos
