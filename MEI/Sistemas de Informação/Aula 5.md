@@ -152,3 +152,22 @@ Largest Column: standard
 Tem como objetivo precisar o futuro desejado para o SI e como este deve ser suportado pelas TI, ou seja, definir qual o papel pretendido para o SI na estrutura e atividades da organização
 
 ![[Pasted image 20221101161451.png]]
+
+### Implementação Estratégica
+
+
+```start-multi-column
+ID: ID_ry0y
+Number of Columns: 3
+
+Largest Column: standard
+```
+
+
+
+--- column-end ---
+
+
+
+=== end-multi-column
+
