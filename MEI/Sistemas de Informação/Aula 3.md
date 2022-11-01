@@ -153,3 +153,5 @@ Um sistema é composto por quatro funções básicas
 
 **Ponto de vista da informática** -> conjunto de componentes relacionados cuja função é recolher, guardar, processar e divulgar a informação
 **Ponto de vista das organizações** -> entidade socio-técnica, constituída por um conjunto de *procedimentos*, de *pessoas* e de *tecnologias*, organizadas para apoiarem o *controlo* e a *tomada de decisão* de modo que a empresa alcance os seus objetivos. Serve para ajudar os gestores e restante pessoal a analisar problemas da empresa, a visualizar situações complexas e a apoiar na criação de novos produtos ou serviços, bem como no acesso a novos mercados
+![[Pasted image 20221101124642.png]]
+
