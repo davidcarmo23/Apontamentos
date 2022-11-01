@@ -151,3 +151,4 @@ Um sistema é composto por quatro funções básicas
 	- tomados como um sub-sistema principal sobre o qual recai bastante atenção por parte dos agentes decisores
 	- pode constituir por si só um sistema autónomo, mas a sua principal utilidade é dar suporte a outros sistemas
 
+**Ponto de vista da informática** -> conjunto de componentes relacionados cuja função é recolher, guardar, processar e divulgar a informa
