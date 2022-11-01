@@ -78,3 +78,7 @@
 		- Programa de processamento de salários
 		- Vantagens -> Tipicamente mais eficientes e baratos; maior controlo
 	- **Exemplos de TPS**
+		- Encomendas, faturação, reservas de hotel, controlo de produção (a nível de entrada de dados)
+		- Aplicações: WinRest, PHC, Primavera Software, SAP(Systems Applications and Products).
+
+## Tipos de SI __
