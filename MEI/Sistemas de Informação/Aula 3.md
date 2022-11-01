@@ -37,4 +37,8 @@
 ## Saber
 - Característica humana
 	- Envolve os valores e propósitos da espécie humana
-- Existe dentro das pessoas, faz parte da sua comple
+- Existe dentro das pessoas, faz parte da sua complexidade e imprevisibilidade
+- Resulta da atividade cerebral, apenas se transmite eficientemente através da rede humana
+- Aplicação dos conceitos anteriores com vista à tomada de decisões
+
+# Est
