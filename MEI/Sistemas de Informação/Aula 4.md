@@ -81,4 +81,8 @@
 		- Encomendas, faturação, reservas de hotel, controlo de produção (a nível de entrada de dados)
 		- Aplicações: WinRest, PHC, Primavera Software, SAP(Systems Applications and Products).
 
-## Tipos de SI __
+## Tipos de SI : Nível Tático
+- **Sistemas de nível tático (apoio à gestão) - MIS (Management Information Systems) / DSS (Decision-Support Systems) / OAS (Office Automation Systems)** 
+	- Suportam as atividades dos gestores médios da empresa, tais como: planeamento, controlo e tomada de decisão; 
+	- Estes sistemas permitem determinar se as coisas estão a andar bem. Tipicamente fornecem relatórios menos frequentes e mais resumidos que nos TPS. ex: relatórios com estatísticas das operações, com totais e comparações.
+![[Pasted image 20221101150327.png]]
