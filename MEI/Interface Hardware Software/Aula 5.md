@@ -54,4 +54,8 @@ Uma das formas de obter vantagens competitivas consiste no melhoramento do fluxo
 - **GSI** ->conjunto de atividades necessárias para gerir a informação, o sistema de informação(SI) e as tecnologias de informação(TI) que o suportam
 	- ![[Pasted image 20221101154748.png]]
 
-- GSI -> Engloba a gestão do recurso informação e de todos os recursos envolvidos no *planeamento* (PSI), *desenvolvimento* (DSI) e *exploração* (ESI)
+- GSI -> Engloba a gestão do recurso informação e de todos os recursos envolvidos no *planeamento* (PSI), *desenvolvimento* (DSI) e *exploração* (ESI) de SI
+
+![[Pasted image 20221101154852.png]]
+
+O sucesso de um SI dependerá intrinsecamente da qualidade do PSI, DSI e ESI ou seja da qualidade da sua gestão
