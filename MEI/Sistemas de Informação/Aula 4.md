@@ -86,3 +86,7 @@
 	- Suportam as atividades dos gestores médios da empresa, tais como: planeamento, controlo e tomada de decisão; 
 	- Estes sistemas permitem determinar se as coisas estão a andar bem. Tipicamente fornecem relatórios menos frequentes e mais resumidos que nos TPS. ex: relatórios com estatísticas das operações, com totais e comparações.
 ![[Pasted image 20221101150327.png]]
+
+### MIS
+- **Tarefas** -> Obtenção, Produção e Difusão da Informação
+- **Características e Objetivos**
