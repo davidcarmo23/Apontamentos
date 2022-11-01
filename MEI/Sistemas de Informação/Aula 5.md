@@ -221,9 +221,16 @@ Largest Column: standard
 
 - **Liderança nos custos** -> Espera-se que o uso dos SI/TI reduza ou liberte recursos antes utilizados em tarefas administrativas, de gestão ou produtivas. 
 	- ex: redução de empregados ou crescimento sem aumento de empregados; melhorar a utilização dos equipamentos; melhorar o planeamento, o controlo de stocks ou o controlo dos processos produtivos
+
 --- column-end ---
 
+- **diferenciação** -> o valor acrescentado pela utilização dos SI/TI é o papel na inovação e criatividade em relação aos produtos ou serviços, orientada em termos do mercado e dos consumidores e não tanto em termos de controlos internos de gestão. Pode envolver investimentos elevados.
+	- ex: sistema de data mining para perceber melhor o comportamento e necessidades dos clientes; estatísticas de venda por características (modelo, cor,...); previsões e simulações
 
+--- column-end ---
+
+- **nicho de mercado(focalização)** -> os SI/TI além de apoiarem as estratégias de custos e diferenciação ainda desempenham um papel importante na deteção de mercados-alvo e na exploração da informação que lhes diz respeito. 
+	- ex: podem detetar-se produtos muito específicos, com reduzido número de fornecedores e passar a explorar-se esse mercado.
 
 === end-multi-column
 
