@@ -25,4 +25,10 @@
 ## Conhecimento
 
 - Conceito difícil de definir
-	- É gerado por pessoas existindo dentro delas, embora possa
+	- É gerado por pessoas existindo dentro delas, embora possa estar contido ou conservado em documentos.
+- Identificação de padrões consistentes nas relações entre os dados
+- Interpretação que é dada aos dados e à informação → conduz à ação
+- Conjunto formado por experiências, valores, informação de contexto e criatividade, aplicada à avaliação de novas experiências e informações - os valores e as crenças integram o conhecimento, pois determinam, em grande parte, o que o conhecedor vê, absorve e conclui a partir das suas observações
+- Relacionamento e comparação entre peças de informação, levando à sua compreensão, gerando ideias e procedimentos que guiam ações e decisões
+
+## 
