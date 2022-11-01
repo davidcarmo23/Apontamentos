@@ -56,4 +56,5 @@
 
 # Níveis Organizacionais
 - **Nível Estratégico** -> Gestores de topo, definem e monitorizam o rumo da empresa
-	- **ESS (Executive Suport Systems), DSS (Decision-Support Systems)**
+	- **ESS (Executive Suport Systems), DSS (Decision-Support Systems)** -> Quais produtos? Tendências de custos?
+- **Nível Tático** -> Gestores médios, técnicos, secretárias, monitorizam,
