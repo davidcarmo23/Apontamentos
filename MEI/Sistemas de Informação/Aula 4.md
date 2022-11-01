@@ -74,3 +74,4 @@
 	- **Online (Tempo-real)** -> ligação direta entre o utilizador e o programa, cada transação é processada individualmente.
 		- Sistemas de cartão de crédito
 		- Vantagem -> Resposta Imediata
+	- **Batch** -> as transações são agrupadas e processadas como um só unidade
