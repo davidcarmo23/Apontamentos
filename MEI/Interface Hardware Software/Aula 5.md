@@ -23,4 +23,7 @@
 	- Informação escondida pelos colaboradores
 	- Informações úteis chegam tarde (quando chegam)
 
-**Informação** ->
+**Informação** -> recurso que permite diminuir todos os outros recursos necessários no processo produtivo. Com informação mais precisa e atempada sobre a oferta, a procura e o processo produtivo, precisa-se cada vez menos de pessoas, escritórios, armazéns, capital, equipamentos, etc., para fazer produtos cada vez mais adequados a cada cliente
+
+Assim a informação é um "**anti-recurso**" -> bem captada e gerida substitui outros recursos
+Pode ser classificada de acordo com a sua importância para a organização
