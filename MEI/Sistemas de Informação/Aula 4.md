@@ -55,4 +55,5 @@
 	- ex: seleção de produtos e/ou serviços a produzir e/ou fornecer
 
 # Níveis Organizacionais
-- **Nível Estratégico** -> Gestores de topo
+- **Nível Estratégico** -> Gestores de topo, definem e monitorizam o rumo da empresa
+	- **ESS (Executive Suport Systems), DSS (Decision-Support Systems)**
