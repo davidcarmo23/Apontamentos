@@ -42,3 +42,5 @@ Uma das formas de obter vantagens competitivas consiste no melhoramento do fluxo
 - A quantidade de informação e os dados donde ela provém, são, para a organização, um importante recurso que necessita e merece ser gerido. Este constitui o **objetivo da Gestão da Informação**
 - ![[Pasted image 20221101153817.png]]
 
+- Possibilita às organizações desenvolverem sistemas e processos a fim de transformar dados brutos em informação significativa e útil, por meio das TI que suportam processos de negócio e decisões de gestão
+- Mas a **quantidade de informação e o respetivo custo podem não ser proporcionais ao benefício gerado**. De facto, muitas organizações cometem excessos na procura de informação, armazenando grandes quantidades de dados, que dificilmente lhes serão úteis no futuro. A ideia de, ‘ter-se informação é bom, então mais informação é ainda melhor’, nem sempre corresponde à verdade
