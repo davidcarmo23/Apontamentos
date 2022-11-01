@@ -31,5 +31,10 @@
 - Conjunto formado por experiências, valores, informação de contexto e criatividade, aplicada à avaliação de novas experiências e informações - os valores e as crenças integram o conhecimento, pois determinam, em grande parte, o que o conhecedor vê, absorve e conclui a partir das suas observações
 - Relacionamento e comparação entre peças de informação, levando à sua compreensão, gerando ideias e procedimentos que guiam ações e decisões
 
-## Comparação
+### Comparação
 ![[Pasted image 20221101113351.png]]
+
+## Saber
+- Característica humana
+	- Envolve os valores e propósitos da espécie humana
+- Existe dentro das pessoas, faz parte da sua comple
