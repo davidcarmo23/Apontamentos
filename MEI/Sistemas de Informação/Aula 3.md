@@ -123,3 +123,4 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 	- processam grandes quantidades de informação (faturas, dados de produção,...) 
 	- grau de complexidade pequeno mas constitui a fonte básica, geradora da informação que flui na organização;
 	- a informação deve ser precisa e de fácil acesso; • faz uso de relatórios detalhados
+
