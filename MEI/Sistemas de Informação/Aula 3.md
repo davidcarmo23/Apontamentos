@@ -144,4 +144,10 @@ Um sistema é composto por quatro funções básicas
 ## Sistemas de Informação
 
 - Suporta o fluxo de informação tanto internamente como no exterior de uma organização
-- 
+- O SI 
+	- é um conjunto organizado de procedimentos que geram informação útil à gestão da unidade económica em que se inserem
+	- fornece aos vários elementos da empresa e com ela relacionados, uma determinada perceção da realidade que condiciona indiretamente as suas ações
+	- existe numa organização, não como um departamento isolado mas como uma rede espalhada pelos diversos componentes do sistema
+	- tomados como um sub-sistema principal sobre o qual recai bastante atenção por parte dos agentes decisores
+	- pode constituir por si só um sistema autónomo, mas a sua principal utilidade é dar suporte a outros sistemas
+
