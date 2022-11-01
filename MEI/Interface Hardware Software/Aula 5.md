@@ -68,3 +68,7 @@ O sucesso de um SI dependerá intrinsecamente da qualidade do PSI, DSI e ESI ou 
 	- **objetivos**
 		1) contribuir para melhorar a estratégia do negócio – disponibilizando a informação necessária à gestão e alinhando o SI com a estratégia do negócio;
 		2) ajudar a melhorar os sistemas atuais – identificando ineficiências, redundâncias, etc;
+
+Papel do profissional de SI (Analista de sistemas)
+
+![[Pasted image 20221101155208.png]]
