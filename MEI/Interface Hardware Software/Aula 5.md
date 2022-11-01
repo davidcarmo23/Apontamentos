@@ -106,4 +106,11 @@ Largest Column: standard
 	- frequentemente um novo SI significa uma nova forma de organização
 
 - *Aspetos a abordar*
-- 
+- **Utilização(para quê)** -> aspetos funcionais do SI; papel do SI na conceção e suporte das atividades da organização; 
+	- futuro desejado para o sistema; visão global do SI da organização que traduz o papel pretendido para o SI na estrutura e atividade da organização.
+- **Recursos(o quê)** -> aspetos tecnológicos (TI) e operacionais do SI; papel das TI na conceção e suporte ao SI; 
+	- modo como as TI irão suportar os SI. Especificação das arquiteturas da informação, dos meios computacionais e de comunicações.
+- **Arquitetura(como)** -> aspetos estruturais, tecnológicos e funcionais do SI; modelo global que integra os diferentes elementos constituintes do SI;
+	- forma de concretizar e operacionalizar o suporte fornecido pelas TI. Planos e orçamentos sobre a aquisição e utilização dos recursos envolvidos no desenvolvimento e utilização do SI (RH, TI, etc)
+
+![[Pasted image 20221101160445.png]]
