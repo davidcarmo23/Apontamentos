@@ -94,3 +94,6 @@ Largest Column: standard
 === end-multi-column
 
 # Componentes da Gestão de Sistemas de Informação
+![[Pasted image 20221101155749.png]]
+
+## Planeamento de SI: identificação dos sistemas necessários
