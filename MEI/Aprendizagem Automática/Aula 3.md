@@ -1,83 +1,70 @@
-# Programação Tradicional vs AA
-**ML** -> The science of getting computer to learn without being explicitly programmed
-![[Pasted image 20221005162918.png]]
+## Aprendizagem Supervisionada - Classificação
+- **Classificação** - é o problema de atribuir novas observações à classe a que mais provavelmente pertencem 
+	- com base num modelo de classificação contruído a partir de dados de treino etiquetados
+	- A exatidão das classificações dependerá da eficácia do algoritmo escolhido, da forma como é aplicado, e da quantidade de dados úteis para treino
+![[Pasted image 20221025200401.png]]
 
-## Quando usar AA ?
-- Não existe perícia humana
-- Os humanos não conseguem explicar a sua perícia
-- Os modelos devem ser personalizados
-- Os modelos são baseados em enormes quantidades de dados
+- O objetivo do algoritmo é aprender uma regra geral que mapeie corretamente as entradas com as saídas. Os dados de entrada podem ser divididos em dois grupos
+	- *X* , os atributos (características) a serem utilizados na determinação da classe de saída
+	- *Y* , o atributo para o qual se deseja fazer a predição do valor de saída
+	- É comum particionar os dados de entrada (rotulados) em dois conjuntos: **conjunto de treino** que servirá de construir o modelo, e o **conjunto de teste** que servirá para verificar como o modelo se comporta com novos dados, para podermos ajustar o modelo para a construção da versão final
+![[Pasted image 20221025200733.png]]
 
-## Aplicações de AA
-- Anti-SPAM
-- Procura na Web
-- Sistemas de recomendação
-- Reconhecimento de fala
-- Visão Computacional
 
-## Tipos de AA
-- Aprendizagem **Supervisionada** -> Os dados de treino compreendem exemplos dos vetores de entrada junto com os seus vetores alvo correspondentes
-	- **Classificação** -> o objetivo é atribuir a cada vetor de entrada um número finito de categorias discretas
-	- **Regressão** -> a saída desejada consiste em uma ou mais variáveis contínuas
+## Regressão Logística
 
-- Aprendizagem **não supervisionada** -> Os dados de treino consistem num conjunto de vetores x sem valores alvo ou rótulos associados
-	- O objetivo pode ser descobrir grupos de exemplos semelhantes dentro dos dados (clustering)
-	- ou determinar a distribuição de dados no espaço de entrada (estimativa de densidade)
-	- ou projetar os dados para um espaço que permita a visualização
+- Método aplicado apenas para problemas de classificação
+- Ajusta uma curva sigmoide aos dados binários. O modelo produz a probabilidade de uma variável alvo Y pertencer a uma determinada class.
+- Pode também ser aplicada a qualquer número de categorias
+- Podemos usar um modelo de regressão linear para o mesmo fim?
+	- Este pode acabar por prever valores inferiores a 0 ou superiores a 1, o que não faz sentido. Em vez disso o modelo de regressão logística (ou logit) foi concebido para atribuir uma probabilidade (entre 0% e 100%) de Y pertencer a uma determinada classe.
+![[Pasted image 20221025201306.png]]
+![[Pasted image 20221025201358.png]]
+Minimizada pelo método da descida do gradiente
 
-- Aprendizagem **semi-supervisionada** -> muitos dados de treino mas apenas uns poucos estão rotulados
-- Aprendizagem **por reforço** -> o agente obtém recompensas advindas de uma sequência de ações
+![[Pasted image 20221025201421.png]]
 
-# Aprendizagem com Supervisão
-Neste tipo de problemas partimos de um conjunto de dados com exemplos de treino e com etiquetas associadas
+## Máquinas de vetores de suporte
+- Resolve o mesmo problema que a regressão logística - classificação com duas classes e produz um desempenho semelhante.
+- É geometricamente motivado, em vez de ser conduzido por pensamento probabilístico
+- Realiza um mapeamento não linear para transformar os dados de treino originais em uma dimensão maior, buscando nesta nova dimensão um hiperplano que separe os dados linearmente de forma ótima. Com um mapeamento apropriado (para uma dimensão suficientemente alta) os dados poderão ser sempre separados por um hiperplano. O SVM encontra este hiperplano usando vetores de suporte (exemplos do treino) maximizando a margem definida por estes
+![[Pasted image 20221025201646.png]]
 
-Por exemplo quando se aprende a classificar dígitos manuscritos, um algoritmo de aprendizagem supervisionado recebe milhares de fotografias de dígitos manuscritos, juntamente com etiquetas que indicam o número que cada imagem representa
+![[Pasted image 20221025201708.png]]
+![[Pasted image 20221025201723.png]]
+![[Pasted image 20221025201739.png]]
 
-O algoritmo aprenderá então a relação entre as imagens e os números associados, e aplicará essa relação aprendida para classificar imagens completamente novas (sem etiquetas) que a máquina nunca tinha visto antes
+## Avaliação de classificadores
+- A aprendizagem automática visa fazer com que as máquinas fiquem melhores em certas tarefas, aprendendo a partir dos dados
+- Existem muitos tipos diferentes de sistemas de AA: supervisionados ou não, baseado em instâncias ou baseados em modelos
+- Em um projeto de AA, os dados são reunidos em um conjunto de treino e o conjunto de treino serve de entrada para um algoritmo de aprendizagem
 
-## Precisão é baixa, como melhorar o desempenho ?
-- Arranjar mais dados
-- Maior variação de dados relacionadas
-- Treinar o algoritmo durante mais tempo
-- Tentar outro algoritmo de aprendizagem
-- Testar diferentes parametrizações
-- Mudar a arquitetura do classificador (mais complexo/simples)
+- Se o algoritmo é baseado num modelo, otimiza alguns parâmetros para ajustar o modelo ao conjunto de treino. Espera-se que venha a ser capaz de fazer **boas previsões sobre novos casos**
 
-## Escala impulsiona a AA
-![[Pasted image 20221005164843.png]]
+- Se o algoritmo é baseado em instâncias, apenas aprende os exemplos e generaliza para novas instâncias usando uma **medida de similaridade** para comparar com as instâncias aprendidas
 
-## Preparação dos dados
-- **Conjunto de treino** -> Utilizado para treinar o algoritmo de aprendizagem
-- **Conjunto de desenvolvimento** -> Utilizado para ajustar parâmetros, selecionar recursos e tomar outras decisões sobre o algoritmo de aprendizagem. Também chamado de validação (cruzada).
-- **Conjunto de teste** -> Para avaliar o desempenho do algoritmo
-![[Pasted image 20221005165503.png]]
+- **O modelo não deve ser muito simples (nesse caso o ajuste será insuficiente) nem muito complexo (nesse caso terá sobreajuste)**
 
-- Os conjuntos de validação e teste devem ser escolhidos de forma a refletir os dados que se espera obter no futuro e nos quais se quer um bom desempenho
-- O **conjunto de teste não deve ser simplesmente 30% dos dados disponíveis**, *especialmente* se os **dados futuros forem de natureza diferente do conjunto de treino**
-- O objetivo dos conjuntos de desenvolvimento e teste é direcionar os esforços para as alterações mais importantes a serem feitas no sistema de aprendizagem
-- Sob **pena de perda de poder de generalização**, *nunca devemos assumir que a distribuição do conjunto de treino é a mesma do conjunto de teste*. Tentar escolher um conjunto de teste que reflita as condições futuras de funcionamento.
+### Como avaliar um modelo
+- **Avaliar um modelo é bastante simples: basta usar um conjunto de teste**
 
-- O conjunto de validação **deve refletir a tarefa que pretendemos aprender**
-- Outro **problema** em ter diferentes distribuições de conjunto de teste e validação: podemos contruir algo que funcione bem no conjunto de desenvolvimento, apenas para descobri que corre mal no conjunto de teste
-- Mesmo quando isso acontece se os **conjuntos de desenvolvimento e teste vieram das mesma distribuição**, o diagnóstico é muito claro: *ajuste excessivo aos dados de validação*. A *solução* passa por aumentar o tamanho do conjunto de validação
+### Conjunto de validação
+![[Pasted image 20221025202015.png]]
 
-- Qual o tamanho destes conjuntos ? 
-	- O **conjunto de validação** deve ser grande o suficiente para detetar diferenças entre algoritmos concorrentes
-	- O **conjunto de teste** deve ser grande o suficiente para garantir confiança no desempenho geral do sistema. Uma heurística popular era usar 30% dos dados para teste
+### Não há almoços à pala
+![[Pasted image 20221025202050.png]]
 
-Na era dos *big data* , **a fração** de dados alocada para conjuntos de validação/teste tem diminuído 
-Não há necessidade de ter conjuntos de validação/teste excessivamente grandes - para além do que é necessário para avaliar o desempenho dos algoritmos.
+### Validação do modelo
+![[Pasted image 20221025202113.png]]
 
-## AA via regressão linear
-- A regressão linear é um método paramétrico, o que significa que faz uma suposição sobre a forma da função que relaciona X e Y.
-- O modelo resultante será uma função que prevê ŷ dado um x específico
+![[Pasted image 20221025202131.png]]
 
-Exemplo de regressão - Ajuste de uma curva
-![[Pasted image 20221005171105.png]]
-![[Pasted image 20221005171520.png]]
 
-- Duas maneiras de combater o **sobreajuste (overfitting)**
-1) Utilizar **mais dados de treino**. Com mais dados é mais difícil conseguir sobreajustar os dados, evitando aprender “demasiado” um qualquer exemplo de treino
-2) Utilizar a **regularização**. Acrescentar uma penalização na função de perda para evitar que o modelo atribua demasiado poder explicativo a uma qualquer característica (ou por outro lado permita que demasiadas características sejam tidas em conta)
+### Matriz de confusão
+![[Pasted image 20221025202211.png]]
+
+### Outras medidas de validação
+![[Pasted image 20221025202232.png]]
+![[Pasted image 20221025202240.png]]
 
 [[MEI/Aprendizagem Automática/Aula 4]]
