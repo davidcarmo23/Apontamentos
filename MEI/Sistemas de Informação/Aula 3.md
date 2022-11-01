@@ -164,3 +164,12 @@ Um sistema é composto por quatro funções básicas
 
 ## Arquitetura Geral do Sistema de Informação
 ![[Pasted image 20221101125918.png]]
+
+### Sistema de Informação
+![[Pasted image 20221101125950.png]]
+
+## Tipos e evolução dos SI
+
+![[Pasted image 20221101130018.png]]
+![[Pasted image 20221101130028.png]]
+
