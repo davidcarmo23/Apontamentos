@@ -146,3 +146,7 @@ Largest Column: standard
 	- analisar as tendências e inovações tecnológicas selecionando aquelas que podem trazer um maior impacto para a organização; 
 	- definir as necessidades de SI/TI para o DSI, criando cenários alternativos em função de: custos/benefícios, riscos e implicações organizacionais, recursos necessários, grandes opções tecnológicas;
 	- o resultado desta atividade não deverá apenas ser uma perceção precisa da situação actual, mas também, das aspirações e direções estratégicas da organização e do seu SI (olhar para a frente)
+
+### Definição Estratégica
+
+Tem como objetivo precisar o futuro desejado para o SI e como este deve ser suportado pelas TI, ou seja, definir qual o papel pretendido para o SI na estrutura e atividades da organização
