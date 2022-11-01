@@ -88,6 +88,10 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 
 - Suporta a tomada de decisão -> deve pois possuir um conjunto de características que garantam a sua qualidade
 
-- Precisa -> Grau de rigor da informação, que revela uma caracterização da realidade o mais fiável possível
-- Oportuna (existir no momento e local correto) -> a velocidade de reação de uma organização depende também da existência em tempo útil da informação apropriada
-- 
+- **Precisa** -> Grau de rigor da informação, que revela uma caracterização da realidade o mais fiável possível
+- **Oportuna** (existir no momento e local correto) -> a velocidade de reação de uma organização depende também da existência em tempo útil da informação apropriada
+- **Acessível**: refere-se à disponibilidade e rapidez com que pode ser obtida; 
+- **Compreensiva**: facilidade de interpretação e utilização; 
+- **Concisa** (de fácil manipulação): informação demasiado extensa ou pormenorizada, acabará por não ser utilizada;
+
+**"Informação certa, às pessoas certas e na hora certa"**
