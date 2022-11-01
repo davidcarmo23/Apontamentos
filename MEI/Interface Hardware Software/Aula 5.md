@@ -43,4 +43,6 @@ Uma das formas de obter vantagens competitivas consiste no melhoramento do fluxo
 - ![[Pasted image 20221101153817.png]]
 
 - Possibilita às organizações desenvolverem sistemas e processos a fim de transformar dados brutos em informação significativa e útil, por meio das TI que suportam processos de negócio e decisões de gestão
-- Mas a **quantidade de informação e o respetivo custo podem não ser proporcionais ao benefício gerado**. De facto, muitas organizações cometem excessos na procura de informação, armazenando grandes quantidades de dados, que dificilmente lhes serão úteis no futuro. A ideia de, ‘ter-se informação é bom, então mais informação é ainda melhor’, nem sempre corresponde à verdade
+- Mas a **quantidade de informação e o respetivo custo podem não ser proporcionais ao benefício gerado**. De facto, muitas organizações cometem excessos na procura de informação, armazenando grandes quantidades de dados, que dificilmente lhes serão úteis no futuro. A ideia de, ‘*ter-se informação é bom, então mais informação é ainda melhor*’, **nem sempre corresponde à verdade**
+- É fundamental perceber o ponto de *otimização* do benefício em relação à quantidade disponível e ao custo associado à informação
+- ![[Pasted image 20221101154038.png]]
