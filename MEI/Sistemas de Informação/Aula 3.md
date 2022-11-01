@@ -117,8 +117,8 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 	- informação elaborada que suporta decisões de longo prazo, orientada para decisores; 
 	- devem suportar capacidades gráficas e analíticas para a resolução de problemas de ciência de gestão (ex. gráficos com indicadores estatísticos);
 - **Tático** -> MIS-Management Information Systems
-	- Transforma as decisões do nível estratégico em programas de ação para concretizar os objetivos da gestão
-	- obtém e aloca eficientemente os recursos necessários à execução das atividades
+	- lidam com informação para tomada de decisões táticas e operacionais, de modo a implementarem as decisões de topo; 
+	- a informação apresenta-se sob a forma de relatórios sumariados e de tabelas;
 - **Operacional** -> TPS-Transaction Processing Systems
 	- preocupa-se com a execução das tarefas e recursos necessários para produzir eficientemente bens\serviços de qualidade
 	- responsabilidade de executar os planos definidos nos níveis anteriores
