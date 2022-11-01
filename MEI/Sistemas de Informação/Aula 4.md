@@ -33,4 +33,8 @@
 	- *gestores intermédios* -> executam os programas e planos do gestores de topo; 
 	- *gestores operacionais* -> monitorizam as atividades diárias da empresa
 - **Funções dos Gestores**
-	- 
+	- percebem os desafios de negócio no ambiente, apresentando as estratégias organizacionais para responder a esses desafios;
+	- atribuem recursos financeiros e humanos para atingir a estratégia definida; 
+	- têm a responsabilidade de chefia (são quem manda); 
+	- criam novos produtos/serviços e até recriam a organização de tempos a tempos; 
+	- devem orientar trabalhos criativos usando novo conhecimento e informação → os SI/TI têm um papel importante no redirecionamento da organização (ex: detetar tendências nas encomendas e orientar a produção nesse sentido)
