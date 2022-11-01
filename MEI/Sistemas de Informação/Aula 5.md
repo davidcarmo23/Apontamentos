@@ -196,4 +196,8 @@ As decisões estratégicas comprometem e condicionam o futuro da empresa a longo
 - **Estratégia para SI/TI** 
 	- abordagem empresarial ao mais alto nível: a tecnologia deve ser tida como arma estratégica e portanto da responsabilidade da gestão; 
 	- foco na identificação da informação necessária para conduzir os processos de negócio
-- Para atingir estes objetivos é importante garantir o
+- Para atingir estes objetivos é importante garantir o *alinhamento* entre os objetivos do negócio e os objetivos dos SI
+
+- **Alinhamento** -> capacidade para demonstrar relação positiva entre tecnologias da informação e resultados financeiros de desempenho. Para além destes, são também importantes as contribuições para outros resultados, tais como quotas de mercado ou satisfação dos clientes. (Strassmann)
+
+- **Porter - Análise das 5 forças competitivas** -> Rela
