@@ -48,3 +48,7 @@
 
 
 # Caracterização do conhecimento
+- No contexto macro económico actual, a par de outros recursos como capital e mão de obra, surge outro que ganha cada vez mais importância e desempenha um papel cada vez mais decisivo no sucesso e na competitividade das organizações - o *conhecimento*
+- Sem conhecimento a tecnologia já não é suficiente, pois esta é facilmente copiável, as empresas que detêm o conhecimento e que disponibilizam ambientes para a sua criação, são as que irão apresentar vantagens competitivas nesta sociedade do conhecimento
+
+. Conhecimento representa um recurso valioso em que é praticamente ilimitado 
