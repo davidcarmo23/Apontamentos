@@ -41,4 +41,13 @@
 
 ## Tipos de problemas a resolver
 - **Estruturados** -> operações ou transações, cujos processos de recuperação e controle de dados são repetitivos:
-- Facilmente automatizados; • Todos os dados relevantes estão disponíveis; • Necessitam de pouco julgamento ou avaliação humana; • ex: introdução de valores numéricos
+	- Facilmente automatizados; 
+	- Todos os dados relevantes estão disponíveis; 
+	- Necessitam de pouco julgamento ou avaliação humana; 
+	- ex: introdução de valores numéricos
+- **Semi-Estruturados** -> situações que, embora habituais, têm de ser adaptadas a cada caso específico:
+	- Algumas partes podem ser automatizadas;
+	- Necessitam de julgamento humano;
+	- ex: seleção de modelos de equipamentos
+- **Não-Estruturados** -> situações específicas, frequentemente únicas (ambientes complexos e dinâmicos):
+- Dificilmente automatizados; • Necessitam de muito julgamento humano; • ex: seleção de produtos e/ou serviços a produzir e/ou fornecer
