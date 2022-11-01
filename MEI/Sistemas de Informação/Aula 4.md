@@ -62,4 +62,8 @@
 - **Nível Operacional** -> Operários, compras, produção, vendas, fluxos de materiais
 	- **TPS (Transaction Processing Systems)** Quantas peças de X? Pagamento do Sr. Y?
 
-## Tipos de SI : N
+## Tipos de SI : Nível Operacional
+- **Sistemas do nível operacional - TPS (Transaction Processing Systems)** 
+	- Suportam as operações (eventos) elementares diárias da empresa: vendas, recibos, depósitos, fluxo de materiais.
+	- Devem responder a perguntas de rotina como: Quantas partes do produto X há no inventário? O que aconteceu ao pagamento do sr. Y?
+	- Neste nível, as tarefas, recursos e objetivos, estão predefinidos e são estruturados. Portanto o nível de automatização das tarefas é muito elevado.
