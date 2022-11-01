@@ -159,12 +159,17 @@ Tem como objetivo precisar o futuro desejado para o SI e como este deve ser supo
 ```start-multi-column
 ID: ID_ry0y
 Number of Columns: 3
-
 Largest Column: standard
 ```
 
+- Tradução das estratégias em planos de ação, de modo a: 
+	- obter e alocar os recursos necessários (humanos, técnicos, financeiros); 
+	- criar o ambiente apropriado à instalação; 
+	- motivar as pessoas de forma a serem alcançados os objetivos inerentes às estratégias definidas;
 
-
+--- column-end ---
+- Planos de implementação: descrevem como e quando os objetivos estratégicos serão alcançados em termos de: 
+	- cronogramas e orçamentação das ações a desenvolver; • cronogramas para aquisição de equipamentos e suportes lógicos; • contratação e alocação de recursos humanos, técnicos e financeiros; • planos de reorganização interna e de suporte aos utilizadores;
 --- column-end ---
 
 
