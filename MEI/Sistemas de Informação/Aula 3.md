@@ -99,3 +99,6 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 # Organização
 
 - Conjunto de pessoas e de meios, que concorrem para um fim comum
+![[Pasted image 20221101121438.png]]
+
+# Níveis de Responsabilidade
