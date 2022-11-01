@@ -200,4 +200,8 @@ As decisões estratégicas comprometem e condicionam o futuro da empresa a longo
 
 - **Alinhamento** -> capacidade para demonstrar relação positiva entre tecnologias da informação e resultados financeiros de desempenho. Para além destes, são também importantes as contribuições para outros resultados, tais como quotas de mercado ou satisfação dos clientes. (Strassmann)
 
-- **Porter - Análise das 5 forças competitivas** -> Rela
+- **Porter - Análise das 5 forças competitivas** -> relação entre os SI/TI e as forças que influenciam a estratégia empresarial
+![[Pasted image 20221101162456.png]]
+![[Pasted image 20221101162509.png]]
+
+- **Competitividade Empresarial** -> capacidade das empresas definirem estratégias concorrenciais, que lhes permitam obter e manter, a longo prazo, posição sustentável no mercado
