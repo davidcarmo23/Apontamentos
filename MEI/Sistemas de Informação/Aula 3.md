@@ -52,3 +52,8 @@
 - Sem conhecimento a tecnologia já não é suficiente, pois esta é facilmente copiável, as empresas que detêm o conhecimento e que disponibilizam ambientes para a sua criação, são as que irão apresentar vantagens competitivas nesta sociedade do conhecimento
 
 . Conhecimento representa um recurso valioso em que é **praticamente ilimitado** o *potencial* para emergirem novas ideias e novo conhecimento a partir do existente. O seu valor é **dificilmente quantificável**, apenas se poderá traduzir nos resultados das ações e decisões a que conduz.
+
+
+## Conhecimento Explícito e tácito
+
+- **Expl**
