@@ -27,3 +27,8 @@
 
 Assim a informação é um "**anti-recurso**" -> bem captada e gerida substitui outros recursos
 Pode ser classificada de acordo com a sua importância para a organização
+![[Pasted image 20221101153449.png]]
+
+O seu valor é *diferente* para cada nível da organização.
+
+- **Vantagem Competitiva** -> traduz-se na obtenção de uma posição favorável em relação aos concorrentes que fazem parte do ambiente competitivo da organização
