@@ -51,11 +51,14 @@ Uma das formas de obter vantagens competitivas consiste no melhoramento do fluxo
 
 - **Gerir** -> é pensar, decidir e agir; é a arte de fazer acontecer, de obter resultados que, por sua vez, podem ser definidos, previstos, analisados e avaliados; é garantir a flexibilidade e simultaneamente a coesão da organização ou negócio
 	- Num cenário em que tende a aumentar a quantidade de problemas não estruturados e que exigem decisões com suporte probabilístico, a qualidade da gestão resulta duma combinação de sorte, intuição e razão, alimentada por informação fiável e oportuna
-- **GSI** ->conjunto de atividades necessárias para gerir a informação, o sistema de informação(SI) e as tecnologias de informação(TI) que o suportam
+- **GSI** -> conjunto de atividades necessárias para gerir a informação, o sistema de informação(SI) e as tecnologias de informação(TI) que o suportam
 	- ![[Pasted image 20221101154748.png]]
 
-- GSI -> Engloba a gestão do recurso informação e de todos os recursos envolvidos no *planeamento* (PSI), *desenvolvimento* (DSI) e *exploração* (ESI) de SI
+- **GSI** -> Engloba a gestão do recurso informação e de todos os recursos envolvidos no *planeamento* (PSI), *desenvolvimento* (DSI) e *exploração* (ESI) de SI
 
 ![[Pasted image 20221101154852.png]]
 
 O sucesso de um SI dependerá intrinsecamente da qualidade do PSI, DSI e ESI ou seja da qualidade da sua gestão
+
+- **GSI** -> é um processo em que as atividades são relacionais e interdependentes entre si, ocorrendo numa sequência lógica:
+	- PSI -> Pensar os sistemas -> DSI -> 
