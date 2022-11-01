@@ -106,4 +106,6 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 	- Interface da organização com o meio que a rodeia -> perceção e antecipação das mudanças no meio e definição das respostas a dar
 	- Estabelece os objetivos e seleciona as estratégias para os atingir
 - **Tático** -> Supervisão e planeamento de atividades
-	- Transforma as decisões do nível estratégico em prog
+	- Transforma as decisões do nível estratégico em programas de ação para concretizar os objetivos da gestão
+	- obtém e aloca eficientemente os recursos necessários à execução das atividades
+- **Operacional** ->
