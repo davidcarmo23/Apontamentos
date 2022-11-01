@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5036334991455
+    "width": 292.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -119,20 +120,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "db205aea99283467",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "MEI/Sistemas de Informação/Prints/Pasted image 20221101112645.png",
+    "MEI/Qualidade de Software/Aula 5.md",
+    "MEI/Sistemas de Informação/Aula 5.md",
     "MEI/Interface Hardware Software/Aula 5.md",
     "MEI/Interface Hardware Software/Aula 2.md",
     "MEI/Interface Hardware Software/Aula 3.md",
     "MEI/Interface Hardware Software/Aula 4.md",
     "MEI/Aprendizagem Automática/Aula 5.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "MEI/Sistemas de Informação/Aula 5.md",
-    "MEI/Sistemas de Informação/Aula 4.md"
+    "Untitled 1.md"
   ]
 }

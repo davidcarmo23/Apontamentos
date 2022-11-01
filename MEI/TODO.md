@@ -1,6 +1,6 @@
 #todo
-- [ ]  Resumos em dia
-- [ ] Relatorio QS
+- [x]  Resumos em dia
+- [x] Relatorio QS
 - [ ] TP AA (Ler Bibliogrfi)
 - [ ] 
 - [ ] 

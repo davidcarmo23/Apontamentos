@@ -114,3 +114,5 @@ Largest Column: standard
 	- forma de concretizar e operacionalizar o suporte fornecido pelas TI. Planos e orçamentos sobre a aquisição e utilização dos recursos envolvidos no desenvolvimento e utilização do SI (RH, TI, etc)
 
 ![[Pasted image 20221101160445.png]]
+
+
