@@ -110,3 +110,6 @@
 - Permitem a realização de cálculos, análises e simulações por métodos gráficos; 
 - Alimentam-se de dados internos e externos
 ![[Pasted image 20221101151341.png]]
+
+## Tipos de SI : nível estratégico - EIS (Executive Information Systems)
+- sistemas de informação ao nível estratégico concebidos para auxiliar na tomada de decisões não estruturadas através do uso avançado de gráficos e de comunicações; – exemplos: análise de tendências de vendas, planeamento de operações a longo prazo, planeamento de orçamentos, planeamento de curvas de lucro e investimento e planeamento em recursos humanos.
