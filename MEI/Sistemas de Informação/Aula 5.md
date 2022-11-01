@@ -191,4 +191,9 @@ Largest Column: standard
 
 - **Estratégia** -> conjunto de fins desejáveis mais os meios aceitáveis para os atingir
 
-As decisões e
+As decisões estratégicas comprometem e condicionam o futuro da empresa a longo prazo, apesar do elevado grau de incerteza e dificuldade em controlar os efeitos dos acontecimentos presentes e futuros
+
+- **Estratégia para SI/TI** 
+	- abordagem empresarial ao mais alto nível: a tecnologia deve ser tida como arma estratégica e portanto da responsabilidade da gestão; 
+	- foco na identificação da informação necessária para conduzir os processos de negócio
+- Para atingir estes objetivos é importante garantir o
