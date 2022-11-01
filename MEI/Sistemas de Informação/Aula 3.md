@@ -141,4 +141,7 @@ Um sistema é composto por quatro funções básicas
 
 “*Feedback*” (retroalimentação): informação produzida pelo sistema que informa sobre o comportamento do próprio sistema; mecanismo de correção de erros/desvios
 
-## 
+## Sistemas de Informação
+
+- Suporta o fluxo de informação tanto internamente como no exterior de uma organização
+- 
