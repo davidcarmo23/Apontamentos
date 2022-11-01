@@ -72,3 +72,18 @@ O sucesso de um SI dependerá intrinsecamente da qualidade do PSI, DSI e ESI ou 
 Papel do profissional de SI (Analista de sistemas)
 
 ![[Pasted image 20221101155208.png]]
+
+```start-multi-column
+ID: ID_2y9y
+Number of Columns: 2
+Largest Column: standard
+```
+
+
+
+--- column-end ---
+
+
+
+=== end-multi-column
+
