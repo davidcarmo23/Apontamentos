@@ -67,4 +67,7 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 
 ![[Pasted image 20221101120630.png]]
 
-- 
+- **Socialização** -> Conhecimento tácito pode ser criado a partir de conhecimento tácito quando um indivíduo partilha o seu próprio conhecimento com outra pessoa
+- **Articulação** -> se uma pessoa conseguir comunicar e explicar o seu conhecimento, este torna-se explícito
+- **Combinação** -> o conhecimento explícito poderá ser associado a outros elementos de conhecimento explícito já existentes, criando-se um novo conjunto
+- **Interiorização**
