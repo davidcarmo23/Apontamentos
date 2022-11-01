@@ -205,3 +205,7 @@ As decisões estratégicas comprometem e condicionam o futuro da empresa a longo
 ![[Pasted image 20221101162509.png]]
 
 - **Competitividade Empresarial** -> capacidade das empresas definirem estratégias concorrenciais, que lhes permitam obter e manter, a longo prazo, posição sustentável no mercado
+- **Vantagem Competitiva** -> traduz-se na obtenção de uma posição favorável em relação aos concorrentes que fazem parte do ambiente competitivo da organização. As vantagens competitivas que uma empresa pode obter são de três tipos (Porter)
+	- Liderança nos custos
+	- Diferenciação
+	- Nichos de mercado ou focalização : podendo ter-se focalização no custo ou focalização na diferenciação
