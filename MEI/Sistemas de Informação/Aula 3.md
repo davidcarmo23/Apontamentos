@@ -86,4 +86,8 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 
 -![[Pasted image 20221101121021.png]]
 
-- Suporta a tomada de decisão
+- Suporta a tomada de decisão -> deve pois possuir um conjunto de características que garantam a sua qualidade
+
+- Precisa -> Grau de rigor da informação, que revela uma caracterização da realidade o mais fiável possível
+- Oportuna (existir no momento e local correto) -> a velocidade de reação de uma organização depende também da existência em tempo útil da informação apropriada
+- 
