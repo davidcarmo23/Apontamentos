@@ -5,7 +5,14 @@
 - Conceitos estritamente ligados entre si e frequentemente confundidos, o que os separa é uma questão de grau.
 - Podem ser vistos como o resultado de um processo de transformação em cadeia.
 
-# Dados
+## Dados
 
-- Conjunto de factos discretos e objetivos sobre acontecimentos , sem contexto - são elementos ou valores discretos, isoladamente não têm utilidade e beneficios.
+- Conjunto de factos discretos e objetivos sobre acontecimentos , sem contexto
+	- São elementos ou valores discretos, isoladamente não têm utilidade e benefícios.
+- Descrevem apenas parte de um acontecimento, não proporcionando nenhum juízo ou interpretação, nem dizendo nada sobre a sua importância;
+- Não estão agrupados em nenhuma forma particular que os torne úteis para serem utilizados; 
+- Entretanto os dados têm grande importância na medida em que são a matéria-prima para a criação da informação, do conhecimento e do saber;
 
+## Informação
+
+-  Factos compreendidos 
