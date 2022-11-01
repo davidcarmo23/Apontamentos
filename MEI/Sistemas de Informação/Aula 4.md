@@ -71,4 +71,6 @@
 
 ### TPS
 - **Tipos**
-	- **Online (Tempo-real)** -> 
+	- **Online (Tempo-real)** -> ligação direta entre o utilizador e o programa, cada transação é processada individualmente.
+		- Sistemas de cartão de crédito
+		- Vantagem -> Resposta Imediata
