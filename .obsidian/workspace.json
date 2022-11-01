@@ -91,14 +91,6 @@
             }
           },
           {
-            "id": "119c17a778b83c29",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "1be225d45bdd73a8",
             "type": "leaf",
             "state": {
@@ -114,15 +106,24 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "f9117b3cb96b08dc",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "db205aea99283467",
+  "active": "f9117b3cb96b08dc",
   "lastOpenFiles": [
     "MEI/Sistemas de Informação/Aula 4.md",
     "Untitled 2.md",
