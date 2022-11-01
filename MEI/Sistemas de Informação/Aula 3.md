@@ -41,4 +41,4 @@
 - Resulta da atividade cerebral, apenas se transmite eficientemente através da rede humana
 - Aplicação dos conceitos anteriores com vista à tomada de decisões
 
-# Est
+# Estrutura/Intervenção Humana
