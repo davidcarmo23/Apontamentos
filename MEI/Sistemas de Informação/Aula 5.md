@@ -187,3 +187,8 @@ Largest Column: standard
 === end-multi-column
 
 
+# Estratégia e Sistemas/Tecnologias de Informação
+
+- **Estratégia** -> conjunto de fins desejáveis mais os meios aceitáveis para os atingir
+
+As decisões e
