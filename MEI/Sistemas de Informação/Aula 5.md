@@ -150,3 +150,5 @@ Largest Column: standard
 ### Definição Estratégica
 
 Tem como objetivo precisar o futuro desejado para o SI e como este deve ser suportado pelas TI, ou seja, definir qual o papel pretendido para o SI na estrutura e atividades da organização
+
+![[Pasted image 20221101161451.png]]
