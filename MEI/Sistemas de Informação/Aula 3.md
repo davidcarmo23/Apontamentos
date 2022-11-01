@@ -134,4 +134,7 @@ Conjunto de componentes inter-relacionados e inter-dependentes que formam um tod
 ![[Pasted image 20221101124016.png]]
 
 Um sistema é composto por quatro funções básicas
-- **Input** > recolha
+- **Input** > recolha/aquisição dos elementos que entram no sistema para serem processados
+- **Processamento** -> Processo de transformação dos inputs em produto acabado
+- **Armazenamento** -> Armazenamento temporário de produtos
+- **Output** -> produto 
