@@ -32,3 +32,9 @@ Pode ser classificada de acordo com a sua importância para a organização
 O seu valor é *diferente* para cada nível da organização.
 
 - **Vantagem Competitiva** -> traduz-se na obtenção de uma posição favorável em relação aos concorrentes que fazem parte do ambiente competitivo da organização
+	- Pode ser conseguida de muitas formas como
+		- Produtos de qualidade e/ou inovadores, preços baixos, rapidez dos serviços
+
+Uma das formas de obter vantagens competitivas consiste no melhoramento do fluxo de informação entre a organização e cada um dos elementos do seu ambiente.
+![[Pasted image 20221101153632.png]]
+
