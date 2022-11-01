@@ -75,3 +75,6 @@
 		- Sistemas de cartão de crédito
 		- Vantagem -> Resposta Imediata
 	- **Batch** -> as transações são agrupadas e processadas como um só unidade
+		- Programa de processamento de salários
+		- Vantagens -> Tipicamente mais eficientes e baratos; maior controlo
+	- **Exemplos de TPS**
