@@ -16,4 +16,11 @@
 - → orientar e ajudar o gestor a diminuir os riscos e aumentar as chances de sucesso 
 - (“para quem não sabe para onde está indo, até para trás serve!”)
 
-Reclamações comuns dos gestores sobre a informação
+- Reclamações comuns dos gestores sobre a informação
+	- Insuficiência de informações corretas e importantes (alguns estudos mostram apenas cerca de 6%) 
+	- Muita informação errada (alguns estudos mostram cerca de 26%) 
+	- Informação muito dispersa na empresa
+	- Informação escondida pelos colaboradores
+	- Informações úteis chegam tarde (quando chegam)
+
+**Informação** ->
