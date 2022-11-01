@@ -17,4 +17,12 @@
 
 -  Factos compreendidos à luz do que se sabe
 	- Tem como objetivo reduzir a incerteza ou aprofundar os conhecimentos sobre um assunto de interesse.
-- Resultado do tratamento, análise, combinação ou organização dos dados, atribuindo-lhes significado e um formato que possibilita compreender esses dados e concluir sobre determinado facto ou situação;  Para constituírem informação os dados precisam de estar relacionados entre si ou com outra informação;
+- Resultado do tratamento, análise, combinação ou organização dos dados, atribuindo-lhes significado e um formato que possibilita compreender esses dados e concluir sobre determinado facto ou situação; 
+- Para constituírem informação os dados precisam de estar relacionados entre si ou com outra informação;
+
+![[Pasted image 20221101113152.png]]
+
+## Conhecimento
+
+- Conceito difícil de definir
+	- É gerado por pessoas existindo dentro delas, embora possa
