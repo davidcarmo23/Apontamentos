@@ -209,3 +209,21 @@ As decisões estratégicas comprometem e condicionam o futuro da empresa a longo
 	- Liderança nos custos
 	- Diferenciação
 	- Nichos de mercado ou focalização : podendo ter-se focalização no custo ou focalização na diferenciação
+![[Pasted image 20221101162647.png]]
+
+
+```start-multi-column
+ID: ID_paoj
+Number of Columns: 3
+Largest Column: standard
+```
+
+
+- **Liderança nos custos** -> Espera-se que o uso dos SI/TI reduza ou liberte recursos antes utilizados em tarefas administrativas, de gestão ou produtivas. 
+	- ex: redução de empregados ou crescimento sem aumento de empregados; melhorar a utilização dos equipamentos; melhorar o planeamento, o controlo de stocks ou o controlo dos processos produtivos
+--- column-end ---
+
+
+
+=== end-multi-column
+
