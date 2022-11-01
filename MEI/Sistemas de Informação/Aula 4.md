@@ -109,3 +109,4 @@
 - Sistemas computacionais que possuem capacidades analíticas capazes de produzirem informações e contribuiem para o processo de tomada de decisão; 
 - Permitem a realização de cálculos, análises e simulações por métodos gráficos; 
 - Alimentam-se de dados internos e externos
+![[Pasted image 20221101151341.png]]
