@@ -168,10 +168,17 @@ Largest Column: standard
 	- motivar as pessoas de forma a serem alcançados os objetivos inerentes às estratégias definidas;
 
 --- column-end ---
-- Planos de implementação: descrevem como e quando os objetivos estratégicos serão alcançados em termos de: 
-	- cronogramas e orçamentação das ações a desenvolver; • cronogramas para aquisição de equipamentos e suportes lógicos; • contratação e alocação de recursos humanos, técnicos e financeiros; • planos de reorganização interna e de suporte aos utilizadores;
---- column-end ---
 
+- Planos de implementação: descrevem como e quando os objetivos estratégicos serão alcançados em termos de: 
+	- cronogramas e orçamentação das ações a desenvolver; 
+	- cronogramas para aquisição de equipamentos e suportes lógicos;
+	- contratação e alocação de recursos humanos, técnicos e financeiros;
+	- planos de reorganização interna e de suporte aos utilizadores;
+
+- Estratégias - a implementação deve ser continuamente avaliada e controlada de modo a: 
+	- assegurar que respondem às mudanças, tanto organizacionais como tecnológicas; 
+	- verificar se os benefícios e objetivos esperados estão a ser alcançados ou não; 
+	- garantir o permanente *alinhamento* com o negócio, sendo revistas em consonância;
 
 
 === end-multi-column
