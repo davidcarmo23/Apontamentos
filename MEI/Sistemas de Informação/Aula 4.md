@@ -101,5 +101,8 @@
 - **Vantagem dos MIS sobre os TPS**
 	- Maior flexibilidade na obtenção dos elementos necessários para a gestão 
 	- Maior integração de informação através das diferentes áreas funcionais
-- **Exemplos**Vendas por região: Real vs Planeado; Análise da evolução dos custos; Controlo de Produção. 
+- **Exemplos**
+	- Vendas por região: Real vs Planeado; Análise da evolução dos custos; Controlo de Produção. 
 	- Aplicações: Eticadata, PHC, Primavera Software, SAP(Systems Applications and Products).
+
+## Tipos de SI : nível estratrégico - DSS (Decision-Support Systems)
