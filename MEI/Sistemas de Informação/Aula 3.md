@@ -126,4 +126,5 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 
 # Sistemas
 
-Conjunto de componentes inter-relacionados e inter.
+Conjunto de componentes inter-relacionados e inter-dependentes que formam um todo e que interagem para atingirem objetivos comuns
+## Ca
