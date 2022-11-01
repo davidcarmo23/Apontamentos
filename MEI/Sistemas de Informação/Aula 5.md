@@ -118,4 +118,19 @@ Largest Column: standard
 
 ### Análise Estratégica
 
-Base de todo o processo -> proc
+Base de todo o processo -> procura identificar e caraterizar a realidade da organização e das suas necessidades em SI, envolvendo a análise de : 
+
+```start-multi-column
+ID: ID_877q
+Number of Columns: 2
+Largest Column: standard
+```
+
+- **ambiente interno** -> o que a organização faz, como o faz e qual a sua estrutura • funcionamento do negócio: objetivos e estratégias • ambiente organizacional: valores e cultura da organização • recursos humanos: capacidades e relações (formais e informais) • estilo de gestão: centralizada, por delegação
+
+--- column-end ---
+ambiente externo: forças que afetam o negócio • fatores competitivos: preços, qualidade, prazos de entrega • conjuntura económica, social, política, legal, ecológica e tecnológica • relacionamento com fornecedores, clientes, competidores e entidades reguladoras
+
+
+=== end-multi-column
+
