@@ -78,12 +78,17 @@ ID: ID_2y9y
 Number of Columns: 2
 Largest Column: standard
 ```
-
-
+**Analista de Sistemas**
+- Papel multifacetado 
+- ajudam os utilizadores a determinar quais resultados eles precisam do sistema 
+- elaboram planos destinados a desenvolver os programas necessários para produzir esses resultados 
+- trabalham com os programadores para garantirem que as aplicações apropriadas são adquiridas, modificadas ou desenvolvidas.
 
 --- column-end ---
 
-
+**Perfil do Analista**
+- forte conhecedor do negócio da organização
+possuidor de conhecimentos técnicos adequadosgrande capacidade de relacionamento humano
 
 === end-multi-column
 
