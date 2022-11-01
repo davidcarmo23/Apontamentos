@@ -38,3 +38,7 @@
 	- têm a responsabilidade de chefia (são quem manda); 
 	- criam novos produtos/serviços e até recriam a organização de tempos a tempos; 
 	- devem orientar trabalhos criativos usando novo conhecimento e informação → os SI/TI têm um papel importante no redirecionamento da organização (ex: detetar tendências nas encomendas e orientar a produção nesse sentido)
+
+## Tipos de problemas a resolver
+- **Estruturados** -> operações ou transações, cujos processos de recuperação e controle de dados são repetitivos:
+- Facilmente automatizados; • Todos os dados relevantes estão disponíveis; • Necessitam de pouco julgamento ou avaliação humana; • ex: introdução de valores numéricos
