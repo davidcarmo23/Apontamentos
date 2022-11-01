@@ -127,4 +127,11 @@ Numa organização, as dinâmicas do conhecimento envolvem movimentos, trocas e 
 # Sistemas
 
 Conjunto de componentes inter-relacionados e inter-dependentes que formam um todo e que interagem para atingirem objetivos comuns
-## Ca
+## Características Principais
+![[Pasted image 20221101123951.png]]
+
+## Arquitetura Geral de um Sistema
+![[Pasted image 20221101124016.png]]
+
+Um sistema é composto por quatro funções básicas
+- **Input** > recolha
