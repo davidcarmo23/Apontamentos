@@ -97,3 +97,9 @@ Largest Column: standard
 ![[Pasted image 20221101155749.png]]
 
 ## Planeamento de SI: identificação dos sistemas necessários
+
+- **PSI** -> tarefa de gestão em que se define o modo como os SI/TI podem apoiar a organização a atingir os seus objetivos
+- o apoio dos SI/TI traduz-se na identificação dos impactos que podem causar na organização em termos do suporte à sua estratégia, nomeadamente na criação de vantagens competitivas sobre os concorrentes, melhorando: 
+	- a produtividade e a competitividade – ex: melhorando a eficiência/eficácia; 
+	- a capacidade de fazer face às forças que a afetam – ex: melhorando tempos de resposta
+- O PSI deverá estar integrado e *alinhado* com
