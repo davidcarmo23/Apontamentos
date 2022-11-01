@@ -158,3 +158,4 @@ Um sistema é composto por quatro funções básicas
 - **SI** -> entidade organizacional responsável pela recolha, tratamento, armazenamento e distribuição da informação relevante para a organização com o propósito de facilitar o planeamento, o controlo, a coordenação, a análise e a tomada de decisão ou ação em qualquer tipo de organização.
 
 - É composto por diversos subsistemas de natureza conceptual idêntica à daquele que integram(contabilidade, RH, produção...), mas com características específicas quanto à sua finalidade e justificação, quanto ao tipo de tecnologias utilizadas e quanto ao nível dos processos ou natureza das pessoas envolvidas
+
