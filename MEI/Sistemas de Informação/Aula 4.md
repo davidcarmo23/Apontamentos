@@ -105,4 +105,7 @@
 	- Vendas por região: Real vs Planeado; Análise da evolução dos custos; Controlo de Produção. 
 	- Aplicações: Eticadata, PHC, Primavera Software, SAP(Systems Applications and Products).
 
-## Tipos de SI : nível estratrégico - DSS (Decision-Support Systems)
+## Tipos de SI : nível estratégico - DSS (Decision-Support Systems)
+- Sistemas computacionais que possuem capacidades analíticas capazes de produzirem informações e contribuiem para o processo de tomada de decisão; 
+- Permitem a realização de cálculos, análises e simulações por métodos gráficos; 
+- Alimentam-se de dados internos e externos
