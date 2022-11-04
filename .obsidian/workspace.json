@@ -23,15 +23,12 @@
             "id": "9f096a64ac9090aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MEI/Aprendizagem Automática/Aula 5.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "full-calendar-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +139,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "db205aea99283467",
+  "active": "9f096a64ac9090aa",
   "lastOpenFiles": [
     "MEI/Aprendizagem Automática/Aula 5.md",
     "MEI/Aprendizagem Automática/Aula 4.md",
