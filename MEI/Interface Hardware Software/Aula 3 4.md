@@ -36,3 +36,8 @@
 ![[Pasted image 20221107162453.png]]
 
 ## Associação de resistências em paralelo
+![[Pasted image 20221107162516.png]]
+![[Pasted image 20221107162530.png]]
+
+## Elementos de Circuito - Resistências
+
