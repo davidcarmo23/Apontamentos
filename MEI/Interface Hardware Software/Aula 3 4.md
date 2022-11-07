@@ -32,3 +32,7 @@
 ## Associação de resistências em série
 ![[Pasted image 20221107162124.png]]
 
+## Divisor de tensão – potenciómetro/resistência variável
+![[Pasted image 20221107162453.png]]
+
+## Associação de resistências em paralelo
