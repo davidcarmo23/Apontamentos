@@ -45,3 +45,8 @@ A aprendizagem de modelos múltiplos (**ensemble learning**) é um processo que 
 - **Floresta Aleatória** -> calcular a média da previsão sobre uma coleção de árvores deduzidas usando um subconjunto de características selecionado aleatoriamente (classificação e regressão)
 
 ### Florestas Aleatórias
+- Variação do algoritmo de bagging
+- Ensemble criado a partir de árvores de decisão
+- A *diversidade* é garantida selecionando aleatoriamente, durante o processo de treino, para cada árvore gerada, um subconjunto das características originais.
+- Em *classificação*, cada árvore vota e a classe mais popular é devolvida. 
+- Em *regressão*, o resultado é a média das previsões de todos as árvores geradas
