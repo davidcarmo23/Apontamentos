@@ -26,3 +26,7 @@
 ![[Pasted image 20221107161943.png]]
 ![[Pasted image 20221107161956.png]]
 
+## Tecnologia through-hole e SMD (Surface-Mount Device)
+![[Pasted image 20221107162058.png]]
+
+## Associação de resistências em série
