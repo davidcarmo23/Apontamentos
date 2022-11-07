@@ -39,3 +39,6 @@ Os dados podem ter de ser adaptados para que seja possível utilizar um determin
 	- Utilizar uma constante global para preencher o valor em falta.
 	- •Utilizar a média do atributo para preencher o valor em falta
 	- Utilizar a média do atributo, para todas as amostras pertencentes à mesma classe, para preencher o valor em falta
+	- Utilizar o valor mais provável para preencher o valor em falta. Inferência de Bayes ou árvore de decisão •Identificar relações entre variáveis.
+	- Regressão linear, Regressão linear múltipla, Regressão não linear 
+	- Estimador de vizinhos mais próximos. Encontrar os k vizinhos mais próximos do ponto e preencher com o valor frequente ou o valor médio. Pode ser lento!
