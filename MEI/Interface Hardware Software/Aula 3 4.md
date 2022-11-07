@@ -30,3 +30,5 @@
 ![[Pasted image 20221107162058.png]]
 
 ## Associação de resistências em série
+![[Pasted image 20221107162124.png]]
+
