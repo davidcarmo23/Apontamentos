@@ -38,3 +38,5 @@ A aprendizagem de modelos múltiplos (**ensemble learning**) é um processo que 
 		- Média, média ponderada, soma, produto, máximo, mínimo, … 
 	- Votação 
 		- Maioria, maioria ponderada, ranking
+
+## Métodos Populares
