@@ -40,3 +40,6 @@ A aprendizagem de modelos múltiplos (**ensemble learning**) é um processo que 
 		- Maioria, maioria ponderada, ranking
 
 ## Métodos Populares
+- **Bagging** ->
+- **Boosting** ->
+- **Floresta Aleatória**
