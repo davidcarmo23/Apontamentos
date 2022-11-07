@@ -5,7 +5,7 @@
  **Componente Prática**
 *Apresentação Individual* -> 5 min (1 Valor) - FEITO
 *Apresentação Coletiva* -> 15min (2 Valores)
-	*Trabalho Individual* -> (data), (2 Valores);  FEITO 
+	*Trabalho Individual* -> (data), (2 Valores); - FEITO 
 		Ferramentas : Python, Scikit;
 	*Trabalho Coletivo* -> 20 de Dezembro, (7 Valores);   
 		 *Apresentação Coletiva* -> (2 Valores)
@@ -17,7 +17,7 @@ ___
  
 **Grupo 2**
  **Componente Prática**
-*TP1* ->  29 de Setembro (1 Valor)
+*TP1* ->  29 de Setembro (1 Valor) - FEITO
 *TP2* ->  24 de Novembro (5 Valores)
 *TP3* ->  05 de Janeiro (8 Valores)
 ___
@@ -26,7 +26,7 @@ ___
  *Frequência* -> 04 de Janeiro (8 Valores)
  
  **Componente Prática**
-*TP1* ->  21 de Outubro (4 Valores)
+*TP1* ->  21 de Outubro (4 Valores) - FEITO
 *TP2* ->  9 de Dezembro (8 Valores)
 ___
 ## Sistemas de Gestão de Base de Dados
@@ -45,8 +45,8 @@ ___
  *Frequência* -> 14 de Dezembro (6 Valores)
  
  **Componente Prática**
-*TP1* ->  30 de Setembro (1 Valor)
-*TP2* ->  19 de Outubro (3 Valores)
+*TP1* ->  30 de Setembro (1 Valor) - FEITO
+*TP2* ->  19 de Outubro (3 Valores) - FEITO
 *TP3* ->  16 de Novembro (4 Valores)
 *TP4* ->  04 de Janeiro (6 Valores)
 
