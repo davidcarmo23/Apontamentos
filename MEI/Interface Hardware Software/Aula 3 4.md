@@ -22,4 +22,7 @@
 ## Tabela Prática
 ![[Pasted image 20221107161843.png]]
 
-# Eleme
+# Elementos de Circuito -> Resistências 
+![[Pasted image 20221107161943.png]]
+![[Pasted image 20221107161956.png]]
+
