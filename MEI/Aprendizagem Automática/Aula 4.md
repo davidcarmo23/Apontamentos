@@ -8,3 +8,12 @@
 ### Como escolher o atributo preditor no nó de decisão ?
 
 Vários métodos: Redução de Entropia, Gini, Desvio Padrão... •Visando um ganho de informação incremental
+
+## Modelos Múltiplos
+
+Não existe um algoritmo que seja o melhor para todos os problemas. 
+	• No free lunch theorem. 
+• Algoritmos diferentes:
+	- Diferentes representações 
+	- Diferentes funções de custo 
+	- Diferente exploração/prospeção do espaço de procura
