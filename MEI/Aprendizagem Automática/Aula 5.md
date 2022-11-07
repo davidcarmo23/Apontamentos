@@ -34,3 +34,8 @@ Os dados podem ter de ser adaptados para que seja possível utilizar um determin
 	- Para métodos baseados na distância, ajuda a prevenir que atributos com grande amplitude de valores dominem os demais 
 	- normalização min-max 
 	- padronização z-score (pontuação padrão)
+
+- **Imputação**
+	- Utilizar uma constante global para preencher o valor em falta.
+	- •Utilizar a média do atributo para preencher o valor em falta
+	- Utilizar a média do atributo, para todas as amostras pertencentes à mesma classe, para preencher o valor em falta
