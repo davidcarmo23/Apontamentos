@@ -21,3 +21,8 @@ Os dados podem ter de ser adaptados para que seja possível utilizar um determin
 - **Limpeza**
 	- Outliers (erros de medição, má recolha de dados, ou condições de operação não consideradas ao recolher os dados) podem prejudicar a aprendizagem e ser fonte de erros
 - Como Identificar?
+	- padronização z-score (pontuação padrão), visualização (boxplot, scatter plot,...), métodos estatísticos (e.g. em modelos lineares pontos com alto erro residual), "classificação de uma só classe" (OCC, ie. treinar um modelo nos dados "normais", e depois prever se os novos dados recolhidos são normais ou uma anomalia)
+
+- **Outliers** que fazer?
+	- Nada (resistir à tentação de apagar, podem ser indicadores muito úteis, e.g. fraude bancária)
+	- 
