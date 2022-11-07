@@ -41,3 +41,9 @@
 
 ## Elementos de Circuito - Resistências
 
+![[Pasted image 20221107162617.png]]
+
+## Condensadores
+![[Pasted image 20221107162632.png]]
+
+## Condensadores Carga e descarga -> Regime transitório
