@@ -15,3 +15,11 @@
 - Em eletrotecnia utiliza-se o Watt (W) para unidade de potência elétrica e o Watt-hora (Wh) como unidade de energia. 
 - A potência de um recetor está relacionada com a sua resistência (R), com a corrente (I) que o percorre e a tensão (U) aos seus terminais, da seguinte forma: 
 	- **P = U * I = R * I 2 = U2 / R [W] (lei de Ohm: U = R * I)**
+
+- Estas relações são úteis, por exemplo, para saber qual a corrente que é consumida por um recetor de uma dada potência e uma dada tensão nominais, ou para saber que potência é consumida por uma resistência, quando se aplica uma dada tensão, etc. 
+- Quanto maior a potência de um recetor elétrico, maior capacidade de produzir trabalho ele terá, mas também maior quantidade de energia elétrica ele consumirá.
+
+## Tabela Prática
+![[Pasted image 20221107161843.png]]
+
+# Eleme
