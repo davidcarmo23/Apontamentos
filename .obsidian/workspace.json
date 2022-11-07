@@ -11,8 +11,12 @@
             "id": "9f18ae20571d02f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MEI/Aprendizagem Automática/Aula 4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -72,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MEI/Aprendizagem Automática/Aula 4.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MEI/Aprendizagem Automática/Aula 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,15 +131,15 @@
   },
   "active": "9f18ae20571d02f1",
   "lastOpenFiles": [
-    "MEI/Datas de Avaliação.md",
-    "MEI/Aprendizagem Automática/Aula 5.md",
-    "MEI/Aprendizagem Automática/Aula 4.md",
     "MEI/Aprendizagem Automática/Aula 3.md",
+    "MEI/Aprendizagem Automática/Aula 4.md",
+    "MEI/Aprendizagem Automática/Aula 5.md",
+    "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md",
+    "MEI/Sistemas de Gestão de Base de Dados/Aula 3.md",
+    "MEI/Sistemas de Gestão de Base de Dados/Aula 4.md",
+    "MEI/Datas de Avaliação.md",
     "MEI/Aprendizagem Automática/Aula 2.md",
     "MEI/Sistemas de Informação/Prints/Pasted image 20221101162859.png",
-    "MEI/Sistemas de Informação/Prints/Pasted image 20221101162647.png",
-    "MEI/Sistemas de Informação/Aula 5.md",
-    "Untitled 2.md",
-    "MEI/Sistemas de Informação/Prints/Pasted image 20221101112645.png"
+    "MEI/Sistemas de Informação/Prints/Pasted image 20221101162647.png"
   ]
 }
