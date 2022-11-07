@@ -4,5 +4,5 @@
 	- **Viés** (Bias) -> Taxa de erro do algoritmo no conjunto de treino
 	- **Variância** (Variance) -> quão pior é a taxa de erro no algoritmo no conjunto de teste
 - Associados a estas duas fontes de erro há dois grandes problemas que podem ser exibidos pelos classificadores
-	- **Overfitting** -> Sobreajuste. Erro de treino muito baixo, mas não consegue generalizar para o conjunto de teste. Alto viés, baixa variância.
-	- **Underfitting** -> Ajuste Deficitário. Erro do conjunto de teste apenas um pouco maior que o do treino que é muito assinalável. Alto 
+	- **Overfitting** -> Sobreajuste. Erro de treino muito baixo, mas não consegue generalizar para o conjunto de teste. Baixo viés, alta variância.
+	- **Underfitting** -> Ajuste Deficitário. Erro do conjunto de teste apenas um pouco maior que o do treino que é muito assinalável. Alto viés, Baixa variância.
