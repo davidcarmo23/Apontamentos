@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3a55735b27df072e",
+        "id": "fae01626ec95a9b9",
         "type": "tabs",
         "children": [
           {
-            "id": "9f096a64ac9090aa",
+            "id": "9f18ae20571d02f1",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "6c80b1b88af750d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MEI/Datas de Avaliação.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,9 +72,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MEI/Datas de Avaliação.md"
-              }
+              "state": {}
             }
           },
           {
@@ -112,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Datas de Avaliação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +122,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6c80b1b88af750d6",
+  "active": "9f18ae20571d02f1",
   "lastOpenFiles": [
+    "MEI/Datas de Avaliação.md",
     "MEI/Aprendizagem Automática/Aula 5.md",
     "MEI/Aprendizagem Automática/Aula 4.md",
     "MEI/Aprendizagem Automática/Aula 3.md",
@@ -148,7 +133,6 @@
     "MEI/Sistemas de Informação/Prints/Pasted image 20221101162647.png",
     "MEI/Sistemas de Informação/Aula 5.md",
     "Untitled 2.md",
-    "MEI/Sistemas de Informação/Prints/Pasted image 20221101112645.png",
-    "MEI/Qualidade de Software/Aula 5.md"
+    "MEI/Sistemas de Informação/Prints/Pasted image 20221101112645.png"
   ]
 }
