@@ -47,3 +47,11 @@
 ![[Pasted image 20221107162632.png]]
 
 ## Condensadores Carga e descarga -> Regime transitório
+![[Pasted image 20221107162716.png]]
+![[Pasted image 20221107162733.png]]
+
+## Condensadores Associações Série-Paralelo
+
+![[Pasted image 20221107162801.png]]
+
+## Eletromagnetismo - Relés
