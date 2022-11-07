@@ -14,8 +14,21 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "6c80b1b88af750d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MEI/Datas de Avaliação.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5036334991455,
-    "collapsed": true
+    "width": 292.5036334991455
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -74,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Aprendizagem Automática/Aula 4.md"
+                "file": "MEI/Datas de Avaliação.md"
               }
             }
           },
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Aprendizagem Automática/Aula 4.md",
+                "file": "MEI/Datas de Avaliação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9f096a64ac9090aa",
+  "active": "6c80b1b88af750d6",
   "lastOpenFiles": [
     "MEI/Aprendizagem Automática/Aula 5.md",
     "MEI/Aprendizagem Automática/Aula 4.md",
