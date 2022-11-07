@@ -25,4 +25,12 @@ Os dados podem ter de ser adaptados para que seja possível utilizar um determin
 
 - **Outliers** que fazer?
 	- Nada (resistir à tentação de apagar, podem ser indicadores muito úteis, e.g. fraude bancária)
-	- 
+	- Impor limites (ou eliminar se manifestamente errados)
+	- Discretização (dividir o âmbito de um atributo contínuo em intervalos)
+		- Alguns métodos de aprendizagem requerem valores discretos, por exemplo, a maioria das versões do Naïve Bayes
+		- Redução do tamanho dos dados para uma análise mais focada
+
+- **Normalização**
+	- Para métodos baseados na distância, ajuda a prevenir que atributos com grande amplitude de valores dominem os demais 
+	- normalização min-max 
+	- padronização z-score (pontuação padrão)
