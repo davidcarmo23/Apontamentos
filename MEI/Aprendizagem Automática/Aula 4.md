@@ -40,6 +40,8 @@ A aprendizagem de modelos múltiplos (**ensemble learning**) é um processo que 
 		- Maioria, maioria ponderada, ranking
 
 ## Métodos Populares
-- **Bagging** -> 
-- **Boosting** ->
-- **Floresta Aleatória** ->
+- **Bagging** -> Calcular a média da predição sobre uma coleção de preditores instáveis gerados a partir de amostras aleatórias com reposição (classificação e regressão)
+- **Boosting** -> voto ponderado com uma coleção de classificadores que foram treinados sequencialmente a partir de conjuntos de treino onde é dada mais peso a instâncias classificadas erradamente (classificação) pelos classificadores anteriores. Foco nos exemplos mais difíceis.
+- **Floresta Aleatória** -> calcular a média da previsão sobre uma coleção de árvores deduzidas usando um subconjunto de características selecionado aleatoriamente (classificação e regressão)
+
+### Florestas Aleatórias
