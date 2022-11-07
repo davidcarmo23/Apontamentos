@@ -9,3 +9,6 @@
 ![[Pasted image 20221107153736.png]]
 
 ## Preparação de dados
+Os dados podem ter de ser adaptados para que seja possível utilizar um determinado modelo.
+
+- Determine os dados críticos de que necessita para a sua análise. Recolha os dados de que necessita, depois ordene-os e organize-os. Identifique valores duplicados ou irrelevantes e remova-os. Pesquise os valores em falta e preencha-os. Identifique os valores aberrantes e remova-os
