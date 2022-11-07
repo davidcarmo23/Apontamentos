@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MEI/Interface Hardware Software/Aula 2.md",
+                "file": "MEI/Interface Hardware Software/Aula 3 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5036334991455
+    "width": 292.5036334991455,
+    "collapsed": true
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -77,7 +78,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MEI/Interface Hardware Software/Aula 2.md"
+                "file": "MEI/Interface Hardware Software/Aula 3 4.md"
               }
             }
           },
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Interface Hardware Software/Aula 2.md",
+                "file": "MEI/Interface Hardware Software/Aula 3 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,11 +131,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8efc7ca55f143b3",
+  "active": "70351f0ca651e72c",
   "lastOpenFiles": [
-    "MEI/Interface Hardware Software/Aula 3.md",
-    "MEI/Interface Hardware Software/Aula 4.md",
     "MEI/Interface Hardware Software/Aula 2.md",
+    "MEI/Interface Hardware Software/Aula 3 4.md",
+    "MEI/Interface Hardware Software/Aula 4.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 4.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 3.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md",
