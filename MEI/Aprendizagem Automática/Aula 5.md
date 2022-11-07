@@ -65,4 +65,16 @@ Os dados podem ter de ser adaptados para que seja possível utilizar um determin
 	- Semi-supervised learning 
 	- Image search engines 
 	- Image segmentation
-- 
+- **Homogeneity**: Elements within a cluster are close to each other 
+- **Separation**: Elements in different clusters are further apart from each other
+	- …clustering is not an easy task!
+
+### Clustering techniques
+- **Hierarchical**
+	- Organize elements into a tree, leaves represent genes and the length of the pathes between leaves represents the distances between genes. Similar genes lie within the same subtrees
+- **Agglomerative**
+	- Start with every element in its own cluster, and iteratively join clusters together 
+- **Divisive**
+	- Start with one cluster and iteratively divide it into smaller clusters 
+- **Partitional**
+	- Partitions the elements into a specified number of groups
