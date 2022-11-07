@@ -28,7 +28,13 @@ A aprendizagem de modelos múltiplos (**ensemble learning**) é um processo que 
 - A combinação de modelos aumenta a complexidade, Em compensação e exatidão pode aumentar
 - Violação do princípio da navalha de Ockham (Ockham’s razor: simplicity leads to greater accuracy)
 
-- Podemos criar ensembles :
+- Podemos *criar* ensembles :
 	- Manipulando o (sub) conjunto de características
 	- Aplicando diferentes processos de (sub) amostragem ao conjunto de treino e sintetizando um modelo para cada um deles
-	- 
+	- Manipulando o conjunto de (hiper) parâmetros de cada modelo
+	- Selecionando diferentes algoritmos
+- Podemos *combinar* os diferentes ensembles por:
+	- Métodos algébricos 
+		- Média, média ponderada, soma, produto, máximo, mínimo, … 
+	- Votação 
+		- Maioria, maioria ponderada, ranking
