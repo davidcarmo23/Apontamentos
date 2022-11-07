@@ -17,3 +17,11 @@ Não existe um algoritmo que seja o melhor para todos os problemas.
 	- Diferentes representações 
 	- Diferentes funções de custo 
 	- Diferente exploração/prospeção do espaço de procura
+
+A aprendizagem de modelos múltiplos (**ensemble learning**) é um processo que usa um conjunto de modelos, cada um deles obtido pela aplicação de um processo de aprendizagem para um determinado problema. Estes modelos (conjunto) são integrados de alguma forma para obter a previsão final.
+
+- Utilizados para :
+	- Classificação;
+	- Regressão;
+	- Agrupamento;
+- 
