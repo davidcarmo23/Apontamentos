@@ -55,3 +55,12 @@
 ![[Pasted image 20221107162801.png]]
 
 ## Eletromagnetismo - Relés
+![[Pasted image 20221107162824.png]]
+
+## SSR - Solid State Relay (relés de estado sólido)
+![[Pasted image 20221107162853.png]]
+
+## Medições Osciloscópio
+![[Pasted image 20221107162910.png]]
+
+## 
