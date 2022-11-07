@@ -51,5 +51,6 @@ Os dados podem ter de ser adaptados para que seja possível utilizar um determin
 - Critérios de validade de agrupamentos
 
 ### Clustering
-- Processo de procura por um conjunto fini
+- Processo de procura por um conjunto finito e discreto de estruturas de dados dentro de um conjunto variado finito de dados.
+- Objetivo -> Partição dos dados em grupos em que os dados dentro são semelhantes entre si e diferentes de outros grupos
 
