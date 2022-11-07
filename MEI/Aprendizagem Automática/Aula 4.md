@@ -24,4 +24,5 @@ A aprendizagem de modelos múltiplos (**ensemble learning**) é um processo que 
 	- Classificação;
 	- Regressão;
 	- Agrupamento;
-- 
+- A combinação de modelos aumenta a complexidade, Em compensação e exatidão pode aumentar
+- Violação do princípio da navalha de Ockham (Ockham’s razor: simplicity leads to greater accuracy)
