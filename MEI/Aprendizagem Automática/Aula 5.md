@@ -53,5 +53,16 @@ Os dados podem ter de ser adaptados para que seja possível utilizar um determin
 ### Clustering
 - Processo de procura por um conjunto finito e discreto de estruturas de dados dentro de um conjunto variado finito de dados.
 - Objetivo -> Partição dos dados em grupos em que os dados dentro são semelhantes entre si e diferentes de outros grupos.
-- 
+- Two distinct, but complementary, facets are enclosed in this unsupervised learning task: 
+	- the elicitation of a model of the overall structure of the data 
+	- the pursuit for a manageable representation of a collection of objects into homogeneous groups
 
+- Serve para :
+	- Customer segmentation 
+	- Focused data analysis 
+	- Dimensionality reduction technique 
+	- Anomaly detection (outlier detection) 
+	- Semi-supervised learning 
+	- Image search engines 
+	- Image segmentation
+- 
