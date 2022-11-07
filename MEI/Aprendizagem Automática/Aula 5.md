@@ -45,4 +45,11 @@ Os dados podem ter de ser adaptados para que seja possível utilizar um determin
 
 ## Aprendizagem não Supervisionada
 
-- 
+- Agrupamento por partição
+- Agrupamento hierárquico
+- Agrupamento difuso
+- Critérios de validade de agrupamentos
+
+### Clustering
+- Processo de procura por um conjunto fini
+
