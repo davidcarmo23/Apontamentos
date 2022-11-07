@@ -21,8 +21,14 @@ Não existe um algoritmo que seja o melhor para todos os problemas.
 A aprendizagem de modelos múltiplos (**ensemble learning**) é um processo que usa um conjunto de modelos, cada um deles obtido pela aplicação de um processo de aprendizagem para um determinado problema. Estes modelos (conjunto) são integrados de alguma forma para obter a previsão final.
 
 - Utilizados para :
-	- Classificação;
-	- Regressão;
-	- Agrupamento;
+	- *Classificação*;
+	- *Regressão*;
+	- *Agrupamento*;
+
 - A combinação de modelos aumenta a complexidade, Em compensação e exatidão pode aumentar
 - Violação do princípio da navalha de Ockham (Ockham’s razor: simplicity leads to greater accuracy)
+
+- Podemos criar ensembles :
+	- Manipulando o (sub) conjunto de características
+	- Aplicando diferentes processos de (sub) amostragem ao conjunto de treino e sintetizando um modelo para cada um deles
+	- 
