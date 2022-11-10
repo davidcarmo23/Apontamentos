@@ -14,4 +14,5 @@ começa por uma descrição começa por uma descrição abstrata e, por isso, ge
 ![[Pasted image 20221110191029.png]]
 **Nível externo  (utilizador)**: descrição  personalizada e parcial dos dados.
 Cada **perspectiva (view) externa** inclui as entidades , atributos e relações que são relevantes  para o utilizador ou departamento em causa
-Nível conceptual (DBA): descrição comunitária/total dos dados. Descreve *QUE* dados e suas relações estão armazenados na BD.
+**Nível conceptual (DBA)**: descrição comunitária/total dos dados. Descreve *QUE* dados e suas relações estão armazenados na BD.
+**Nível interno (sistema)**: Representação física da BD. Descrição Descrição de *COMO* os dados estão armazenados (estruturas de dados e ficheiros usados ao mais baixo-nível).
