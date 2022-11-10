@@ -63,4 +63,5 @@
 ## Medições Osciloscópio
 ![[Pasted image 20221107162910.png]]
 
-## 
+## Osciloscópios virtuais
+![[Pasted image 20221107162925.png]]
