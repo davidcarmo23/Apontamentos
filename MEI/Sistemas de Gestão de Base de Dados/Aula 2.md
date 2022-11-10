@@ -10,5 +10,7 @@ começa por uma descrição começa por uma descrição abstrata e, por isso, ge
 - Atributos 
 - Relações
 ## Níveis de abstração de dados
-Nível externo externo (utilizador): descrição  personalizada personalizada e parcial dos dados. os dados.
-Cada **perspectiva (view) externa** inclui as entidades , atributos e relações que são relevantes  para o utilizador ou departamento em causa departamento em causa
+
+![[Pasted image 20221110191029.png]]
+**Nível externo  (utilizador)**: descrição  personalizada e parcial dos dados.
+Cada **perspectiva (view) externa** inclui as entidades , atributos e relações que são relevantes  para o utilizador ou departamento em causa
