@@ -43,4 +43,20 @@ invariância do esquema conceptual externos a quaisquer alterações no esquema 
 ## Componentes de um DBMS
 ![[Pasted image 20221110191915.png]]
 
-## Topol
+## Topologias de Rede para DBMS
+![[Pasted image 20221110191943.png]]
+
+```start-multi-column
+ID: ID_8ypp
+Number of Columns: 3
+Largest Column: standard
+```
+
+![[Pasted image 20221110192022.png]]
+
+--- column-end ---
+
+
+
+=== end-multi-column
+
