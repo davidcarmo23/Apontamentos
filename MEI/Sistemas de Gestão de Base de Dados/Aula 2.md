@@ -46,17 +46,11 @@ invariância do esquema conceptual externos a quaisquer alterações no esquema 
 ## Topologias de Rede para DBMS
 ![[Pasted image 20221110191943.png]]
 
-```start-multi-column
-ID: ID_8ypp
-Number of Columns: 2
-Largest Column: standard
-```
-
+### Teleprocessamento
 ![[Pasted image 20221110192022.png]]
 
---- column-end ---
-
+### Ficheiro Servidor
 ![[Pasted image 20221110192049.png]]
 
-=== end-multi-column
-
+### Cliente Servidor
+![[Pasted image 20221110192103.png]]
