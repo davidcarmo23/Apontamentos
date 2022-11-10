@@ -36,3 +36,11 @@ invariância do esquema conceptual externos a quaisquer alterações no esquema 
 
 ## Modelos de Dados
 ![[Pasted image 20221110191827.png]]
+
+## Funções/Serviços de um DBMS 
+![[Pasted image 20221110191853.png]]
+
+## Componentes de um DBMS
+![[Pasted image 20221110191915.png]]
+
+## Topol
