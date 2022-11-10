@@ -21,4 +21,4 @@ Cada **perspetiva (view) externa** inclui as entidades , atributos e relações 
 ![[Pasted image 20221110191312.png]]
 
 ## Independência lógica dos dados
-Invari
+invariância dos sub-esquemas externos a quaisquer alterações no esquema conceptual.
