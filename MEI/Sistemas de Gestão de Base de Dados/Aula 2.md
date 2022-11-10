@@ -48,7 +48,7 @@ invariância do esquema conceptual externos a quaisquer alterações no esquema 
 
 ```start-multi-column
 ID: ID_8ypp
-Number of Columns: 3
+Number of Columns: 2
 Largest Column: standard
 ```
 
@@ -56,7 +56,7 @@ Largest Column: standard
 
 --- column-end ---
 
-
+![[Pasted image 20221110192049.png]]
 
 === end-multi-column
 
