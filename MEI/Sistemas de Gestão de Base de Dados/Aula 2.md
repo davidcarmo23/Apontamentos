@@ -26,3 +26,6 @@ invariância dos sub-esquemas externos a quaisquer alterações no esquema conce
 invariância do esquema conceptual externos a quaisquer alterações no esquema interno
 
 ## DDL Data Definition Language
+![[Pasted image 20221110191720.png]]
+
+## DML Data Manupulation Language
