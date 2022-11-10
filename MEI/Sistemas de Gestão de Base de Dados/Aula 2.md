@@ -28,4 +28,11 @@ invariância do esquema conceptual externos a quaisquer alterações no esquema 
 ## DDL Data Definition Language
 ![[Pasted image 20221110191720.png]]
 
-## DML Data Manupulation Language
+## DML Data Manipulation Language
+![[Pasted image 20221110191747.png]]
+
+## SQL Structured Query Language
+![[Pasted image 20221110191810.png]]
+
+## Modelos de Dados
+![[Pasted image 20221110191827.png]]
