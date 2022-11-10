@@ -11,8 +11,12 @@
             "id": "96e1ff16a762a9ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MEI/Sistemas de Gestão de Base de Dados/Aula 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -72,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MEI/Sistemas de Gestão de Base de Dados/Aula 3.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MEI/Sistemas de Gestão de Base de Dados/Aula 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +132,7 @@
   },
   "active": "96e1ff16a762a9ec",
   "lastOpenFiles": [
+    "MEI/Sistemas de Gestão de Base de Dados/Prints/Pasted image 20221110192103.png",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md",
     "MEI/Datas de Avaliação.md",
     "MEI/Interface Hardware Software/Prints/Pasted image 20221107161843.png",
@@ -133,7 +141,6 @@
     "MEI/Interface Hardware Software/Aula 2.md",
     "MEI/Interface Hardware Software/Aula 4.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 4.md",
-    "MEI/Sistemas de Gestão de Base de Dados/Aula 3.md",
-    "MEI/Aprendizagem Automática/Aula 5.md"
+    "MEI/Sistemas de Gestão de Base de Dados/Aula 3.md"
   ]
 }
