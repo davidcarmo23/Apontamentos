@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "473715dc8c1931a3",
+        "id": "d025a3544f2e9ec2",
         "type": "tabs",
         "children": [
           {
-            "id": "05f8650bb7a7f42d",
+            "id": "96e1ff16a762a9ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5036334991455,
-    "collapsed": true
+    "width": 292.5036334991455
   },
   "right": {
     "id": "d1dc668eed1707b4",
@@ -77,9 +72,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,8 +123,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05f8650bb7a7f42d",
+  "active": "96e1ff16a762a9ec",
   "lastOpenFiles": [
+    "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md",
     "MEI/Datas de Avaliação.md",
     "MEI/Interface Hardware Software/Prints/Pasted image 20221107161843.png",
     "MEI/Interface Hardware Software/Aula 3 4.md",
@@ -141,7 +134,6 @@
     "MEI/Interface Hardware Software/Aula 4.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 4.md",
     "MEI/Sistemas de Gestão de Base de Dados/Aula 3.md",
-    "MEI/Sistemas de Gestão de Base de Dados/Aula 2.md",
     "MEI/Aprendizagem Automática/Aula 5.md"
   ]
 }
