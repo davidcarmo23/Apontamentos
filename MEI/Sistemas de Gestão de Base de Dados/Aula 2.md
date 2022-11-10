@@ -23,4 +23,6 @@ Cada **perspetiva (view) externa** inclui as entidades , atributos e relações 
 ## Independência lógica dos dados
 invariância dos sub-esquemas externos a quaisquer alterações no esquema conceptual.
 ## Independência física dos dados
-invariância do esquema conceptual externos a quaisquer alterações no esquema inte esquema interno
+invariância do esquema conceptual externos a quaisquer alterações no esquema interno
+
+## DDL Data Definition Language
