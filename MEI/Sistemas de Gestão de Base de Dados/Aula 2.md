@@ -2,4 +2,7 @@
 ![[Pasted image 20221111102538.png]]
 
 ## SQL em aplicações
-## Desajustamento de Tipos de Dados ( Desajustamento de Tipos de Dados (Impedance Mismatch mpedance Mismatch).
+![[Pasted image 20221111102640.png]]
+## Desajustamento de Tipos de Dados (Impedance Mismatch).
+![[Pasted image 20221111102649.png]]
+
