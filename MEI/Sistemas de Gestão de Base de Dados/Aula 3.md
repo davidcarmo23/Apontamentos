@@ -20,3 +20,12 @@
 ![[Pasted image 20221111103646.png]]
 
 ### Organização das páginas em disco
+![[Pasted image 20221111103703.png]]
+
+## Gestão de espaço em disco
+![[Pasted image 20221111103721.png]]
+
+## Gestão de buffers num DBMS
+![[Pasted image 20221111103740.png]]
+
+
