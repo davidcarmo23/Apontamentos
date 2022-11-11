@@ -21,3 +21,15 @@
 
 ## Embedded SQL: cursores
 ![[Pasted image 20221111103050.png]]
+
+## 2ª Solução não-proprietária: SQL modules
+
+![[Pasted image 20221111103120.png]]
+
+## Arquitectura JDBC
+![[Pasted image 20221111103137.png]]
+
+## Submissão duma inquirição SQL via JDBC
+![[Pasted image 20221111103159.png]]
+
+##
