@@ -11,3 +11,7 @@
 ![[Pasted image 20221111102743.png]]
 
 ## Soluções proprietárias (soluções dependentes do proprietário de DBMS)
+![[Pasted image 20221111102816.png]]
+
+## Soluções não-proprietárias e baseadas em SQL
+![[Pasted image 20221111102837.png]]
