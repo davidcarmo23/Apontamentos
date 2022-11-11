@@ -55,3 +55,12 @@
 
 ## Índices (uma antevisão furtiva)
 ![[Pasted image 20221111104100.png]]
+
+## Formatos de registos em páginas
+![[Pasted image 20221111104117.png]]
+
+### Registos de Tamanho Fixo
+![[Pasted image 20221111104139.png]]
+
+### registos de tamanho variável
+![[Pasted image 20221111104157.png]]
