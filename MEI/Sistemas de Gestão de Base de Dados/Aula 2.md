@@ -15,3 +15,9 @@
 
 ## Soluções não-proprietárias e baseadas em SQL
 ![[Pasted image 20221111102837.png]]
+
+## 1ª Solução não-proprietária: Embedded SQL
+![[Pasted image 20221111103019.png]]
+
+## Embedded SQL: cursores
+![[Pasted image 20221111103050.png]]
