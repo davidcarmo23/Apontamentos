@@ -1,3 +1,4 @@
+
 ## Porquê aceder a bases de dados através de linguagens de programação de alto-nível?
 ![[Pasted image 20221111102538.png]]
 
@@ -32,4 +33,8 @@
 ## Submissão duma inquirição SQL via JDBC
 ![[Pasted image 20221111103159.png]]
 
-##
+## Execução duma instrução SQL: PreparedStatement
+![[Pasted image 20221111103221.png]]
+
+## 3ª Solução não-proprietária: SQL call-level interfaces
+![[Pasted image 20221111103253.png]]
