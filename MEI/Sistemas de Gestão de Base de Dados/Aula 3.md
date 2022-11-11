@@ -1,0 +1,1 @@
+## Estrutura simplificada de um DBMS
