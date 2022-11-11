@@ -27,5 +27,13 @@
 
 ## Gestão de buffers num DBMS
 ![[Pasted image 20221111103740.png]]
+![[Pasted image 20221111103804.png]]
+![[Pasted image 20221111103819.png]]
+![[Pasted image 20221111103830.png]]
 
+## Políticas de substituição nos buffers
+![[Pasted image 20221111103845.png]]
+
+## Política de substituição LRU
+![[Pasted image 20221111103859.png]]
 
