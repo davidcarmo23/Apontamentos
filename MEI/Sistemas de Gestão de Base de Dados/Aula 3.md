@@ -9,3 +9,14 @@
 
 ## Hierarquias de memória
 ![[Pasted image 20221111103559.png]]
+
+## Disco
+![[Pasted image 20221111103610.png]]
+
+### Componentes dum Disco
+![[Pasted image 20221111103628.png]]
+
+### Acesso a uma página em disco
+![[Pasted image 20221111103646.png]]
+
+### Organização das páginas em disco
