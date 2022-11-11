@@ -47,3 +47,11 @@
 ## Ficheiros não-ordenados (heaps)
 ![[Pasted image 20221111103959.png]]
 
+## Heap implementado como uma lista
+![[Pasted image 20221111104027.png]]
+
+## Heap implementado como uma diretoria de páginas
+![[Pasted image 20221111104044.png]]
+
+## Índices (uma antevisão furtiva)
+![[Pasted image 20221111104100.png]]
