@@ -36,4 +36,14 @@
 
 ## Política de substituição LRU
 ![[Pasted image 20221111103859.png]]
+![[Pasted image 20221111103907.png]]
+
+## DBMS versus sistema de ficheiros do OS
+![[Pasted image 20221111103928.png]]
+
+## Ficheiros de registos (records)
+![[Pasted image 20221111103943.png]]
+
+## Ficheiros não-ordenados (heaps)
+![[Pasted image 20221111103959.png]]
 
