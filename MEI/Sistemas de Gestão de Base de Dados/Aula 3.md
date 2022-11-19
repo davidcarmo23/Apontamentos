@@ -64,3 +64,6 @@
 
 ### registos de tamanho variável
 ![[Pasted image 20221111104157.png]]
+
+## Catálogos do sistema
+![[Pasted image 20221111104212.png]]
