@@ -9,7 +9,7 @@ começa por uma descrição começa por uma descrição abstrata e, por isso, ge
 - Entidades 
 - Atributos 
 - Relações
-## Níveis de abstração de dados
+## Níveis de abstração de dados (ANSI)
 
 ![[Pasted image 20221110191029.png]]
 **Nível externo  (utilizador)**: descrição  personalizada e parcial dos dados.
