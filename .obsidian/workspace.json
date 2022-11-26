@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d025a3544f2e9ec2",
+        "id": "65ab0705c4751fb7",
         "type": "tabs",
         "children": [
           {
-            "id": "96e1ff16a762a9ec",
+            "id": "7076a826ce45c347",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "MEI/Sistemas de Gestão de Base de Dados/Prints/Pasted image 20221111104212.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
