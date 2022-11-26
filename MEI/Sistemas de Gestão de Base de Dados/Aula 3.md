@@ -67,3 +67,4 @@
 
 ## Catálogos do sistema
 ![[Pasted image 20221111104212.png]]
+# Write Ahead Log
